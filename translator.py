@@ -73,25 +73,35 @@ def _validate_result(item: dict) -> bool:
 
 
 def _translate_batch_with_retry(client: LLMClient,
-                                batch: list[dict]) -> list[dict]:
+                                batch: list[dict],
+                                batch_idx: int = 0,
+                                total: int = 0) -> list[dict]:
     """Call LLM for a batch, retrying on failure with exponential backoff."""
     last_error = None
+    tag_preview = ", ".join(c["tag"] for c in batch[:3])
     for attempt in range(1, MAX_RETRIES + 1):
         try:
+            if attempt > 1:
+                print(f"  [batch {batch_idx}/{total}] Attempt {attempt}/{MAX_RETRIES}...",
+                      flush=True)
             results = client.translate_batch(batch)
             # Validate each result
             for r in results:
                 if not _validate_result(r):
                     raise ValueError(f"Invalid result format: {r}")
+            print(f"  [batch {batch_idx}/{total}] OK — {len(results)} tags translated",
+                  flush=True)
             return results
         except Exception as e:
             last_error = e
             if attempt < MAX_RETRIES:
                 wait = RETRY_BACKOFF ** attempt
-                print(f"  Retry {attempt}/{MAX_RETRIES} after {wait:.1f}s: {e}")
+                print(f"  [batch {batch_idx}/{total}] FAIL (attempt {attempt}): {e}", flush=True)
+                print(f"  [batch {batch_idx}/{total}] Retrying in {wait:.1f}s...", flush=True)
                 time.sleep(wait)
     raise RuntimeError(
-        f"Batch failed after {MAX_RETRIES} retries. Last error: {last_error}"
+        f"Batch {batch_idx} failed after {MAX_RETRIES} retries. Tags: {tag_preview}... "
+        f"Last error: {last_error}"
     )
 
 
@@ -122,24 +132,32 @@ def translate_all(contexts: list[dict]) -> dict[str, dict]:
         return cache
 
     client = LLMClient()
+    print(f"[translator] LLM model: {client.model} | batch_size={BATCH_SIZE} | "
+          f"concurrency={MAX_CONCURRENCY} | retries={MAX_RETRIES}", flush=True)
     failed_batches = progress.get("failed_batches", [])
 
+    t_start = time.time()
     with ThreadPoolExecutor(max_workers=MAX_CONCURRENCY) as pool:
         future_to_batch = {}
         for i, batch in enumerate(batches):
+            batch_idx = i + 1
             # Check if this batch was previously failed
             batch_key = ",".join(c["tag"] for c in batch[:3])
             if batch_key in failed_batches:
-                print(f"  Skipping previously failed batch {i + 1}")
+                print(f"  [batch {batch_idx}/{len(batches)}] SKIP (previously failed)",
+                      flush=True)
                 continue
 
-            f = pool.submit(_translate_batch_with_retry, client, batch)
-            future_to_batch[f] = (i, batch)
+            f = pool.submit(_translate_batch_with_retry, client, batch,
+                            batch_idx, len(batches))
+            future_to_batch[f] = (i, batch, batch_idx)
+            print(f"  [batch {batch_idx}/{len(batches)}] Submitted ({len(batch)} tags)",
+                  flush=True)
             time.sleep(REQUEST_INTERVAL)
 
         done_count = 0
         for f in as_completed(future_to_batch):
-            i, batch = future_to_batch[f]
+            i, batch, batch_idx = future_to_batch[f]
             batch_key = ",".join(c["tag"] for c in batch[:3])
             try:
                 results = f.result()
@@ -155,15 +173,20 @@ def translate_all(contexts: list[dict]) -> dict[str, dict]:
                 save_progress(progress)
 
                 done_count += 1
-                print(f"  [{done_count}/{len(batches)}] Batch {i + 1} done "
-                      f"({len(results)} tags)")
+                pct = 100 * done_count / len(batches)
+                elapsed = time.time() - t_start
+                eta = elapsed / done_count * (len(batches) - done_count) if done_count > 0 else 0
+                print(f"  [progress] {done_count}/{len(batches)} batches ({pct:.0f}%) | "
+                      f"elapsed={elapsed:.0f}s eta={eta:.0f}s | "
+                      f"{len(progress['completed'])}/{progress['total']} tags done",
+                      flush=True)
 
             except Exception as e:
                 traceback.print_exc()
                 failed_batches.append(batch_key)
                 progress["failed_batches"] = failed_batches
                 save_progress(progress)
-                print(f"  Batch {i + 1} FAILED: {e}")
+                print(f"  [batch {batch_idx}/{len(batches)}] GAVE UP: {e}", flush=True)
 
     # Final summary
     print(f"\nDone. Translated: {len(cache)}, "

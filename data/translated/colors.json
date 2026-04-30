@@ -1,0 +1,571 @@
+{
+  "group_name": "colors",
+  "display_name": "Tag group:colors",
+  "source_url": "/wiki_pages/tag_group%3Acolors",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acolors",
+  "categories": [
+    {
+      "h4": "Single color themes",
+      "h5": null,
+      "path": "Single color themes",
+      "tag_count": 15
+    },
+    {
+      "h4": "Neutral Palettes",
+      "h5": null,
+      "path": "Neutral Palettes",
+      "tag_count": 3
+    },
+    {
+      "h4": "Partial Coloring",
+      "h5": null,
+      "path": "Partial Coloring",
+      "tag_count": 3
+    },
+    {
+      "h4": "No Color",
+      "h5": null,
+      "path": "No Color",
+      "tag_count": 5
+    },
+    {
+      "h4": "Filters",
+      "h5": null,
+      "path": "Filters",
+      "tag_count": 12
+    },
+    {
+      "h4": "Color Theory",
+      "h5": null,
+      "path": "Color Theory",
+      "tag_count": 7
+    },
+    {
+      "h4": "Coloring Styles",
+      "h5": null,
+      "path": "Coloring Styles",
+      "tag_count": 1
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 5
+    }
+  ],
+  "tags": [
+    {
+      "name": "monochrome",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monochrome",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "greyscale",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/greyscale",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "aqua theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "black theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blue theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "brown theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "green theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grey theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "orange theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pink theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "purple theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "red theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "white theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "yellow theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_theme",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "monochrome",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monochrome",
+      "category_path": "Single color themes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dark",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dark",
+      "category_path": "Neutral Palettes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "muted color",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/muted_color",
+      "category_path": "Neutral Palettes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pale color",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pale_color",
+      "category_path": "Neutral Palettes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "partially colored",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/partially_colored",
+      "category_path": "Partial Coloring",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "greyscale with colored background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/greyscale_with_colored_background",
+      "category_path": "Partial Coloring",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "spot color",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spot_color",
+      "category_path": "Partial Coloring",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "monochrome",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monochrome",
+      "category_path": "No Color",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "greyscale",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/greyscale",
+      "category_path": "No Color",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "high contrast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_contrast",
+      "category_path": "No Color",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lineart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lineart",
+      "category_path": "No Color",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "negative",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/negative",
+      "category_path": "No Color",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sepia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sepia",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "high contrast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_contrast",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "limited palette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/limited_palette",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "multiple monochrome",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_monochrome",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pastel colors",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pastel_colors",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "double exposure",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double_exposure",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "vignetting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vignetting",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "inverted colors",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/inverted_colors",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "neon palette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neon_palette",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "saturated",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saturated",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "traditional media",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/traditional_media",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "faux traditional media",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/faux_traditional_media",
+      "category_path": "Filters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cool colored",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cool_colored",
+      "category_path": "Color Theory",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "colorful",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colorful",
+      "category_path": "Color Theory",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "analogous colors",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/analogous_colors",
+      "category_path": "Color Theory",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "color contrast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/color_contrast",
+      "category_path": "Color Theory",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "color coordination",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/color_coordination",
+      "category_path": "Color Theory",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "triadic colors",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triadic_colors",
+      "category_path": "Color Theory",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "warm colored",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/warm_colored",
+      "category_path": "Color Theory",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shadow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shadow",
+      "category_path": "Coloring Styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "color guide",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/color_guide",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "color drain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/color_drain",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "color connection",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/color_connection",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "rainbow order",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rainbow_order",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "gradient",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 51,
+  "total_categories": 8,
+  "html_file": "tag_group_colors.html"
+}

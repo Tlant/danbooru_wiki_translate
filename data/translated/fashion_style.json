@@ -1,0 +1,1149 @@
+{
+  "group_name": "fashion_style",
+  "display_name": "Tag group:fashion style",
+  "source_url": "/wiki_pages/tag_group%3Afashion_style",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afashion_style",
+  "categories": [
+    {
+      "h4": "General",
+      "h5": "Decades",
+      "path": "General/Decades",
+      "tag_count": 6
+    },
+    {
+      "h4": "Japanese fashion styles",
+      "h5": null,
+      "path": "Japanese fashion styles",
+      "tag_count": 43
+    },
+    {
+      "h4": "Western fashion styles",
+      "h5": null,
+      "path": "Western fashion styles",
+      "tag_count": 17
+    },
+    {
+      "h4": "Chinese &amp; Korean fashion styles",
+      "h5": null,
+      "path": "Chinese &amp; Korean fashion styles",
+      "tag_count": 2
+    },
+    {
+      "h4": "Cultural and historical styles",
+      "h5": null,
+      "path": "Cultural and historical styles",
+      "tag_count": 40
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 2
+    }
+  ],
+  "tags": [
+    {
+      "name": "1950s fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/1950s_fashion",
+      "category_path": "General/Decades",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "1960s fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/1960s_fashion",
+      "category_path": "General/Decades",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "1970s fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/1970s_fashion",
+      "category_path": "General/Decades",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "1980s fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/1980s_fashion",
+      "category_path": "General/Decades",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "1990s fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/1990s_fashion",
+      "category_path": "General/Decades",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Y2K fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/y2k_fashion",
+      "category_path": "General/Decades",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bodycon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bodycon",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Choco Girl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choco_girl",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cyber fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cyber_fashion",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Decora",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/decora",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fairy Kei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fairy_kei",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "French Girly",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/french_girly",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gothic Punk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gothic_punk",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gurokawa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gurokawa",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hadeko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hadeko",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Heisei Retro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heisei_retro",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Himekaji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/himekaji",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Idol clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/idol_clothes",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jersey Maid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jersey_maid",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jirai Kei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jirai_kei",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mori Kei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mori_kei",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ouji fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ouji_fashion",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shinora",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shinora",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tenshi Kaiwai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tenshi_kaiwai",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Visual Kei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/visual_kei",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yami Kawaii",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yami_kawaii",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yume Kawaii",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yume_kawaii",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gyaru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gyaru",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Agejo Gyaru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/agejo_gyaru",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Amekaji Gyaru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/amekaji_gyaru",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Amesuku Gyaru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/amesuku_gyaru",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ganguro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ganguro",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gyaruo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gyaruo",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hime Gyaru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hime_gyaru",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kogal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kogal",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Manba Gyaru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/manba_gyaru",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Onee Gyaru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/onee_gyaru",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lolita fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lolita_fashion",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Classic Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/classic_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Country Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/country_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gothic Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gothic_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hime Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hime_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jo Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jo_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Military Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/military_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Punk Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/punk_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Qi Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/qi_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sweet Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweet_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Viet Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/viet_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wa Lolita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wa_lolita",
+      "category_path": "Japanese fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Balletcore",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/balletcore",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Beatnik",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beatnik",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cybergoth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cybergoth",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "E-Kid fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/e-kid_fashion",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Emo fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/emo_fashion",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Greaser fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/greaser_fashion",
+      "category_path": "Western fashion styles",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Grunge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grunge_%28fashion%29",
+      "category_path": "Western fashion styles",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hipster",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hipster",
+      "category_path": "Western fashion styles",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "McBling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mcbling",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Military Goth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/military_goth",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mod fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mod_fashion",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Office Siren",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/office_siren",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pastel Goth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pastel_goth",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Perky Goth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/perky_goth",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rockabilly",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rockabilly",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Scene fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scene_fashion",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Steampunk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/steampunk",
+      "category_path": "Western fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wishcore",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wishcore",
+      "category_path": "Chinese &amp; Korean fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yabi fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yabi_fashion",
+      "category_path": "Chinese &amp; Korean fashion styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "African clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/african_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ainu clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ainu_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ancient Egyptian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ancient_egyptian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arabian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arabian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chinese clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chinese_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Colombian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colombian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dunhuang style",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dunhuang_style",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dutch clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dutch_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Flapper Girl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flapper_girl",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "French clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/french_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "German clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/german_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Greco-Roman clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/greco-roman_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hawaiian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hawaiian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Asian Indian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asian_indian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Indonesian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/indonesian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Italian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/italian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Japanese clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/japanese_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kazakh clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kazakh_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Korean clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/korean_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Malaysian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/malaysian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Manchu clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/manchu_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mayan clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mayan_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mexican clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mexican_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Miao clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miao_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Minoan clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/minoan_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mongolian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mongolian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Native American clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/native_american_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Polish clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polish_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Renaissance clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/renaissance_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rococo movement",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rococo_movement",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Russian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/russian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Slavic clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slavic_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spanish clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spanish_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Swedish clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swedish_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Thai clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thai_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tibetan clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tibetan_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Turkish clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turkish_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ukrainian clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ukrainian_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Victorian",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/victorian",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Vietnamese clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vietnamese_clothes",
+      "category_path": "Cultural and historical styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fashion",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fashion style request",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/fashion_style_request",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 110,
+  "total_categories": 6,
+  "html_file": "tag_group_fashion_style.html"
+}

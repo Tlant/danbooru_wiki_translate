@@ -1,0 +1,2203 @@
+{
+  "group_name": "posture",
+  "display_name": "Tag group:posture",
+  "source_url": "/wiki_pages/tag_group%3Aposture",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aposture",
+  "categories": [
+    {
+      "h4": "Basic positions",
+      "h5": null,
+      "path": "Basic positions",
+      "tag_count": 32
+    },
+    {
+      "h4": "Movement of the body",
+      "h5": null,
+      "path": "Movement of the body",
+      "tag_count": 14
+    },
+    {
+      "h4": "Other postures potentially involving the whole body",
+      "h5": null,
+      "path": "Other postures potentially involving the whole body",
+      "tag_count": 26
+    },
+    {
+      "h4": "Other rest points of the body",
+      "h5": null,
+      "path": "Other rest points of the body",
+      "tag_count": 2
+    },
+    {
+      "h4": "Posture of the head",
+      "h5": null,
+      "path": "Posture of the head",
+      "tag_count": 6
+    },
+    {
+      "h4": "Torso inclination",
+      "h5": null,
+      "path": "Torso inclination",
+      "tag_count": 8
+    },
+    {
+      "h4": "Arms",
+      "h5": null,
+      "path": "Arms",
+      "tag_count": 42
+    },
+    {
+      "h4": "Hips",
+      "h5": null,
+      "path": "Hips",
+      "tag_count": 2
+    },
+    {
+      "h4": "Legs",
+      "h5": null,
+      "path": "Legs",
+      "tag_count": 25
+    },
+    {
+      "h4": "Posture of at least two characters",
+      "h5": null,
+      "path": "Posture of at least two characters",
+      "tag_count": 18
+    },
+    {
+      "h4": "Posture of at least three characters",
+      "h5": null,
+      "path": "Posture of at least three characters",
+      "tag_count": 2
+    },
+    {
+      "h4": "Hugging",
+      "h5": null,
+      "path": "Hugging",
+      "tag_count": 8
+    },
+    {
+      "h4": "Carrying someone",
+      "h5": null,
+      "path": "Carrying someone",
+      "tag_count": 12
+    },
+    {
+      "h4": "Poses",
+      "h5": "Signature poses",
+      "path": "Poses/Signature poses",
+      "tag_count": 12
+    },
+    {
+      "h4": "See Also",
+      "h5": null,
+      "path": "See Also",
+      "tag_count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "Kneeling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kneeling",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "On one knee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/on_one_knee",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lying",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lying",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Crossed legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crossed_legs",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fetal position",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fetal_position",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "On back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/on_back",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "On side",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/on_side",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "On stomach",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/on_stomach",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sitting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sitting",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Butterfly sitting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butterfly_sitting",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Crossed legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crossed_legs",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Figure four sitting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/figure_four_sitting",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Indian style",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/indian_style",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lotus position",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lotus_position",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hugging own legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hugging_own_legs",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Reclining",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reclining",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Seiza",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seiza",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sitting on person",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sitting_on_person",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sitting on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sitting_on_head",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sitting on lap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sitting_on_lap",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shoulder carry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_carry",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Human chair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/human_chair",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Straddling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/straddling",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Thigh straddling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thigh_straddling",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Upright straddle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/upright_straddle",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wariza",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wariza",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yokozuwari",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yokozuwari",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Standing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/standing",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Balancing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/balancing",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Crossed legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crossed_legs",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Legs apart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/legs_apart",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Standing on one leg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/standing_on_one_leg",
+      "category_path": "Basic positions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Balancing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/balancing",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Crawling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crawling",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Idle animation",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/idle_animation",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Midair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/midair",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Falling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/falling",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Floating",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floating",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Flying",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flying",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jumping",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jumping",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hopping",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hopping",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pouncing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pouncing",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Running",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/running",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Walking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/walking",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Walk cycle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/walk_cycle",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Walking on wall",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/walking_on_wall",
+      "category_path": "Movement of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "All fours",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/all_fours",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Top-down bottom-up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/top-down_bottom-up",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Prostration",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prostration",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bear position",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bear_position",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bowlegged pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bowlegged_pose",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chest stand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chest_stand",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chest stand handstand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chest_stand_handstand",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Triplefold",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triplefold",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ruppelbend",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ruppelbend",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Quadfold",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quadfold",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cowering",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cowering",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Crucifixion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crucifixion",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Faceplant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/faceplant",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Full scorpion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/full_scorpion",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fighting stance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fighting_stance",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Battoujutsu stance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/battoujutsu_stance",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spread eagle position",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spread_eagle_position",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Squatting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/squatting",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Stretching",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stretching",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Superhero landing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/superhero_landing",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Upside-down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/upside-down",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Handstand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/handstand",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Headstand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headstand",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yoga",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yoga",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Scorpion pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scorpion_pose",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "revolved head-to-knee pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/revolved_head-to-knee_pose",
+      "category_path": "Other postures potentially involving the whole body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arm support",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_support",
+      "category_path": "Other rest points of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Head rest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_rest",
+      "category_path": "Other rest points of the body",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "looking at viewer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/looking_at_viewer",
+      "category_path": "Posture of the head",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "looking to the side",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/looking_to_the_side",
+      "category_path": "Posture of the head",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "looking afar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/looking_afar",
+      "category_path": "Posture of the head",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Head down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_down",
+      "category_path": "Posture of the head",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Head tilt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_tilt",
+      "category_path": "Posture of the head",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Head back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_back",
+      "category_path": "Posture of the head",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arched back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arched_back",
+      "category_path": "Torso inclination",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bent back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bent_back",
+      "category_path": "Torso inclination",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bent over",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bent_over",
+      "category_path": "Torso inclination",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Leaning back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaning_back",
+      "category_path": "Torso inclination",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Leaning forward",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaning_forward",
+      "category_path": "Torso inclination",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Slouching",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slouching",
+      "category_path": "Torso inclination",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sway back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sway_back",
+      "category_path": "Torso inclination",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Twisted torso",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/twisted_torso",
+      "category_path": "Torso inclination",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arm behind back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_behind_back",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arms behind back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arms_behind_back",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arm up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_up",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arm behind head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_behind_head",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "akanbe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/akanbe",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "salute",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/salute",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shushing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shushing",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "v over eye",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/v_over_eye",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "waving",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waving",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Victory pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/victory_pose",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arms up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arms_up",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "\\o/",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%5Co%2F",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arms behind head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arms_behind_head",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "carry me",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carry_me",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "heart hands",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_hands",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "finger frame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/finger_frame",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "horns pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/horns_pose",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Outstretched arm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/outstretched_arm",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Outstretched arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/outstretched_arms",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spread arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spread_arms",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arm at side",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_at_side",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arms at sides",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arms_at_sides",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Airplane arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/airplane_arms",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Crossed arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crossed_arms",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Flexing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flexing",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Praise the sun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/praise_the_sun",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Reaching",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reaching",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shrugging",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shrugging",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "T-pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/t-pose",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "A-pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/a-pose",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "V arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/v_arms",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "W arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/w_arms",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Stroking own chin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stroking_own_chin",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Outstretched hand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/outstretched_hand",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hand on own ear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_own_ear",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hand on own ass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_own_ass",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hand in pocket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_in_pocket",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "V",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/v",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Interlocked fingers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/interlocked_fingers",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Own hands clasped",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/own_hands_clasped",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Own hands together",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/own_hands_together",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Star hands",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_hands",
+      "category_path": "Arms",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Contrapposto",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/contrapposto",
+      "category_path": "Hips",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sway back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sway_back",
+      "category_path": "Hips",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Crossed ankles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crossed_ankles",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Folded",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/folded",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Leg up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_up",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Legs up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/legs_up",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Knees to chest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knees_to_chest",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Legs over head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/legs_over_head",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Leg lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_lift",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Outstretched leg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/outstretched_leg",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pin legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pin_legs",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Split",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/split",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pigeon pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pigeon_pose",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Standing split",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/standing_split",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spread legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spread_legs",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Watson cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/watson_cross",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Uneven footing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uneven_footing",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Knees apart feet together",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knees_apart_feet_together",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Knees together feet apart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knees_together_feet_apart",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Knee up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knee_up",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Knees up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knees_up",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dorsiflexion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dorsiflexion",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pigeon-toed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pigeon-toed",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Plantar flexion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plantar_flexion",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Toe scrunch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toe_scrunch",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tiptoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiptoes",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tiptoe kiss",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiptoe_kiss",
+      "category_path": "Legs",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ass-to-ass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ass-to-ass",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Back-to-back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/back-to-back",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Belly-to-belly",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belly-to-belly",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cheek-to-breast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheek-to-breast",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cheek-to-cheek",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheek-to-cheek",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Eye contact",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eye_contact",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Face-to-face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/face-to-face",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Forehead-to-forehead",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forehead-to-forehead",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Head on chest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_on_chest",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Heads together",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heads_together",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Holding hands",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_hands",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Leg lock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_lock",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Locked arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/locked_arms",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Over the knee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/over_the_knee",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nipple-to-nipple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nipple-to-nipple",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Noses touching",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/noses_touching",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shoulder-to-shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder-to-shoulder",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tail lock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tail_lock",
+      "category_path": "Posture of at least two characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Circle formation",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/circle_formation",
+      "category_path": "Posture of at least three characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Group hug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/group_hug",
+      "category_path": "Posture of at least three characters",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hug",
+      "category_path": "Hugging",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hugging own legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hugging_own_legs",
+      "category_path": "Hugging",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hugging object",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hugging_object",
+      "category_path": "Hugging",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hugging tail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hugging_tail",
+      "category_path": "Hugging",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wing hug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wing_hug",
+      "category_path": "Hugging",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arm hug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_hug",
+      "category_path": "Hugging",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hug from behind",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hug_from_behind",
+      "category_path": "Hugging",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Waist hug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waist_hug",
+      "category_path": "Hugging",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Baby carry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baby_carry",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Carrying",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carrying",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Carried breast rest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carried_breast_rest",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Carrying over shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carrying_over_shoulder",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Carrying under arm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carrying_under_arm",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Child carry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/child_carry",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fireman's carry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fireman%27s_carry",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Piggyback",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/piggyback",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Princess carry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/princess_carry",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shoulder carry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_carry",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sitting on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sitting_on_shoulder",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Standing on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/standing_on_shoulder",
+      "category_path": "Carrying someone",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Charizard pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/charizard_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gendou pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gendou_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Henshin pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/henshin_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "JoJo pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jojo_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dio Brando's pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dio_brando%27s_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Giorno Giovanna's pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/giorno_giovanna%27s_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Superman exposure",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/superman_exposure",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jonathan Joestar's pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jonathan_joestar%27s_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kujo Jotaro's pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kujo_jotaro%27s_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kongou pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kongou_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kujou Karen pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kujou_karen_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Z-Move trainer pose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/z-move_trainer_pose",
+      "category_path": "Poses/Signature poses",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "List of poses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/list_of_poses",
+      "category_path": "See Also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 210,
+  "total_categories": 15,
+  "html_file": "tag_group_posture.html"
+}

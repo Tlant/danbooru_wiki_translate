@@ -1,0 +1,875 @@
+{
+  "group_name": "lighting",
+  "display_name": "Tag group:lighting",
+  "source_url": "/wiki_pages/tag_group%3Alighting",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alighting",
+  "categories": [
+    {
+      "h4": "Directional",
+      "h5": null,
+      "path": "Directional",
+      "tag_count": 4
+    },
+    {
+      "h4": "Types",
+      "h5": null,
+      "path": "Types",
+      "tag_count": 34
+    },
+    {
+      "h4": "Time of day lighting",
+      "h5": null,
+      "path": "Time of day lighting",
+      "tag_count": 10
+    },
+    {
+      "h4": "Light sources",
+      "h5": null,
+      "path": "Light sources",
+      "tag_count": 19
+    },
+    {
+      "h4": "Misc",
+      "h5": null,
+      "path": "Misc",
+      "tag_count": 6
+    },
+    {
+      "h4": "Absence of light",
+      "h5": null,
+      "path": "Absence of light",
+      "tag_count": 9
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "backlighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backlighting",
+      "category_path": "Directional",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "overlighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/overlighting",
+      "category_path": "Directional",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sidelighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sidelighting",
+      "category_path": "Directional",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "underlighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underlighting",
+      "category_path": "Directional",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bloom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bloom",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "spotlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spotlight",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "spotlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spotlight",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "light rays",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/light_rays",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sunbeam",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunbeam",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "light rays",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/light_rays",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "moonbeam",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moonbeam",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "light rays",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/light_rays",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "underwater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underwater",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dim lighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dim_lighting",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sunlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunlight",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "moonlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moonlight",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "crack of light",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crack_of_light",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dappled sunlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dappled_sunlight",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sunlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunlight",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shadow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shadow",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tree",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tree",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dappled moonlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dappled_moonlight",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "window shadow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/window_shadow",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shadow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shadow",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "window",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/window",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "caustics",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caustics",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "caustics",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caustics",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "water",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/water",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "caustics",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caustics",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "underwater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underwater",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dispersion (optics)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dispersion_%28optics%29",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rainbow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rainbow",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "prism",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prism",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "refraction",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/refraction",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "refraction",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/refraction",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "glass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glass",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "water",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/water",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "subsurface scattering",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/subsurface_scattering",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "morning",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/morning",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dawn",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dawn",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "twilight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/twilight",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sunrise",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunrise",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "day",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/day",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "evening",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/evening",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sunset",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunset",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "twilight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/twilight",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dusk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dusk",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "night",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/night",
+      "category_path": "Time of day lighting",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "stage lights",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stage_lights",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "stage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stage",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sun",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "moon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moon",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "glowstick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glowstick",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lamp",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lamp",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "desk lamp",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/desk_lamp",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lamppost",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lamppost",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wall lamp",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wall_lamp",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "torch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torch",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fire",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fire",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "embers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/embers",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flashlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flashlight",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lantern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lantern",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "oil lamp",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oil_lamp",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wooden lantern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wooden_lantern",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ceiling light",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ceiling_light",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "chandelier",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chandelier",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "candlelight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/candlelight",
+      "category_path": "Light sources",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "muzzle flash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/muzzle_flash",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "headlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headlight",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "floodlights",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floodlights",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flare",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flare",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ultraviolet light",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ultraviolet_light",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "glowing headgear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glowing_headgear",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shade",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shade",
+      "category_path": "Absence of light",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tree shade",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tree_shade",
+      "category_path": "Absence of light",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shadow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shadow",
+      "category_path": "Absence of light",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "colored shadow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colored_shadow",
+      "category_path": "Absence of light",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "window shadow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/window_shadow",
+      "category_path": "Absence of light",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dark",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dark",
+      "category_path": "Absence of light",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "darkness",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/darkness",
+      "category_path": "Absence of light",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "silhouette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/silhouette",
+      "category_path": "Absence of light",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "see-through silhouette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_silhouette",
+      "category_path": "Absence of light",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 82,
+  "total_categories": 7,
+  "html_file": "tag_group_lighting.html"
+}

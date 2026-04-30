@@ -1,0 +1,917 @@
+{
+  "group_name": "panties",
+  "display_name": "Tag group:panties",
+  "source_url": "/wiki_pages/tag_group%3Apanties",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apanties",
+  "categories": [
+    {
+      "h4": "Main",
+      "h5": null,
+      "path": "Main",
+      "tag_count": 1
+    },
+    {
+      "h4": "Number of panties",
+      "h5": null,
+      "path": "Number of panties",
+      "tag_count": 2
+    },
+    {
+      "h4": "Appearance and models of panties",
+      "h5": null,
+      "path": "Appearance and models of panties",
+      "tag_count": 46
+    },
+    {
+      "h4": "Panties with other clothes",
+      "h5": null,
+      "path": "Panties with other clothes",
+      "tag_count": 9
+    },
+    {
+      "h4": "Panties and body parts",
+      "h5": null,
+      "path": "Panties and body parts",
+      "tag_count": 20
+    },
+    {
+      "h4": "Panties and fluids",
+      "h5": null,
+      "path": "Panties and fluids",
+      "tag_count": 5
+    },
+    {
+      "h4": "Panties and objects",
+      "h5": null,
+      "path": "Panties and objects",
+      "tag_count": 1
+    },
+    {
+      "h4": "Memes",
+      "h5": null,
+      "path": "Memes",
+      "tag_count": 1
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties",
+      "category_path": "Main",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "multiple panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_panties",
+      "category_path": "Number of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "no panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_panties",
+      "category_path": "Number of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "aqua panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "black panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blue panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "brown panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "green panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grey panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "orange panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pink panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "purple panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "red panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "white panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "yellow panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "multicolored panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bear panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bear_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "rabbit panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cat print panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_print_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "checkered panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lace panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lace-trimmed panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "plaid panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "polka dot panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "print panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "strawberry panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "striped panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "vertical-striped panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vertical-striped_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "latex panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/latex_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "leaf panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaf_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pearl thong",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pearl_thong",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "backless panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backless_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "c-string",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/c-string",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "crotchless panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotchless_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "strapless bottom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_bottom",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "loose panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loose_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "micro panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/micro_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "high-waist panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high-waist_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "highleg panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/highleg_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lowleg panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lowleg_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bow panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "crotch seam",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotch_seam",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "frilled panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fundoshi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fundoshi",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "multi-strapped panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multi-strapped_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "side-tie panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side-tie_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sports panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sports_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "string panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/string_panties",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "underwear writing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underwear_writing",
+      "category_path": "Appearance and models of panties",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties over bike shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_over_bike_shorts",
+      "category_path": "Panties with other clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties under bike shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_under_bike_shorts",
+      "category_path": "Panties with other clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties over pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_over_pantyhose",
+      "category_path": "Panties with other clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties under pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_under_pantyhose",
+      "category_path": "Panties with other clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties under buruma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_under_buruma",
+      "category_path": "Panties with other clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pantylines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pantylines",
+      "category_path": "Panties with other clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pantyshot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pantyshot",
+      "category_path": "Panties with other clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "implied pantyshot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/implied_pantyshot",
+      "category_path": "Panties with other clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "upskirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/upskirt",
+      "category_path": "Panties with other clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "adjusting panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_panties",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hand in another's panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_in_another%27s_panties",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hand in own panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_in_own_panties",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "holding panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_panties",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties around ankles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_around_ankles",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties around one leg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_around_one_leg",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panty pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panty_pull",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties on breasts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_on_breasts",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties on penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_on_penis",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "penis in panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penis_in_panties",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_in_mouth",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_on_head",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panty gag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panty_gag",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "licking panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/licking_panties",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties around tail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_around_tail",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_aside",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panty lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panty_lift",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "smelling underwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smelling_underwear",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "trefoil",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trefoil",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unworn panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_panties",
+      "category_path": "Panties and body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blood on panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blood_on_panties",
+      "category_path": "Panties and fluids",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cum in panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cum_in_panties",
+      "category_path": "Panties and fluids",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cumdrip onto panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cumdrip_onto_panties",
+      "category_path": "Panties and fluids",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "stained panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stained_panties",
+      "category_path": "Panties and fluids",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wet panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_panties",
+      "category_path": "Panties and fluids",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "vibrator under panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vibrator_under_panties",
+      "category_path": "Panties and objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "they're not panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/they%27re_not_panties",
+      "category_path": "Memes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 85,
+  "total_categories": 9,
+  "html_file": "tag_group_panties.html"
+}

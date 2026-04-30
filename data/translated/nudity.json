@@ -1,0 +1,1971 @@
+{
+  "group_name": "nudity",
+  "display_name": "Tag group:nudity",
+  "source_url": "/wiki_pages/tag_group%3Anudity",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Anudity",
+  "categories": [
+    {
+      "h4": "Complete (or mostly complete) nudity",
+      "h5": null,
+      "path": "Complete (or mostly complete) nudity",
+      "tag_count": 2
+    },
+    {
+      "h4": "Nudity by gender",
+      "h5": null,
+      "path": "Nudity by gender",
+      "tag_count": 4
+    },
+    {
+      "h4": "Partial nudity",
+      "h5": null,
+      "path": "Partial nudity",
+      "tag_count": 152
+    },
+    {
+      "h4": "Naughty points of view",
+      "h5": null,
+      "path": "Naughty points of view",
+      "tag_count": 4
+    },
+    {
+      "h4": "Dressing / Covering body parts",
+      "h5": null,
+      "path": "Dressing / Covering body parts",
+      "tag_count": 12
+    },
+    {
+      "h4": "Touching clothes",
+      "h5": null,
+      "path": "Touching clothes",
+      "tag_count": 11
+    },
+    {
+      "h4": "Misc / more",
+      "h5": null,
+      "path": "Misc / more",
+      "tag_count": 6
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "completely nude",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/completely_nude",
+      "category_path": "Complete (or mostly complete) nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nude",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nude",
+      "category_path": "Complete (or mostly complete) nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CFNF",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothed_female_nude_female",
+      "category_path": "Nudity by gender",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CFNM",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothed_female_nude_male",
+      "category_path": "Nudity by gender",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CMNF",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothed_male_nude_female",
+      "category_path": "Nudity by gender",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CMNM",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothed_male_nude_male",
+      "category_path": "Nudity by gender",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "clothing aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothing_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "clothes down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothes_down",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "open clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_clothes",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "revealing clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/revealing_clothes",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "see-through clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_clothes",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unbuttoned",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unbuttoned",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "undressing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/undressing",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unfastened",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unfastened",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "untied",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/untied",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "untying",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/untying",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unzipped",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unzipped",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unzipping",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unzipping",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bikini bottom aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bikini_bottom_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bikini pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bikini_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cape lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cape_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lifting covers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lifting_covers",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bikini, open",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/untied_bikini",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra, open",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_bra",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kimono, open",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_kimono",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "robe slip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/robe_slip",
+      "category_path": "Partial nudity",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "strap lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strap_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "strap pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strap_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "strap slip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strap_slip",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "swimsuit aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swimsuit_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "one-piece swimsuit pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/one-piece_swimsuit_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "towel, open",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_towel",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "towel slip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/towel_slip",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "male underwear pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/male_underwear_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "armpits",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armpits",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "armpit cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armpit_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bare arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bare_arms",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "arm cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bare shoulders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bare_shoulders",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "off shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off_shoulder",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shoulder cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sleeves rolled up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeves_rolled_up",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sleeveless",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "low-cut armhole",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/low-cut_armhole",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sleeves pushed up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeves_pushed_up",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sleeves rolled up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeves_rolled_up",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hood down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hood_down",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "center opening",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/center_opening",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "coat, open",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_coat",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "open collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_collar",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dress pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hoodie, open",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_hoodie",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "jacket, open",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_jacket",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "leotard pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leotard_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kimono down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kimono_down",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kimono pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kimono_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pajamas pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pajamas_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "open robe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_robe",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shirt aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shirt_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "topless male",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/topless_male",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shirt, no",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_shirt",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shirt, open",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_shirt",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shirt lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shirt_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shirt pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shirt_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shirt slip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shirt_slip",
+      "category_path": "Partial nudity",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sweater lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweater_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "top pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/top_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "open vest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_vest",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "breastless clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breastless_clothes",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "breast out, one",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/one_breast_out",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "breast slip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breast_slip",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "breasts out",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breasts_out",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra, no",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_bra",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "topless female",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/topless_female",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "backboob",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backboob",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cleavage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cleavage",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cleavage cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cleavage_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sideboob",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sideboob",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "underboob",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underboob",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "underboob cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underboob_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "areola slip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/areola_slip",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nipple slip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nipple_slip",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nippleless clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nippleless_clothes",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nipples",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nipples",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "back cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/back_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "backless outfit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backless_outfit",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bare back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bare_back",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "frontless outfit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frontless_outfit",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "midriff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/midriff",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "navel cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/navel_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "side cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sideless outfit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sideless_outfit",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "stomach cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stomach_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "barefoot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barefoot",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bare legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bare_legs",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dress lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hip vent",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hip_vent",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "leg cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "thigh cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thigh_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "side slit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side_slit",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pants, no",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_pants",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shoe pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoe_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sock pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sock_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "zettai ryouiki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zettai_ryouiki",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ass cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ass_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bottomless",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bottomless",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "buruma pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buruma_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "buruma aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buruma_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "clitoris slip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clitoris_slip",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "clothing aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothing_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "crotch cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotch_cutout",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dress aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "leotard aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leotard_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hakama pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hakama_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kimono lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kimono_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "yukata lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yukata_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties, no",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_panties",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pants pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pants_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "open pants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_pants",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pants pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pants_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panty lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panty_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panty pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panty_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "penis peek",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penis_peek",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pussy peek",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pussy_peek",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pantyhose pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pantyhose_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shorts aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shorts_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shorts, open",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_shorts",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shorts pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shorts_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "skirt around one leg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skirt_around_one_leg",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "skirt around ankles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skirt_around_ankles",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "open skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_skirt",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "skirt pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skirt_pull",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "skirt lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skirt_lift",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "swimsuit aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swimsuit_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bikini bottom aside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bikini_bottom_aside",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked apron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_apron",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nearly naked apron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nearly_naked_apron",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked bandage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_bandage",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked cape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_cape",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked capelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_capelet",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_chocolate",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked cloak",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_cloak",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_coat",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked hoodie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_hoodie",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_jacket",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked overalls",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_overalls",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_ribbon",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked robe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_robe",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_scarf",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked sheet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_sheet",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_shirt",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked suspenders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_suspenders",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked tabard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_tabard",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naked towel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_towel",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "underwear only",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underwear_only",
+      "category_path": "Partial nudity",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "downblouse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/downblouse",
+      "category_path": "Naughty points of view",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "downpants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/downpants",
+      "category_path": "Naughty points of view",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pantyshot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pantyshot",
+      "category_path": "Naughty points of view",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "upskirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/upskirt",
+      "category_path": "Naughty points of view",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering privates",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_privates",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering anus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_anus",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering ass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_ass",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering breasts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_breasts",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering crotch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_crotch",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_head",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering own ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_own_ears",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering one eye",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_one_eye",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering own eyes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_own_eyes",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_face",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "covering own mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_own_mouth",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nude cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nude_cover",
+      "category_path": "Dressing / Covering body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "adjusting clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_clothes",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "clothes grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothes_grab",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "apron grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apron_grab",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "collar grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar_grab",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "necktie grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necktie_grab",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grabbing another's skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grabbing_another%27s_skirt",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "collar tug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar_tug",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dress tug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_tug",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shirt tug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shirt_tug",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "skirt tug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skirt_tug",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wringing clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wringing_clothes",
+      "category_path": "Touching clothes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nude modeling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nude_modeling",
+      "category_path": "Misc / more",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tan",
+      "category_path": "Misc / more",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tanlines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tanlines",
+      "category_path": "Misc / more",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pants rolled up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pants_rolled_up",
+      "category_path": "Misc / more",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "skirt rolled up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skirt_rolled_up",
+      "category_path": "Misc / more",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "clothes on and off",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothes_on_and_off",
+      "category_path": "Misc / more",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 191,
+  "total_categories": 8,
+  "html_file": "tag_group_nudity.html"
+}

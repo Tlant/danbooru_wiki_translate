@@ -1,0 +1,2733 @@
+{
+  "group_name": "headwear",
+  "display_name": "Tag group:headwear",
+  "source_url": "/wiki_pages/tag_group%3Aheadwear",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aheadwear",
+  "categories": [
+    {
+      "h4": "Types",
+      "h5": null,
+      "path": "Types",
+      "tag_count": 3
+    },
+    {
+      "h4": "Colours",
+      "h5": null,
+      "path": "Colours",
+      "tag_count": 12
+    },
+    {
+      "h4": "Hats",
+      "h5": null,
+      "path": "Hats",
+      "tag_count": 140
+    },
+    {
+      "h4": "Crowns",
+      "h5": null,
+      "path": "Crowns",
+      "tag_count": 7
+    },
+    {
+      "h4": "Other",
+      "h5": null,
+      "path": "Other",
+      "tag_count": 31
+    },
+    {
+      "h4": "Non-specific styles",
+      "h5": null,
+      "path": "Non-specific styles",
+      "tag_count": 10
+    },
+    {
+      "h4": "Actions / states",
+      "h5": null,
+      "path": "Actions / states",
+      "tag_count": 21
+    },
+    {
+      "h4": "Accessories",
+      "h5": null,
+      "path": "Accessories",
+      "tag_count": 28
+    },
+    {
+      "h4": "Not headwear",
+      "h5": null,
+      "path": "Not headwear",
+      "tag_count": 14
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "crown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crown",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "皇冠",
+      "confidence": "A",
+      "tag_cn_long": "象征王权或地位的仪式性头饰。"
+    },
+    {
+      "name": "hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/helmet",
+      "category_path": "Types",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "aqua hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "black hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blue hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "brown hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "green hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grey hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "orange hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pink hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "purple hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "red hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "white hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "yellow hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_hat",
+      "category_path": "Colours",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "baseball cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baseball_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "budenovka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/budenovka",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "deerstalker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/deerstalker",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dianzi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dianzi",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "field cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/field_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kepi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kepi",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "M43 field cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/m43_field_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mao cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mao_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "newsboy cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/newsboy_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "peaked cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peaked_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "rogatywka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rogatywka",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shako cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shako_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mini shako cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_shako_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bicorne",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bicorne",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "boater hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boater_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "boonie hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boonie_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bowler hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bowler_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bucket hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bucket_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "campaign hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/campaign_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cavalier hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cavalier_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cloche hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cloche_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cowboy hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cowboy_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "straw hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/straw_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ajirogasa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ajirogasa",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "amigasa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/amigasa",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ayaigasa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ayaigasa",
+      "category_path": "Hats",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ichimegasa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ichimegasa",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "roningasa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/roningasa",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sandogasa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sandogasa",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "torioigasa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torioigasa",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "rice hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rice_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fascinator",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fascinator",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "装饰小帽",
+      "confidence": "B",
+      "tag_cn_long": "一种轻便的装饰性头饰，由羽毛、花、珠饰等制成，通常戴在头上。"
+    },
+    {
+      "name": "fedora",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fedora",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "female service cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/female_service_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flat cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flat_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "gat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gat_%28hat%29",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "paeraengi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paeraengi",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "jingasa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jingasa",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mob cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mob_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "picture hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/picture_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pirate hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pirate_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pith helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pith_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "porkpie hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/porkpie_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shampoo hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shampoo_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sombrero",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sombrero",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sun hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sun_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "top hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/top_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mini top hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_top_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tricorne",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tricorne",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "trilby",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trilby",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tulip hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tulip_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "witch hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/witch_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mini witch hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_witch_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wizard hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wizard_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "deerstalker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/deerstalker",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "earflap beanie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earflap_beanie",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "budenovka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/budenovka",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "papakha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/papakha",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ushanka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ushanka",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ayam hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ayam_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bashlik",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bashlik",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "beanie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beanie",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "earflap beanie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earflap_beanie",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "beret",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beret",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "chef hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chef_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flat top chef hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flat_top_chef_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "toque blanche",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toque_blanche",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "coif",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coif",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dixie cup hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dixie_cup_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "donald duck sailor hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/donald_duck_sailor_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dunce cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dunce_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fez hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fez_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flight attendant hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flight_attendant_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fur hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bearskin cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bearskin_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "papakha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/papakha",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ushanka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ushanka",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "garrison cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garrison_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hennin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hennin",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kippah",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kippah",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mian guan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mian_guan",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mitre",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mitre",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mortarboard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mortarboard",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nightcap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nightcap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nurse cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nurse_cap",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "party hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/party_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pillbox hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pillbox_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "qingdai guanmao",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/qingdai_guanmao",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "guapi mao",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guapi_mao",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sailor hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sajkaca",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sajkaca",
+      "category_path": "Hats",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "santa hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/santa_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mini santa hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_santa_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "songkok",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/songkok",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tam o' shanter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tam_o%27_shanter",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tate eboshi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tate_eboshi",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tengai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tengai_%28hat%29",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tokin hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tokin_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tsunokakushi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tsunokakushi",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "xiezhi guan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/xiezhi_guan",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "animal hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat with ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_with_ears",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "deviruchi hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/deviruchi_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bear hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bear_hat",
+      "category_path": "Hats",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "rabbit hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cat hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dog hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dog_hat",
+      "category_path": "Hats",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fox hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fox_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pelt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pelt",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "penguin hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penguin_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wolf hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wolf_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "eggshell hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eggshell_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pumpkin hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pumpkin_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Helmets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Adrian helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adrian_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Altyn helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/altyn_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "American football helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/american_football_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "animal ear helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_ear_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "baseball helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baseball_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bicycle helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bicycle_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Brodie helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brodie_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "diving helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diving_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dragoon helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dragoon_helmet",
+      "category_path": "Hats",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fishbowl helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fishbowl_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hard hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hard_hat",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "headlamp",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headlamp",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "helm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/helm",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "horned helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/horned_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kabuto",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kabuto_%28helmet%29",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kettle helm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kettle_helm",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "M1 helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/m1_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "motorcycle helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/motorcycle_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pickelhaube",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pickelhaube",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pilot helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pilot_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pith helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pith_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sallet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sallet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "space helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/space_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Stahlhelm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stahlhelm",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tank helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tank_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "winged helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/winged_helmet",
+      "category_path": "Hats",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "circlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/circlet",
+      "category_path": "Crowns",
+      "wiki_exists": true,
+      "tag_cn": "头环",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在头上类似冠冕的环状头饰，通常无顶。"
+    },
+    {
+      "name": "diadem",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diadem",
+      "category_path": "Crowns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fengguan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fengguan",
+      "category_path": "Crowns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mian guan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mian_guan",
+      "category_path": "Crowns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mini crown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_crown",
+      "category_path": "Crowns",
+      "wiki_exists": true,
+      "tag_cn": "小皇冠",
+      "confidence": "A",
+      "tag_cn_long": "比普通皇冠小得多的头饰。"
+    },
+    {
+      "name": "saishi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saishi",
+      "category_path": "Crowns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tiara",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiara",
+      "category_path": "Crowns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "aviator cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aviator_cap",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "balaclava",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/balaclava",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bandana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandana",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "头巾",
+      "confidence": "A",
+      "tag_cn_long": "一种绑在头上、颈上或脸上的方形布片，用于保护或装饰。"
+    },
+    {
+      "name": "bonnet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bonnet",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "软帽",
+      "confidence": "B",
+      "tag_cn_long": "一种无檐的软质头饰，常用系带固定在下巴处，不覆盖额头。"
+    },
+    {
+      "name": "dalachi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dalachi_%28headdress%29",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Futou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/futou",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "headscarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headscarf",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hijab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hijab",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "jester cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jester_cap",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "jin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jin_%28headwear%29",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dongpo jin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dongpo_jin_%28headwear%29",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tang jin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tang_jin_%28headwear%29",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "zhouzi jin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zhouzi_jin_%28headwear%29",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "keffiyeh",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/keffiyeh",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "object on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/object_on_head",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bowl hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bowl_hat",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bloomers on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bloomers_on_head",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "book on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/book_on_head",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra_on_head",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bucket on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bucket_on_head",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "food on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_on_head",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panties on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties_on_head",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "traffic cone on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/traffic_cone_on_head",
+      "category_path": "Other",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "okosozukin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/okosozukin",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shower cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shower_cap",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shufa guan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shufa_guan",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tenugui",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tenugui",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "turban",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turban",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "visor cap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/visor_cap",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "veil",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/veil",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "zhuang hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zhuang_hat",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "camouflage headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camouflage_headwear",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "checkered headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_headwear",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "frilled hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_hat",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "military hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/military_hat",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mini hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_hat",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "multicolored headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_headwear",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "police hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/police_hat",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "print headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_headwear",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "school hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/school_hat",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "straw hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/straw_hat",
+      "category_path": "Non-specific styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "adjusting headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_headwear",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "backwards hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backwards_hat",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sideways hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sideways_hat",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hand on headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_headwear",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hands on headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hands_on_headwear",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat basket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_basket",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat loss",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_loss",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat on chest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_on_chest",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat over eyes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_over_eyes",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat over one eye",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_over_one_eye",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat tip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_tip",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "holding unworn hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_hat",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "holding unworn helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_helmet",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "missing headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/missing_headwear",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "putting on headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/putting_on_headwear",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "removing helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/removing_helmet",
+      "category_path": "Actions / states",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tilted headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tilted_headwear",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "torn hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_hat",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unworn hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_hat",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unworn headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_headwear",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unworn helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_helmet",
+      "category_path": "Actions / states",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "chinstrap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chinstrap",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_bow",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat feather",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_feather",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_flower",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "anchor hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anchor_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "butterfly hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butterfly_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "character hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/character_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "crescent hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crescent_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dolphin hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dolphin_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "food-themed hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food-themed_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fruit hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grape hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grape_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "peach hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peach_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pumpkin hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pumpkin_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "gear hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gear_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "heart hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "holly hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holly_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "jack-o'-lantern hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jack-o%27-lantern_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "leaf hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaf_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "palette hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/palette_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "star hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "skull hat ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skull_hat_ornament",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_flower",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat tassel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_tassel",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_ribbon",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat with ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_with_ears",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lappet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lappet",
+      "category_path": "Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bow",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "发蝶结",
+      "confidence": "C",
+      "tag_cn_long": "戴在头发上的蝴蝶结状发饰，常用于扎马尾或双马尾，或作为纯装饰。"
+    },
+    {
+      "name": "hair ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_ribbon",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "发带",
+      "confidence": "A",
+      "tag_cn_long": "戴在头发上的丝带，用于装饰或扎束头发。"
+    },
+    {
+      "name": "hairband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairband",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "发箍",
+      "confidence": "A",
+      "tag_cn_long": "戴在头顶用于固定头发的弹性塑料或布制带子。"
+    },
+    {
+      "name": "headband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headband",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "forehead protector",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forehead_protector",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hachimaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hachimaki",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nejiri hachimaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nejiri_hachimaki",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mongkhon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mongkhon",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sweatband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweatband",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "headdress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headdress",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "maid headdress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maid_headdress",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "native american headdress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/native_american_headdress",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "warbonnet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/warbonnet",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "veil",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/veil",
+      "category_path": "Not headwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 266,
+  "total_categories": 10,
+  "html_file": "tag_group_headwear.html"
+}

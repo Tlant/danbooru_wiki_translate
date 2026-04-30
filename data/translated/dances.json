@@ -1,0 +1,1129 @@
+{
+  "group_name": "dances",
+  "display_name": "Tag group:dances",
+  "source_url": "/wiki_pages/tag_group%3Adances",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Adances",
+  "categories": [
+    {
+      "h4": "Solo dance moves",
+      "h5": null,
+      "path": "Solo dance moves",
+      "tag_count": 11
+    },
+    {
+      "h4": "Duo dance moves",
+      "h5": null,
+      "path": "Duo dance moves",
+      "tag_count": 1
+    },
+    {
+      "h4": "Group dance moves",
+      "h5": null,
+      "path": "Group dance moves",
+      "tag_count": 3
+    },
+    {
+      "h4": "Dance styles",
+      "h5": null,
+      "path": "Dance styles",
+      "tag_count": 21
+    },
+    {
+      "h4": "Specific choreographies",
+      "h5": null,
+      "path": "Specific choreographies",
+      "tag_count": 72
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "Arabesque (pose)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arabesque_%28pose%29",
+      "category_path": "Solo dance moves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Body Roll",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/body_roll",
+      "category_path": "Solo dance moves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dabbing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dab_%28dance%29",
+      "category_path": "Solo dance moves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Flossing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flossing_%28dance%29",
+      "category_path": "Solo dance moves",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Griddy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/griddy_%28dance%29",
+      "category_path": "Solo dance moves",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Moonwalk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moonwalk",
+      "category_path": "Solo dance moves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nae Nae",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nae_nae_%28dance%29",
+      "category_path": "Solo dance moves",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "The Monkey",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/the_monkey_%28dance%29",
+      "category_path": "Solo dance moves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Twerking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/twerking",
+      "category_path": "Solo dance moves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Whip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whip_%28dance%29",
+      "category_path": "Solo dance moves",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Worm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/worm_%28dance%29",
+      "category_path": "Solo dance moves",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dip (dance move)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dip_%28dance_move%29",
+      "category_path": "Duo dance moves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Algorithm March",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/algorithm_march",
+      "category_path": "Group dance moves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Choo Choo Train",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/choo_choo_train",
+      "category_path": "Group dance moves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Circle dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/circle_dance",
+      "category_path": "Group dance moves",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Awa Odori Tokushima",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/awa_odori_tokushima",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ballet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ballet",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Belly dancing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belly_dancing",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Breakdancing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breakdance",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cancan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cancan_dance",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cossack dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cossack_dance",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dunhuang dancing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dunhuang_dance",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Flamenco",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flamenco",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Folk dancing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/folk_dance",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gato_dance",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hula",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hula",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lap dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lap_dance",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Para Para",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/para_para",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pole dancing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pole_dancing",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Samba",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/samba",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tango",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tango",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tap dancing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tap_dance",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Taue Odori",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/taue_odori",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Waltz",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waltz_%28dance%29",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wotagei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wotagei",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yosakoi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yosakoi",
+      "category_path": "Dance styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dance Robot Dance",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/dance_robot_dance_%28vocaloid%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Easy Breezy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/easy_breezy",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hanamaru Sensation",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hanamaru_sensation",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hare Hare Yukai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hare_hare_yukai",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hoshino Ruby dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hoshino_ruby_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Icchae Popotan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/icchae_popotan",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Internet Overdose",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/internet_overdose",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Internet Yamero",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/internet_yamero",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kill Me dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kill_me_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "LOVE&amp;JOY",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/love%26joy",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Macarena",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/macarena_%28dance%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mesmerizer",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mesmerizer_%28vocaloid%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Motteke! Serafuku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/motteke%21_serafuku",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Oddloop",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/oddloop",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Roulette Roulette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/roulette_roulette",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shukusei!! Loli-kami Requiem",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/shukusei%21%21_loli-kami_requiem",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Soran Bushi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soran_bushi",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sugar Song and Bitter Step",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sugar_song_and_bitter_step",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Turing Love",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/turing_love",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ugoku Ugoku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ugoku_ugoku",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Meme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/meme",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Anglerfish dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anglerfish_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Aris dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aris_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Basilisk Time",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/basilisk_time",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Brazil Dog dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brazil_dog_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Buri Hamachi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buri_hamachi",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Caipirinha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caipirinha_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Caipirinha DearS dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caipirinha_dears_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Caramelldansen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caramelldansen",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Carson Shearer's dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carson_shearer%27s_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cat Breakdancing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_breakdancing_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chads Dancing to California Gurls",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chads_dancing_to_california_gurls_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chipi Chipi Chapa Chapa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chipi_chipi_chapa_chapa_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Club Penguin dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/club_penguin_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dancing Kasukabe Tsumugi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dancing_kasukabe_tsumugi_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dancing Pallbearers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dancing_pallbearers_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dancing Toothless",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dancing_toothless_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Daten Route",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/daten_route",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Default Fortnite dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/default_fortnite_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Distraction dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/distraction_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Donbei dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/donbei_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fukkireta",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/fukkireta",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gangnam Style",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/gangnam_style",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Get Down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/get_down_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hamster dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hamster_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Helltaker dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/helltaker_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kitsune dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kitsune_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Koi dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/koi_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nyan-nyan dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nyan-nyan_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Maitake dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maitake_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Marcille Breakdance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marcille_breakdance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ME!ME!ME! dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/me%21me%21me%21_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mochi Mochi dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mochi_mochi_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nekonyan dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nekonyan_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "No One's Around to Help",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_one%27s_around_to_help_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Numa Numa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/numa_numa_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Orange Justice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_justice_%28dance%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Paffendorf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paffendorf",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pen-Pineapple-Apple-Pen",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pen-pineapple-apple-pen",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pokedance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pokedance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pumpkin dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pumpkin_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ran Ran Ru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ran_ran_ru",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Raccoon Dancing in a Circle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raccoon_dancing_in_a_circle_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rin Stripper Dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rin_stripper_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sad Cat dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sad_cat_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shikairo Days dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shikairo_days_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shoot dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoot_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Soda Shake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soda_shake_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spooky dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spooky_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Toca Toca Toca dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toca_toca_toca_dance_%28meme%29",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Torture dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torture_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Zui Zui dance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zui_zui_dance",
+      "category_path": "Specific choreographies",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 108,
+  "total_categories": 6,
+  "html_file": "tag_group_dances.html"
+}

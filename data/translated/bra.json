@@ -1,0 +1,565 @@
+{
+  "group_name": "bra",
+  "display_name": "Tag group:bra",
+  "source_url": "/wiki_pages/tag_group%3Abra",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abra",
+  "categories": [
+    {
+      "h4": "Main",
+      "h5": null,
+      "path": "Main",
+      "tag_count": 1
+    },
+    {
+      "h4": "Specific colors of bras",
+      "h5": null,
+      "path": "Specific colors of bras",
+      "tag_count": 12
+    },
+    {
+      "h4": "Multiple colors of bras",
+      "h5": null,
+      "path": "Multiple colors of bras",
+      "tag_count": 1
+    },
+    {
+      "h4": "Patterns and prints of bras",
+      "h5": null,
+      "path": "Patterns and prints of bras",
+      "tag_count": 9
+    },
+    {
+      "h4": "Models of bras",
+      "h5": null,
+      "path": "Models of bras",
+      "tag_count": 13
+    },
+    {
+      "h4": "Misc",
+      "h5": null,
+      "path": "Misc",
+      "tag_count": 14
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra",
+      "category_path": "Main",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "aqua bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "black bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blue bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "brown bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "green bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grey bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "orange bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pink bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "purple bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "red bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "white bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "yellow bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_bra",
+      "category_path": "Specific colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "multicolored bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_bra",
+      "category_path": "Multiple colors of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "checkered bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_bra",
+      "category_path": "Patterns and prints of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lace bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace_bra",
+      "category_path": "Patterns and prints of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lace-trimmed bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_bra",
+      "category_path": "Patterns and prints of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "plaid bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid_bra",
+      "category_path": "Patterns and prints of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "polka dot bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_bra",
+      "category_path": "Patterns and prints of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "print bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_bra",
+      "category_path": "Patterns and prints of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "strawberry bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_bra",
+      "category_path": "Patterns and prints of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "striped bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_bra",
+      "category_path": "Patterns and prints of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "vertical-striped bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vertical-striped_bra",
+      "category_path": "Patterns and prints of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "adhesive bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adhesive_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "belt bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belt_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bow bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bridgeless bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bridgeless_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cupless bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cupless_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "frilled bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "front-hook bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/front-hook_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "front-tie bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/front-tie_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nursing bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nursing_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shelf bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shelf_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sports bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sports_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "strapless bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "training bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/training_bra",
+      "category_path": "Models of bras",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "adjusting bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_bra",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra_lift",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra on ass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra_on_ass",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra_on_head",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra peek",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra_peek",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra_pull",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bra strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra_strap",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hand in bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_in_bra",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "holding bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bra",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "no bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_bra",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "open bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_bra",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "presenting bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/presenting_bra",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "torn bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_bra",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unworn bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_bra",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bustier",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bustier",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 51,
+  "total_categories": 7,
+  "html_file": "tag_group_bra.html"
+}

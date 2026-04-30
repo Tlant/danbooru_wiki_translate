@@ -1,0 +1,1089 @@
+{
+  "group_name": "hair",
+  "display_name": "Tag group:hair",
+  "source_url": "/wiki_pages/tag_group%3Ahair",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair",
+  "categories": [
+    {
+      "h4": "Hair styles and colors",
+      "h5": null,
+      "path": "Hair styles and colors",
+      "tag_count": 0
+    },
+    {
+      "h4": "Actions",
+      "h5": null,
+      "path": "Actions",
+      "tag_count": 31
+    },
+    {
+      "h4": "Objects",
+      "h5": null,
+      "path": "Objects",
+      "tag_count": 32
+    },
+    {
+      "h4": "Facial hair",
+      "h5": null,
+      "path": "Facial hair",
+      "tag_count": 7
+    },
+    {
+      "h4": "Fantasy",
+      "h5": null,
+      "path": "Fantasy",
+      "tag_count": 20
+    },
+    {
+      "h4": "Miscellaneous",
+      "h5": null,
+      "path": "Miscellaneous",
+      "tag_count": 14
+    }
+  ],
+  "tags": [
+    {
+      "name": "biting hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/biting_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "eating hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eating_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grabbing another's hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grabbing_another%27s_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hairdressing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairdressing",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "braiding hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/braiding_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cutting hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cutting_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cutting another's hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cutting_another%27s_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cutting own hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cutting_own_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "brushing hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brushing_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "brushing another's hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brushing_another%27s_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "brushing own hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brushing_own_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "heartbreak haircut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heartbreak_haircut",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tying hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tying_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hand in own hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_in_own_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "adjusting hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bunching hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bunching_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair flip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_flip",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grabbing another's hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grabbing_another%27s_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tucking hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tucking_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "holding own hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_own_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "holding another's hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ruffling hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ruffling_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "twirling hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/twirling_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "playing with hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/playing_with_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "playing with another's hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/playing_with_another%27s_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "playing with own hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/playing_with_own_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hairjob",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairjob",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "licking another's hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/licking_another%27s_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kissing hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kissing_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "smelling hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smelling_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "whipping hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whipping_hair",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair brush",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_brush",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair dryer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_dryer",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shampoo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shampoo",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair rollers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_rollers",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "curling iron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/curling_iron",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair straightener",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_straightener",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "arrow through hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arrow_through_hair",
+      "category_path": "Objects",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bun cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bun_cover",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hairpods",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairpods",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "comb",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/comb",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair extensions",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_extensions",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "接发/假发片",
+      "confidence": "A",
+      "tag_cn_long": "用于增加头发长度或体积的延长假发。"
+    },
+    {
+      "name": "cyberlox",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cyberlox",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "赛博辫",
+      "confidence": "B",
+      "tag_cn_long": "合成材料制成的辫状发饰，常见于赛博朋克时尚。"
+    },
+    {
+      "name": "hair ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_ornament",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "发饰",
+      "confidence": "A",
+      "tag_cn_long": "佩戴在头发上用于装饰的饰品，不包括用于扎束头发的发带或发圈。"
+    },
+    {
+      "name": "hair bell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bell",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair bobbles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bobbles",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "发球圈",
+      "confidence": "B",
+      "tag_cn_long": "由弹性带和两个大球组成的发饰，用于扎束头发，常见于年轻女孩。"
+    },
+    {
+      "name": "hair bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bow",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "发蝶结",
+      "confidence": "C",
+      "tag_cn_long": "戴在头发上的蝴蝶结状发饰，常用于扎马尾或双马尾，或作为纯装饰。"
+    },
+    {
+      "name": "hair ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_ribbon",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "发带",
+      "confidence": "A",
+      "tag_cn_long": "戴在头发上的丝带，用于装饰或扎束头发。"
+    },
+    {
+      "name": "hairclip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairclip",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "发夹",
+      "confidence": "A",
+      "tag_cn_long": "用于固定头发或装饰的夹子，通常带有卡扣机制。"
+    },
+    {
+      "name": "hairpin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairpin",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "发簪",
+      "confidence": "A",
+      "tag_cn_long": "用于固定头发的U形或棒状发饰，无卡扣，直接插入头发中。"
+    },
+    {
+      "name": "hair flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_flower",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "头花",
+      "confidence": "A",
+      "tag_cn_long": "戴在头发上的一朵或多朵鲜花或人造花作为装饰。"
+    },
+    {
+      "name": "hair tubes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_tubes",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "frilled hair tubes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_hair_tubes",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "single hair tube",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_hair_tube",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kanzashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kanzashi",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair stick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_stick",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair tie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_tie",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hairband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairband",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "发箍",
+      "confidence": "A",
+      "tag_cn_long": "戴在头顶用于固定头发的弹性塑料或布制带子。"
+    },
+    {
+      "name": "hair weapon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_weapon",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "headband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headband",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "knife in hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knife_in_hair",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "scrunchie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scrunchie",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wig",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wig",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "facial hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/facial_hair",
+      "category_path": "Facial hair",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "beard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beard",
+      "category_path": "Facial hair",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bearded girl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bearded_girl",
+      "category_path": "Facial hair",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "goatee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/goatee",
+      "category_path": "Facial hair",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mustache",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mustache",
+      "category_path": "Facial hair",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fake mustache",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fake_mustache",
+      "category_path": "Facial hair",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "stubble",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stubble",
+      "category_path": "Facial hair",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cloud hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cloud_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "chocolate hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "crystal hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crystal_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "energy hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/energy_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "feather hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feather_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fiery hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fiery_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "food-themed hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food-themed_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "glowing hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glowing_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "intestine hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/intestine_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "liquid hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/liquid_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mechanical hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mechanical_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "plant hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plant_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "prehensile hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prehensile_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "helicopter hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/helicopter_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tentacle hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tentacle_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "living hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/living_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ribbon hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbon_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "slime hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slime_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "snake hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snake_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "starry hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/starry_hair",
+      "category_path": "Fantasy",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blood in hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blood_in_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cum on hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cum_on_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "burnt hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/burnt_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naturally detached hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naturally_detached_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "severed hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/severed_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "expressive hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/expressive_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "floating hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floating_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair in own mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_in_own_mouth",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair spread out",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_spread_out",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "heart-shaped hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart-shaped_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lone nape hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lone_nape_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "loose hair strand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loose_hair_strand",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "symbol-shaped hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/symbol-shaped_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wet hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_hair",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 104,
+  "total_categories": 6,
+  "html_file": "tag_group_hair.html"
+}

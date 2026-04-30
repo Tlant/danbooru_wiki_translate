@@ -1,0 +1,3863 @@
+{
+  "group_name": "companies_and_brand_names",
+  "display_name": "Tag group:companies and brand names",
+  "source_url": "/wiki_pages/tag_group%3Acompanies_and_brand_names",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acompanies_and_brand_names",
+  "categories": [
+    {
+      "h4": "About",
+      "h5": null,
+      "path": "About",
+      "tag_count": 0
+    },
+    {
+      "h4": "Clothing and Accessories",
+      "h5": null,
+      "path": "Clothing and Accessories",
+      "tag_count": 24
+    },
+    {
+      "h4": "Automotive",
+      "h5": null,
+      "path": "Automotive",
+      "tag_count": 59
+    },
+    {
+      "h4": "Electronics and Technology",
+      "h5": null,
+      "path": "Electronics and Technology",
+      "tag_count": 35
+    },
+    {
+      "h4": "Media and Entertainment",
+      "h5": null,
+      "path": "Media and Entertainment",
+      "tag_count": 46
+    },
+    {
+      "h4": "Musical Instruments and Equipment",
+      "h5": null,
+      "path": "Musical Instruments and Equipment",
+      "tag_count": 11
+    },
+    {
+      "h4": "Beverages",
+      "h5": null,
+      "path": "Beverages",
+      "tag_count": 41
+    },
+    {
+      "h4": "Foods",
+      "h5": null,
+      "path": "Foods",
+      "tag_count": 51
+    },
+    {
+      "h4": "Restaurant and Fast Food Chains",
+      "h5": null,
+      "path": "Restaurant and Fast Food Chains",
+      "tag_count": 31
+    },
+    {
+      "h4": "Video games",
+      "h5": null,
+      "path": "Video games",
+      "tag_count": 20
+    },
+    {
+      "h4": "Misc. Consumer Goods",
+      "h5": null,
+      "path": "Misc. Consumer Goods",
+      "tag_count": 10
+    },
+    {
+      "h4": "Retail and Services",
+      "h5": null,
+      "path": "Retail and Services",
+      "tag_count": 13
+    },
+    {
+      "h4": "Freight and Package Delivery",
+      "h5": null,
+      "path": "Freight and Package Delivery",
+      "tag_count": 7
+    },
+    {
+      "h4": "Transportation",
+      "h5": null,
+      "path": "Transportation",
+      "tag_count": 24
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 4
+    }
+  ],
+  "tags": [
+    {
+      "name": "Adidas",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adidas",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ASICS",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asics",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chanel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chanel",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Citizen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/citizen_%28brand%29",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Converse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/converse",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dior",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dior",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Doc Martens",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doc_martens",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gucci",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gucci",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "H&amp;M",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/h%26m",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Juicy Couture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/juicy_couture",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Levi's",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/levi%27s",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mezzo Piano",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mezzo_piano",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "New Balance",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/new_balance",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nike",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nike_%28company%29",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Air Jordan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/air_jordan",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Puma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puma_%28brand%29",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ray-Ban",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ray-ban",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Reebok",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reebok",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Speedo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/speedo_%28company%29",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "The North Face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/the_north_face",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tommy Hilfiger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tommy_hilfiger",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Uniqlo",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/uniqlo",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Vans",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vans",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Victoria's Secret",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/victoria%27s_secret",
+      "category_path": "Clothing and Accessories",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Alfa Romeo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alfa_romeo",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Aston Martin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aston_martin",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Audi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/audi",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bentley",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bentley",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "BMW",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bmw",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bugatti",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bugatti",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Buick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buick",
+      "category_path": "Automotive",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cadillac",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cadillac",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chevrolet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chevrolet",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chrysler",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chrysler",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Citroen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/citroen",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Daihatsu",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/daihatsu",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Delorean",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/delorean",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dodge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dodge_%28company%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ducati",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ducati",
+      "category_path": "Automotive",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ferrari",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ferrari",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fiat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fiat",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ford",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ford",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Holden",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holden",
+      "category_path": "Automotive",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Honda",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honda",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hummer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hummer",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Indian",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/indian_%28motorcycle%29",
+      "category_path": "Automotive",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Isuzu Motors",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/isuzu_motors",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jaguar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jaguar_%28car%29",
+      "category_path": "Automotive",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jeep",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jeep_%28company%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kawasaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kawasaki_%28company%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lamborghini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lamborghini",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lada (car)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lada_%28car%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lancia (brand)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lancia_%28brand%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Land Rover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/land_rover_%28company%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lotus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lotus_%28brand%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Maserati",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maserati",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mazda",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mazda",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mclaren",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mclaren",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mercedes-Benz",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mercedes-benz",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Michelin",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/michelin",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mini Cooper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_cooper",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mitsubishi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mitsubishi_motors",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nissan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nissan",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Opel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/opel_%28company%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pagani",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pagani",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Peugeot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peugeot",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Plymouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plymouth_%28brand%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Polestar",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/polestar_%28company%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pontiac",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pontiac",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Porsche",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/porsche",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Renault",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/renault",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rolls-Royce",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rolls-royce",
+      "category_path": "Automotive",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Subaru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/subaru_%28brand%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Suzuki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/suzuki_%28company%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tesla, Inc.",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tesla_%28company%29",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Trabant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trabant",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Triumph (motorcycle)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triumph_%28motorcycle%29",
+      "category_path": "Automotive",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Toyota",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toyota",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lexus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lexus",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Vespa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vespa",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Volkswagen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/volkswagen",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yamaha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yamaha",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Zastava Automobiles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zastava_automobiles",
+      "category_path": "Automotive",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "AMD",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/amd",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Apple Inc.",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/apple_inc.",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Beats by Dr. Dre",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beats_by_dr._dre",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Asus",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/asus",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Axent Wear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/axent_wear",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Blackberry",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/blackberry_ltd",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bose",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Canon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/canon_%28company%29",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dell",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dyson",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dyson_%28company%29",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Elgato",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/elgato_%28company%29",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Epson",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/epson",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Google",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/google",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Facebook",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/facebook",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "HTC",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/htc_corporation",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Huawei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/huawei",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Intel",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/intel",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "JVC",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jvc",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Koss",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/koss",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "LG Electronics",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lg_electronics",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Microsoft",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/microsoft",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nikon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nikon_%28company%29",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nokia",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/nokia_%28company%29",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nvidia",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/nvidia",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Olympus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/olympus_%28company%29",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pentax",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pentax",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Panasonic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panasonic_corporation",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Philips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/philips_%28brand%29",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pioneer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pioneer_corporation",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Samsung",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/samsung",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sennheiser",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sennheiser",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sharp Corporation",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sharp_corporation",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sony",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sony",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Toshiba",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toshiba",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wacom",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/wacom",
+      "category_path": "Electronics and Technology",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "20th Century Studios",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/20th_century_studios",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "AbemaTV",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/abematv",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Adult Swim",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/adult_swim",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "BBC",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/bbc_%28broadcaster%29",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bilibili",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/bilibili",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bushiroad",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/bushiroad",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CBS",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/cbs",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CNN",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/cnn",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Columbia Pictures",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/columbia_pictures",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "TriStar Pictures",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tristar_pictures",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Disney",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/disney",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pixar",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pixar",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "DreamWorks",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/dreamworks",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fox News",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/fox_news",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fuji Television",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/fuji_television",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gainax",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/gainax",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Glitch Productions",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/glitch_productions",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "HTB",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/htb",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kadokawa",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/kadokawa",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kyoto Animation",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/kyoto_animation",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Legendary Pictures",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/legendary_pictures",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "MAPPA",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/studio_mappa",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "MBS",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mbs",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "MTV",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mtv",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "NBC",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/nbc",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Netflix",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/netflix",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Niconico",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/niconico",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nickelodeon",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/nickelodeon",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nippon Columbia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nippon_columbia",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nippon TV",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/nippon_tv",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "NHK",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/nhk_%28broadcaster%29",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Paramount Pictures",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/paramount_pictures",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Studio Trigger",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/trigger_%28company%29",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sunrise",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sunrise_%28company%29",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "TBS",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tbs",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Toei Company",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/toei_company",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tsuburaya Productions",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tsuburaya_productions",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "TV Asahi",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tv_asahi",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "TV Tokyo",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tv_tokyo",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Twitch",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/twitch.tv",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Universal Studios",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/universal_studios",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Warner Bros.",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/warner_bros.",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cartoon Network",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/cartoon_network",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "White Fox",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/white_fox_%28company%29",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "WWE",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/wwe",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "YouTube",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/youtube",
+      "category_path": "Media and Entertainment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fender",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fender_musical_instruments_corporation",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fender stratocaster",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fender_stratocaster",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gibson",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gibson_brands_inc",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gibson Flying V",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gibson_flying_v",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gibson Les Paul",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gibson_les_paul",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ibanez",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ibanez",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Korg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/korg",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Marshall Amplification",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marshall_amplification",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rickenbacker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rickenbacker",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Roland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/roland_%28company%29",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yamaha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yamaha",
+      "category_path": "Musical Instruments and Equipment",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "7up",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/7up",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Asahi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asahi_breweries",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "A&amp;W",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/a%26w",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Boss Coffee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boss_coffee",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Budweiser",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/budweiser",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Calpis",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/calpis",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "C.C. Lemon",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/c.c._lemon",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Coca-Cola",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/coca-cola",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Corona",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corona_%28brand%29",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dr. Pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dr_pepper",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Evian",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/evian",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fanta",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fanta",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gamer Supps",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/gamer_supps",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gatorade",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/gatorade",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Georgia Max Coffee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/georgia_max_coffee",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Guinness",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guinness_%28beer%29",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Heineken",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heineken",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hennessy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hennessy",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jack Daniel's",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jack_daniel%27s",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kirin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kirin_%28company%29",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lipovitan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lipovitan",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lipton",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lipton",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Monster",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monster_energy",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mountain Dew",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mountain_dew",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Orangina",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/orangina",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Orion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orion_beer",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pabst Blue Ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pabst_blue_ribbon",
+      "category_path": "Beverages",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pepsi",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pepsi",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pernod Fils",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pernod_fils",
+      "category_path": "Beverages",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pocari Sweat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pocari_sweat",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Red Bull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_bull",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rockstar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rockstar_%28energy_drink%29",
+      "category_path": "Beverages",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sapporo Beer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sapporo_beer",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Smirnoff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smirnoff_%28vodka%29",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sprite",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sprite_%28drink%29",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Suntory",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/suntory",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tecate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tecate",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tsingtao",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tsingtao_%28brand%29",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Teh Botol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/teh_botol",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "UCC Coffee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ucc_coffee",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yebisu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yebisu",
+      "category_path": "Beverages",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Boukun Habanero",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/boukun_habanero",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bourbon corporation",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/bourbon_corporation",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Alfort",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/alfort_%28brand%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "White Rollita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_rollita",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bugles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bugles_%28food%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cadbury",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/cadbury",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Calbee (potato chips)",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/calbee_%28potato_chips%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jagarico",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jagarico",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kappa Ebisen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kappa_ebisen",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CalorieMate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caloriemate",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Campbell's",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/campbell%27s",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chip Star",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chip_star",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chupa Chups",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chupa_chups",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Doritos",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doritos",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Glico",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/glico",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pocky",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pocky",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pretz",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pretz",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Godiva",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/godiva_chocolatier",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Haagen-Dazs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/haagen-dazs",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Haribo",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/haribo",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Heinz",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/heinz",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hershey's",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hershey%27s",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hirota",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hirota_%28company%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kagome (brand)",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/kagome_%28brand%29",
+      "category_path": "Foods",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kikkoman",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kikkoman",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kraft",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/kraft",
+      "category_path": "Foods",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lay's",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lay%27s_%28potato_chips%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lotte",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/lotte_%28company%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Choco Pie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choco_pie",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Meiji",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/meiji_%28brand%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kinoko no Yama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kinoko_no_yama",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Takenoko no Sato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/takenoko_no_sato_%28food%29",
+      "category_path": "Foods",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "M&amp;M's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/m%26m%27s",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Morinaga",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/morinaga_%28brand%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nestle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nestle",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kit Kat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kitkat",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nissin",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/nissin",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nissin Cup Noodle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nissin_cup_noodle",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nutella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nutella",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Oreo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oreo",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pringles",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pringles",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shiroi Koibito",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shiroi_koibito",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Snickers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snickers_%28brand%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spam",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spam_%28food%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sun-Maid",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sun-maid",
+      "category_path": "Foods",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tim Tam",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tim_tam",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tirol Chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tirol_chocolate",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Toblerone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toblerone",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yakult",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yakult",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yamayoshi",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/yamayoshi_%28company%29",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yamazaki Baking",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/yamazaki_baking",
+      "category_path": "Foods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Anna Miller's",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anna_miller",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Black Star Burger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_star_burger",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Baskin-Robbins",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/baskin-robbins",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Burger King",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/burger_king",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chick-fil-A",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/chick-fil-a",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cold_stone_creamery",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CoCo ICHIBANYA",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/coco_ichibanya",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "COCO'S",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coco%27s",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dairy Queen",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/dairy_queen",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Domino's Pizza",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/domino%27s_pizza",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dunkin' Donuts",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/dunkin%27_donuts",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hooters",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/hooters",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jollibee",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/jollibee",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "KFC",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/kfc",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Krispy Kreme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/krispy_kreme",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Little Caesar's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/little_caesars",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lotteria",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/lotteria",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Matsuya Foods",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/matsuya_foods",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "McDonald's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mcdonald%27s",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mister Donut",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mister_donut",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "MOS Burger",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mos_burger",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Osaka Ohsho",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/osaka_ohsho",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Papa John's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/papa_john%27s",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pizza Hut",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pizza_hut",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pizza-La",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pizza-la",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Starbucks",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/starbucks",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Subway",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/subway_%28company%29",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sukiya",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sukiya",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tim Hortons",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tim_hortons",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wendy's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/wendy%27s",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yoshinoya",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yoshinoya_%28restaurant%29",
+      "category_path": "Restaurant and Fast Food Chains",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Atari",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/atari",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Atlus",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/atlus",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bandai Namco",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/bandai_namco",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Capcom",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/capcom",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Compile Heart",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/compile_heart",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "DMM",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/dmm",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Electronic Arts",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/electronic_arts",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Konami",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/konami",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hudson",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/hudson",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Idea Factory",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/idea_factory",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "miHoYo",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mihoyo",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nexon",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/nexon",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nihon Falcom",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/falcom",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nintendo",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/nintendo",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shanghai YoStar",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/yostar",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sega",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sega",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "SNK",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/snk",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sony",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sony",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Square Enix",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/square_enix",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Type-Moon",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/type-moon",
+      "category_path": "Video games",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Clorox",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clorox",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Coppertone",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/coppertone",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hasbro",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/hasbro",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Marie Maison de Mieux",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/marie_maison_de_mieux",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Marlboro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marlboro",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sanrio",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sanrio",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "San-X",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/san-x",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tide",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tide_%28detergent%29",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tomy",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tomy_company_ltd.",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "YouTooz",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/youtooz",
+      "category_path": "Misc. Consumer Goods",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "7-Eleven",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/7-eleven",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Amazon",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/amazon_%28company%29",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Circle K Sunkus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/circle_k_sunkus",
+      "category_path": "Retail and Services",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "FamilyMart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/familymart",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fedex",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fedex",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "IKEA",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/ikea",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Isetan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/isetan_%28department_store%29",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lawson",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/lawson",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Marui",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marui_%28company%29",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "MasterCard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mastercard",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mitsukoshi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mitsukoshi_%28department_store%29",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sofmap",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sofmap",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Walmart",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/walmart",
+      "category_path": "Retail and Services",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CSX Corporation",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/csx_corporation",
+      "category_path": "Freight and Package Delivery",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "DHL",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dhl",
+      "category_path": "Freight and Package Delivery",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "FedEx",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fedex",
+      "category_path": "Freight and Package Delivery",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sagawa Express",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sagawa_express",
+      "category_path": "Freight and Package Delivery",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "United Parcel Service",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/united_parcel_service",
+      "category_path": "Freight and Package Delivery",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "United States Postal Service",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/united_states_postal_service",
+      "category_path": "Freight and Package Delivery",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yamato Transport",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/yamato_transport",
+      "category_path": "Freight and Package Delivery",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "All Nippon Airways",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/all_nippon_airways",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cathay Pacific",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/cathay_pacific",
+      "category_path": "Transportation",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Enoshima Electric Railway",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/enoshima_electric_railway",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Japan Airlines",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/japan_airlines",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Japan Railways",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/japan_railways",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "East Japan Railway Company",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/east_japan_railway_company",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Central Japan Railway Company",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/central_japan_railway_company",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "West Japan Railway Company",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/west_japan_railway_company",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Keihin Kyuukou Dentetsu",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/keihin_kyuukou_dentetsu",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Keio Dentetsu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/keio_dentetsu",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kereta Api Indonesia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kereta_api_indonesia",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kereta Cepat Indonesia-China (KCIC(Whoosh))",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kereta_cepat_indonesia_china",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Long Island Rail Road",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_island_rail_road",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Moscow Metro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moscow_metro",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Odakyu Electric Railway",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/odakyu_electric_railway",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Peach",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/peach_%28airline%29",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Qantas",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/qantas",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Russian Railways",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/russian_railways",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Seibu Railway",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/seibu_railway",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Singapore Airlines",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/singapore_airlines",
+      "category_path": "Transportation",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tobu Railway",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tobu_railway",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokyo Metro",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tokyo_metro",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokyo Rinkai Kousoku Tetsudou",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/tokyo_rinkai_kousoku_tetsudou",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yurikamome",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/yurikamome_%28company%29",
+      "category_path": "Transportation",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "brand name imitation",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brand_name_imitation",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "company name",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/company_name",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "logo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/logo",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "product placement",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/product_placement",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 376,
+  "total_categories": 15,
+  "html_file": "tag_group_companies_and_brand_names.html"
+}

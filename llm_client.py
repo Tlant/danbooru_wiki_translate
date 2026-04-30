@@ -3,8 +3,11 @@ DeepSeek API client wrapper (OpenAI-compatible format).
 """
 import json
 import re
+import time
+import httpx
 from openai import OpenAI
-from config import LLM_BASE_URL, LLM_API_KEY, LLM_MODEL
+from config import (LLM_BASE_URL, LLM_API_KEY, LLM_MODEL, LLM_TIMEOUT, HTTP_PROXY,
+                     LOG_REQUEST, LOG_RESPONSE)
 
 # ---------------------------------------------------------------------------
 # Prompt templates
@@ -86,12 +89,22 @@ def _parse_response(text: str) -> list[dict]:
 
 
 class LLMClient:
-    """Thin wrapper around OpenAI-compatible DeepSeek API."""
+    """Wrapper around OpenAI-compatible DeepSeek API."""
 
     def __init__(self, base_url: str = LLM_BASE_URL,
                  api_key: str = LLM_API_KEY, model: str = LLM_MODEL):
-        self.client = OpenAI(api_key=api_key, base_url=base_url)
+        timeout = httpx.Timeout(LLM_TIMEOUT, connect=30.0)
+        if HTTP_PROXY:
+            http_client = httpx.Client(proxy=HTTP_PROXY, timeout=timeout)
+        else:
+            http_client = httpx.Client(timeout=timeout)
+        self.client = OpenAI(api_key=api_key, base_url=base_url,
+                             http_client=http_client)
         self.model = model
+        self._call_count = 0
+        proxy_info = f" proxy={HTTP_PROXY}" if HTTP_PROXY else ""
+        print(f"[llm] Client init: model={model} base_url={base_url} "
+              f"timeout={LLM_TIMEOUT}s{proxy_info}", flush=True)
 
     def translate_batch(self, contexts: list[dict]) -> list[dict]:
         """
@@ -100,12 +113,28 @@ class LLMClient:
 
         Raises ValueError on parse failure, or API errors.
         """
-        context_json = _build_context_json(contexts)
-        user_prompt = USER_PROMPT_TEMPLATE.format(
-            count=len(contexts),
-            context_json=context_json,
-        )
+        self._call_count += 1
+        call_id = self._call_count
+        n_tags = len(contexts)
+        tag_names = [c["tag"] for c in contexts[:5]]
+        tag_preview = ", ".join(tag_names)
+        if n_tags > 5:
+            tag_preview += f", ... (+{n_tags - 5} more)"
 
+        print(f"  [llm #{call_id}] Sending {n_tags} tags: {tag_preview}...", flush=True)
+
+        context_json = _build_context_json(contexts)
+        prompt_chars = len(context_json)
+
+        user_prompt = USER_PROMPT_TEMPLATE.format(
+            count=n_tags, context_json=context_json)
+
+        if LOG_REQUEST:
+            print(f"  [llm #{call_id}] === REQUEST ===", flush=True)
+            print(user_prompt, flush=True)
+            print(f"  [llm #{call_id}] === END REQUEST ===", flush=True)
+
+        t0 = time.time()
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
@@ -116,9 +145,40 @@ class LLMClient:
             reasoning_effort="high",
             extra_body={"thinking": {"type": "enabled"}},
         )
+        elapsed = time.time() - t0
 
+        usage = response.usage
         raw = response.choices[0].message.content
-        return _parse_response(raw)
+
+        # Count tokens if available
+        tok_info = ""
+        if usage:
+            tok_info = (f" prompt={usage.prompt_tokens}tok "
+                        f"completion={usage.completion_tokens}tok")
+
+        print(f"  [llm #{call_id}] Response in {elapsed:.1f}s.{tok_info} "
+              f"output={len(raw)}chars", flush=True)
+
+        if LOG_RESPONSE:
+            print(f"  [llm #{call_id}] === RESPONSE ===", flush=True)
+            print(raw, flush=True)
+            print(f"  [llm #{call_id}] === END RESPONSE ===", flush=True)
+
+        results = _parse_response(raw)
+
+        # Print confidence distribution for this batch
+        conf_dist = {"A": 0, "B": 0, "C": 0, "D": 0}
+        for r in results:
+            c = r.get("confidence", "?")
+            conf_dist[c] = conf_dist.get(c, 0) + 1
+        print(f"  [llm #{call_id}] Confidence: A={conf_dist['A']} B={conf_dist['B']} "
+              f"C={conf_dist['C']} D={conf_dist['D']}", flush=True)
+
+        # Show sample translations
+        for r in results[:3]:
+            print(f"    {r['tag']} → {r['tag_cn']} ({r['confidence']})", flush=True)
+
+        return results
 
     def preview_prompt(self, contexts: list[dict]) -> str:
         """Return the user prompt that would be sent (for dry-run)."""
@@ -130,7 +190,6 @@ class LLMClient:
 
 
 if __name__ == "__main__":
-    # Quick smoke test: preview prompt for a few sample tags
     import sys
     sys.stdout.reconfigure(encoding="utf-8")
 

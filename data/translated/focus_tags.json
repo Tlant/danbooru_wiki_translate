@@ -1,0 +1,353 @@
+{
+  "group_name": "focus_tags",
+  "display_name": "Tag group:focus tags",
+  "source_url": "/wiki_pages/tag_group%3Afocus_tags",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afocus_tags",
+  "categories": [
+    {
+      "h4": "Body parts",
+      "h5": null,
+      "path": "Body parts",
+      "tag_count": 13
+    },
+    {
+      "h4": "Gender",
+      "h5": null,
+      "path": "Gender",
+      "tag_count": 2
+    },
+    {
+      "h4": "Objects",
+      "h5": null,
+      "path": "Objects",
+      "tag_count": 11
+    },
+    {
+      "h4": "Other",
+      "h5": null,
+      "path": "Other",
+      "tag_count": 4
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "armpit focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armpit_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ass focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ass_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "back focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/back_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "breast focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breast_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "eye focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eye_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "foot focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/foot_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hand focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hip focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hip_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "leg focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "navel focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/navel_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pectoral focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pectoral_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "penis focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penis_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "thigh focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thigh_focus",
+      "category_path": "Body parts",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "male focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/male_focus",
+      "category_path": "Gender",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "other focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/other_focus",
+      "category_path": "Gender",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "animal focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "book focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/book_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "clothes focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothes_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cloud focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cloud_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "food focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "footwear focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/footwear_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "object focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/object_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "text focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/text_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "vehicle focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vehicle_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "weapon focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/weapon_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wind chime focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wind_chime_focus",
+      "category_path": "Objects",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "monster focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monster_focus",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "plant focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plant_focus",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "solo focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/solo_focus",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "text focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/text_focus",
+      "category_path": "Other",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "soft focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soft_focus",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 31,
+  "total_categories": 5,
+  "html_file": "tag_group_focus_tags.html"
+}

@@ -1,0 +1,1055 @@
+{
+  "group_name": "handwear",
+  "display_name": "Tag group:handwear",
+  "source_url": "/wiki_pages/tag_group%3Ahandwear",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahandwear",
+  "categories": [
+    {
+      "h4": "Gloves",
+      "h5": null,
+      "path": "Gloves",
+      "tag_count": 12
+    },
+    {
+      "h4": "Glove prints",
+      "h5": null,
+      "path": "Glove prints",
+      "tag_count": 4
+    },
+    {
+      "h4": "Glove accessories",
+      "h5": null,
+      "path": "Glove accessories",
+      "tag_count": 2
+    },
+    {
+      "h4": "Glove trims",
+      "h5": null,
+      "path": "Glove trims",
+      "tag_count": 4
+    },
+    {
+      "h4": "Asymmetrical Gloves",
+      "h5": null,
+      "path": "Asymmetrical Gloves",
+      "tag_count": 10
+    },
+    {
+      "h4": "Glove Materials",
+      "h5": null,
+      "path": "Glove Materials",
+      "tag_count": 6
+    },
+    {
+      "h4": "Glove interactions",
+      "h5": null,
+      "path": "Glove interactions",
+      "tag_count": 8
+    },
+    {
+      "h4": "Glove colors",
+      "h5": null,
+      "path": "Glove colors",
+      "tag_count": 13
+    },
+    {
+      "h4": "Other handwear",
+      "h5": null,
+      "path": "Other handwear",
+      "tag_count": 13
+    },
+    {
+      "h4": "Hand Accessories",
+      "h5": null,
+      "path": "Hand Accessories",
+      "tag_count": 13
+    },
+    {
+      "h4": "Hand markings",
+      "h5": null,
+      "path": "Hand markings",
+      "tag_count": 8
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 4
+    }
+  ],
+  "tags": [
+    {
+      "name": "Elbow gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/elbow_gloves",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fingerless gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fingerless_gloves",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Partially fingerless gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/partially_fingerless_gloves",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fold-over gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fold-over_gloves",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Glove cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glove_cuffs",
+      "category_path": "Gloves",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Half gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/half_gloves",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Paw gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paw_gloves",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cat paws",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_paws",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Torn gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_gloves",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Layered gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/layered_gloves",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cross-laced gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross-laced_gloves",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Glove cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glove_cutout",
+      "category_path": "Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Print gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_gloves",
+      "category_path": "Glove prints",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Striped gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_gloves",
+      "category_path": "Glove prints",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Paw print palms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paw_print_palms",
+      "category_path": "Glove prints",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cow print gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cow_print_gloves",
+      "category_path": "Glove prints",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Glove bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glove_bow",
+      "category_path": "Glove accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spiked gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiked_gloves",
+      "category_path": "Glove accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fur-trimmed gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur-trimmed_gloves",
+      "category_path": "Glove trims",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Frilled gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_gloves",
+      "category_path": "Glove trims",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lace-trimmed gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_gloves",
+      "category_path": "Glove trims",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ribbon-trimmed gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbon-trimmed_gloves",
+      "category_path": "Glove trims",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Single glove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_glove",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mismatched gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mismatched_gloves",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Single elbow glove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_elbow_glove",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Single fingerless glove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_fingerless_glove",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Uneven gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uneven_gloves",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yugake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yugake",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Unworn gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_gloves",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Archery shooting glove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/archery_shooting_glove",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Artist glove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/artist_glove",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Falconry glove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/falconry_glove",
+      "category_path": "Asymmetrical Gloves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fishnet gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fishnet_gloves",
+      "category_path": "Glove Materials",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lace gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace_gloves",
+      "category_path": "Glove Materials",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Latex gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/latex_gloves",
+      "category_path": "Glove Materials",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Leather gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leather_gloves",
+      "category_path": "Glove Materials",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rubber gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rubber_gloves",
+      "category_path": "Glove Materials",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "See-through gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_gloves",
+      "category_path": "Glove Materials",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "adjusting gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_gloves",
+      "category_path": "Glove interactions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blood on gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blood_on_gloves",
+      "category_path": "Glove interactions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "biting glove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/biting_glove",
+      "category_path": "Glove interactions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "glove in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glove_in_mouth",
+      "category_path": "Glove interactions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "glove pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glove_pull",
+      "category_path": "Glove interactions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "holding gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_gloves",
+      "category_path": "Glove interactions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "putting on gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/putting_on_gloves",
+      "category_path": "Glove interactions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "removing glove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/removing_glove",
+      "category_path": "Glove interactions",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "aqua gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "black gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blue gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "brown gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "green gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grey gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "multicolored gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "orange gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pink gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "purple gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "red gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "white gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "yellow gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_gloves",
+      "category_path": "Glove colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gloves",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mechanical hands",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mechanical_hands",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "doll joints",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doll_joints",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "baseball mitt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baseball_mitt",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "boxing gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boxing_gloves",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bridal gauntlets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bridal_gauntlets",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "finger cots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/finger_cots",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "gauntlets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gauntlets",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kote",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kote",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kurokote",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kurokote",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mittens",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mittens",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "oven mitts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oven_mitts",
+      "category_path": "Other handwear",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hand puppets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_puppets",
+      "category_path": "Other handwear",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bandaged hand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandaged_hand",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bandaid on hand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandaid_on_hand",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Claw ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/claw_ring",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Finger puppet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/finger_puppet",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hand chains",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_chains",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "String around finger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/string_around_finger",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "string of fate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/string_of_fate",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Thimble",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thimble",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ring",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Butterfly ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butterfly_ring",
+      "category_path": "Hand Accessories",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ornate ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ornate_ring",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Finger bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/finger_bow",
+      "category_path": "Hand Accessories",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wedding ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wedding_ring",
+      "category_path": "Hand Accessories",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "body horror",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/body_horror",
+      "category_path": "Hand markings",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Finger tattoo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/finger_tattoo",
+      "category_path": "Hand markings",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hand eye",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_eye",
+      "category_path": "Hand markings",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hand jewel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_jewel",
+      "category_path": "Hand markings",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "material growth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/material_growth",
+      "category_path": "Hand markings",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hand mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_mouth",
+      "category_path": "Hand markings",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hand tattoo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_tattoo",
+      "category_path": "Hand markings",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "henna",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/henna",
+      "category_path": "Hand markings",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "no gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_gloves",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Armbinder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armbinder",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hand hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_hair",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Knuckle hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knuckle_hair",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 97,
+  "total_categories": 12,
+  "html_file": "tag_group_handwear.html"
+}

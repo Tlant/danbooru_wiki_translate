@@ -1,0 +1,4701 @@
+{
+  "group_name": "real_world_locations",
+  "display_name": "Tag group:real world locations",
+  "source_url": "/wiki_pages/tag_group%3Areal_world_locations",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Areal_world_locations",
+  "categories": [
+    {
+      "h4": "Countries",
+      "h5": null,
+      "path": "Countries",
+      "tag_count": 321
+    },
+    {
+      "h4": "Buildings and Landmarks",
+      "h5": null,
+      "path": "Buildings and Landmarks",
+      "tag_count": 145
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "Afghanistan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/afghanistan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Algeria",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/algeria",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Argentina",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/argentina",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Armenia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armenia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Australia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/australia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Melbourne",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/melbourne",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sydney",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sydney",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Austria",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/austria",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Vienna",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vienna",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Azerbaijan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/azerbaijan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Baku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baku_%28azerbaijan%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bahrain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bahrain",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bangladesh",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bangladesh",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Belarus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belarus",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Belgium",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belgium",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bolivia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bolivia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bosnia_and_herzegovina",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Brazil",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brazil",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rio de Janeiro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rio_de_janeiro",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bulgaria",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bulgaria",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Burkina Faso",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/burkina_faso",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cambodia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cambodia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cameroon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cameroon",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Canada",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/canada",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nova Scotia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nova_scotia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Quebec",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quebec",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Toronto",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toronto",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chile",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Easter Island",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/easter_island",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "China",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/china",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Beijing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beijing",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shanghai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shanghai",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hong Kong",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hong_kong",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Macau",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/macau",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shenzhen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shenzhen",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Colombia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colombia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Costa Rica",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/costa_rica",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cote d'Ivoire",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cote_d%27ivoire",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Croatia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/croatia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cuba",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cuba",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cyprus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cyprus",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Czech Republic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/czech_republic",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Prague",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prague",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Denmark",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/denmark",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Greenland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/greenland",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dominican Republic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dominican_republic",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ecuador",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ecuador",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Egypt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/egypt",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "El Salvador",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/el_salvador",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Estonia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/estonia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ethiopia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ethiopia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Finland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/finland",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "France",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/france",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Corsica",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corsica",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "French Guiana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/french_guiana",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Paris",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paris",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Marseille",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marseille",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Georgia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/georgia_%28country%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Germany",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/germany",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Berlin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/berlin",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ghana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ghana",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Greece",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/greece",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Guatemala",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guatemala",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Guyana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guyana",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Haiti",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/haiti",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Honduras",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honduras",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hungary",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hungary",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Iceland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iceland",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "India",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/india",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Indonesia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/indonesia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Iran",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iran",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Iraq",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iraq",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Baghdad",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baghdad",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ireland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ireland",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dublin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dublin",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Israel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/israel",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "West Jerusalem",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jerusalem",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Italy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/italy",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Florence",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/florence_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Milan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Naples",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naples",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rome",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rome_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Venice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/venice",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jamaica",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jamaica",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Japan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/japan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Aichi Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aichi_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nagoya",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nagoya_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokoname City",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tokoname_city",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Akita Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/akita_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Aomori Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aomori_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chiba Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chiba_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chiba",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chiba_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kamogawa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kamogawa_%28chiba%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Matsudo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/matsudo_%28chiba%29",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ehime Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ehime_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Matsuyama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/matsuyama_%28ehime%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fukui Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fukui_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fukuoka Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fukuoka_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fukuoka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fukuoka_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fukushima Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fukushima_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gifu Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gifu_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gunma Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gunma_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hiroshima Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hiroshima_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hiroshima",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hiroshima",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kure",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kure_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Onomichi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/onomichi_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Takehara",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/takehara_%28hiroshima%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hokkaido",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hokkaido",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hakodate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hakodate_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Otaru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/otaru_%28hokkaido%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sapporo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sapporo_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wakkanai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wakkanai",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hyogo Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hyogo_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kobe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kobe",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ibaraki Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ibaraki_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ooarai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ooarai_%28ibaraki%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ishikawa Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ishikawa_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kanazawa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kanazawa_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Iwate Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iwate_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Morioka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/morioka",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kagawa Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kagawa_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kagoshima Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kagoshima_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kanagawa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kanagawa",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fujisawa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fujisawa_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kamakura",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kamakura_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kawasaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kawasaki_%28kanagawa%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yokohama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yokohama",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yokosuka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yokosuka",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kochi Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kochi_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kumamoto Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kumamoto_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kyoto Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kyoto_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kyoto",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kyoto",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Maizuru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maizuru_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mie Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mie_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Miyagi Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miyagi_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sendai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sendai_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Miyazaki Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miyazaki_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nagano Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nagano_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Okaya City",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/okaya_city",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Suwa City",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/suwa_city",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nagasaki Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nagasaki_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nagasaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nagasaki",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sasebo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sasebo",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nara Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nara_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nara",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nara_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Niigata Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/niigata_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Oita Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oita_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Okayama Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/okayama_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Okinawa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/okinawa",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Naha City",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naha_city",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Osaka Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/osaka_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Osaka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/osaka_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Saga Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saga_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Saitama Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saitama_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kawagoe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kawagoe_%28saitama%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Saitama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saitama_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shiga Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shiga_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kusatsu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kusatsu_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Otsu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/otsu_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shimane Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shimane_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shizuoka Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shizuoka_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Atami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/atami_%28shizuoka%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Numazu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/numazu",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tochigi Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tochigi_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokushima Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tokushima_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokyo Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tokyo_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fuchu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fuchu_%28tokyo%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokyo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tokyo_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tachikawa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tachikawa_%28tokyo%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tottori Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tottori_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Toyama Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toyama_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Toyama City",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toyama_city",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wakayama Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wakayama_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kudoyama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kudoyama_%28town%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yamagata Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yamagata_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yamaguchi Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yamaguchi_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yamanashi Prefecture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yamanashi_prefecture",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jordan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jordan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kazakhstan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kazakhstan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kenya",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kenya",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Korea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/korea",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "North Korea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/north_korea",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "South Korea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/south_korea",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Seoul",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seoul",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kosovo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kosovo",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kyrgyzstan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kyrgyzstan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Laos",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/laos",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Latvia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/latvia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Liberia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/liberia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Libya",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/libya",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lithuania",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lithuania",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Luxembourg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/luxembourg",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Madagascar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/madagascar",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Malawi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/malawi",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Malaysia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/malaysia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kuala Lumpur",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kuala_lumpur",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mexico",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mexico",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mexico City",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mexico_city",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Moldova",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moldova",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Monaco",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monaco_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mongolia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mongolia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Montenegro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/montenegro",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Morocco",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/morocco",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mozambique",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mozambique",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Myanmar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/myanmar",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Namibia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/namibia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nepal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nepal",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Netherlands",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/netherlands",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "New Zealand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/new_zealand",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nicaragua",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nicaragua",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nigeria",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nigeria",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "North Macedonia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/north_macedonia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Norway",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/norway",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pakistan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pakistan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Palestine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/palestine",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gaza Strip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gaza",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "East Jerusalem",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jerusalem",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Panama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panama",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Paraguay",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paraguay",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Peru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peru",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Philippines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/philippines",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Poland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/poland",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Portugal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/portugal",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Qatar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/qatar",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Romania",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/romania",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Russia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/russia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Moscow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moscow",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Saint Petersburg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saint_petersburg",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Vladivostok",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vladivostok",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Saudi Arabia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saudi_arabia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Senegal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/senegal",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Serbia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/serbia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Singapore",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/singapore",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Slovakia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slovakia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Slovenia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slovenia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "South Africa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/south_africa",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spain",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Barcelona",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barcelona",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Madrid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/madrid",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sweden",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweden",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Stockholm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stockholm",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Visby",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/visby",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Switzerland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/switzerland",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Syria",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/syria",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Taiwan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/taiwan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Taipei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/taipei",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kaohsiung",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kaohsiung",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tajikistan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tajikistan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Thailand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thailand",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trinidad_and_tobago",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tunisia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tunisia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Turkey",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turkey_%28country%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Istanbul",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/istanbul",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Turkmenistan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turkmenistan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ukraine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ukraine",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chernobyl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chernobyl",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pripyat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pripyat",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "United Arab Emirates",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/united_arab_emirates",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dubai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dubai",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "United Kingdom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/united_kingdom",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "England",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/england",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "London",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/london",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Falkland Islands",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/falkland_islands",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Northern Ireland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/northern_ireland",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Scotland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scotland",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Edinburgh",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/edinburgh_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wales",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wales",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "United States",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/united_states",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Alaska",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alaska",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arizona",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arizona_%28state%29",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "California",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/california",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Los Angeles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/los_angeles",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "San Francisco",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/san_francisco",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chicago",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chicago",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Colorado",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colorado",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Florida",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/florida_%28location%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Miami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miami",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Georgia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/georgia_%28state%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Atlanta",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/atlanta_%28city%29",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hawaii",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hawaii",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Indiana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/indiana",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Iowa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iowa",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Louisiana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/louisiana",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Maryland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maryland",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Massachusetts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/massachusetts",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Boston",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boston",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Michigan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/michigan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Minnesota",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/minnesota",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nevada",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nevada",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Las Vegas",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/las_vegas",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "New York City",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/new_york_city",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "North Carolina",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/north_carolina",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ohio",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ohio",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Oregon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oregon",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Portland",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/portland_%28oregon%29",
+      "category_path": "Countries",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Puerto Rico",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puerto_rico",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Seattle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seattle",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Texas",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/texas",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Houston",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/houston",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Utah",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/utah",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Washington D.C.",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/washington_d.c.",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wyoming",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wyoming",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Uruguay",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uruguay",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Uzbekistan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uzbekistan",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Vatican City",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vatican",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Venezuela",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/venezuela",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Vietnam",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vietnam",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Zimbabwe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zimbabwe",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Austria-Hungary",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/austria-hungary",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Byzantine Empire",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/byzantine_empire",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Confederate States",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/confederate_states_of_america",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Czechoslovakia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/czechoslovakia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "German Democratic Republic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/east_germany",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Holy Roman Empire",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holy_roman_empire",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ottoman Empire",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ottoman_empire",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Prussia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prussia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rhodesia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rhodesia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Roman Empire",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/roman_empire",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Russian Empire",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/russian_empire",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Soviet Union",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soviet",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yugoslavia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yugoslavia",
+      "category_path": "Countries",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Alcatraz",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alcatraz",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Angel de la Independencia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/angel_de_la_independencia",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bradley Center",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bradley_center",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Brooklyn Bridge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brooklyn_bridge",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chrysler building",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chrysler_building",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "CN Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cn_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Coors Field",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coors_field",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Crypto.com Arena",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crypto.com_arena",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dodger Stadium",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dodger_stadium",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "El Castillo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/el_castillo",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Empire State Building",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/empire_state_building",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fenway Park",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fenway_park",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Golden Gate Bridge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/golden_gate_bridge",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Grand Canyon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grand_canyon",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hard Rock Stadium",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hard_rock_stadium",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Homey Airport",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/area_51",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hollywood",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hollywood_sign",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lombard Street",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lombard_street",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lumen Field",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lumen_field",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mount Rushmore",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mount_rushmore",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Niagara Falls",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/niagara_falls",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "One World Trade Center",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/one_world_trade_center",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "World Trade Center",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/world_trade_center",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Oracle Park",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oracle_park",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rockefeller Center",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rockefeller_center",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Space Needle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/space_needle",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Statue of Liberty",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/statue_of_liberty",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Times Square",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/times_square",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Transamerica Pyramid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/transamerica_pyramid",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tropicana Field",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tropicana_field",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Trump Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trump_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "United States Capitol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/united_states_capitol",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Washington Monument",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/washington_monument",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "White House",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_house",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Willis Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/willis_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Christ the Redeemer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/christ_the_redeemer",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Easter Island",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/easter_island",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Machu Picchu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/machu_picchu",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nazca lines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nazca_lines",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Our Lady of the Assumption",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/our_lady_of_the_assumption",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Salar de Uyuni",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/salar_de_uyuni",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Al-Masjid al-Nabawi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/al-masjid_al-nabawi",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Angkor Wat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/angkor_wat",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bank of China Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bank_of_china_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Borobudur Temple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/borobudur_temple",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Burj Al Arab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/burj_al_arab",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Burj Khalifa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/burj_khalifa",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Canton Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/canton_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chubu Centrair International Airport",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chubu_centrair_international_airport",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dome of the Rock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dome_of_the_rock",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Forbidden City",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forbidden_city",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fushimi Inari Taisha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fushimi_inari_taisha",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ginza Wako",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ginza_wako",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Great Wall of China",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/great_wall_of_china",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Himeji Castle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/himeji_castle",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hiroshima Peace Memorial",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hiroshima_peace_memorial",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "JR Central Towers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jr_central_towers",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kaminarimon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kaminarimon",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kanda Shrine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kanda_shrine",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kumamoto Castle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kumamoto_castle",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Matsue Castle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/matsue_castle",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mode Gakuen Cocoon Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mode_gakuen_cocoon_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mount Fuji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mount_fuji",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nagoya Castle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nagoya_castle",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nanzen-ji Aqueduct",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nanzen-ji_aqueduct",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "National Diet Building",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/national_diet_building",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "New National Stadium",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/new_national_stadium",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "NTT Docomo Yoyogi Building",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ntt_docomo_yoyogi_building",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ooarai Marine Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ooarai_marine_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Oriental Pearl Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oriental_pearl_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Osaka Castle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/osaka_castle",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Penghu Tianho Temple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penghu_tianho_temple",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Petra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/petra_%28jordan%29",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Petronas Twin Towers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/petronas_twin_towers",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Presidential Office Building",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/presidential_office_building",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rei no Pool",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rei_no_pool",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Saw Sawing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saw_sawing",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shibuya 109",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shibuya_109",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Shinjuku Park Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shinjuku_park_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Taipei 101",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/taipei_101",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Taj Mahal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/taj_mahal",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tiananmen Square",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiananmen_square",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Togetsukyou Bridge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/togetsukyou_bridge",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokyo Big Sight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tokyo_big_sight",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokyo City Hall",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tokyo_city_hall",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokyo Skytree",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tokyo_skytree",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tokyo Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tokyo_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tower of the Sun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tower_of_the_sun",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tsutenkaku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tsutenkaku",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Umeda Sky Building",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/umeda_sky_building",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Washinomiya Shrine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/washinomiya_shrine",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yasukuni Shrine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yasukuni_shrine",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yokohama Landmark Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yokohama_landmark_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Allianz Arena",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/allianz_arena",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Anfield",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anfield_%28stadium%29",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arc de Triomphe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arc_de_triomphe",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Berlaymont Building",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/berlaymont_building",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Berlin Wall",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/berlin_wall",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Berliner Fernsehturm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/berliner_fernsehturm",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bramall Lane",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bramall_lane",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Brandenburg Gate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brandenburg_gate",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Buckingham Palace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buckingham_palace",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Camp Nou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camp_nou",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cathedral of Santa Eulalia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cathedral_of_santa_eulalia",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chernobyl NPP",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chernobyl_npp",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Church of the Savior on Blood",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/church_of_the_savior_on_blood",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cologne Cathedral",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cologne_cathedral",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Colosseum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colosseum",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Eiffel Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eiffel_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Elizabeth Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/elizabeth_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Estadio Santiago Bernabeu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/estadio_santiago_bernabeu",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Florence Cathedral",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/florence_cathedral",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hagia Sophia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hagia_sophia",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Leaning Tower of Pisa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaning_tower_of_pisa",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Louvre Pyramid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/louvre_pyramid",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Luxor Obelisk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/luxor_obelisk",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Milan Cathedral",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milan_cathedral",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mont St-Michel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mont_st-michel",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Moscow Kremlin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moscow_kremlin",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Neuschwanstein Castle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neuschwanstein_castle",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Notre Dame de Paris",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/notre_dame_de_paris",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Old Town Square",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/old_town_square_%28prague%29",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Palace of the Parliament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/palace_of_the_parliament",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Palacio de Carlos V",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/palacio_de_carlos_v",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Parthenon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parthenon",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Reichstag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reichstag",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sagrada Familia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sagrada_familia",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sant'Elmo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sant%27elmo",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sanssouci Palace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sanssouci_palace",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Schoenbrunn Palace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/schoenbrunn_palace",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spasskaya Tower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spasskaya_tower",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "St. Basil's Cathedral",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/st._basil%27s_cathedral",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "St. Peter's Basilica",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/st._peter%27s_basilica",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "St. Peter's Square",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/st._peter%27s_square",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Stonehenge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stonehenge",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Trafalgar Square",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trafalgar_square",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nelson's Column",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nelson%27s_column",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Westminster Palace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/westminster_palace",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Abu Simbel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/abu_simbel",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Great Pyramid of Giza",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/great_pyramid_of_giza",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Great Sphinx of Giza",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/great_sphinx_of_giza",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Moai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moai",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sydney Harbour Bridge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sydney_harbour_bridge",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sydney Opera House",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sydney_opera_house",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Uluru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uluru",
+      "category_path": "Buildings and Landmarks",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "location request",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/location_request",
+      "category_path": "See also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 467,
+  "total_categories": 3,
+  "html_file": "tag_group_real_world_locations.html"
+}

@@ -1,0 +1,2337 @@
+{
+  "group_name": "face_tags",
+  "display_name": "Tag group:face tags",
+  "source_url": "/wiki_pages/tag_group%3Aface_tags",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aface_tags",
+  "categories": [
+    {
+      "h4": "Main",
+      "h5": null,
+      "path": "Main",
+      "tag_count": 2
+    },
+    {
+      "h4": "Emotions",
+      "h5": null,
+      "path": "Emotions",
+      "tag_count": 69
+    },
+    {
+      "h4": "Sexual",
+      "h5": null,
+      "path": "Sexual",
+      "tag_count": 49
+    },
+    {
+      "h4": "Emotes",
+      "h5": null,
+      "path": "Emotes",
+      "tag_count": 51
+    },
+    {
+      "h4": "Drawing styles",
+      "h5": null,
+      "path": "Drawing styles",
+      "tag_count": 29
+    },
+    {
+      "h4": "Meme faces",
+      "h5": null,
+      "path": "Meme faces",
+      "tag_count": 12
+    },
+    {
+      "h4": "Misc",
+      "h5": null,
+      "path": "Misc",
+      "tag_count": 3
+    },
+    {
+      "h4": "Looking at...",
+      "h5": null,
+      "path": "Looking at...",
+      "tag_count": 5
+    },
+    {
+      "h4": "See Also",
+      "h5": null,
+      "path": "See Also",
+      "tag_count": 7
+    }
+  ],
+  "tags": [
+    {
+      "name": "multiple expressions",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_expressions",
+      "category_path": "Main",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "expression chart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/expression_chart",
+      "category_path": "Main",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "angry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/angry",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "anger vein",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anger_vein",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "annoyed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/annoyed",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "clenched teeth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clenched_teeth",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "glaring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glaring",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "scowl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scowl",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "annoyed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/annoyed",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blush",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blush",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "blush stickers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blush_stickers",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "embarrassed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/embarrassed",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "full-face blush",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/full-face_blush",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nose blush",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nose_blush",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bored",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bored",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "closed eyes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/closed_eyes",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "confused",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/confused",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "crazy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crazy",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "despair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/despair",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "determined",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/determined",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "disappointed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/disappointed",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "disdain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/disdain",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "disgust",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/disgust",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "drunk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drunk",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "envy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/envy",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "excited",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/excited",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "exhausted",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/exhausted",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "expressionless",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/expressionless",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "facepalm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/facepalm",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flustered",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flustered",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "frustrated",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frustrated",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "furrowed brow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/furrowed_brow",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grimace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grimace",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "guilt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guilt",
+      "category_path": "Emotions",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "happy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/happy",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "kubrick stare",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kubrick_stare",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lonely",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lonely",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nervous",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nervous",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nosebleed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nosebleed",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "one eye closed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/one_eye_closed",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "round mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Ao",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "open mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_mouth",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "parted lips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parted_lips",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pain",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pout",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "raised eyebrow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raised_eyebrow",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "raised eyebrows",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raised_eyebrows",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "raised inner eyebrows",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raised_inner_eyebrows",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "rape face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rape_face",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "rolling eyes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rolling_eyes",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sad",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sad",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "depressed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/depressed",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "frown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frown",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "gloom (expression)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gloom_%28expression%29",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "tears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tears",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "scared",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scared",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "panicking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panicking",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "worried",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/worried",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "serious",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/serious",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shaded face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shaded_face",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "shy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shy",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sigh",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sigh",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sleepy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleepy",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sulking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sulking",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "surprised",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/surprised",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "thinking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thinking",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pensive",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pensive",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unamused",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unamused",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "v-shaped eyebrows",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/v-shaped_eyebrows",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wince",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wince",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "struggling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/struggling",
+      "category_path": "Emotions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "afterglow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/afterglow",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ahegao",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ahegao",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fucked silly",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fucked_silly",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "aroused",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aroused",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fucked silly",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fucked_silly",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "in heat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/in_heat",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "naughty face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naughty_face",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ohhoai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ohhoai",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "seductive smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seductive_smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "torogao",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torogao",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "ass-to-mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ass-to-mouth",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "condom in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/condom_in_mouth",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cum in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cum_in_mouth",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "oral invitation",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oral_invitation",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "pussy juice in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pussy_juice_in_mouth",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "unzipping with mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unzipping_with_mouth",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":D",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Ad",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "crazy smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crazy_smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "evil smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/evil_smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "fingersmile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fingersmile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "forced smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forced_smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "glasgow smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glasgow_smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "grin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grin",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "evil grin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/evil_grin",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "light smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/light_smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sad smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sad_smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "seductive smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seductive_smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "smile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smile",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "stifled laugh",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stifled_laugh",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Smug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smug",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "doyagao",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doyagao",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "smirk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smirk",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "smug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smug",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "troll face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/troll_face",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Surprised",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/surprised",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Scared",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scared",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sad",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sad",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "^^^",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%5E%5E%5E",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "color drain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/color_drain",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "depressed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/depressed",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "despair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/despair",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "gloom (expression)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gloom_%28expression%29",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "horrified",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/horrified",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "screaming",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/screaming",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sobbing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sobbing",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "traumatized",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/traumatized",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "turn pale",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turn_pale",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wavy mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wavy_mouth",
+      "category_path": "Sexual",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ";)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3B%29",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":D",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Ad",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ";D",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Bd",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "XD",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/xd",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "D:",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/d%3A",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":3",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3A3",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ";3",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3B3",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "x3",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/x3",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "3:",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/3%3A",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "0w0",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/0w0",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "uwu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uwu",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":p",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Ap",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ";p",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Bp",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":q",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Aq",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ";q",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Bq",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "&gt;:)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3E%3A%29",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "&gt;:(",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3E%3A%28",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":T",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3At",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":エ",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Ai",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":/",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3A%2F",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":|",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3A%7C",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "x mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/x_mouth",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":c",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Ac",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "c:",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/c%3A",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":&lt;",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3A%3C",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ";&lt;",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3B%3C",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":&gt;",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3A%3E",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":&gt;=",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3A%3E%3D",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":&gt;",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3A%3E",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ":o",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Ao",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": ";o",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Bo",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "o3o",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/o3o",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "&gt;3&lt;",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3E3%3C",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "o_o",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/o_o",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "0_0",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/0_0",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "._.",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/._.",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "^_^",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%5E_%5E",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "\\(^o^)/",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%5C%28%5Eo%5E%29%2F",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "^q^",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%5Eq%5E",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "&gt;_&lt;",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3E_%3C",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "XD",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/xd",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "x3",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/x3",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "&gt;o&lt;",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Eo%3C",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "@_@",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%40_%40",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "&gt;_@",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3E_%40",
+      "category_path": "Emotes",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "+_+",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%2B_%2B",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "+_-",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%2B_-",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "=_=",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3D_%3D",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "T_T",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/t_t",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "&lt;o&gt;_&lt;o&gt;",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3Co%3E_%3Co%3E",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "&lt;|&gt;_&lt;|&gt;",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3C%7C%3E_%3C%7C%3E",
+      "category_path": "Emotes",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "eyebrows",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyebrows",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "eyebrows hidden by hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyebrows_hidden_by_hair",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mismatched eyebrows",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mismatched_eyebrows",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "constricted pupils",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/constricted_pupils",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "cross-eyed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross-eyed",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wide-eyed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wide-eyed",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nose",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dot nose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dot_nose",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "no nose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_nose",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "chestnut mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chestnut_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "diamond mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diamond_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "dot mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dot_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "glowing mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glowing_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "heart in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_in_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "heart-shaped mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart-shaped_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hollow mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hollow_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mouth drool",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mouth_drool",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "no mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "peanut mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peanut_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "rectangular mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rectangular_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "sideways mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sideways_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "snake mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snake_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "split mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/split_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "stitched mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stitched_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "text in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/text_in_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "triangle mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triangle_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yurie mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yurie_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wavy mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wavy_mouth",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "mob face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mob_face",
+      "category_path": "Drawing styles",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "angry dog noises",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/angry_dog_noises_%28meme%29",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "awesome face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/awesome_face",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "essex face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/essex_face",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "excalibur face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/excalibur_face",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "face of the people who sank all their money into the fx",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/face_of_the_people_who_sank_all_their_money_into_the_fx_%28meme%29",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "abyaa face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/abyaa_face",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "gyate gyate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gyate_gyate",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "henohenomoheji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/henohenomoheji",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nonowa",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/nonowa",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "smiley face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smiley_face",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "troll face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/troll_face",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "uso da",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uso_da",
+      "category_path": "Meme faces",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "foodgasm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/foodgasm",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "portrait",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/portrait",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "profile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/profile",
+      "category_path": "Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "breast awe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breast_awe",
+      "category_path": "Looking at...",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "food awe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_awe",
+      "category_path": "Looking at...",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "muscle awe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/muscle_awe",
+      "category_path": "Looking at...",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "penis awe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penis_awe",
+      "category_path": "Looking at...",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "staring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/staring",
+      "category_path": "Looking at...",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "eyebrows",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyebrows",
+      "category_path": "See Also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "makeup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/makeup",
+      "category_path": "See Also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "nose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nose",
+      "category_path": "See Also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "expression 35",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/expression_35",
+      "category_path": "See Also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "facial expression training",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/facial_expression_training",
+      "category_path": "See Also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "slightly naughty expressions practice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slightly_naughty_expressions_practice",
+      "category_path": "See Also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hurt expressions of your wife practice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hurt_expressions_of_your_wife_practice",
+      "category_path": "See Also",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 227,
+  "total_categories": 9,
+  "html_file": "tag_group_face_tags.html"
+}

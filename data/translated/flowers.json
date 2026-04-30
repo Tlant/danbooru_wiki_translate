@@ -1,0 +1,2137 @@
+{
+  "group_name": "flowers",
+  "display_name": "Tag group:flowers",
+  "source_url": "/wiki_pages/tag_group%3Aflowers",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aflowers",
+  "categories": [
+    {
+      "h4": "Main",
+      "h5": null,
+      "path": "Main",
+      "tag_count": 1
+    },
+    {
+      "h4": "Species of flower",
+      "h5": null,
+      "path": "Species of flower",
+      "tag_count": 164
+    },
+    {
+      "h4": "Fictional flowers",
+      "h5": null,
+      "path": "Fictional flowers",
+      "tag_count": 12
+    },
+    {
+      "h4": "Flower Misc",
+      "h5": null,
+      "path": "Flower Misc",
+      "tag_count": 33
+    }
+  ],
+  "tags": [
+    {
+      "name": "flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower",
+      "category_path": "Main",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Adonis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adonis_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Agapanthus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/agapanthus_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Allium",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/allium_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Alstroemeria",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alstroemeria_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Amaryllis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/amaryllis_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Anemone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anemone_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Angel's trumpet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/angel%27s_trumpet",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Anthurium",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anthurium",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arisaema",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arisaema_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Azalea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/azalea_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Baby's-breath",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baby%27s-breath",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Begonia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/begonia_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bellflower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bellflower",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bird of paradise flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bird_of_paradise_flower",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Black-eyed Susan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black-eyed_susan",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bleeding heart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bleeding_heart_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bluebell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bluebell_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Blueberry blossoms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blueberry_blossoms",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bougainvillea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bougainvillea_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Buttercup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buttercup_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Calla lily",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/calla_lily",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Camellia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camellia",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Canna lily",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/canna_lily",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Carnation",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carnation",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Catharanthus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/catharanthus_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cerastium",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cerastium",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chamomile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chamomile",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cherry blossoms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cherry_blossoms",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chicory",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chicory_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Chrysanthemum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chrysanthemum",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Clematis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clematis_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Clivia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clivia",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Clover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clover_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cockscomb",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cockscomb_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Coffee blossom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coffee_blossom",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Columbine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/columbine_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cornflower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cornflower",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cosmos",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cosmos_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Craspedia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/craspedia_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Crocus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crocus_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cyclamen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cyclamen",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cymbidium",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cymbidium",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Daffodil",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/daffodil",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dahlia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dahlia",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Daisy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/daisy_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dandelion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dandelion",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dayflower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dayflower",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dianthus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dianthus",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dogtooth violet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dogtooth_violet_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dogwood",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dogwood_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Dusty miller",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dusty_miller",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Edelweiss",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/edelweiss_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Epiphyllum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/epiphyllum",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Eustoma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eustoma",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fish mint",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fish_mint_%28plant%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Flax",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flax_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Forget-me-not",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forget-me-not_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Forsythia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forsythia",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Four o'clock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/four_o%27clock_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Foxglove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/foxglove",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Freesia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/freesia_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fuchsia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fuchsia_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Genista",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/genista_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gentiana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gentiana_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Geranium",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/geranium",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gerbera",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gerbera",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gladiolus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gladiolus",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gloriosa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gloriosa_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Golden trumpet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/golden_trumpet",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gourd blossom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gourd_blossom",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Grape hyacinth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grape_hyacinth",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Grass lily",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grass_lily",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Great burnet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/great_burnet",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hawthorn",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hawthorn_%28plant%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Heather",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heather_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Heliconia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heliconia",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hellebore",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hellebore",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hemerocallis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hemerocallis",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hepatica",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hepatica_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hibiscus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hibiscus",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hollyhock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hollyhock",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hyacinth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hyacinth",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hydrangea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hydrangea",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Iris",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iris_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ixia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ixia_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jade vine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jade_vine",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Jasmine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jasmine_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kamchatka lily",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kamchatka_lily",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Kerria japonica",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kerria_japonica",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lantana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lantana_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Larkspur",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/larkspur_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lavender",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lavender_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lemon blossoms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lemon_blossoms",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lilac",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lilac",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lily",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lily_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lily of the valley",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lily_of_the_valley",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lotus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lotus",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lupinus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lupinus_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Magnolia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/magnolia",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Marigold",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marigold",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Marsh marigold",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marsh_marigold",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mimosa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mimosa_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Moonflower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moonflower_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Morning glory",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/morning_glory",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nemophila",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nemophila_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nerine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nerine_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nigella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nigella",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nightshade",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nightshade_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Oleander",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oleander",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Orange blossoms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_blossoms",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Orchid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orchid",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Osmanthus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/osmanthus",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pansy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pansy",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pasqueflower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pasqueflower",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Passion flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/passion_flower",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Peach blossom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peach_blossom",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pentas",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pentas_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Peony",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peony_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Periwinkle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/periwinkle_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Persian Speedwell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/persian_speedwell",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Petunia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/petunia_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pieris japonica",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pieris_japonica",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Plum blossoms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plum_blossoms",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Plumeria",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plumeria",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Poinsettia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/poinsettia",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pomegranate flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pomegranate_flower",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Poppy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/poppy_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Portulaca",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/portulaca",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Potato flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/potato_flower",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Potentilla",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/potentilla",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Primrose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/primrose_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Protea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/protea_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Quince blossoms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quince_blossoms",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rafflesia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rafflesia_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ranunculus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ranunculus",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rapeseed blossoms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rapeseed_blossoms",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Red ginger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_ginger_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Reimu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reimu_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rhododendron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rhododendron",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rose",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rudbeckia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rudbeckia",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Safflower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/safflower",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sandersonia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sandersonia_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Skeleton flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skeleton_flower_%28plant%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Snapdragon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snapdragon",
+      "category_path": "Species of flower",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Snowbell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snowbell_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Snowdrop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snowdrop_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spathiphyllum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spathiphyllum",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spider lily",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spider_lily",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Spiderwort",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiderwort_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Strawberry blossoms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_blossoms",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sunflower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunflower",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sweet pea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweet_pea",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Thistle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thistle",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tigridia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tigridia",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tiger lily",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiger_lily",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Trumpet creeper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trumpet_creeper",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tuberose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tuberose",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Tulip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tulip",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Violet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/violet_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Water lily flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/water_lily_flower",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wisteria",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wisteria",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wolfsbane",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wolfsbane_%28flower%29",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Zinnia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zinnia",
+      "category_path": "Species of flower",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Black lotus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_lotus",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fire flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fire_flower",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Glaze lily",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glaze_lily",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gracidea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gracidea",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ice flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_flower",
+      "category_path": "Fictional flowers",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Inteyvat flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/inteyvat_flower_%28genshin_impact%29",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lunar tear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lunar_tear",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Qingxin flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/qingxin_flower",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Silent princess",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/silent_princess",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Silk flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/silk_flower_%28genshin_impact%29",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sweet flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweet_flower",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wither rose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wither_rose",
+      "category_path": "Fictional flowers",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "bouquet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bouquet",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "boutonniere",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boutonniere",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "corsage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corsage",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "coughing flowers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coughing_flowers",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "field",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/field",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flower field",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_field",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "meadow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/meadow",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flower symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_symbol",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flower bed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_bed",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flower bracelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_bracelet",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flower in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_in_mouth",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flower necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_necklace",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flower on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_on_head",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flower on liquid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_on_liquid",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "flower trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_trim",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "floral print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floral_print",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "garden",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garden",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "gardening",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gardening",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hair flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_flower",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "头花",
+      "confidence": "A",
+      "tag_cn_long": "戴在头发上的一朵或多朵鲜花或人造花作为装饰。"
+    },
+    {
+      "name": "hanafuda",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hanafuda",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "hat flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat_flower",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "holding flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_flower",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "lei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lei",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "on flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/on_flower",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "outdoors",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/outdoors",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "perennial",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/perennial_%28flower%29",
+      "category_path": "Flower Misc",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "petals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/petals",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "rose petals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rose_petals",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "petals on liquid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/petals_on_liquid",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "plant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plant",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "smelling flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smelling_flower",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "wreath",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wreath",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "head wreath",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_wreath",
+      "category_path": "Flower Misc",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 210,
+  "total_categories": 4,
+  "html_file": "tag_group_flowers.html"
+}

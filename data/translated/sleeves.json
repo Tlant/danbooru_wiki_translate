@@ -1,0 +1,913 @@
+{
+  "group_name": "sleeves",
+  "display_name": "Tag group:sleeves",
+  "source_url": "/wiki_pages/tag_group%3Asleeves",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asleeves",
+  "categories": [
+    {
+      "h4": "Colors",
+      "h5": null,
+      "path": "Colors",
+      "tag_count": 16
+    },
+    {
+      "h4": "Patterns",
+      "h5": null,
+      "path": "Patterns",
+      "tag_count": 6
+    },
+    {
+      "h4": "Length",
+      "h5": null,
+      "path": "Length",
+      "tag_count": 7
+    },
+    {
+      "h4": "Style",
+      "h5": null,
+      "path": "Style",
+      "tag_count": 6
+    },
+    {
+      "h4": "Trim",
+      "h5": null,
+      "path": "Trim",
+      "tag_count": 5
+    },
+    {
+      "h4": "Type",
+      "h5": null,
+      "path": "Type",
+      "tag_count": 19
+    },
+    {
+      "h4": "Actions",
+      "h5": null,
+      "path": "Actions",
+      "tag_count": 17
+    },
+    {
+      "h4": "Clothing with abnormal sleeves",
+      "h5": null,
+      "path": "Clothing with abnormal sleeves",
+      "tag_count": 4
+    },
+    {
+      "h4": "Miscellaneous",
+      "h5": null,
+      "path": "Miscellaneous",
+      "tag_count": 4
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "See-through sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Gradient sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Two-tone sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Multicolored sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Aqua sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Black sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Blue sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Brown sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Green sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Grey sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Orange sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pink sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Purple sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Red sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "White sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Yellow sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_sleeves",
+      "category_path": "Colors",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Checkered sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_sleeves",
+      "category_path": "Patterns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Plaid sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid_sleeves",
+      "category_path": "Patterns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Polka dot sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_sleeves",
+      "category_path": "Patterns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Print sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_sleeves",
+      "category_path": "Patterns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ribbed sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbed_sleeves",
+      "category_path": "Patterns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Striped sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_sleeves",
+      "category_path": "Patterns",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Short sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_sleeves",
+      "category_path": "Length",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Short over long sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_over_long_sleeves",
+      "category_path": "Length",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Three-quarter sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/three-quarter_sleeves",
+      "category_path": "Length",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Long sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_sleeves",
+      "category_path": "Length",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeves past wrists",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeves_past_wrists",
+      "category_path": "Length",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeves past fingers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeves_past_fingers",
+      "category_path": "Length",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Uneven sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uneven_sleeves",
+      "category_path": "Length",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Detached sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/detached_sleeves",
+      "category_path": "Style",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Single detached sleeve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_detached_sleeve",
+      "category_path": "Style",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Single sleeve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_sleeve",
+      "category_path": "Style",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeves pushed up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeves_pushed_up",
+      "category_path": "Style",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeves rolled up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeves_rolled_up",
+      "category_path": "Style",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Torn sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_sleeves",
+      "category_path": "Style",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Feather-trimmed sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feather-trimmed_sleeves",
+      "category_path": "Trim",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Frilled sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_sleeves",
+      "category_path": "Trim",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fur-trimmed sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur-trimmed_sleeves",
+      "category_path": "Trim",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Lace-trimmed sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_sleeves",
+      "category_path": "Trim",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Ribbon-trimmed sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbon-trimmed_sleeves",
+      "category_path": "Trim",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Bell sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bell_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Compression sleeve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/compression_sleeve",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Cross-laced sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross-laced_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Elbow sleeve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/elbow_sleeve",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Fishnet sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fishnet_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Furisode sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/furisode_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Juliet sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/juliet_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Layered sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/layered_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Mismatched sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mismatched_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Paw sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paw_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Puff and slash sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puff_and_slash_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Puffy sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puffy_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Puffy detached sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puffy_detached_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Puffy long sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puffy_long_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Puffy short sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puffy_short_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Raglan sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raglan_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Thumb hole sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thumb_hole_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Torn sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Wide sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wide_sleeves",
+      "category_path": "Type",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Arm out of sleeve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_out_of_sleeve",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Hands in opposite sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hands_in_opposite_sleeves",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Pinching sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pinching_sleeves",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Rolling sleeves up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rolling_sleeves_up",
+      "category_path": "Actions",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Grabbing another's sleeve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grabbing_another%27s_sleeve",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_shirt",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_dress",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless duster",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_duster",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless hoodie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_hoodie",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_jacket",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless kimono",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_kimono",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_shirt",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_sweater",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeveless turtleneck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_turtleneck",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Vest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vest",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Waistcoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waistcoat",
+      "category_path": "Actions",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeved leotard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeved_leotard",
+      "category_path": "Clothing with abnormal sleeves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Short-sleeved coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short-sleeved_coat",
+      "category_path": "Clothing with abnormal sleeves",
+      "wiki_exists": false,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Short-sleeved jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short-sleeved_jacket",
+      "category_path": "Clothing with abnormal sleeves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Short-sleeved sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short-sleeved_sweater",
+      "category_path": "Clothing with abnormal sleeves",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Nipple sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nipple_sleeves",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "No detached sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_detached_sleeves",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Sleeve cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeve_cuffs",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    },
+    {
+      "name": "Up sleeve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/up_sleeve",
+      "category_path": "Miscellaneous",
+      "wiki_exists": true,
+      "tag_cn": "",
+      "confidence": "",
+      "tag_cn_long": ""
+    }
+  ],
+  "total_tags": 84,
+  "total_categories": 10,
+  "html_file": "tag_group_sleeves.html"
+}

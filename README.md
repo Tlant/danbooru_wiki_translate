@@ -158,17 +158,19 @@ main.py
 
 ### 1. `config.py` — 配置中心
 
-项目所有可调参数集中于此，无命令行参数依赖（除 `--dry-run`、`--stats` 等模式切换）。
+项目所有可调参数集中于此，无需命令行参数（除模式切换）。
 
 ```python
 # LLM
 LLM_BASE_URL = "https://api.deepseek.com"
-LLM_API_KEY = "sk-f035d1e0c2354c4eaf809c9f3526fd99"
+LLM_API_KEY = "sk-..."                       # DeepSeek API key
 LLM_MODEL = "deepseek-v4-pro"
 AVAILABLE_MODELS = ["deepseek-v4-pro", "deepseek-v4-flash"]
+LLM_TIMEOUT = 300                            # API 请求超时秒数（thinking 模式响应慢）
+HTTP_PROXY = "http://127.0.0.1:10801"        # HTTP 代理地址，None 则直连
 
 # 翻译策略
-BATCH_SIZE = 15           # 每批翻译 tag 数（1=逐条高质量, 10-20=均衡）
+BATCH_SIZE = 10           # 每批翻译 tag 数（1=逐条高质量, 10-20=均衡）
 MAX_CONCURRENCY = 1       # 并发线程数
 REQUEST_INTERVAL = 0.5    # 提交两个 batch 之间的等待秒数
 
@@ -176,8 +178,9 @@ REQUEST_INTERVAL = 0.5    # 提交两个 batch 之间的等待秒数
 MAX_RETRIES = 3           # 每批最大重试次数
 RETRY_BACKOFF = 2.0       # 指数退避倍率（第n次等待 2^n 秒）
 
-# Wiki 截断
-WIKI_MAX_CHARS = 500      # wiki 正文最大字符数（过长会撑爆 prompt）
+# 日志
+LOG_REQUEST = False       # 控制台打印完整请求报文（调试时开启）
+LOG_RESPONSE = True       # 控制台打印完整返回报文
 
 # 模式
 DRY_RUN = False           # True=只预览 prompt 不调 API
@@ -185,9 +188,9 @@ DRY_RUN = False           # True=只预览 prompt 不调 API
 
 **修改建议**：
 - 追求质量：`BATCH_SIZE = 1`、`LLM_MODEL = "deepseek-v4-pro"`
-- 追求速度/省钱：`BATCH_SIZE = 20`、`LLM_MODEL = "deepseek-v4-flash"`
-- 服务器性能好：调高 `MAX_CONCURRENCY`（注意 API 限流）
-- 网络不稳定：调高 `MAX_RETRIES`
+- 追求速度/省钱：`BATCH_SIZE = 20`、`LLM_MODEL = "deepseek-v4-flash"`、`MAX_CONCURRENCY = 3`
+- 不需要代理：`HTTP_PROXY = None`
+- 调试 prompt：`LOG_REQUEST = True`
 
 ### 2. `context_builder.py` — 上下文构造器
 
@@ -197,15 +200,18 @@ DRY_RUN = False           # True=只预览 prompt 不调 API
 |------|------|
 | `load_tag_groups()` | 遍历 `data/tag_group/*.json`，返回 `list[dict]` |
 | `extract_unique_tags(groups)` | 按 `tag.name` 去重，保留 first-seen 的 group 归属 |
-| `_prep_wiki_df()` | 加载 parquet，过滤 `is_deleted=True`，新增 `title_lower` 列 |
-| `_search_wiki(df, tag_name)` | 多级模糊匹配，返回 wiki body 或空串 |
-| `build_contexts(tags, wiki_df)` | 为每个 tag 附上 wiki 文本 |
+| `_build_wiki_dict()` | 加载 parquet → 构建 `{title_lower: body}` dict（O(1) 查找） |
+| `_search_wiki_fast(wiki_dict, tag_name)` | dict 查找 + 模糊变体匹配，返回 wiki body 或空串 |
+| `build_contexts(tags, wiki_dict)` | 为每个 tag 附上 wiki 文本 |
 | `build_all()` | 一键流程，返回 8308 个上下文字典 |
 | `save_contexts_to_json(contexts, path)` | 保存上下文快照到 `data/cache/contexts.json` |
+| `load_contexts_from_json(path)` | 从缓存加载上下文快照，不存在则返回 None |
+
+**性能优化（v1.1）**：wiki 查找从 DataFrame 布尔索引（O(n) per tag）改为字典查找（O(1)），全量构建从数分钟降至 ~2 秒。字典预计算下划线/空格变体，避免重复比较。
 
 **去重策略**：同一 tag name 可能出现在多个 group（如 `torn_clothes` 同时属于 `attire` 和 `body_parts`），采用 first-seen 原则——仅保留第一次遇到的 group 归属。翻译后，merger 会将该翻译复制到所有含此 tag 的 group 输出中。
 
-**Wiki 匹配**：采用与 `search_wiki.py` 相同的多级模糊匹配。tag `cock_ring` 会依次尝试 `cock_ring` → `cock ring` → `cockring`。只查询 `wiki_exists=True` 的 tag，避免无效查询。
+**Wiki 匹配**：dict 精确匹配 + 变体 fallback。tag `cock_ring` 依次查找 `cock_ring` → `cock ring` → `cockring`。`wiki_exists=False` 的 tag 也会尝试查找（部分 tag group 数据标记不准确）。
 
 **输出格式**：
 ```json
@@ -223,8 +229,12 @@ DRY_RUN = False           # True=只预览 prompt 不调 API
 ```python
 class LLMClient:
     def __init__(self, base_url, api_key, model)
-    def translate_batch(self, contexts: list[dict]) -> list[dict]  # 核心方法
-    def preview_prompt(self, contexts: list[dict]) -> str           # dry-run 用
+        # 通过 httpx.Client 配置代理和超时：
+        #   httpx.Client(proxy=HTTP_PROXY, timeout=httpx.Timeout(LLM_TIMEOUT, connect=30.0))
+        # 传给 OpenAI(http_client=...)
+
+    def translate_batch(self, contexts) -> list[dict]   # 核心方法
+    def preview_prompt(self, contexts) -> str           # dry-run 用
 ```
 
 **API 调用参数**（与 DeepSeek 文档一致）：
@@ -237,6 +247,14 @@ response = client.chat.completions.create(
     extra_body={"thinking": {"type": "enabled"}},
 )
 ```
+
+**调用日志**（每次 API 调用输出）：
+- `[llm #N] Sending N tags: tag1, tag2, ...` — 发送请求
+- `[llm #N] Response in Xs. prompt=Ntok completion=Ntok` — 响应耗时 + token 消耗
+- `[llm #N] Confidence: A=N B=N C=N D=N` — 置信度分布
+- `tag → 翻译 (A)` — 译文样本
+- 若 `LOG_REQUEST=True`：输出完整请求报文
+- 若 `LOG_RESPONSE=True`：输出完整返回报文
 
 **Prompt 结构**：
 
@@ -359,29 +377,37 @@ response = client.chat.completions.create(
 ### 6. `main.py` — 入口脚本
 
 ```bash
-# 完整流程：构造上下文 → 翻译 → 合并 → 统计
+# 完整流程：加载 contexts → 翻译 → 合并 → 统计
 .venv/Scripts/python main.py
 
-# 只预览 prompt，不调用 API（检查 wiki 匹配是否正确）
+# 小批量测试翻译质量（只翻前 N 个 tag）
+.venv/Scripts/python main.py --test 20
+
+# 预览 prompt，不调用 API
 .venv/Scripts/python main.py --dry-run
 
 # 只执行合并（跳过翻译，用于重新生成输出文件）
 .venv/Scripts/python main.py --merge-only
 
-# 查看缓存和进度统计
+# 查看缓存和进度统计（含置信度百分比）
 .venv/Scripts/python main.py --stats
+
+# 强制重建上下文（忽略 contexts.json 缓存）
+.venv/Scripts/python main.py --rebuild
 ```
 
 **完整执行流程**：
 ```
 main.py (无参数)
-  ├── cmd_translate()
-  │     ├── context_builder.build_all()      # 构造 8308 个上下文
-  │     ├── 保存 contexts.json 到 cache/    # 完整上下文快照
-  │     └── translator.translate_all()       # 批量翻译
-  ├── cmd_merge()
-  │     └── merger.merge_all()              # 生成 54 个输出文件
-  └── cmd_stats()                            # 打印翻译统计
+  ├── _get_contexts()
+  │     ├── 优先加载 data/cache/contexts.json（秒级）
+  │     └── 若不存在或 --rebuild，调用 context_builder.build_all()
+  ├── translator.translate_all()
+  │     ├── 加载已有缓存 → 跳过已翻译 tag
+  │     ├── 分批 + 并发调用 LLM（含重试）
+  │     └── 逐 tag 写入 cache/ + 更新 progress.json
+  ├── merger.merge_all()                     # 生成 54 个输出文件
+  └── cmd_stats()                            # 打印翻译统计（含置信度分布）
 ```
 
 ---
@@ -398,33 +424,24 @@ cd d:/AI_coding/danbooru_wiki
 .venv\Scripts\activate
 
 # 3. 安装依赖
-pip install openai pandas pyarrow
+pip install openai pandas pyarrow httpx
 
-# 4. （可选）配置 HTTP 代理
-# 见下方"代理配置"章节
+# 4. 按需修改 config.py：
+#    - HTTP_PROXY：不需要代理则设为 None
+#    - LLM_MODEL：选择 deepseek-v4-pro 或 deepseek-v4-flash
+#    - BATCH_SIZE：1=逐条高质量, 10-20=均衡
 ```
 
 ### 第一次运行建议
 
 ```bash
-# Step 1：dry-run 检查 wiki 匹配质量
+# Step 1：dry-run 检查 wiki 匹配质量和 prompt 格式
 .venv/Scripts/python main.py --dry-run
 
-# Step 2：小批量测试（先修改 config.py）
-#   BATCH_SIZE = 3
-#   MAX_CONCURRENCY = 1
-# 然后手动运行 translator 只翻译 10 个 tag 验证流程
-.venv/Scripts/python -c "
-import json
-from context_builder import build_all
-from translator import translate_all
+# Step 2：小批量翻译测试（前 20 个 tag）
+.venv/Scripts/python main.py --test 20
 
-contexts = build_all()
-results = translate_all(contexts[:10])
-print(json.dumps(results, ensure_ascii=False, indent=2))
-"
-
-# Step 3：确认结果质量后，改回 BATCH_SIZE=15，运行全量
+# Step 3：确认翻译质量后，运行全量
 .venv/Scripts/python main.py
 ```
 
@@ -450,25 +467,16 @@ print(json.dumps(results, ensure_ascii=False, indent=2))
 
 ---
 
-## 代理配置（待实现）
+## 代理配置
 
-`note.md` 要求网络交互使用 HTTP 代理 `http://127.0.0.1:10801`。
-
-**实现方式**：在 `llm_client.py` 的 `LLMClient.__init__()` 中，通过 `httpx.Client` 传入代理：
+在 `config.py` 设置 `HTTP_PROXY`：
 
 ```python
-import httpx
-
-proxy_url = "http://127.0.0.1:10801"
-http_client = httpx.Client(proxy=proxy_url)
-self.client = OpenAI(
-    api_key=api_key,
-    base_url=base_url,
-    http_client=http_client,
-)
+HTTP_PROXY = "http://127.0.0.1:10801"   # 走代理
+HTTP_PROXY = None                        # 直连
 ```
 
-**建议**：在 `config.py` 增加 `HTTP_PROXY` 配置项，设为 `None` 则直连，设为 URL 字符串则走代理。
+实现方式：`llm_client.py` 中通过 `httpx.Client(proxy=..., timeout=...)` 创建 HTTP 客户端，传给 OpenAI SDK。`LLM_TIMEOUT` 控制请求超时，默认 300s（thinking 模式响应较慢）。
 
 ---
 
@@ -482,7 +490,13 @@ self.client = OpenAI(
 | 并发调用 | `ThreadPoolExecutor`，`MAX_CONCURRENCY` 可配 | `translator.py` |
 | 批量/逐条可配 | `BATCH_SIZE` 设为 1 即方案 A，10-20 即方案 B | `config.py` |
 | 模型可切换 | `LLM_MODEL` 选 pro/flash | `config.py` |
-| Wiki 上下文 | 多级模糊匹配，截断至 500 字符 | `context_builder.py` |
+| Wiki 上下文 | Dict O(1) 查找 + 模糊变体，截断至 500 字符 | `context_builder.py` |
+| 上下文缓存 | `contexts.json` 快照，二次加载 0.1s | `context_builder.py` |
+| 代理支持 | `httpx.Client(proxy=HTTP_PROXY)`，`config.py` 可配 | `llm_client.py` |
+| API 超时 | `httpx.Timeout(LLM_TIMEOUT)`，支持 thinking 模式长响应 | `llm_client.py` |
+| 详细日志 | 每步耗时、token 消耗、置信度分布、ETA 估算 | `llm_client.py` + `translator.py` |
+| 请求/响应日志 | `LOG_REQUEST` / `LOG_RESPONSE` 独立开关 | `config.py` + `llm_client.py` |
+| 小批量测试 | `--test N` 只翻译前 N 个 tag，快速验证质量 | `main.py` |
 | JSON 容错解析 | 自动去除 code fence，定位 `[...]` 边界 | `llm_client.py` |
 | Dry-run | `--dry-run` 只预览 prompt，不调 API | `main.py` |
 
@@ -490,16 +504,35 @@ self.client = OpenAI(
 
 ## 依赖清单
 
-| 包 | 版本要求 | 用途 |
-|----|----------|------|
-| Python | >= 3.9 | 运行环境 |
-| `openai` | (最新) | DeepSeek API 调用（OpenAI 兼容格式） |
-| `pandas` | (已安装) | 读取 wiki_pages.parquet |
-| `pyarrow` | (已安装) | pandas parquet 引擎 |
+| 包 | 用途 |
+|----|------|
+| Python >= 3.9 | 运行环境 |
+| `openai` | DeepSeek API 调用（OpenAI 兼容格式） |
+| `httpx` | HTTP 客户端（代理 + 超时配置） |
+| `pandas` | 读取 wiki_pages.parquet |
+| `pyarrow` | pandas parquet 引擎 |
 
-其余为标准库：`json`、`concurrent.futures`、`argparse`、`pathlib`、`re`、`time`、`traceback`、`textwrap`。
+其余为标准库：`json`、`concurrent.futures`、`argparse`、`pathlib`、`re`、`time`、`traceback`。
 
 注意：项目使用了 `from __future__ import annotations` 以兼容 Python 3.9 的类型注解语法，如果升级到 Python 3.11+ 可以移除这些 import。
+
+---
+
+## 版本记录
+
+### v1.1 (2026-04-30)
+
+- **性能**：wiki 查找从 DataFrame 布尔索引（数分钟）优化为 dict O(1) 查找（~2s）
+- **网络**：新增 `HTTP_PROXY` 代理配置，通过 `httpx.Client` 实现
+- **超时**：新增 `LLM_TIMEOUT` 配置，解决 thinking 模式响应慢导致超时
+- **日志**：全链路详细日志（每步耗时、token 消耗、置信度分布、ETA 估算）
+- **日志开关**：`LOG_REQUEST` / `LOG_RESPONSE` 独立控制完整报文输出
+- **上下文缓存**：`contexts.json` 快照，二次启动秒加载（`--rebuild` 强制重建）
+- **小批量测试**：`--test N` 只翻译前 N 个 tag，快速验证翻译质量
+
+### v1.0 (2026-04-30)
+
+- 初始版本：上下文构造、LLM 翻译、批量调度、断点续跑、结果合并
 
 ---
 
