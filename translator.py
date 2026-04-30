@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import time
 import traceback
+from datetime import datetime
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -131,6 +132,9 @@ def translate_all(contexts: list[dict]) -> dict[str, dict]:
         _dry_run(batches)
         return cache
 
+    t_task_start = time.time()
+    print(f"[translator] Task started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}", flush=True)
+
     client = LLMClient()
     print(f"[translator] LLM model: {client.model} | batch_size={BATCH_SIZE} | "
           f"concurrency={MAX_CONCURRENCY} | retries={MAX_RETRIES}", flush=True)
@@ -188,9 +192,26 @@ def translate_all(contexts: list[dict]) -> dict[str, dict]:
                 save_progress(progress)
                 print(f"  [batch {batch_idx}/{len(batches)}] GAVE UP: {e}", flush=True)
 
+    t_task_end = time.time()
+    task_elapsed = t_task_end - t_task_start
+
     # Final summary
-    print(f"\nDone. Translated: {len(cache)}, "
-          f"Failed batches: {len(progress['failed_batches'])}")
+    s = client.stats
+    print(f"\n{'=' * 60}", flush=True)
+    print(f"  Task finished at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}", flush=True)
+    print(f"{'=' * 60}", flush=True)
+    print(f"  总耗时:          {task_elapsed:.0f}s ({task_elapsed/60:.1f}min)", flush=True)
+    print(f"  翻译 tag 数:     {len(cache)}", flush=True)
+    print(f"  失败批次:        {len(progress['failed_batches'])}", flush=True)
+    print(f"  LLM 调用次数:    {s['calls']}", flush=True)
+    print(f"  LLM 总耗时:      {s['total_elapsed']:.0f}s ({s['total_elapsed']/60:.1f}min)", flush=True)
+    print(f"  总 tokens:       {s['total_tokens']:,} "
+          f"(prompt={s['total_prompt_tokens']:,} completion={s['total_completion_tokens']:,})",
+          flush=True)
+    print(f"  批次平均耗时:    {s['avg_batch_time']:.1f}s", flush=True)
+    print(f"  批次平均 tokens: {s['avg_batch_tokens']:.0f}", flush=True)
+    print(f"  Tag 平均 tokens: {s['avg_tag_tokens']:.0f}", flush=True)
+    print(f"{'=' * 60}", flush=True)
     return cache
 
 

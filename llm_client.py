@@ -102,9 +102,34 @@ class LLMClient:
                              http_client=http_client)
         self.model = model
         self._call_count = 0
+        # Cumulative stats
+        self._total_prompt_tokens = 0
+        self._total_completion_tokens = 0
+        self._total_elapsed = 0.0
+        self._total_tags = 0
         proxy_info = f" proxy={HTTP_PROXY}" if HTTP_PROXY else ""
         print(f"[llm] Client init: model={model} base_url={base_url} "
               f"timeout={LLM_TIMEOUT}s{proxy_info}", flush=True)
+
+    @property
+    def stats(self) -> dict:
+        """Return cumulative usage statistics."""
+        avg_batch_time = self._total_elapsed / self._call_count if self._call_count > 0 else 0
+        avg_batch_tokens = ((self._total_prompt_tokens + self._total_completion_tokens)
+                            / self._call_count) if self._call_count > 0 else 0
+        avg_tag_tokens = ((self._total_prompt_tokens + self._total_completion_tokens)
+                          / self._total_tags) if self._total_tags > 0 else 0
+        return {
+            "calls": self._call_count,
+            "total_tags": self._total_tags,
+            "total_prompt_tokens": self._total_prompt_tokens,
+            "total_completion_tokens": self._total_completion_tokens,
+            "total_tokens": self._total_prompt_tokens + self._total_completion_tokens,
+            "total_elapsed": self._total_elapsed,
+            "avg_batch_time": avg_batch_time,
+            "avg_batch_tokens": avg_batch_tokens,
+            "avg_tag_tokens": avg_tag_tokens,
+        }
 
     def translate_batch(self, contexts: list[dict]) -> list[dict]:
         """
@@ -150,6 +175,13 @@ class LLMClient:
         usage = response.usage
         raw = response.choices[0].message.content
 
+        # Accumulate stats
+        self._total_elapsed += elapsed
+        self._total_tags += n_tags
+        if usage:
+            self._total_prompt_tokens += usage.prompt_tokens
+            self._total_completion_tokens += usage.completion_tokens
+
         # Count tokens if available
         tok_info = ""
         if usage:
@@ -174,9 +206,10 @@ class LLMClient:
         print(f"  [llm #{call_id}] Confidence: A={conf_dist['A']} B={conf_dist['B']} "
               f"C={conf_dist['C']} D={conf_dist['D']}", flush=True)
 
-        # Show sample translations
-        for r in results[:3]:
-            print(f"    {r['tag']} → {r['tag_cn']} ({r['confidence']})", flush=True)
+        # Show all translations for this batch
+        for r in results:
+            print(f"    {r['tag']} → {r['tag_cn']} ({r['confidence']}) | {r['tag_cn_long']}",
+                  flush=True)
 
         return results
 
