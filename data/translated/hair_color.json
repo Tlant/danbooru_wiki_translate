@@ -36,9 +36,9 @@
       "wiki_url": "/wiki_pages/aqua_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色发",
+      "confidence": "B",
+      "tag_cn_long": "头发呈现蓝绿色。"
     },
     {
       "name": "black hair",
@@ -46,9 +46,9 @@
       "wiki_url": "/wiki_pages/black_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑发",
+      "confidence": "A",
+      "tag_cn_long": "黑色头发。"
     },
     {
       "name": "blonde hair",
@@ -56,9 +56,9 @@
       "wiki_url": "/wiki_pages/blonde_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金发",
+      "confidence": "A",
+      "tag_cn_long": "金色或黄色头发。"
     },
     {
       "name": "blue hair",
@@ -66,9 +66,9 @@
       "wiki_url": "/wiki_pages/blue_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝发",
+      "confidence": "A",
+      "tag_cn_long": "蓝色头发。"
     },
     {
       "name": "brown hair",
@@ -76,9 +76,9 @@
       "wiki_url": "/wiki_pages/brown_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕发",
+      "confidence": "A",
+      "tag_cn_long": "棕色头发。"
     },
     {
       "name": "green hair",
@@ -86,9 +86,9 @@
       "wiki_url": "/wiki_pages/green_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿发",
+      "confidence": "A",
+      "tag_cn_long": "绿色头发。"
     },
     {
       "name": "grey hair",
@@ -96,9 +96,9 @@
       "wiki_url": "/wiki_pages/grey_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰发",
+      "confidence": "A",
+      "tag_cn_long": "灰色头发。"
     },
     {
       "name": "orange hair",
@@ -106,9 +106,9 @@
       "wiki_url": "/wiki_pages/orange_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙发",
+      "confidence": "A",
+      "tag_cn_long": "橙色头发。"
     },
     {
       "name": "pink hair",
@@ -116,9 +116,9 @@
       "wiki_url": "/wiki_pages/pink_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉发",
+      "confidence": "A",
+      "tag_cn_long": "粉红色头发。"
     },
     {
       "name": "purple hair",
@@ -126,9 +126,9 @@
       "wiki_url": "/wiki_pages/purple_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫发",
+      "confidence": "A",
+      "tag_cn_long": "紫色头发。"
     },
     {
       "name": "red hair",
@@ -136,9 +136,9 @@
       "wiki_url": "/wiki_pages/red_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红发",
+      "confidence": "A",
+      "tag_cn_long": "红色头发。"
     },
     {
       "name": "white hair",
@@ -146,9 +146,9 @@
       "wiki_url": "/wiki_pages/white_hair",
       "category_path": "Specific colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白发",
+      "confidence": "A",
+      "tag_cn_long": "白色头发。"
     },
     {
       "name": "multicolored hair",
@@ -156,9 +156,9 @@
       "wiki_url": "/wiki_pages/multicolored_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色发",
+      "confidence": "A",
+      "tag_cn_long": "头发有超过一种颜色。"
     },
     {
       "name": "colored inner hair",
@@ -166,9 +166,9 @@
       "wiki_url": "/wiki_pages/colored_inner_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内层异色发",
+      "confidence": "B",
+      "tag_cn_long": "头发内侧颜色与外侧不同。"
     },
     {
       "name": "colored tips",
@@ -176,9 +176,9 @@
       "wiki_url": "/wiki_pages/colored_tips",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "染发尾",
+      "confidence": "A",
+      "tag_cn_long": "发梢突然变为另一种颜色。"
     },
     {
       "name": "roots",
@@ -186,9 +186,9 @@
       "wiki_url": "/wiki_pages/roots_%28hair%29",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "根部异色",
+      "confidence": "B",
+      "tag_cn_long": "头发根部呈现与其余部分不同的颜色。"
     },
     {
       "name": "gradient hair",
@@ -196,9 +196,9 @@
       "wiki_url": "/wiki_pages/gradient_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变发",
+      "confidence": "A",
+      "tag_cn_long": "头发颜色逐渐过渡变化。"
     },
     {
       "name": "patterned hair",
@@ -206,9 +206,9 @@
       "wiki_url": "/wiki_pages/patterned_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图案发",
+      "confidence": "B",
+      "tag_cn_long": "头发上呈现无法在真实头发上复制的图案。"
     },
     {
       "name": "rainbow hair",
@@ -216,9 +216,9 @@
       "wiki_url": "/wiki_pages/rainbow_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩虹发",
+      "confidence": "A",
+      "tag_cn_long": "头发颜色像彩虹光谱一样多彩，通常为渐变。"
     },
     {
       "name": "split-color hair",
@@ -226,9 +226,9 @@
       "wiki_url": "/wiki_pages/split-color_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分色发",
+      "confidence": "A",
+      "tag_cn_long": "头发从头顶纵向分成两种不同颜色的发型。"
     },
     {
       "name": "spotted hair",
@@ -236,9 +236,9 @@
       "wiki_url": "/wiki_pages/spotted_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斑点发",
+      "confidence": "B",
+      "tag_cn_long": "头发上有斑点状的不同颜色区块，常见于动物角色。"
     },
     {
       "name": "streaked hair",
@@ -246,9 +246,9 @@
       "wiki_url": "/wiki_pages/streaked_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挑染发",
+      "confidence": "A",
+      "tag_cn_long": "头发以主色调为主，只有少量条纹呈现另一种颜色。"
     },
     {
       "name": "striped hair",
@@ -256,9 +256,9 @@
       "wiki_url": "/wiki_pages/striped_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹发",
+      "confidence": "B",
+      "tag_cn_long": "头发上有条纹状的不同颜色图案。"
     },
     {
       "name": "raccoon tails",
@@ -276,9 +276,9 @@
       "wiki_url": "/wiki_pages/two-tone_hair",
       "category_path": "Multiple colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色发",
+      "confidence": "A",
+      "tag_cn_long": "头发由两种不同的颜色组成，可能渐变或突变。"
     },
     {
       "name": "alternate hair color",
@@ -286,9 +286,9 @@
       "wiki_url": "/wiki_pages/alternate_hair_color",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "异色发",
+      "confidence": "A",
+      "tag_cn_long": "角色头发被绘制成与通常颜色不同的颜色。"
     },
     {
       "name": "see-through hair",
@@ -296,9 +296,9 @@
       "wiki_url": "/wiki_pages/see-through_hair",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透明发",
+      "confidence": "A",
+      "tag_cn_long": "头发呈半透明或透明状，可以看到后面的物体。"
     }
   ],
   "total_tags": 27,

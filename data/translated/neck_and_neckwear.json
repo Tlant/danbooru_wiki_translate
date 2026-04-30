@@ -88,9 +88,9 @@
       "wiki_url": "/wiki_pages/arm_around_neck",
       "category_path": "Actions / Posture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手臂搂颈",
+      "confidence": "A",
+      "tag_cn_long": "一个人的手臂环绕另一个人的后颈。"
     },
     {
       "name": "Arms around neck",
@@ -98,9 +98,9 @@
       "wiki_url": "/wiki_pages/arms_around_neck",
       "category_path": "Actions / Posture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双臂搂颈",
+      "confidence": "A",
+      "tag_cn_long": "一个人用双臂环绕另一个人的颈部，常作为拥抱的一部分。"
     },
     {
       "name": "Hand on another's neck",
@@ -108,9 +108,9 @@
       "wiki_url": "/wiki_pages/hand_on_another%27s_neck",
       "category_path": "Actions / Posture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手触他颈",
+      "confidence": "A",
+      "tag_cn_long": "一个角色将一只手放在另一个角色的脖子上。"
     },
     {
       "name": "Hands on another's neck",
@@ -118,9 +118,9 @@
       "wiki_url": "/wiki_pages/hands_on_another%27s_neck",
       "category_path": "Actions / Posture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手触颈",
+      "confidence": "A",
+      "tag_cn_long": "一种较温和的形式，一人将双手放在他人脖子上，可能是出于爱意或帮助。"
     },
     {
       "name": "Strangling",
@@ -128,9 +128,9 @@
       "wiki_url": "/wiki_pages/strangling",
       "category_path": "Actions / Posture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "勒颈",
+      "confidence": "A",
+      "tag_cn_long": "挤压或抓住脖子以限制呼吸的动作。"
     },
     {
       "name": "Hand on own neck",
@@ -138,9 +138,9 @@
       "wiki_url": "/wiki_pages/hand_on_own_neck",
       "category_path": "Actions / Posture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手触己颈",
+      "confidence": "A",
+      "tag_cn_long": "角色将一只手放在自己脖子上。"
     },
     {
       "name": "Hands on own neck",
@@ -148,9 +148,9 @@
       "wiki_url": "/wiki_pages/hands_on_own_neck",
       "category_path": "Actions / Posture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手抚颈",
+      "confidence": "A",
+      "tag_cn_long": "角色用双手触碰或握住自己的脖子。"
     },
     {
       "name": "Biting neck",
@@ -158,9 +158,9 @@
       "wiki_url": "/wiki_pages/biting_neck",
       "category_path": "Actions / Posture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咬颈",
+      "confidence": "A",
+      "tag_cn_long": "一个角色咬另一个角色的脖子，常见于吸血鬼题材。"
     },
     {
       "name": "Kissing neck",
@@ -168,9 +168,9 @@
       "wiki_url": "/wiki_pages/kissing_neck",
       "category_path": "Actions / Posture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吻颈",
+      "confidence": "A",
+      "tag_cn_long": "亲吻另一个角色的脖子。"
     },
     {
       "name": "Chokers",
@@ -178,9 +178,9 @@
       "wiki_url": "/wiki_pages/choker",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "项圈",
+      "confidence": "A",
+      "tag_cn_long": "紧贴颈部的装饰性颈圈，通常为皮质或布质。"
     },
     {
       "name": "Collars",
@@ -188,9 +188,9 @@
       "wiki_url": "/wiki_pages/collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈圈",
+      "confidence": "A",
+      "tag_cn_long": "戴在脖子上的环状饰品，可能带有装饰物。"
     },
     {
       "name": "Choker",
@@ -208,9 +208,9 @@
       "wiki_url": "/wiki_pages/animal_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物项圈",
+      "confidence": "A",
+      "tag_cn_long": "模仿宠物项圈设计，通常为红色皮革，带有扣环，可能附有铃铛或名牌。"
     },
     {
       "name": "Belt collar",
@@ -218,9 +218,9 @@
       "wiki_url": "/wiki_pages/belt_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带项圈",
+      "confidence": "A",
+      "tag_cn_long": "外观像腰带的项圈，通常有皮带扣设计。"
     },
     {
       "name": "Frilled collar",
@@ -228,9 +228,9 @@
       "wiki_url": "/wiki_pages/frilled_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有褶边装饰的独立项圈，不是衣服的一部分。"
     },
     {
       "name": "Fur collar",
@@ -238,9 +238,9 @@
       "wiki_url": "/wiki_pages/fur_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮项圈",
+      "confidence": "A",
+      "tag_cn_long": "完全由毛皮制成的项圈，区别于带有毛皮镶边的项圈。"
     },
     {
       "name": "Fur-trimmed collar",
@@ -248,9 +248,9 @@
       "wiki_url": "/wiki_pages/fur-trimmed_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮镶边项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有毛皮镶边的独立项圈。"
     },
     {
       "name": "Heart collar",
@@ -258,9 +258,9 @@
       "wiki_url": "/wiki_pages/heart_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形项圈",
+      "confidence": "A",
+      "tag_cn_long": "前面有心形装饰的项圈，常有心形锁。"
     },
     {
       "name": "Lace-trimmed collar",
@@ -268,9 +268,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝镶边项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有蕾丝花边镶边的项圈。"
     },
     {
       "name": "Metal collar",
@@ -278,9 +278,9 @@
       "wiki_url": "/wiki_pages/metal_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金属项圈",
+      "confidence": "A",
+      "tag_cn_long": "由金属制成的项圈。"
     },
     {
       "name": "O-ring choker",
@@ -288,9 +288,9 @@
       "wiki_url": "/wiki_pages/o-ring_choker",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "O形环项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有一个O形环装饰的紧颈项圈，环通常在前方或后方。"
     },
     {
       "name": "O-ring collar",
@@ -298,9 +298,9 @@
       "wiki_url": "/wiki_pages/o-ring_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "O形环颈圈",
+      "confidence": "A",
+      "tag_cn_long": "前面带有一个O形环的颈圈。"
     },
     {
       "name": "Padlocked collar",
@@ -308,9 +308,9 @@
       "wiki_url": "/wiki_pages/padlocked_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挂锁项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有挂锁装饰的项圈，锁可能是装饰性或功能性。"
     },
     {
       "name": "Pendant choker",
@@ -318,9 +318,9 @@
       "wiki_url": "/wiki_pages/pendant_choker",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊坠项圈",
+      "confidence": "A",
+      "tag_cn_long": "挂着吊坠的紧颈项圈。"
     },
     {
       "name": "Spiked collar",
@@ -328,9 +328,9 @@
       "wiki_url": "/wiki_pages/spiked_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖钉项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有金属尖钉的项圈，常与朋克文化相关。"
     },
     {
       "name": "Studded collar",
@@ -338,9 +338,9 @@
       "wiki_url": "/wiki_pages/studded_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铆钉项圈",
+      "confidence": "A",
+      "tag_cn_long": "用金属铆钉加固的项圈，有别于尖钉项圈。"
     },
     {
       "name": "Ribbon choker",
@@ -348,9 +348,9 @@
       "wiki_url": "/wiki_pages/ribbon_choker",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丝带项圈",
+      "confidence": "A",
+      "tag_cn_long": "一种由丝带系在脖子上并打成蝴蝶结的项圈。"
     },
     {
       "name": "Bandana around neck",
@@ -358,9 +358,9 @@
       "wiki_url": "/wiki_pages/bandana_around_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头巾围脖",
+      "confidence": "A",
+      "tag_cn_long": "将头巾围在脖子上，大部分垂在胸前的佩戴方式。"
     },
     {
       "name": "Neck warmer",
@@ -368,9 +368,9 @@
       "wiki_url": "/wiki_pages/neck_warmer",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "保暖颈套",
+      "confidence": "A",
+      "tag_cn_long": "一种管状织物，围在脖子和脸部下方用于保暖。"
     },
     {
       "name": "Neck ring",
@@ -408,9 +408,9 @@
       "wiki_url": "/wiki_pages/pet_cone",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伊丽莎白圈",
+      "confidence": "A",
+      "tag_cn_long": "宠物佩戴的锥形装置，防止舔咬伤口。"
     },
     {
       "name": "Contrast collar",
@@ -418,9 +418,9 @@
       "wiki_url": "/wiki_pages/contrast_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "撞色领",
+      "confidence": "B",
+      "tag_cn_long": "与衣服主体颜色形成对比的衣领。"
     },
     {
       "name": "Open collar",
@@ -428,9 +428,9 @@
       "wiki_url": "/wiki_pages/open_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开领",
+      "confidence": "A",
+      "tag_cn_long": "立领或衬衫领没有扣上的状态。"
     },
     {
       "name": "Detached collar",
@@ -438,9 +438,9 @@
       "wiki_url": "/wiki_pages/detached_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "独立领",
+      "confidence": "A",
+      "tag_cn_long": "单独存在的衬衫领，通常搭配领带或蝴蝶结。"
     },
     {
       "name": "Rounded collar",
@@ -448,9 +448,9 @@
       "wiki_url": "/wiki_pages/rounded_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆角领",
+      "confidence": "B",
+      "tag_cn_long": "领角呈圆形的衣领设计。"
     },
     {
       "name": "Round collar",
@@ -458,9 +458,9 @@
       "wiki_url": "/wiki_pages/round_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆领",
+      "confidence": "A",
+      "tag_cn_long": "领口为圆形的设计。"
     },
     {
       "name": "Turtleneck",
@@ -468,9 +468,9 @@
       "wiki_url": "/wiki_pages/turtleneck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高领毛衣",
+      "confidence": "A",
+      "tag_cn_long": "一种高领上衣，领子覆盖整个脖子。"
     },
     {
       "name": "Crew neck",
@@ -478,9 +478,9 @@
       "wiki_url": "/wiki_pages/crew_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆领",
+      "confidence": "A",
+      "tag_cn_long": "一种圆形紧密贴合的领口，通常无领，常见于T恤。"
     },
     {
       "name": "V-neck",
@@ -488,9 +488,9 @@
       "wiki_url": "/wiki_pages/v-neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "V领",
+      "confidence": "A",
+      "tag_cn_long": "呈V字形开口的领口。"
     },
     {
       "name": "Scoop neck",
@@ -498,9 +498,9 @@
       "wiki_url": "/wiki_pages/scoop_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "勺领",
+      "confidence": "A",
+      "tag_cn_long": "宽且深的圆形领口，露出大部分上胸部。"
     },
     {
       "name": "Square neckline",
@@ -508,9 +508,9 @@
       "wiki_url": "/wiki_pages/square_neckline",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "方领",
+      "confidence": "A",
+      "tag_cn_long": "方形领口的上衣设计。"
     },
     {
       "name": "Low neckline",
@@ -518,9 +518,9 @@
       "wiki_url": "/wiki_pages/low_neckline",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低领口",
+      "confidence": "A",
+      "tag_cn_long": "露出较多胸部的低领设计。"
     },
     {
       "name": "Plunging neckline",
@@ -538,9 +538,9 @@
       "wiki_url": "/wiki_pages/mandarin_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中式立领",
+      "confidence": "A",
+      "tag_cn_long": "短立领设计，常见于中式服装。"
     },
     {
       "name": "High collar",
@@ -548,9 +548,9 @@
       "wiki_url": "/wiki_pages/high_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高领",
+      "confidence": "A",
+      "tag_cn_long": "指高度超过普通衣领的立领或翻领。"
     },
     {
       "name": "Mystical high collar",
@@ -558,9 +558,9 @@
       "wiki_url": "/wiki_pages/mystical_high_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "神秘高领",
+      "confidence": "B",
+      "tag_cn_long": "一种高耸外翻的衣领，常见于巫师、吸血鬼等神秘角色。"
     },
     {
       "name": "Medici collar",
@@ -568,9 +568,9 @@
       "wiki_url": "/wiki_pages/medici_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美第奇领",
+      "confidence": "A",
+      "tag_cn_long": "一种向后直立并向外展开的高领，前端开口，源于美第奇时期服饰。"
     },
     {
       "name": "Popped collar",
@@ -578,9 +578,9 @@
       "wiki_url": "/wiki_pages/popped_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立起衣领",
+      "confidence": "B",
+      "tag_cn_long": "将衬衫或外套的衣领向上翻起的状态。"
     },
     {
       "name": "Wing collar",
@@ -588,9 +588,9 @@
       "wiki_url": "/wiki_pages/wing_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翼领",
+      "confidence": "A",
+      "tag_cn_long": "一种正装衬衫领，领尖向外翻折呈翼状。"
     },
     {
       "name": "Wingtip collar",
@@ -598,9 +598,9 @@
       "wiki_url": "/wiki_pages/wingtip_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖翼领",
+      "confidence": "C",
+      "tag_cn_long": "领尖呈尖角状的翼领变体。"
     },
     {
       "name": "Bib collar",
@@ -608,9 +608,9 @@
       "wiki_url": "/wiki_pages/bib_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "围兜领",
+      "confidence": "A",
+      "tag_cn_long": "一种平坦的圆形或方形领，像围兜一样围绕颈部。"
     },
     {
       "name": "Guimpe",
@@ -628,9 +628,9 @@
       "wiki_url": "/wiki_pages/puritan_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "清教徒领",
+      "confidence": "A",
+      "tag_cn_long": "一种垂落于锁骨并向下延伸的圆形或方形领，源于清教徒服饰。"
     },
     {
       "name": "Peter pan collar",
@@ -638,9 +638,9 @@
       "wiki_url": "/wiki_pages/peter_pan_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彼得潘领",
+      "confidence": "A",
+      "tag_cn_long": "一种平坦的圆角领，常见于复古风格服装。"
     },
     {
       "name": "Sailor collar",
@@ -648,9 +648,9 @@
       "wiki_url": "/wiki_pages/sailor_collar",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手领",
+      "confidence": "A",
+      "tag_cn_long": "海军风格的两色领，通常蓝白或黑白，边缘有条纹，常配领巾。"
     },
     {
       "name": "sailor shirt",
@@ -658,9 +658,9 @@
       "wiki_url": "/wiki_pages/sailor_shirt",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手衫",
+      "confidence": "A",
+      "tag_cn_long": "带有水手领的衬衫。"
     },
     {
       "name": "serafuku",
@@ -668,9 +668,9 @@
       "wiki_url": "/wiki_pages/serafuku",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手服",
+      "confidence": "A",
+      "tag_cn_long": "日本女子中学和高中常见的校服，带水手领和裙子的套装。"
     },
     {
       "name": "Neck bell",
@@ -678,9 +678,9 @@
       "wiki_url": "/wiki_pages/neck_bell",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈铃",
+      "confidence": "A",
+      "tag_cn_long": "装饰有铃铛的颈圈或衣领，常用于宠物定位。"
     },
     {
       "name": "jingle bell",
@@ -688,9 +688,9 @@
       "wiki_url": "/wiki_pages/jingle_bell",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铃铛",
+      "confidence": "A",
+      "tag_cn_long": "一种球形小铃铛，内有响舌，声音清脆，常与圣诞节或宠物项圈关联。"
     },
     {
       "name": "Neck ribbon",
@@ -708,9 +708,9 @@
       "wiki_url": "/wiki_pages/neck_tassel",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈穗",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的装饰性流苏。"
     },
     {
       "name": "Necklace",
@@ -738,9 +738,9 @@
       "wiki_url": "/wiki_pages/bolo_tie",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波洛领带",
+      "confidence": "A",
+      "tag_cn_long": "用装饰扣固定的细绳或编织带领带，常见于美国西部风格。"
     },
     {
       "name": "Bowtie",
@@ -828,9 +828,9 @@
       "wiki_url": "/wiki_pages/cloak",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斗篷",
+      "confidence": "A",
+      "tag_cn_long": "无袖外套，覆盖全身或上半身，前方开口。"
     },
     {
       "name": "hood down",
@@ -838,9 +838,9 @@
       "wiki_url": "/wiki_pages/hood_down",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子放下",
+      "confidence": "A",
+      "tag_cn_long": "穿着连帽衣物时，帽子未戴在头上，而是垂在背后。"
     },
     {
       "name": "Shrug (clothing)",
@@ -848,9 +848,9 @@
       "wiki_url": "/wiki_pages/shrug_%28clothing%29",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短开衫",
+      "confidence": "B",
+      "tag_cn_long": "一种只有袖子的短款上衣，通常套在其他衣服外面。"
     },
     {
       "name": "Animal around neck",
@@ -858,9 +858,9 @@
       "wiki_url": "/wiki_pages/animal_around_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物围脖",
+      "confidence": "A",
+      "tag_cn_long": "将动物（活的或皮草）像披肩一样围在脖子上作为装饰。"
     },
     {
       "name": "Bandana around neck",
@@ -868,9 +868,9 @@
       "wiki_url": "/wiki_pages/bandana_around_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头巾围脖",
+      "confidence": "A",
+      "tag_cn_long": "将头巾围在脖子上，大部分垂在胸前的佩戴方式。"
     },
     {
       "name": "Eyewear around neck",
@@ -878,9 +878,9 @@
       "wiki_url": "/wiki_pages/eyewear_around_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼镜挂脖",
+      "confidence": "A",
+      "tag_cn_long": "眼镜挂在脖子上。"
     },
     {
       "name": "Goggles around neck",
@@ -888,9 +888,9 @@
       "wiki_url": "/wiki_pages/goggles_around_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护目镜挂脖",
+      "confidence": "A",
+      "tag_cn_long": "护目镜挂在脖子上。"
     },
     {
       "name": "Gorget",
@@ -898,9 +898,9 @@
       "wiki_url": "/wiki_pages/gorget",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护喉甲",
+      "confidence": "B",
+      "tag_cn_long": "一种保护喉咙的装甲部件。"
     },
     {
       "name": "Headphones around neck",
@@ -908,9 +908,9 @@
       "wiki_url": "/wiki_pages/headphones_around_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳机挂脖",
+      "confidence": "A",
+      "tag_cn_long": "耳机挂在脖子上而不是戴在头上。"
     },
     {
       "name": "Lanyard",
@@ -918,9 +918,9 @@
       "wiki_url": "/wiki_pages/lanyard",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挂带",
+      "confidence": "A",
+      "tag_cn_long": "系在脖子、手腕或腰上的绳索，用于固定物品如证件、相机等。"
     },
     {
       "name": "Mask around neck",
@@ -928,9 +928,9 @@
       "wiki_url": "/wiki_pages/mask_around_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口罩挂脖",
+      "confidence": "A",
+      "tag_cn_long": "口罩挂在脖子上。"
     },
     {
       "name": "Towel around neck",
@@ -938,9 +938,9 @@
       "wiki_url": "/wiki_pages/towel_around_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛巾挂脖",
+      "confidence": "A",
+      "tag_cn_long": "毛巾围在脖子上。"
     },
     {
       "name": "Whistle around neck",
@@ -948,9 +948,9 @@
       "wiki_url": "/wiki_pages/whistle_around_neck",
       "category_path": "Detached Neckwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口哨挂脖",
+      "confidence": "A",
+      "tag_cn_long": "用链子挂在脖子上的口哨。"
     },
     {
       "name": "Collared blouse",
@@ -958,9 +958,9 @@
       "wiki_url": "/wiki_pages/collared_blouse",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领衬衫",
+      "confidence": "A",
+      "tag_cn_long": "带有领子的女式衬衫。"
     },
     {
       "name": "Collared cape",
@@ -968,9 +968,9 @@
       "wiki_url": "/wiki_pages/collared_cape",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领披风",
+      "confidence": "A",
+      "tag_cn_long": "带有折叠领的披风。"
     },
     {
       "name": "Collared capelet",
@@ -978,9 +978,9 @@
       "wiki_url": "/wiki_pages/collared_capelet",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领短披肩",
+      "confidence": "A",
+      "tag_cn_long": "一种带有翻领的短披肩。"
     },
     {
       "name": "Collared coat",
@@ -988,9 +988,9 @@
       "wiki_url": "/wiki_pages/collared_coat",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领外套",
+      "confidence": "A",
+      "tag_cn_long": "一种带有折叠翻领的外套。"
     },
     {
       "name": "Collared crop top",
@@ -998,9 +998,9 @@
       "wiki_url": "/wiki_pages/collared_crop_top",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领露脐上衣",
+      "confidence": "A",
+      "tag_cn_long": "一种带有领子的露脐上衣，常与有领衬衫+露脐装组合使用。"
     },
     {
       "name": "Collared dress",
@@ -1018,9 +1018,9 @@
       "wiki_url": "/wiki_pages/collared_leotard",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领连体衣",
+      "confidence": "A",
+      "tag_cn_long": "一种带有折叠翻领的紧身连衣裤。"
     },
     {
       "name": "Collared shirt",
@@ -1038,9 +1038,9 @@
       "wiki_url": "/wiki_pages/collared_shrug",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领短开衫",
+      "confidence": "A",
+      "tag_cn_long": "一种带有附带领子的短开衫，覆盖肩膀至手臂。"
     },
     {
       "name": "Collared vest",
@@ -1048,9 +1048,9 @@
       "wiki_url": "/wiki_pages/collared_vest",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领马甲",
+      "confidence": "A",
+      "tag_cn_long": "一种颈部带有明显折叠翻领的马甲。"
     },
     {
       "name": "Halterneck",
@@ -1078,9 +1078,9 @@
       "wiki_url": "/wiki_pages/halter_leotard",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挂颈连体衣",
+      "confidence": "A",
+      "tag_cn_long": "一种带有挂颈式领口的紧身连衣裤。"
     },
     {
       "name": "Halter shirt",
@@ -1088,9 +1088,9 @@
       "wiki_url": "/wiki_pages/halter_shirt",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挂颈上衣",
+      "confidence": "A",
+      "tag_cn_long": "一种带有挂颈式领口的衬衫，也称挂颈式上衣。"
     },
     {
       "name": "Criss-cross halter",
@@ -1108,9 +1108,9 @@
       "wiki_url": "/wiki_pages/sailor_collar",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手领",
+      "confidence": "A",
+      "tag_cn_long": "海军风格的两色领，通常蓝白或黑白，边缘有条纹，常配领巾。"
     },
     {
       "name": "Sailor bikini",
@@ -1118,9 +1118,9 @@
       "wiki_url": "/wiki_pages/sailor_bikini",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手比基尼",
+      "confidence": "A",
+      "tag_cn_long": "一种在上衣部分加入水手领设计的比基尼。"
     },
     {
       "name": "Sailor dress",
@@ -1158,9 +1158,9 @@
       "wiki_url": "/wiki_pages/turtleneck",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高领毛衣",
+      "confidence": "A",
+      "tag_cn_long": "一种高领上衣，领子覆盖整个脖子。"
     },
     {
       "name": "Sleeveless turtleneck",
@@ -1178,9 +1178,9 @@
       "wiki_url": "/wiki_pages/turtleneck_bodysuit",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高领连体衣",
+      "confidence": "A",
+      "tag_cn_long": "一种带有高领的连体紧身衣。"
     },
     {
       "name": "Turtleneck dress",
@@ -1188,9 +1188,9 @@
       "wiki_url": "/wiki_pages/turtleneck_dress",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高领连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "一种带有高领的连衣裙。"
     },
     {
       "name": "Turtleneck jacket",
@@ -1198,9 +1198,9 @@
       "wiki_url": "/wiki_pages/turtleneck_jacket",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高领夹克",
+      "confidence": "A",
+      "tag_cn_long": "带有高领设计的夹克外套。"
     },
     {
       "name": "Turtleneck one-piece swimsuit",
@@ -1208,9 +1208,9 @@
       "wiki_url": "/wiki_pages/turtleneck_one-piece_swimsuit",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高领连体泳衣",
+      "confidence": "A",
+      "tag_cn_long": "带有高领的连体式泳装。"
     },
     {
       "name": "Turtleneck shirt",
@@ -1218,9 +1218,9 @@
       "wiki_url": "/wiki_pages/turtleneck_shirt",
       "category_path": "Collared clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高领衬衫",
+      "confidence": "A",
+      "tag_cn_long": "带有高领的衬衫。"
     },
     {
       "name": "Adjusting collar",
@@ -1228,9 +1228,9 @@
       "wiki_url": "/wiki_pages/adjusting_collar",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调整衣领",
+      "confidence": "A",
+      "tag_cn_long": "角色正在调整自己的衣领。"
     },
     {
       "name": "Adjusting neckerchief",
@@ -1238,9 +1238,9 @@
       "wiki_url": "/wiki_pages/adjusting_neckerchief",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调整领巾",
+      "confidence": "A",
+      "tag_cn_long": "角色正在调整佩戴的领巾。"
     },
     {
       "name": "Adjusting necklace",
@@ -1248,9 +1248,9 @@
       "wiki_url": "/wiki_pages/adjusting_necklace",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调整项链",
+      "confidence": "A",
+      "tag_cn_long": "角色正在调整项链的位置。"
     },
     {
       "name": "Adjusting neck ribbon",
@@ -1258,9 +1258,9 @@
       "wiki_url": "/wiki_pages/adjusting_neck_ribbon",
       "category_path": "Neckwear actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调整颈绳",
+      "confidence": "A",
+      "tag_cn_long": "角色正在调整颈部的丝带。"
     },
     {
       "name": "Adjusting necktie",
@@ -1268,9 +1268,9 @@
       "wiki_url": "/wiki_pages/adjusting_necktie",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调整领带",
+      "confidence": "A",
+      "tag_cn_long": "角色正在调整领带以使其更舒适。"
     },
     {
       "name": "Adjusting scarf",
@@ -1278,9 +1278,9 @@
       "wiki_url": "/wiki_pages/adjusting_scarf",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调整围巾",
+      "confidence": "A",
+      "tag_cn_long": "角色正在调整自己的或他人的围巾。"
     },
     {
       "name": "Necktie between breasts",
@@ -1298,9 +1298,9 @@
       "wiki_url": "/wiki_pages/neckwear_grab",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓颈饰",
+      "confidence": "A",
+      "tag_cn_long": "用手抓住他人颈部的装饰物，常伴随拉扯动作以引起注意。"
     },
     {
       "name": "Collar grab",
@@ -1308,9 +1308,9 @@
       "wiki_url": "/wiki_pages/collar_grab",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓领",
+      "confidence": "A",
+      "tag_cn_long": "角色抓住另一人的衣领，通常用于威胁或攻击。"
     },
     {
       "name": "Neckerchief grab",
@@ -1318,9 +1318,9 @@
       "wiki_url": "/wiki_pages/neckerchief_grab",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓领巾",
+      "confidence": "A",
+      "tag_cn_long": "用手抓住他人的领巾。"
     },
     {
       "name": "Neck ribbon grab",
@@ -1328,9 +1328,9 @@
       "wiki_url": "/wiki_pages/neck_ribbon_grab",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓颈绳",
+      "confidence": "A",
+      "tag_cn_long": "用手抓住他人的颈部丝带。"
     },
     {
       "name": "Necktie grab",
@@ -1338,9 +1338,9 @@
       "wiki_url": "/wiki_pages/necktie_grab",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓领带",
+      "confidence": "A",
+      "tag_cn_long": "用手抓住另一人的领带，常表示吸引注意或支配。"
     },
     {
       "name": "Scarf grab",
@@ -1348,9 +1348,9 @@
       "wiki_url": "/wiki_pages/scarf_grab",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓围巾",
+      "confidence": "A",
+      "tag_cn_long": "抓住他人围巾的动作，通常为了引起注意。"
     },
     {
       "name": "Unworn choker",
@@ -1358,9 +1358,9 @@
       "wiki_url": "/wiki_pages/unworn_choker",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未佩戴项圈",
+      "confidence": "B",
+      "tag_cn_long": "图像中存在项圈但角色并未佩戴。"
     },
     {
       "name": "Unworn neckerchief",
@@ -1368,9 +1368,9 @@
       "wiki_url": "/wiki_pages/unworn_neckerchief",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未佩戴领巾",
+      "confidence": "B",
+      "tag_cn_long": "图像中存在领巾但角色并未佩戴。"
     },
     {
       "name": "Unworn necklace",
@@ -1378,9 +1378,9 @@
       "wiki_url": "/wiki_pages/unworn_necklace",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未佩戴项链",
+      "confidence": "A",
+      "tag_cn_long": "图像中存在项链但角色并未佩戴。"
     },
     {
       "name": "Unworn necktie",
@@ -1388,9 +1388,9 @@
       "wiki_url": "/wiki_pages/unworn_necktie",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未佩戴领带",
+      "confidence": "A",
+      "tag_cn_long": "图像中存在领带但没有人佩戴。"
     },
     {
       "name": "Unworn scarf",
@@ -1398,9 +1398,9 @@
       "wiki_url": "/wiki_pages/unworn_scarf",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴围巾",
+      "confidence": "A",
+      "tag_cn_long": "围巾没有被戴在脖子上。"
     },
     {
       "name": "No neckwear",
@@ -1408,9 +1408,9 @@
       "wiki_url": "/wiki_pages/no_neckwear",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴颈饰",
+      "confidence": "A",
+      "tag_cn_long": "角色通常佩戴颈饰但本次未佩戴。"
     },
     {
       "name": "No choker",
@@ -1418,9 +1418,9 @@
       "wiki_url": "/wiki_pages/no_choker",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴项圈",
+      "confidence": "A",
+      "tag_cn_long": "角色通常戴着项圈但本次没有。"
     },
     {
       "name": "No necklace",
@@ -1428,9 +1428,9 @@
       "wiki_url": "/wiki_pages/no_necklace",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴项链",
+      "confidence": "A",
+      "tag_cn_long": "角色通常戴着项链但本次没有。"
     },
     {
       "name": "No necktie",
@@ -1438,9 +1438,9 @@
       "wiki_url": "/wiki_pages/no_necktie",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴领带",
+      "confidence": "A",
+      "tag_cn_long": "角色通常佩戴领带但本次没有。"
     },
     {
       "name": "No scarf",
@@ -1448,9 +1448,9 @@
       "wiki_url": "/wiki_pages/no_scarf",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴围巾",
+      "confidence": "A",
+      "tag_cn_long": "角色通常佩戴围巾但本次没有。"
     },
     {
       "name": "Necktie on head",
@@ -1458,9 +1458,9 @@
       "wiki_url": "/wiki_pages/necktie_on_head",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头系领带",
+      "confidence": "A",
+      "tag_cn_long": "将领带像头带一样系在头上。"
     },
     {
       "name": "Bandana over mouth",
@@ -1468,9 +1468,9 @@
       "wiki_url": "/wiki_pages/bandana_over_mouth",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头巾遮嘴",
+      "confidence": "A",
+      "tag_cn_long": "一条头巾遮住了嘴巴。"
     },
     {
       "name": "Clothes gag",
@@ -1478,9 +1478,9 @@
       "wiki_url": "/wiki_pages/clothes_gag",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣物堵嘴",
+      "confidence": "A",
+      "tag_cn_long": "用衣物塞住嘴巴作为临时口塞。"
     },
     {
       "name": "Scarf over mouth",
@@ -1488,9 +1488,9 @@
       "wiki_url": "/wiki_pages/scarf_over_mouth",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "围巾遮嘴",
+      "confidence": "A",
+      "tag_cn_long": "围巾遮住了佩戴者的嘴巴。"
     },
     {
       "name": "Shared scarf",
@@ -1498,9 +1498,9 @@
       "wiki_url": "/wiki_pages/shared_scarf",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "共享围巾",
+      "confidence": "A",
+      "tag_cn_long": "两人或多人同围一条围巾。"
     },
     {
       "name": "Collar tug",
@@ -1508,9 +1508,9 @@
       "wiki_url": "/wiki_pages/collar_tug",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉领口",
+      "confidence": "A",
+      "tag_cn_long": "将领子拉下或拉出，表示炎热或紧张。"
     },
     {
       "name": "Loose bowtie",
@@ -1518,9 +1518,9 @@
       "wiki_url": "/wiki_pages/loose_bowtie",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽松领结",
+      "confidence": "A",
+      "tag_cn_long": "领结算系着但松散地挂在脖子上。"
     },
     {
       "name": "Loose necktie",
@@ -1528,9 +1528,9 @@
       "wiki_url": "/wiki_pages/loose_necktie",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽松领带",
+      "confidence": "A",
+      "tag_cn_long": "领带系着但松垮地挂在脖子上。"
     },
     {
       "name": "Undone ascot",
@@ -1538,9 +1538,9 @@
       "wiki_url": "/wiki_pages/undone_ascot",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "解开领巾",
+      "confidence": "A",
+      "tag_cn_long": "领巾被解开，挂在脖子上。"
     },
     {
       "name": "Undone neckerchief",
@@ -1548,9 +1548,9 @@
       "wiki_url": "/wiki_pages/undone_neckerchief",
       "category_path": "Neckwear actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "解开颈巾",
+      "confidence": "A",
+      "tag_cn_long": "颈巾被解开，垂挂在脖子上。"
     },
     {
       "name": "Ascots",
@@ -1558,9 +1558,9 @@
       "wiki_url": "/wiki_pages/ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种颈部装饰物，阿斯科特领巾。"
     },
     {
       "name": "Checkered ascot",
@@ -1568,9 +1568,9 @@
       "wiki_url": "/wiki_pages/checkered_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有方格图案的领巾。"
     },
     {
       "name": "Gingham ascot",
@@ -1578,9 +1578,9 @@
       "wiki_url": "/wiki_pages/gingham_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格纹领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有小方格图案的领巾。"
     },
     {
       "name": "Lace-trimmed ascot",
@@ -1588,9 +1588,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝领巾",
+      "confidence": "A",
+      "tag_cn_long": "边缘饰有蕾丝的领巾。"
     },
     {
       "name": "Plaid ascot",
@@ -1598,9 +1598,9 @@
       "wiki_url": "/wiki_pages/plaid_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有格子图案的阿斯科特领巾。"
     },
     {
       "name": "Striped ascot",
@@ -1608,9 +1608,9 @@
       "wiki_url": "/wiki_pages/striped_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有条纹图案的阿斯科特领巾。"
     },
     {
       "name": "Torn ascot",
@@ -1618,9 +1618,9 @@
       "wiki_url": "/wiki_pages/torn_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破损领巾",
+      "confidence": "A",
+      "tag_cn_long": "已经撕裂或破损的阿斯科特领巾。"
     },
     {
       "name": "Gradient ascot",
@@ -1628,9 +1628,9 @@
       "wiki_url": "/wiki_pages/gradient_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有渐变色彩的阿斯科特领巾。"
     },
     {
       "name": "Multicolored ascot",
@@ -1638,9 +1638,9 @@
       "wiki_url": "/wiki_pages/multicolored_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色领巾",
+      "confidence": "A",
+      "tag_cn_long": "由多种颜色组成的阿斯科特领巾。"
     },
     {
       "name": "Two-tone ascot",
@@ -1648,9 +1648,9 @@
       "wiki_url": "/wiki_pages/two-tone_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色领巾",
+      "confidence": "A",
+      "tag_cn_long": "恰好有两种颜色的阿斯科特领巾。"
     },
     {
       "name": "Aqua ascot",
@@ -1658,9 +1658,9 @@
       "wiki_url": "/wiki_pages/aqua_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色领巾",
+      "confidence": "A",
+      "tag_cn_long": "水蓝色的阿斯科特领巾。"
     },
     {
       "name": "Black ascot",
@@ -1668,9 +1668,9 @@
       "wiki_url": "/wiki_pages/black_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色领巾",
+      "confidence": "A",
+      "tag_cn_long": "黑色的阿斯科特领巾。"
     },
     {
       "name": "Blue ascot",
@@ -1678,9 +1678,9 @@
       "wiki_url": "/wiki_pages/blue_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色领巾",
+      "confidence": "A",
+      "tag_cn_long": "蓝色的阿斯科特领巾。"
     },
     {
       "name": "Brown ascot",
@@ -1688,9 +1688,9 @@
       "wiki_url": "/wiki_pages/brown_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色领巾",
+      "confidence": "A",
+      "tag_cn_long": "棕色的阿斯科特领巾。"
     },
     {
       "name": "Green ascot",
@@ -1698,9 +1698,9 @@
       "wiki_url": "/wiki_pages/green_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色领巾",
+      "confidence": "A",
+      "tag_cn_long": "绿色的阿斯科特领巾。"
     },
     {
       "name": "Grey ascot",
@@ -1708,9 +1708,9 @@
       "wiki_url": "/wiki_pages/grey_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色领巾",
+      "confidence": "A",
+      "tag_cn_long": "灰色的阿斯科特领巾。"
     },
     {
       "name": "Orange ascot",
@@ -1718,9 +1718,9 @@
       "wiki_url": "/wiki_pages/orange_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色领巾",
+      "confidence": "A",
+      "tag_cn_long": "橙色的阿斯科特领巾。"
     },
     {
       "name": "Pink ascot",
@@ -1728,9 +1728,9 @@
       "wiki_url": "/wiki_pages/pink_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色领巾",
+      "confidence": "A",
+      "tag_cn_long": "粉色的阿斯科特领巾。"
     },
     {
       "name": "Red ascot",
@@ -1738,9 +1738,9 @@
       "wiki_url": "/wiki_pages/red_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色领巾",
+      "confidence": "A",
+      "tag_cn_long": "红色的阿斯科特领巾。"
     },
     {
       "name": "White ascot",
@@ -1748,9 +1748,9 @@
       "wiki_url": "/wiki_pages/white_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色领巾",
+      "confidence": "A",
+      "tag_cn_long": "白色的阿斯科特领巾。"
     },
     {
       "name": "Yellow ascot",
@@ -1758,9 +1758,9 @@
       "wiki_url": "/wiki_pages/yellow_ascot",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色领巾",
+      "confidence": "A",
+      "tag_cn_long": "黄色的阿斯科特领巾。"
     },
     {
       "name": "Bowties",
@@ -1768,9 +1768,9 @@
       "wiki_url": "/wiki_pages/bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领结",
+      "confidence": "A",
+      "tag_cn_long": "蝴蝶结形状的领饰，通常用于正式场合或可爱装扮。"
     },
     {
       "name": "Traditional bowtie",
@@ -1778,9 +1778,9 @@
       "wiki_url": "/wiki_pages/traditional_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "传统领结",
+      "confidence": "A",
+      "tag_cn_long": "经典蝴蝶结形状的领结，常见于西装礼服或兔女郎装束。"
     },
     {
       "name": "Huge bowtie",
@@ -1788,9 +1788,9 @@
       "wiki_url": "/wiki_pages/huge_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巨大领结",
+      "confidence": "A",
+      "tag_cn_long": "比正常尺寸更大的蝴蝶结领结。"
     },
     {
       "name": "Argyle bowtie",
@@ -1798,9 +1798,9 @@
       "wiki_url": "/wiki_pages/argyle_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菱形格领结",
+      "confidence": "A",
+      "tag_cn_long": "带有菱形格图案的领结。"
     },
     {
       "name": "Checkered bowtie",
@@ -1808,9 +1808,9 @@
       "wiki_url": "/wiki_pages/checkered_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棋盘格领结",
+      "confidence": "A",
+      "tag_cn_long": "棋盘格图案的领结。"
     },
     {
       "name": "Plaid bowtie",
@@ -1818,9 +1818,9 @@
       "wiki_url": "/wiki_pages/plaid_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子领结",
+      "confidence": "A",
+      "tag_cn_long": "格子图案的领结。"
     },
     {
       "name": "Polka dot bowtie",
@@ -1828,9 +1828,9 @@
       "wiki_url": "/wiki_pages/polka_dot_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点领结",
+      "confidence": "A",
+      "tag_cn_long": "波点图案的领结。"
     },
     {
       "name": "Striped bowtie",
@@ -1838,9 +1838,9 @@
       "wiki_url": "/wiki_pages/striped_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹领结",
+      "confidence": "A",
+      "tag_cn_long": "条纹图案的领结。"
     },
     {
       "name": "Gradient bowtie",
@@ -1848,9 +1848,9 @@
       "wiki_url": "/wiki_pages/gradient_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变领结",
+      "confidence": "A",
+      "tag_cn_long": "带有渐变效果的领结。"
     },
     {
       "name": "Multicolored bowtie",
@@ -1858,9 +1858,9 @@
       "wiki_url": "/wiki_pages/multicolored_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色领结",
+      "confidence": "A",
+      "tag_cn_long": "至少有两种颜色的领结。"
     },
     {
       "name": "Two-tone bowtie",
@@ -1868,9 +1868,9 @@
       "wiki_url": "/wiki_pages/two-tone_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色领结",
+      "confidence": "A",
+      "tag_cn_long": "恰好有两种颜色的领结。"
     },
     {
       "name": "Aqua bowtie",
@@ -1878,9 +1878,9 @@
       "wiki_url": "/wiki_pages/aqua_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色领结",
+      "confidence": "A",
+      "tag_cn_long": "水色的领结。"
     },
     {
       "name": "Black bowtie",
@@ -1888,9 +1888,9 @@
       "wiki_url": "/wiki_pages/black_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色领结",
+      "confidence": "A",
+      "tag_cn_long": "黑色的领结。"
     },
     {
       "name": "Blue bowtie",
@@ -1898,9 +1898,9 @@
       "wiki_url": "/wiki_pages/blue_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色领结",
+      "confidence": "A",
+      "tag_cn_long": "蓝色的领结。"
     },
     {
       "name": "Brown bowtie",
@@ -1908,9 +1908,9 @@
       "wiki_url": "/wiki_pages/brown_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色领结",
+      "confidence": "A",
+      "tag_cn_long": "棕色的领结。"
     },
     {
       "name": "Green bowtie",
@@ -1918,9 +1918,9 @@
       "wiki_url": "/wiki_pages/green_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色领结",
+      "confidence": "A",
+      "tag_cn_long": "绿色的领结。"
     },
     {
       "name": "Grey bowtie",
@@ -1928,9 +1928,9 @@
       "wiki_url": "/wiki_pages/grey_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色领结",
+      "confidence": "A",
+      "tag_cn_long": "灰色的领结。"
     },
     {
       "name": "Orange bowtie",
@@ -1938,9 +1938,9 @@
       "wiki_url": "/wiki_pages/orange_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色领结",
+      "confidence": "A",
+      "tag_cn_long": "橙色的领结。"
     },
     {
       "name": "Pink bowtie",
@@ -1948,9 +1948,9 @@
       "wiki_url": "/wiki_pages/pink_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色领结",
+      "confidence": "A",
+      "tag_cn_long": "粉色的领结。"
     },
     {
       "name": "Red bowtie",
@@ -1958,9 +1958,9 @@
       "wiki_url": "/wiki_pages/red_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色领结",
+      "confidence": "A",
+      "tag_cn_long": "红色的领结。"
     },
     {
       "name": "White bowtie",
@@ -1968,9 +1968,9 @@
       "wiki_url": "/wiki_pages/white_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色领结",
+      "confidence": "A",
+      "tag_cn_long": "白色的领结。"
     },
     {
       "name": "Yellow bowtie",
@@ -1978,9 +1978,9 @@
       "wiki_url": "/wiki_pages/yellow_bowtie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色领结",
+      "confidence": "A",
+      "tag_cn_long": "黄色的领结。"
     },
     {
       "name": "Chokers",
@@ -1988,9 +1988,9 @@
       "wiki_url": "/wiki_pages/choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "项圈",
+      "confidence": "A",
+      "tag_cn_long": "紧贴颈部的装饰性颈圈，通常为皮质或布质。"
     },
     {
       "name": "Anchor choker",
@@ -1998,9 +1998,9 @@
       "wiki_url": "/wiki_pages/anchor_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锚形颈链",
+      "confidence": "A",
+      "tag_cn_long": "带有锚形装饰的颈链。"
     },
     {
       "name": "Bead choker",
@@ -2008,9 +2008,9 @@
       "wiki_url": "/wiki_pages/bead_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "串珠项圈",
+      "confidence": "A",
+      "tag_cn_long": "由珠子串成的项圈。"
     },
     {
       "name": "Bell choker",
@@ -2018,9 +2018,9 @@
       "wiki_url": "/wiki_pages/bell_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铃铛项圈",
+      "confidence": "A",
+      "tag_cn_long": "装饰有铃铛的项圈。"
     },
     {
       "name": "Bow choker",
@@ -2028,9 +2028,9 @@
       "wiki_url": "/wiki_pages/bow_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶结项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有蝴蝶结装饰的项圈。"
     },
     {
       "name": "Crescent choker",
@@ -2038,9 +2038,9 @@
       "wiki_url": "/wiki_pages/crescent_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新月项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有新月形状的项圈。"
     },
     {
       "name": "Cross choker",
@@ -2048,9 +2048,9 @@
       "wiki_url": "/wiki_pages/cross_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十字架项圈",
+      "confidence": "A",
+      "tag_cn_long": "附有十字架饰物的项圈。"
     },
     {
       "name": "Flower choker",
@@ -2058,9 +2058,9 @@
       "wiki_url": "/wiki_pages/flower_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花朵项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有花朵装饰的项圈。"
     },
     {
       "name": "Frilled choker",
@@ -2078,9 +2078,9 @@
       "wiki_url": "/wiki_pages/fur_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮项圈",
+      "confidence": "A",
+      "tag_cn_long": "整条由毛皮制成的项圈。"
     },
     {
       "name": "Fur-trimmed choker",
@@ -2088,9 +2088,9 @@
       "wiki_url": "/wiki_pages/fur-trimmed_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮镶边项圈",
+      "confidence": "A",
+      "tag_cn_long": "边缘镶有毛皮的项圈。"
     },
     {
       "name": "Gold choker",
@@ -2098,9 +2098,9 @@
       "wiki_url": "/wiki_pages/gold_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金色项圈",
+      "confidence": "A",
+      "tag_cn_long": "由金色材质（如金或金色饰品）制成的项圈。"
     },
     {
       "name": "Heart choker",
@@ -2108,9 +2108,9 @@
       "wiki_url": "/wiki_pages/heart_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形项圈",
+      "confidence": "A",
+      "tag_cn_long": "至少带有一个心形图案的项圈。"
     },
     {
       "name": "Key choker",
@@ -2118,9 +2118,9 @@
       "wiki_url": "/wiki_pages/key_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钥匙项圈",
+      "confidence": "A",
+      "tag_cn_long": "附有钥匙饰物的项圈。"
     },
     {
       "name": "Lace choker",
@@ -2128,9 +2128,9 @@
       "wiki_url": "/wiki_pages/lace_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝项圈",
+      "confidence": "A",
+      "tag_cn_long": "完全由蕾丝制成的项圈。"
     },
     {
       "name": "Lace-trimmed choker",
@@ -2138,9 +2138,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝镶边项圈",
+      "confidence": "A",
+      "tag_cn_long": "边缘镶有蕾丝花边的项圈。"
     },
     {
       "name": "O-ring choker",
@@ -2148,9 +2148,9 @@
       "wiki_url": "/wiki_pages/o-ring_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "O形环项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有一个O形环装饰的紧颈项圈，环通常在前方或后方。"
     },
     {
       "name": "Heart ring choker",
@@ -2158,9 +2158,9 @@
       "wiki_url": "/wiki_pages/heart_ring_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形环项圈",
+      "confidence": "A",
+      "tag_cn_long": "通过心形环连接的项圈。"
     },
     {
       "name": "Pendant choker",
@@ -2168,9 +2168,9 @@
       "wiki_url": "/wiki_pages/pendant_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊坠项圈",
+      "confidence": "A",
+      "tag_cn_long": "挂着吊坠的紧颈项圈。"
     },
     {
       "name": "Rabbit choker",
@@ -2178,9 +2178,9 @@
       "wiki_url": "/wiki_pages/rabbit_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔子项圈",
+      "confidence": "A",
+      "tag_cn_long": "以兔子为主题的项圈。"
     },
     {
       "name": "Ribbon choker",
@@ -2188,9 +2188,9 @@
       "wiki_url": "/wiki_pages/ribbon_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丝带项圈",
+      "confidence": "A",
+      "tag_cn_long": "一种由丝带系在脖子上并打成蝴蝶结的项圈。"
     },
     {
       "name": "Silver choker",
@@ -2198,9 +2198,9 @@
       "wiki_url": "/wiki_pages/silver_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "银色项圈",
+      "confidence": "B",
+      "tag_cn_long": "银色的项圈，实际使用中建议用灰色或白色项圈替代。"
     },
     {
       "name": "Skull choker",
@@ -2208,9 +2208,9 @@
       "wiki_url": "/wiki_pages/skull_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骷髅项圈",
+      "confidence": "A",
+      "tag_cn_long": "至少带有一个骷髅图案或饰物的项圈。"
     },
     {
       "name": "Spiked choker",
@@ -2218,9 +2218,9 @@
       "wiki_url": "/wiki_pages/spiked_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖刺项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有小尖刺的项圈。"
     },
     {
       "name": "Star choker",
@@ -2228,9 +2228,9 @@
       "wiki_url": "/wiki_pages/star_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星项圈",
+      "confidence": "A",
+      "tag_cn_long": "至少带有一个星星图案或饰物的项圈。"
     },
     {
       "name": "Striped choker",
@@ -2238,9 +2238,9 @@
       "wiki_url": "/wiki_pages/striped_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有条纹图案的项圈。"
     },
     {
       "name": "Studded choker",
@@ -2248,9 +2248,9 @@
       "wiki_url": "/wiki_pages/studded_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铆钉项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有金属铆钉装饰的项圈。"
     },
     {
       "name": "Argyle choker",
@@ -2258,9 +2258,9 @@
       "wiki_url": "/wiki_pages/argyle_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菱形格纹项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有菱形格子图案的项圈。"
     },
     {
       "name": "Plaid choker",
@@ -2268,9 +2268,9 @@
       "wiki_url": "/wiki_pages/plaid_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有格子图案的项圈。"
     },
     {
       "name": "Print choker",
@@ -2278,9 +2278,9 @@
       "wiki_url": "/wiki_pages/print_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花项圈",
+      "confidence": "A",
+      "tag_cn_long": "带有印花图案的项圈。"
     },
     {
       "name": "Aqua choker",
@@ -2288,9 +2288,9 @@
       "wiki_url": "/wiki_pages/aqua_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色项圈",
+      "confidence": "A",
+      "tag_cn_long": "水蓝色的项圈。"
     },
     {
       "name": "Black choker",
@@ -2298,9 +2298,9 @@
       "wiki_url": "/wiki_pages/black_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色项圈",
+      "confidence": "A",
+      "tag_cn_long": "黑色的项圈。"
     },
     {
       "name": "Blue choker",
@@ -2308,9 +2308,9 @@
       "wiki_url": "/wiki_pages/blue_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色项圈",
+      "confidence": "A",
+      "tag_cn_long": "蓝色的项圈。"
     },
     {
       "name": "Brown choker",
@@ -2318,9 +2318,9 @@
       "wiki_url": "/wiki_pages/brown_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色项圈",
+      "confidence": "A",
+      "tag_cn_long": "棕色的项圈。"
     },
     {
       "name": "Green choker",
@@ -2328,9 +2328,9 @@
       "wiki_url": "/wiki_pages/green_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色项圈",
+      "confidence": "A",
+      "tag_cn_long": "绿色的项圈。"
     },
     {
       "name": "Grey choker",
@@ -2338,9 +2338,9 @@
       "wiki_url": "/wiki_pages/grey_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色项圈",
+      "confidence": "A",
+      "tag_cn_long": "灰色的项圈。"
     },
     {
       "name": "Orange choker",
@@ -2348,9 +2348,9 @@
       "wiki_url": "/wiki_pages/orange_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色项圈",
+      "confidence": "A",
+      "tag_cn_long": "橙色的项圈。"
     },
     {
       "name": "Pink choker",
@@ -2358,9 +2358,9 @@
       "wiki_url": "/wiki_pages/pink_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色项圈",
+      "confidence": "A",
+      "tag_cn_long": "粉色的项圈。"
     },
     {
       "name": "Red choker",
@@ -2368,9 +2368,9 @@
       "wiki_url": "/wiki_pages/red_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色项圈",
+      "confidence": "A",
+      "tag_cn_long": "红色的项圈。"
     },
     {
       "name": "White choker",
@@ -2378,9 +2378,9 @@
       "wiki_url": "/wiki_pages/white_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色项圈",
+      "confidence": "A",
+      "tag_cn_long": "白色的项圈。"
     },
     {
       "name": "Yellow choker",
@@ -2388,9 +2388,9 @@
       "wiki_url": "/wiki_pages/yellow_choker",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色项圈",
+      "confidence": "A",
+      "tag_cn_long": "黄色的项圈。"
     },
     {
       "name": "Neckerchiefs",
@@ -2398,9 +2398,9 @@
       "wiki_url": "/wiki_pages/neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领巾",
+      "confidence": "A",
+      "tag_cn_long": "系在脖子上的方巾或三角巾。"
     },
     {
       "name": "Checkered neckerchief",
@@ -2408,9 +2408,9 @@
       "wiki_url": "/wiki_pages/checkered_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有格子图案的领巾。"
     },
     {
       "name": "Striped neckerchief",
@@ -2418,9 +2418,9 @@
       "wiki_url": "/wiki_pages/striped_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有条纹图案的领巾。"
     },
     {
       "name": "Diagonal-striped neckerchief",
@@ -2428,9 +2428,9 @@
       "wiki_url": "/wiki_pages/diagonal-striped_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斜条纹领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有斜条纹图案的领巾。"
     },
     {
       "name": "Two-tone neckerchief",
@@ -2438,9 +2438,9 @@
       "wiki_url": "/wiki_pages/two-tone_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种有两种颜色的领巾。"
     },
     {
       "name": "Gradient neckerchief",
@@ -2448,9 +2448,9 @@
       "wiki_url": "/wiki_pages/gradient_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种带有渐变颜色的领巾。"
     },
     {
       "name": "Multicolored",
@@ -2458,9 +2458,9 @@
       "wiki_url": "/wiki_pages/multicolored",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多彩",
+      "confidence": "A",
+      "tag_cn_long": "指物体具有多种颜色，在插画中常用。"
     },
     {
       "name": "Aqua neckerchief",
@@ -2468,9 +2468,9 @@
       "wiki_url": "/wiki_pages/aqua_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种水蓝色的领巾。"
     },
     {
       "name": "Black neckerchief",
@@ -2478,9 +2478,9 @@
       "wiki_url": "/wiki_pages/black_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种黑色的领巾。"
     },
     {
       "name": "Blue neckerchief",
@@ -2488,9 +2488,9 @@
       "wiki_url": "/wiki_pages/blue_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种蓝色的领巾。"
     },
     {
       "name": "Brown neckerchief",
@@ -2498,9 +2498,9 @@
       "wiki_url": "/wiki_pages/brown_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种棕色的领巾。"
     },
     {
       "name": "Green neckerchief",
@@ -2508,9 +2508,9 @@
       "wiki_url": "/wiki_pages/green_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种绿色的领巾。"
     },
     {
       "name": "Grey neckerchief",
@@ -2518,9 +2518,9 @@
       "wiki_url": "/wiki_pages/grey_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种灰色的领巾。"
     },
     {
       "name": "Orange neckerchief",
@@ -2528,9 +2528,9 @@
       "wiki_url": "/wiki_pages/orange_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种橙色的领巾。"
     },
     {
       "name": "Pink neckerchief",
@@ -2538,9 +2538,9 @@
       "wiki_url": "/wiki_pages/pink_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种粉色的领巾。"
     },
     {
       "name": "Red neckerchief",
@@ -2548,9 +2548,9 @@
       "wiki_url": "/wiki_pages/red_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种红色的领巾。"
     },
     {
       "name": "White neckerchief",
@@ -2558,9 +2558,9 @@
       "wiki_url": "/wiki_pages/white_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种白色的领巾。"
     },
     {
       "name": "Yellow neckerchief",
@@ -2568,9 +2568,9 @@
       "wiki_url": "/wiki_pages/yellow_neckerchief",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种黄色的领巾。"
     },
     {
       "name": "Necklaces",
@@ -2578,9 +2578,9 @@
       "wiki_url": "/wiki_pages/necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "项链",
+      "confidence": "A",
+      "tag_cn_long": "佩戴在颈部的装饰性链状饰品。"
     },
     {
       "name": "Anchor necklace",
@@ -2588,9 +2588,9 @@
       "wiki_url": "/wiki_pages/anchor_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锚形项链",
+      "confidence": "A",
+      "tag_cn_long": "带有锚形吊坠的项链。"
     },
     {
       "name": "Bead necklace",
@@ -2608,9 +2608,9 @@
       "wiki_url": "/wiki_pages/bow_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶结项链",
+      "confidence": "A",
+      "tag_cn_long": "带有蝴蝶结装饰的项链。"
     },
     {
       "name": "Carrot necklace",
@@ -2618,9 +2618,9 @@
       "wiki_url": "/wiki_pages/carrot_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胡萝卜项链",
+      "confidence": "A",
+      "tag_cn_long": "以胡萝卜为吊坠的项链，常见于兔女郎角色。"
     },
     {
       "name": "Chain necklace",
@@ -2638,9 +2638,9 @@
       "wiki_url": "/wiki_pages/crescent_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新月项链",
+      "confidence": "A",
+      "tag_cn_long": "带有新月形状吊坠的项链。"
     },
     {
       "name": "Cross necklace",
@@ -2648,9 +2648,9 @@
       "wiki_url": "/wiki_pages/cross_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十字架项链",
+      "confidence": "A",
+      "tag_cn_long": "带有十字架吊坠的项链。"
     },
     {
       "name": "Dice necklace",
@@ -2658,9 +2658,9 @@
       "wiki_url": "/wiki_pages/dice_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骰子项链",
+      "confidence": "A",
+      "tag_cn_long": "带有骰子形状吊坠的项链。"
     },
     {
       "name": "Feather necklace",
@@ -2668,9 +2668,9 @@
       "wiki_url": "/wiki_pages/feather_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "羽毛项链",
+      "confidence": "A",
+      "tag_cn_long": "带有羽毛装饰的项链。"
     },
     {
       "name": "Festoon",
@@ -2688,9 +2688,9 @@
       "wiki_url": "/wiki_pages/flower_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花项链",
+      "confidence": "A",
+      "tag_cn_long": "由花朵制成或带有花朵设计的项链。"
     },
     {
       "name": "Lei",
@@ -2708,9 +2708,9 @@
       "wiki_url": "/wiki_pages/gold_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金项链",
+      "confidence": "A",
+      "tag_cn_long": "由黄金制成的项链。"
     },
     {
       "name": "Heart necklace",
@@ -2718,9 +2718,9 @@
       "wiki_url": "/wiki_pages/heart_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形项链",
+      "confidence": "A",
+      "tag_cn_long": "带有心形吊坠的项链。"
     },
     {
       "name": "Key necklace",
@@ -2728,9 +2728,9 @@
       "wiki_url": "/wiki_pages/key_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钥匙项链",
+      "confidence": "A",
+      "tag_cn_long": "带有钥匙形状吊坠的项链。"
     },
     {
       "name": "Lariat",
@@ -2748,9 +2748,9 @@
       "wiki_url": "/wiki_pages/leaf_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叶子项链",
+      "confidence": "A",
+      "tag_cn_long": "带有叶子形状吊坠的项链。"
     },
     {
       "name": "Four-leaf clover necklace",
@@ -2758,9 +2758,9 @@
       "wiki_url": "/wiki_pages/four-leaf_clover_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四叶草项链",
+      "confidence": "A",
+      "tag_cn_long": "带有四叶草形状吊坠的项链。"
     },
     {
       "name": "Lightning bolt necklace",
@@ -2768,9 +2768,9 @@
       "wiki_url": "/wiki_pages/lightning_bolt_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪电项链",
+      "confidence": "A",
+      "tag_cn_long": "带有闪电形状吊坠的项链。"
     },
     {
       "name": "Magatama necklace",
@@ -2778,9 +2778,9 @@
       "wiki_url": "/wiki_pages/magatama_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "勾玉项链",
+      "confidence": "A",
+      "tag_cn_long": "带有勾玉吊坠的项链。"
     },
     {
       "name": "Pearl necklace",
@@ -2818,9 +2818,9 @@
       "wiki_url": "/wiki_pages/friendship_charm",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "友谊项链",
+      "confidence": "A",
+      "tag_cn_long": "由两人各戴一半，合在一起成为完整形状的友谊象征项链。"
     },
     {
       "name": "Locket",
@@ -2868,9 +2868,9 @@
       "wiki_url": "/wiki_pages/ring_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戒指项链",
+      "confidence": "A",
+      "tag_cn_long": "带有戒指吊坠的项链。"
     },
     {
       "name": "Riviere",
@@ -2898,9 +2898,9 @@
       "wiki_url": "/wiki_pages/shell_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贝壳项链",
+      "confidence": "A",
+      "tag_cn_long": "带有贝壳吊坠的项链。"
     },
     {
       "name": "Silver necklace",
@@ -2908,9 +2908,9 @@
       "wiki_url": "/wiki_pages/silver_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "银项链",
+      "confidence": "A",
+      "tag_cn_long": "由银或银色材料制成的项链。"
     },
     {
       "name": "Skull necklace",
@@ -2918,9 +2918,9 @@
       "wiki_url": "/wiki_pages/skull_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骷髅项链",
+      "confidence": "A",
+      "tag_cn_long": "由骷髅或骷髅形状饰品串成的项链。"
     },
     {
       "name": "Snake necklace",
@@ -2928,9 +2928,9 @@
       "wiki_url": "/wiki_pages/snake_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蛇形项链",
+      "confidence": "A",
+      "tag_cn_long": "带有蛇形吊坠或蛇形设计的项链。"
     },
     {
       "name": "Star necklace",
@@ -2938,9 +2938,9 @@
       "wiki_url": "/wiki_pages/star_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星项链",
+      "confidence": "A",
+      "tag_cn_long": "带有星星形状吊坠的项链。"
     },
     {
       "name": "Station necklace",
@@ -2958,9 +2958,9 @@
       "wiki_url": "/wiki_pages/strawberry_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草莓项链",
+      "confidence": "A",
+      "tag_cn_long": "带有草莓吊坠的项链。"
     },
     {
       "name": "Sun necklace",
@@ -2968,9 +2968,9 @@
       "wiki_url": "/wiki_pages/sun_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太阳项链",
+      "confidence": "A",
+      "tag_cn_long": "带有太阳形状吊坠的项链。"
     },
     {
       "name": "Tassel necklace",
@@ -2978,9 +2978,9 @@
       "wiki_url": "/wiki_pages/tassel_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "流苏项链",
+      "confidence": "A",
+      "tag_cn_long": "带有流苏装饰的项链。"
     },
     {
       "name": "Tooth necklace",
@@ -2988,9 +2988,9 @@
       "wiki_url": "/wiki_pages/tooth_necklace",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牙齿项链",
+      "confidence": "A",
+      "tag_cn_long": "由牙齿或牙齿形状饰品串成的项链。"
     },
     {
       "name": "Neckties",
@@ -2998,9 +2998,9 @@
       "wiki_url": "/wiki_pages/necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领带",
+      "confidence": "A",
+      "tag_cn_long": "一种系在颈部的条状服饰，常与衬衫和西装搭配。"
     },
     {
       "name": "Aqua necktie",
@@ -3008,9 +3008,9 @@
       "wiki_url": "/wiki_pages/aqua_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水蓝色领带",
+      "confidence": "A",
+      "tag_cn_long": "水蓝色的领带。"
     },
     {
       "name": "Black necktie",
@@ -3018,9 +3018,9 @@
       "wiki_url": "/wiki_pages/black_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色领带",
+      "confidence": "A",
+      "tag_cn_long": "黑色的领带。"
     },
     {
       "name": "Blue necktie",
@@ -3028,9 +3028,9 @@
       "wiki_url": "/wiki_pages/blue_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色领带",
+      "confidence": "A",
+      "tag_cn_long": "蓝色的领带。"
     },
     {
       "name": "Brown necktie",
@@ -3038,9 +3038,9 @@
       "wiki_url": "/wiki_pages/brown_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色领带",
+      "confidence": "A",
+      "tag_cn_long": "一条棕色的领带。"
     },
     {
       "name": "Green necktie",
@@ -3048,9 +3048,9 @@
       "wiki_url": "/wiki_pages/green_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色领带",
+      "confidence": "A",
+      "tag_cn_long": "一条绿色的领带。"
     },
     {
       "name": "Grey necktie",
@@ -3058,9 +3058,9 @@
       "wiki_url": "/wiki_pages/grey_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色领带",
+      "confidence": "A",
+      "tag_cn_long": "一条灰色的领带。"
     },
     {
       "name": "Orange necktie",
@@ -3068,9 +3068,9 @@
       "wiki_url": "/wiki_pages/orange_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色领带",
+      "confidence": "A",
+      "tag_cn_long": "一条橙色的领带。"
     },
     {
       "name": "Pink necktie",
@@ -3078,9 +3078,9 @@
       "wiki_url": "/wiki_pages/pink_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色领带",
+      "confidence": "A",
+      "tag_cn_long": "一条粉色的领带。"
     },
     {
       "name": "Red necktie",
@@ -3088,9 +3088,9 @@
       "wiki_url": "/wiki_pages/red_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色领带",
+      "confidence": "A",
+      "tag_cn_long": "一条红色的领带。"
     },
     {
       "name": "White necktie",
@@ -3098,9 +3098,9 @@
       "wiki_url": "/wiki_pages/white_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色领带",
+      "confidence": "A",
+      "tag_cn_long": "一条白色的领带。"
     },
     {
       "name": "Yellow necktie",
@@ -3108,9 +3108,9 @@
       "wiki_url": "/wiki_pages/yellow_necktie",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色领带",
+      "confidence": "A",
+      "tag_cn_long": "一条黄色的领带。"
     },
     {
       "name": "Scarves",
@@ -3118,9 +3118,9 @@
       "wiki_url": "/wiki_pages/scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "围巾",
+      "confidence": "A",
+      "tag_cn_long": "围巾类服饰，戴在脖子上保暖或装饰。"
     },
     {
       "name": "Fringe trim",
@@ -3128,9 +3128,9 @@
       "wiki_url": "/wiki_pages/fringe_trim",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "流苏饰边",
+      "confidence": "A",
+      "tag_cn_long": "衣服边缘垂下的条状或绳状装饰性流苏。"
     },
     {
       "name": "Fur scarf",
@@ -3138,9 +3138,9 @@
       "wiki_url": "/wiki_pages/fur_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮围巾",
+      "confidence": "A",
+      "tag_cn_long": "用动物毛皮制成的围巾。"
     },
     {
       "name": "Fur-trimmed scarf",
@@ -3148,9 +3148,9 @@
       "wiki_url": "/wiki_pages/fur-trimmed_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛边围巾",
+      "confidence": "A",
+      "tag_cn_long": "边缘镶有毛皮的围巾。"
     },
     {
       "name": "Floating scarf",
@@ -3158,9 +3158,9 @@
       "wiki_url": "/wiki_pages/floating_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飘动围巾",
+      "confidence": "A",
+      "tag_cn_long": "因风等原因在空中飘浮或飘动的围巾。"
     },
     {
       "name": "Sentient scarf",
@@ -3168,9 +3168,9 @@
       "wiki_url": "/wiki_pages/sentient_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有生命围巾",
+      "confidence": "A",
+      "tag_cn_long": "由活着的生物（如蛇）构成的围巾。"
     },
     {
       "name": "See-through scarf",
@@ -3178,9 +3178,9 @@
       "wiki_url": "/wiki_pages/see-through_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透明围巾",
+      "confidence": "A",
+      "tag_cn_long": "用透明或半透明材质制成的围巾。"
     },
     {
       "name": "Argyle scarf",
@@ -3188,9 +3188,9 @@
       "wiki_url": "/wiki_pages/argyle_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菱形格纹围巾",
+      "confidence": "A",
+      "tag_cn_long": "带有菱形格纹图案的围巾。"
     },
     {
       "name": "Camouflage scarf",
@@ -3198,9 +3198,9 @@
       "wiki_url": "/wiki_pages/camouflage_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷彩围巾",
+      "confidence": "A",
+      "tag_cn_long": "带有迷彩图案的围巾。"
     },
     {
       "name": "Polka dot scarf",
@@ -3208,9 +3208,9 @@
       "wiki_url": "/wiki_pages/polka_dot_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆点围巾",
+      "confidence": "A",
+      "tag_cn_long": "带有圆点图案的围巾。"
     },
     {
       "name": "Striped scarf",
@@ -3218,9 +3218,9 @@
       "wiki_url": "/wiki_pages/striped_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹围巾",
+      "confidence": "A",
+      "tag_cn_long": "带有条纹图案的围巾。"
     },
     {
       "name": "Vertical-striped scarf",
@@ -3228,9 +3228,9 @@
       "wiki_url": "/wiki_pages/vertical-striped_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竖条纹围巾",
+      "confidence": "A",
+      "tag_cn_long": "带有竖向条纹图案的围巾。"
     },
     {
       "name": "Torn scarf",
@@ -3238,9 +3238,9 @@
       "wiki_url": "/wiki_pages/torn_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破洞围巾",
+      "confidence": "A",
+      "tag_cn_long": "两端有明显破损的围巾。"
     },
     {
       "name": "Gradient scarf",
@@ -3248,9 +3248,9 @@
       "wiki_url": "/wiki_pages/gradient_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变围巾",
+      "confidence": "A",
+      "tag_cn_long": "具有渐变颜色的围巾。"
     },
     {
       "name": "Multicolored scarf",
@@ -3258,9 +3258,9 @@
       "wiki_url": "/wiki_pages/multicolored_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色围巾",
+      "confidence": "A",
+      "tag_cn_long": "至少有两种颜色的围巾。"
     },
     {
       "name": "Two-tone scarf",
@@ -3268,9 +3268,9 @@
       "wiki_url": "/wiki_pages/two-tone_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色围巾",
+      "confidence": "A",
+      "tag_cn_long": "有两种基本颜色的围巾。"
     },
     {
       "name": "Aqua scarf",
@@ -3278,9 +3278,9 @@
       "wiki_url": "/wiki_pages/aqua_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色围巾",
+      "confidence": "A",
+      "tag_cn_long": "水蓝色的围巾。"
     },
     {
       "name": "Black scarf",
@@ -3288,9 +3288,9 @@
       "wiki_url": "/wiki_pages/black_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色围巾",
+      "confidence": "A",
+      "tag_cn_long": "黑色的围巾。"
     },
     {
       "name": "Blue scarf",
@@ -3298,9 +3298,9 @@
       "wiki_url": "/wiki_pages/blue_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色围巾",
+      "confidence": "A",
+      "tag_cn_long": "蓝色的围巾。"
     },
     {
       "name": "Brown scarf",
@@ -3308,9 +3308,9 @@
       "wiki_url": "/wiki_pages/brown_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色围巾",
+      "confidence": "A",
+      "tag_cn_long": "棕色的围巾。"
     },
     {
       "name": "Green scarf",
@@ -3318,9 +3318,9 @@
       "wiki_url": "/wiki_pages/green_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色围巾",
+      "confidence": "A",
+      "tag_cn_long": "绿色的围巾。"
     },
     {
       "name": "Grey scarf",
@@ -3328,9 +3328,9 @@
       "wiki_url": "/wiki_pages/grey_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色围巾",
+      "confidence": "A",
+      "tag_cn_long": "灰色的围巾。"
     },
     {
       "name": "Orange scarf",
@@ -3338,9 +3338,9 @@
       "wiki_url": "/wiki_pages/orange_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色围巾",
+      "confidence": "A",
+      "tag_cn_long": "橙色的围巾。"
     },
     {
       "name": "Pink scarf",
@@ -3348,9 +3348,9 @@
       "wiki_url": "/wiki_pages/pink_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色围巾",
+      "confidence": "A",
+      "tag_cn_long": "粉色的围巾。"
     },
     {
       "name": "Red scarf",
@@ -3358,9 +3358,9 @@
       "wiki_url": "/wiki_pages/red_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色围巾",
+      "confidence": "A",
+      "tag_cn_long": "红色的围巾。"
     },
     {
       "name": "White scarf",
@@ -3368,9 +3368,9 @@
       "wiki_url": "/wiki_pages/white_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色围巾",
+      "confidence": "A",
+      "tag_cn_long": "白色的围巾。"
     },
     {
       "name": "Yellow scarf",
@@ -3378,9 +3378,9 @@
       "wiki_url": "/wiki_pages/yellow_scarf",
       "category_path": "Neckwear types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色围巾",
+      "confidence": "A",
+      "tag_cn_long": "黄色的围巾。"
     }
   ],
   "total_tags": 334,

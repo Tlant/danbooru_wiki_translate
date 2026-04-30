@@ -1,0 +1,6 @@
+{
+  "tag": "Dithering",
+  "tag_cn": "抖动",
+  "confidence": "A",
+  "tag_cn_long": "通过不同颜色像素的稀疏排列模拟颜色混合或渐变的技术，常见于8位色图像。"
+}

@@ -72,9 +72,9 @@
       "wiki_url": "/wiki_pages/water",
       "category_path": "Water",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水",
+      "confidence": "A",
+      "tag_cn_long": "无色无味的液态水，化学式H₂O。"
     },
     {
       "name": "Underwater",
@@ -92,9 +92,9 @@
       "wiki_url": "/wiki_pages/wet",
       "category_path": "Wet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湿",
+      "confidence": "A",
+      "tag_cn_long": "被水或液体浸湿的状态。"
     },
     {
       "name": "Wet clothes",
@@ -102,9 +102,9 @@
       "wiki_url": "/wiki_pages/wet_clothes",
       "category_path": "Wet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湿衣服",
+      "confidence": "A",
+      "tag_cn_long": "衣物被水浸湿后变得贴身，甚至半透明。"
     },
     {
       "name": "Wet dress",
@@ -122,9 +122,9 @@
       "wiki_url": "/wiki_pages/wet_skirt",
       "category_path": "Wet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湿裙",
+      "confidence": "A",
+      "tag_cn_long": "角色的裙子被水浸湿。"
     },
     {
       "name": "Wet shirt",
@@ -132,9 +132,9 @@
       "wiki_url": "/wiki_pages/wet_shirt",
       "category_path": "Wet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湿衬衫",
+      "confidence": "A",
+      "tag_cn_long": "衬衫被水浸湿，尤其是浅色衬衫常变得半透明。"
     },
     {
       "name": "Wet shirt",
@@ -142,9 +142,9 @@
       "wiki_url": "/wiki_pages/wet_shirt",
       "category_path": "Wet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湿衬衫",
+      "confidence": "A",
+      "tag_cn_long": "衬衫被水浸湿，尤其是浅色衬衫常变得半透明。"
     },
     {
       "name": "Wet panties",
@@ -162,9 +162,9 @@
       "wiki_url": "/wiki_pages/wet_swimsuit",
       "category_path": "Wet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湿泳衣",
+      "confidence": "A",
+      "tag_cn_long": "泳衣被水浸湿，可能显得半透明。"
     },
     {
       "name": "Wet towel",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/wet_towel",
       "category_path": "Wet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湿毛巾",
+      "confidence": "A",
+      "tag_cn_long": "毛巾被水浸湿，常披在身上并变得半透明。"
     },
     {
       "name": "Wet hair",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/ice",
       "category_path": "Ice",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冰",
+      "confidence": "A",
+      "tag_cn_long": "水在0°C以下凝固形成的固体。"
     },
     {
       "name": "Ice sculpture",
@@ -202,9 +202,9 @@
       "wiki_url": "/wiki_pages/ice_sculpture",
       "category_path": "Ice",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冰雕",
+      "confidence": "A",
+      "tag_cn_long": "用冰雕刻而成的塑像。"
     },
     {
       "name": "Ice flower",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/ice_flower",
       "category_path": "Ice",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冰之花",
+      "confidence": "A",
+      "tag_cn_long": "类似火力花的冰属性道具，源自《超级马里奥》系列，可发射冰冻弹。"
     },
     {
       "name": "Steam",
@@ -222,9 +222,9 @@
       "wiki_url": "/wiki_pages/steam",
       "category_path": "Steam",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒸汽",
+      "confidence": "A",
+      "tag_cn_long": "水沸腾或蒸发产生的白色雾气。"
     },
     {
       "name": "Lake",
@@ -232,9 +232,9 @@
       "wiki_url": "/wiki_pages/lake",
       "category_path": "Geography/Bodies of water",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湖",
+      "confidence": "A",
+      "tag_cn_long": "被陆地包围的大型静止水体。"
     },
     {
       "name": "Ocean",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/ocean",
       "category_path": "Geography/Bodies of water",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海洋",
+      "confidence": "A",
+      "tag_cn_long": "地球表面的大面积咸水水体，通常有海滩。"
     },
     {
       "name": "River",
@@ -252,9 +252,9 @@
       "wiki_url": "/wiki_pages/river",
       "category_path": "Geography/Bodies of water",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "河流",
+      "confidence": "A",
+      "tag_cn_long": "天然形成的流动水道。"
     },
     {
       "name": "Stream",
@@ -262,9 +262,9 @@
       "wiki_url": "/wiki_pages/stream",
       "category_path": "Geography/Bodies of water",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "溪流",
+      "confidence": "A",
+      "tag_cn_long": "比河流更小的流动水体，通常较浅。"
     },
     {
       "name": "Beach",
@@ -272,9 +272,9 @@
       "wiki_url": "/wiki_pages/beach",
       "category_path": "Geography/Related landforms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海滩",
+      "confidence": "A",
+      "tag_cn_long": "陆地与水域交界处的平坦沙地或砾石地带。"
     },
     {
       "name": "Island",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/island",
       "category_path": "Geography/Related landforms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "岛屿",
+      "confidence": "A",
+      "tag_cn_long": "被水体完全包围的陆地。"
     },
     {
       "name": "Rain",
@@ -292,9 +292,9 @@
       "wiki_url": "/wiki_pages/rain",
       "category_path": "Meteorology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雨",
+      "confidence": "A",
+      "tag_cn_long": "从云层中降落的水滴。"
     },
     {
       "name": "Snow",
@@ -302,9 +302,9 @@
       "wiki_url": "/wiki_pages/snow",
       "category_path": "Meteorology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪",
+      "confidence": "A",
+      "tag_cn_long": "由冰晶构成的降水，可覆盖地面或空中飘落。"
     },
     {
       "name": "Bikini",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/boat",
       "category_path": "Vehicles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "船",
+      "confidence": "A",
+      "tag_cn_long": "漂浮在水面上、可载人的小型交通工具。"
     },
     {
       "name": "Rowboat",
@@ -352,9 +352,9 @@
       "wiki_url": "/wiki_pages/rowboat",
       "category_path": "Vehicles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "划艇",
+      "confidence": "A",
+      "tag_cn_long": "配备船桨、适合少数人乘坐的小型船只。"
     },
     {
       "name": "Sailboat",
@@ -362,9 +362,9 @@
       "wiki_url": "/wiki_pages/sailboat",
       "category_path": "Vehicles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帆船",
+      "confidence": "A",
+      "tag_cn_long": "以风帆为动力的小型船只。"
     },
     {
       "name": "Ship",
@@ -372,9 +372,9 @@
       "wiki_url": "/wiki_pages/ship",
       "category_path": "Vehicles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "轮船",
+      "confidence": "A",
+      "tag_cn_long": "用于远洋航行的大型船舶，区别于小船。"
     },
     {
       "name": "Battleship",
@@ -382,9 +382,9 @@
       "wiki_url": "/wiki_pages/battleship",
       "category_path": "Vehicles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "战列舰",
+      "confidence": "A",
+      "tag_cn_long": "19世纪末至20世纪中期的大型装甲战舰，装备大口径火炮。"
     },
     {
       "name": "Submarine",
@@ -392,9 +392,9 @@
       "wiki_url": "/wiki_pages/submarine",
       "category_path": "Vehicles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "潜艇",
+      "confidence": "A",
+      "tag_cn_long": "可潜入水下航行的舰艇，常为军用。"
     },
     {
       "name": "Bath",
@@ -402,9 +402,9 @@
       "wiki_url": "/wiki_pages/bath",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浴池",
+      "confidence": "A",
+      "tag_cn_long": "用于洗澡的物理水池或浴缸。"
     },
     {
       "name": "Bathtub",
@@ -412,9 +412,9 @@
       "wiki_url": "/wiki_pages/bathtub",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浴缸",
+      "confidence": "A",
+      "tag_cn_long": "嵌入浴室的西式浴缸，用于沐浴。"
     },
     {
       "name": "Mixed-sex bathing",
@@ -422,9 +422,9 @@
       "wiki_url": "/wiki_pages/mixed-sex_bathing",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "混浴",
+      "confidence": "A",
+      "tag_cn_long": "不同性别的人一起洗澡或淋浴，可能是纯洁的或带有其他意味。"
     },
     {
       "name": "Drinking",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/drinking",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喝水",
+      "confidence": "A",
+      "tag_cn_long": "饮用任何可饮用液体的行为。"
     },
     {
       "name": "Freediving",
@@ -452,9 +452,9 @@
       "wiki_url": "/wiki_pages/hydrokinesis",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "控水",
+      "confidence": "A",
+      "tag_cn_long": "通过意念操控水的能力。"
     },
     {
       "name": "Pool",
@@ -462,9 +462,9 @@
       "wiki_url": "/wiki_pages/pool",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "游泳池",
+      "confidence": "A",
+      "tag_cn_long": "用于游泳和水上娱乐的封闭水体。"
     },
     {
       "name": "Poolside",
@@ -472,9 +472,9 @@
       "wiki_url": "/wiki_pages/poolside",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "池畔",
+      "confidence": "A",
+      "tag_cn_long": "角色位于游泳池边附近的位置。"
     },
     {
       "name": "Glass",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/bottle",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瓶子",
+      "confidence": "A",
+      "tag_cn_long": "一种通常由玻璃或塑料制成的容器，有窄颈和开口，用于储存液体。"
     },
     {
       "name": "Cup",
@@ -502,9 +502,9 @@
       "wiki_url": "/wiki_pages/cup",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "杯子",
+      "confidence": "A",
+      "tag_cn_long": "一种饮具，包括马克杯、玻璃杯、日式酒盅等各种用于饮用的容器。"
     },
     {
       "name": "Mug",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/mug",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马克杯",
+      "confidence": "A",
+      "tag_cn_long": "一种厚实的圆柱形饮具，常用于盛装咖啡、热巧克力等热饮。"
     },
     {
       "name": "Shower (place)",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/shower_%28place%29",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "淋浴间",
+      "confidence": "A",
+      "tag_cn_long": "用于淋浴的房间或隔间。"
     },
     {
       "name": "Showering",
@@ -532,9 +532,9 @@
       "wiki_url": "/wiki_pages/showering",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "淋浴",
+      "confidence": "A",
+      "tag_cn_long": "正在淋浴的行为。"
     },
     {
       "name": "Spilling",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/spilling",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泼洒",
+      "confidence": "B",
+      "tag_cn_long": "液体从容器中意外或故意洒出的动作。"
     },
     {
       "name": "Splashing",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/splashing",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞溅",
+      "confidence": "A",
+      "tag_cn_long": "液体（通常是水）被溅起或泼开的状态。"
     },
     {
       "name": "Swimming",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/wading",
       "category_path": "Misc / Actions, Objects, Containers, Etc.",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "涉水",
+      "confidence": "A",
+      "tag_cn_long": "在深度不超过腰部的浅水中站立或行走。"
     },
     {
       "name": "Washing",

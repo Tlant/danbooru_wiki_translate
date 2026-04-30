@@ -60,9 +60,9 @@
       "wiki_url": "/wiki_pages/completely_nude",
       "category_path": "Complete (or mostly complete) nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全裸",
+      "confidence": "A",
+      "tag_cn_long": "从颈部以下不穿任何衣物，但允许佩戴眼镜、帽子等小饰品。"
     },
     {
       "name": "nude",
@@ -70,9 +70,9 @@
       "wiki_url": "/wiki_pages/nude",
       "category_path": "Complete (or mostly complete) nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸露",
+      "confidence": "A",
+      "tag_cn_long": "不穿遮挡胸部和裆部的衣物，但头部、手臂、腿等部位可能仍有穿戴。"
     },
     {
       "name": "CFNF",
@@ -80,9 +80,9 @@
       "wiki_url": "/wiki_pages/clothed_female_nude_female",
       "category_path": "Nudity by gender",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿衣女裸女",
+      "confidence": "B",
+      "tag_cn_long": "穿着衣服的女性和裸体的女性同时出现的场景。"
     },
     {
       "name": "CFNM",
@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/clothed_female_nude_male",
       "category_path": "Nudity by gender",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿衣女裸男",
+      "confidence": "B",
+      "tag_cn_long": "穿着衣服的女性和裸体的男性同时出现的场景。"
     },
     {
       "name": "CMNF",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/clothed_male_nude_female",
       "category_path": "Nudity by gender",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿衣男裸女",
+      "confidence": "B",
+      "tag_cn_long": "穿着衣服的男性和裸体的女性同时出现的场景。"
     },
     {
       "name": "CMNM",
@@ -110,9 +110,9 @@
       "wiki_url": "/wiki_pages/clothed_male_nude_male",
       "category_path": "Nudity by gender",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿衣男裸男",
+      "confidence": "C",
+      "tag_cn_long": "一个穿衣男性与一个裸体男性在一起的场景。"
     },
     {
       "name": "clothing aside",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/clothing_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣物拨开",
+      "confidence": "A",
+      "tag_cn_long": "将通常遮盖生殖器的衣物拨到一旁以暴露，常为性活动。"
     },
     {
       "name": "clothes down",
@@ -130,9 +130,9 @@
       "wiki_url": "/wiki_pages/clothes_down",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣物下拉",
+      "confidence": "A",
+      "tag_cn_long": "上衣仍穿着但被大幅度下拉，露出大片肌肤。"
     },
     {
       "name": "open clothes",
@@ -140,9 +140,9 @@
       "wiki_url": "/wiki_pages/open_clothes",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞开衣物",
+      "confidence": "A",
+      "tag_cn_long": "衣物未被扣上或系紧，呈敞开状态。"
     },
     {
       "name": "revealing clothes",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/revealing_clothes",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "暴露装",
+      "confidence": "A",
+      "tag_cn_long": "一种非常暴露且不实用的服装，穿着者几乎等同于裸体。"
     },
     {
       "name": "see-through clothes",
@@ -160,9 +160,9 @@
       "wiki_url": "/wiki_pages/see-through_clothes",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透视装",
+      "confidence": "A",
+      "tag_cn_long": "因面料薄或湿而部分或完全透明的衣物。"
     },
     {
       "name": "unbuttoned",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/unbuttoned",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "解扣",
+      "confidence": "A",
+      "tag_cn_long": "衣物上的纽扣被解开。"
     },
     {
       "name": "undressing",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/undressing",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脱衣中",
+      "confidence": "A",
+      "tag_cn_long": "人物正在脱下衣物的过程中。"
     },
     {
       "name": "unfastened",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/unfastened",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扣松",
+      "confidence": "B",
+      "tag_cn_long": "衣物（如胸罩）被解开，松散地挂在身上。"
     },
     {
       "name": "untied",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/untied",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "解带",
+      "confidence": "C",
+      "tag_cn_long": "系带或绳子已被解开，建议使用更具体的子标签。"
     },
     {
       "name": "untying",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/untying",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "解带中",
+      "confidence": "A",
+      "tag_cn_long": "人物正在解开丝带或系绳绑着的衣物。"
     },
     {
       "name": "unzipped",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/unzipped",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉链开",
+      "confidence": "A",
+      "tag_cn_long": "衣物上的拉链已被拉开。"
     },
     {
       "name": "unzipping",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/unzipping",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉开拉链",
+      "confidence": "A",
+      "tag_cn_long": "正在拉开拉链的过程中。"
     },
     {
       "name": "bikini bottom aside",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/bikini_bottom_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比基尼下拨",
+      "confidence": "A",
+      "tag_cn_long": "比基尼下装被拨到一边，暴露私处。"
     },
     {
       "name": "bikini pull",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/bikini_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比基尼下拉",
+      "confidence": "A",
+      "tag_cn_long": "将比基尼上衣或下装向下拉。"
     },
     {
       "name": "cape lift",
@@ -260,9 +260,9 @@
       "wiki_url": "/wiki_pages/cape_lift",
       "category_path": "Partial nudity",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披风掀开",
+      "confidence": "A",
+      "tag_cn_long": "人物掀起披风，露出下面。"
     },
     {
       "name": "lifting covers",
@@ -270,9 +270,9 @@
       "wiki_url": "/wiki_pages/lifting_covers",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "掀被",
+      "confidence": "A",
+      "tag_cn_long": "人物掀开被子，通常露出下面或准备睡觉。"
     },
     {
       "name": "bikini, open",
@@ -280,9 +280,9 @@
       "wiki_url": "/wiki_pages/untied_bikini",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞开比基尼",
+      "confidence": "A",
+      "tag_cn_long": "比基尼未被系紧，呈敞开状态。"
     },
     {
       "name": "bra, open",
@@ -290,9 +290,9 @@
       "wiki_url": "/wiki_pages/open_bra",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞开胸罩",
+      "confidence": "A",
+      "tag_cn_long": "胸罩未被扣上，呈敞开状态。"
     },
     {
       "name": "kimono, open",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/open_kimono",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞开和服",
+      "confidence": "A",
+      "tag_cn_long": "和服未被系紧，敞开露出身体。"
     },
     {
       "name": "robe slip",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/robe_slip",
       "category_path": "Partial nudity",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睡袍滑落",
+      "confidence": "A",
+      "tag_cn_long": "睡袍从身上滑落，露出部分身体。"
     },
     {
       "name": "strap lift",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/strap_lift",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "提肩带",
+      "confidence": "A",
+      "tag_cn_long": "提起上衣的肩带。"
     },
     {
       "name": "strap pull",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/strap_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉肩带",
+      "confidence": "A",
+      "tag_cn_long": "用手拉扯泳衣、内衣等衣物的肩带。"
     },
     {
       "name": "strap slip",
@@ -340,9 +340,9 @@
       "wiki_url": "/wiki_pages/strap_slip",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩带滑落",
+      "confidence": "A",
+      "tag_cn_long": "衣物的一根或两根肩带从肩膀滑落。"
     },
     {
       "name": "swimsuit aside",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/swimsuit_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泳衣侧拉",
+      "confidence": "B",
+      "tag_cn_long": "将泳衣拉到一侧以暴露私处。"
     },
     {
       "name": "one-piece swimsuit pull",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/one-piece_swimsuit_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连体泳衣下拉",
+      "confidence": "A",
+      "tag_cn_long": "将连体泳衣的肩带从肩膀拉下以暴露胸部。"
     },
     {
       "name": "towel, open",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/open_towel",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛巾敞开",
+      "confidence": "B",
+      "tag_cn_long": "包裹身体的毛巾被打开。"
     },
     {
       "name": "towel slip",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/towel_slip",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛巾滑落",
+      "confidence": "A",
+      "tag_cn_long": "包裹身体的毛巾滑落下来。"
     },
     {
       "name": "male underwear pull",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/male_underwear_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男性内裤下拉",
+      "confidence": "A",
+      "tag_cn_long": "将男性内裤从腰部拉下但未完全脱下。"
     },
     {
       "name": "armpits",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/armpits",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腋下",
+      "confidence": "A",
+      "tag_cn_long": "手臂与躯干连接处的下方区域，常在抬臂时显露。"
     },
     {
       "name": "armpit cutout",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/armpit_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腋窝镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装上的镂空设计，露出腋窝部位。"
     },
     {
       "name": "bare arms",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/bare_arms",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露臂",
+      "confidence": "A",
+      "tag_cn_long": "手臂没有被衣物覆盖。"
     },
     {
       "name": "arm cutout",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/arm_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手臂镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装在手臂处有镂空设计。"
     },
     {
       "name": "bare shoulders",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/bare_shoulders",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露肩",
+      "confidence": "A",
+      "tag_cn_long": "肩膀裸露，可能由于服装设计或滑落。"
     },
     {
       "name": "off shoulder",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/off_shoulder",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露肩装",
+      "confidence": "A",
+      "tag_cn_long": "有袖衣物滑落到肩膀下方的穿着方式。"
     },
     {
       "name": "shoulder cutout",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/shoulder_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩膀镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装在肩膀处有镂空设计。"
     },
     {
       "name": "sleeves rolled up",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/sleeves_rolled_up",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子被卷起，通常露出前臂。"
     },
     {
       "name": "sleeveless",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/sleeveless",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖",
+      "confidence": "A",
+      "tag_cn_long": "没有袖子的上衣，露出胳膊。"
     },
     {
       "name": "low-cut armhole",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/low-cut_armhole",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低袖孔",
+      "confidence": "B",
+      "tag_cn_long": "服装袖孔剪裁较大，下端低于胸部或腋下，容易露出侧胸。"
     },
     {
       "name": "sleeves pushed up",
@@ -500,9 +500,9 @@
       "wiki_url": "/wiki_pages/sleeves_pushed_up",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "推袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子被推到上臂，但没有卷起。"
     },
     {
       "name": "sleeves rolled up",
@@ -510,9 +510,9 @@
       "wiki_url": "/wiki_pages/sleeves_rolled_up",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子被卷起，通常露出前臂。"
     },
     {
       "name": "hood down",
@@ -520,9 +520,9 @@
       "wiki_url": "/wiki_pages/hood_down",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子放下",
+      "confidence": "A",
+      "tag_cn_long": "穿着连帽衣物时，帽子未戴在头上，而是垂在背后。"
     },
     {
       "name": "center opening",
@@ -530,9 +530,9 @@
       "wiki_url": "/wiki_pages/center_opening",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中心开口",
+      "confidence": "A",
+      "tag_cn_long": "衣服中间有开口，露出胸部和乳沟。"
     },
     {
       "name": "coat, open",
@@ -540,9 +540,9 @@
       "wiki_url": "/wiki_pages/open_coat",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "外套敞开",
+      "confidence": "A",
+      "tag_cn_long": "外套的前襟敞开，没有扣上。"
     },
     {
       "name": "open collar",
@@ -560,9 +560,9 @@
       "wiki_url": "/wiki_pages/dress_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉裙（露肤）",
+      "confidence": "A",
+      "tag_cn_long": "向下拉裙子以露出皮肤或内衣。"
     },
     {
       "name": "hoodie, open",
@@ -570,9 +570,9 @@
       "wiki_url": "/wiki_pages/open_hoodie",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞连帽衫",
+      "confidence": "A",
+      "tag_cn_long": "角色穿着连帽衫且拉链或扣子敞开，露出内衬或皮肤。"
     },
     {
       "name": "jacket, open",
@@ -580,9 +580,9 @@
       "wiki_url": "/wiki_pages/open_jacket",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞夹克",
+      "confidence": "A",
+      "tag_cn_long": "角色穿着夹克且拉链或扣子敞开，露出内衬或皮肤。"
     },
     {
       "name": "leotard pull",
@@ -590,9 +590,9 @@
       "wiki_url": "/wiki_pages/leotard_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下拉连体衣",
+      "confidence": "A",
+      "tag_cn_long": "角色将紧身连体衣向下拉，露出部分身体。"
     },
     {
       "name": "kimono down",
@@ -600,9 +600,9 @@
       "wiki_url": "/wiki_pages/kimono_down",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和服滑落",
+      "confidence": "A",
+      "tag_cn_long": "和服从肩膀滑落，露出肩部或胸部。"
     },
     {
       "name": "kimono pull",
@@ -610,9 +610,9 @@
       "wiki_url": "/wiki_pages/kimono_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下拉和服",
+      "confidence": "A",
+      "tag_cn_long": "角色将和服向下拉，露出肩膀或胸部。"
     },
     {
       "name": "pajamas pull",
@@ -620,9 +620,9 @@
       "wiki_url": "/wiki_pages/pajamas_pull",
       "category_path": "Partial nudity",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下拉睡衣",
+      "confidence": "A",
+      "tag_cn_long": "角色将睡衣向下拉，露出部分身体。"
     },
     {
       "name": "open robe",
@@ -630,9 +630,9 @@
       "wiki_url": "/wiki_pages/open_robe",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞开浴袍",
+      "confidence": "A",
+      "tag_cn_long": "未系好扣子或腰带，暴露身体部位的浴袍。"
     },
     {
       "name": "shirt aside",
@@ -640,9 +640,9 @@
       "wiki_url": "/wiki_pages/shirt_aside",
       "category_path": "Partial nudity",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衬衫掀开",
+      "confidence": "B",
+      "tag_cn_long": "角色将衬衫掀开或拉到一侧，露出皮肤。"
     },
     {
       "name": "topless male",
@@ -650,9 +650,9 @@
       "wiki_url": "/wiki_pages/topless_male",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男赤膊",
+      "confidence": "A",
+      "tag_cn_long": "男性角色上半身裸露，无上衣但下身穿着衣物。"
     },
     {
       "name": "shirt, no",
@@ -660,9 +660,9 @@
       "wiki_url": "/wiki_pages/no_shirt",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无衬衫",
+      "confidence": "A",
+      "tag_cn_long": "角色没有穿衬衫，通常裸上身。"
     },
     {
       "name": "shirt, open",
@@ -670,9 +670,9 @@
       "wiki_url": "/wiki_pages/open_shirt",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞衬衫",
+      "confidence": "A",
+      "tag_cn_long": "角色穿着衬衫但未扣扣子，敞开露出内衬或皮肤。"
     },
     {
       "name": "shirt lift",
@@ -680,9 +680,9 @@
       "wiki_url": "/wiki_pages/shirt_lift",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "撩衬衫",
+      "confidence": "A",
+      "tag_cn_long": "角色将衬衫下摆向上撩起，露出腹部或胸部。"
     },
     {
       "name": "shirt pull",
@@ -690,9 +690,9 @@
       "wiki_url": "/wiki_pages/shirt_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衬衫下拉",
+      "confidence": "A",
+      "tag_cn_long": "角色将领口向下拉，露出胸部或锁骨。"
     },
     {
       "name": "shirt slip",
@@ -700,9 +700,9 @@
       "wiki_url": "/wiki_pages/shirt_slip",
       "category_path": "Partial nudity",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衬衫滑落",
+      "confidence": "A",
+      "tag_cn_long": "衬衫从肩膀滑落，露出肩部或胸部。"
     },
     {
       "name": "sweater lift",
@@ -710,9 +710,9 @@
       "wiki_url": "/wiki_pages/sweater_lift",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "撩毛衣",
+      "confidence": "A",
+      "tag_cn_long": "毛衣被向上撩起，露出胸部。"
     },
     {
       "name": "top pull",
@@ -720,9 +720,9 @@
       "wiki_url": "/wiki_pages/top_pull",
       "category_path": "Partial nudity",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下拉上衣",
+      "confidence": "A",
+      "tag_cn_long": "角色将上衣向下拉，露出肩膀或胸部。"
     },
     {
       "name": "open vest",
@@ -730,9 +730,9 @@
       "wiki_url": "/wiki_pages/open_vest",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞马甲",
+      "confidence": "A",
+      "tag_cn_long": "马甲敞开，露出内穿衣物或皮肤。"
     },
     {
       "name": "breastless clothes",
@@ -740,9 +740,9 @@
       "wiki_url": "/wiki_pages/breastless_clothes",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露胸装",
+      "confidence": "B",
+      "tag_cn_long": "专门设计来露出乳房而非遮护的衣物。"
     },
     {
       "name": "breast out, one",
@@ -750,9 +750,9 @@
       "wiki_url": "/wiki_pages/one_breast_out",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单乳露出",
+      "confidence": "A",
+      "tag_cn_long": "只露出一侧乳房，另一侧被衣物覆盖。"
     },
     {
       "name": "breast slip",
@@ -760,9 +760,9 @@
       "wiki_url": "/wiki_pages/breast_slip",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房走光",
+      "confidence": "A",
+      "tag_cn_long": "整个乳房从衣物中滑出暴露。"
     },
     {
       "name": "breasts out",
@@ -770,9 +770,9 @@
       "wiki_url": "/wiki_pages/breasts_out",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双乳露出",
+      "confidence": "A",
+      "tag_cn_long": "双乳都从衣物中拉出或露出，区别于全裸或上衣掀起。"
     },
     {
       "name": "bra lift",
@@ -780,9 +780,9 @@
       "wiki_url": "/wiki_pages/bra_lift",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩上提",
+      "confidence": "A",
+      "tag_cn_long": "胸罩被向上提起并高于乳房的状态。"
     },
     {
       "name": "bra, no",
@@ -790,9 +790,9 @@
       "wiki_url": "/wiki_pages/no_bra",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无胸罩",
+      "confidence": "A",
+      "tag_cn_long": "角色未穿戴胸罩，通常乳头可见或乳房轮廓可见。"
     },
     {
       "name": "bra pull",
@@ -800,9 +800,9 @@
       "wiki_url": "/wiki_pages/bra_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩下拉",
+      "confidence": "A",
+      "tag_cn_long": "将胸罩向下拉至乳房以下露出乳头的动作。"
     },
     {
       "name": "topless female",
@@ -810,9 +810,9 @@
       "wiki_url": "/wiki_pages/topless_female",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女裸上身",
+      "confidence": "A",
+      "tag_cn_long": "女性角色上半身裸露，无上衣但下身穿着衣物。"
     },
     {
       "name": "backboob",
@@ -820,9 +820,9 @@
       "wiki_url": "/wiki_pages/backboob",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背部看乳侧",
+      "confidence": "B",
+      "tag_cn_long": "从背后视角看到乳房的侧面或后部。"
     },
     {
       "name": "cleavage",
@@ -830,9 +830,9 @@
       "wiki_url": "/wiki_pages/cleavage",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳沟",
+      "confidence": "A",
+      "tag_cn_long": "女性双乳之间的凹陷或沟壑。"
     },
     {
       "name": "cleavage cutout",
@@ -840,9 +840,9 @@
       "wiki_url": "/wiki_pages/cleavage_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳沟镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装上的镂空设计，露出胸部或乳沟。"
     },
     {
       "name": "sideboob",
@@ -850,9 +850,9 @@
       "wiki_url": "/wiki_pages/sideboob",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧乳",
+      "confidence": "A",
+      "tag_cn_long": "从衣服侧面缝隙露出的乳房外侧，不露乳头。"
     },
     {
       "name": "underboob",
@@ -860,9 +860,9 @@
       "wiki_url": "/wiki_pages/underboob",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下乳",
+      "confidence": "A",
+      "tag_cn_long": "从衣服下方露出的乳房底部，不露乳头。"
     },
     {
       "name": "underboob cutout",
@@ -870,9 +870,9 @@
       "wiki_url": "/wiki_pages/underboob_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下乳镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装在胸部下方有开口，露出乳房下缘。"
     },
     {
       "name": "areola slip",
@@ -880,9 +880,9 @@
       "wiki_url": "/wiki_pages/areola_slip",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳晕露出",
+      "confidence": "A",
+      "tag_cn_long": "乳晕从衣物中滑出或部分暴露，但乳头未露出。"
     },
     {
       "name": "nipple slip",
@@ -890,9 +890,9 @@
       "wiki_url": "/wiki_pages/nipple_slip",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头走光",
+      "confidence": "A",
+      "tag_cn_long": "因动作或衣着不当导致乳头意外暴露。"
     },
     {
       "name": "nippleless clothes",
@@ -900,9 +900,9 @@
       "wiki_url": "/wiki_pages/nippleless_clothes",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露乳装",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有孔洞让乳头穿出。"
     },
     {
       "name": "nipples",
@@ -910,9 +910,9 @@
       "wiki_url": "/wiki_pages/nipples",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳房上的小突起。"
     },
     {
       "name": "back cutout",
@@ -920,9 +920,9 @@
       "wiki_url": "/wiki_pages/back_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背部镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装背部有开口，露出背部皮肤的设计。"
     },
     {
       "name": "backless outfit",
@@ -930,9 +930,9 @@
       "wiki_url": "/wiki_pages/backless_outfit",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露背装",
+      "confidence": "A",
+      "tag_cn_long": "后背部分或全部裸露的服装。"
     },
     {
       "name": "bare back",
@@ -940,9 +940,9 @@
       "wiki_url": "/wiki_pages/bare_back",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸背",
+      "confidence": "A",
+      "tag_cn_long": "角色的背部至少四分之三暴露在外。"
     },
     {
       "name": "frontless outfit",
@@ -950,9 +950,9 @@
       "wiki_url": "/wiki_pages/frontless_outfit",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露前装",
+      "confidence": "B",
+      "tag_cn_long": "前面裸露，露出胸部、腹部和胯部的服装。"
     },
     {
       "name": "midriff",
@@ -960,9 +960,9 @@
       "wiki_url": "/wiki_pages/midriff",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露腰",
+      "confidence": "A",
+      "tag_cn_long": "上衣和下装之间的腹部裸露区域。"
     },
     {
       "name": "navel cutout",
@@ -970,9 +970,9 @@
       "wiki_url": "/wiki_pages/navel_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肚脐镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装前面有开口露出肚脐的设计。"
     },
     {
       "name": "side cutout",
@@ -980,9 +980,9 @@
       "wiki_url": "/wiki_pages/side_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧边镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装侧面有开口露出皮肤的设计。"
     },
     {
       "name": "sideless outfit",
@@ -990,9 +990,9 @@
       "wiki_url": "/wiki_pages/sideless_outfit",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露侧装",
+      "confidence": "A",
+      "tag_cn_long": "服装侧面裸露，从肩膀到腰部或腿部有开口。"
     },
     {
       "name": "stomach cutout",
@@ -1000,9 +1000,9 @@
       "wiki_url": "/wiki_pages/stomach_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹部镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装上露出腹部的镂空设计。"
     },
     {
       "name": "barefoot",
@@ -1010,9 +1010,9 @@
       "wiki_url": "/wiki_pages/barefoot",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "赤脚",
+      "confidence": "A",
+      "tag_cn_long": "角色双脚完全裸露，未穿鞋袜等任何覆盖物。"
     },
     {
       "name": "bare legs",
@@ -1020,9 +1020,9 @@
       "wiki_url": "/wiki_pages/bare_legs",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸腿",
+      "confidence": "A",
+      "tag_cn_long": "角色腿部从大腿到小腿中部没有衣物遮挡。"
     },
     {
       "name": "dress lift",
@@ -1030,9 +1030,9 @@
       "wiki_url": "/wiki_pages/dress_lift",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "掀裙",
+      "confidence": "A",
+      "tag_cn_long": "主动或被动地掀起裙子。"
     },
     {
       "name": "hip vent",
@@ -1040,9 +1040,9 @@
       "wiki_url": "/wiki_pages/hip_vent",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "髋部镂空",
+      "confidence": "B",
+      "tag_cn_long": "服装髋部侧面有开口，露出皮肤的设计。"
     },
     {
       "name": "leg cutout",
@@ -1050,9 +1050,9 @@
       "wiki_url": "/wiki_pages/leg_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿部镂空",
+      "confidence": "A",
+      "tag_cn_long": "裤装或腿饰上有开口露出皮肤的设计。"
     },
     {
       "name": "thigh cutout",
@@ -1060,9 +1060,9 @@
       "wiki_url": "/wiki_pages/thigh_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿镂空",
+      "confidence": "A",
+      "tag_cn_long": "裤子或腿饰在大腿部位有开口露出皮肤的设计。"
     },
     {
       "name": "side slit",
@@ -1070,9 +1070,9 @@
       "wiki_url": "/wiki_pages/side_slit",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧开衩",
+      "confidence": "A",
+      "tag_cn_long": "连衣裙或裙子侧面的一道开衩，常见于旗袍等款式。"
     },
     {
       "name": "pants, no",
@@ -1080,9 +1080,9 @@
       "wiki_url": "/wiki_pages/no_pants",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无裤",
+      "confidence": "A",
+      "tag_cn_long": "角色不穿裤子，只穿上衣或其他。"
     },
     {
       "name": "shoe pull",
@@ -1090,9 +1090,9 @@
       "wiki_url": "/wiki_pages/shoe_pull",
       "category_path": "Partial nudity",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉鞋",
+      "confidence": "A",
+      "tag_cn_long": "角色拉动鞋子（穿或脱）的动作。"
     },
     {
       "name": "sock pull",
@@ -1100,9 +1100,9 @@
       "wiki_url": "/wiki_pages/sock_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉袜",
+      "confidence": "A",
+      "tag_cn_long": "角色拉动袜子的动作，包括穿、脱或调整。"
     },
     {
       "name": "zettai ryouiki",
@@ -1110,9 +1110,9 @@
       "wiki_url": "/wiki_pages/zettai_ryouiki",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绝对领域",
+      "confidence": "A",
+      "tag_cn_long": "指短裙与过膝袜之间露出的大腿区域。"
     },
     {
       "name": "ass cutout",
@@ -1120,9 +1120,9 @@
       "wiki_url": "/wiki_pages/ass_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臀部镂空",
+      "confidence": "A",
+      "tag_cn_long": "衣物上露出臀部的开口设计。"
     },
     {
       "name": "bottomless",
@@ -1130,9 +1130,9 @@
       "wiki_url": "/wiki_pages/bottomless",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下身裸露",
+      "confidence": "A",
+      "tag_cn_long": "角色只穿上衣，下半身没有衣物。"
     },
     {
       "name": "buruma pull",
@@ -1140,9 +1140,9 @@
       "wiki_url": "/wiki_pages/buruma_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉运动短裤",
+      "confidence": "B",
+      "tag_cn_long": "将运动短裤从腰部向下拉的动作。"
     },
     {
       "name": "buruma aside",
@@ -1150,9 +1150,9 @@
       "wiki_url": "/wiki_pages/buruma_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动短裤拨开",
+      "confidence": "B",
+      "tag_cn_long": "将运动短裤拨到一侧，露出私处的动作。"
     },
     {
       "name": "clitoris slip",
@@ -1160,9 +1160,9 @@
       "wiki_url": "/wiki_pages/clitoris_slip",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴蒂露出",
+      "confidence": "A",
+      "tag_cn_long": "衣物降低露出阴蒂或阴蒂包皮，但遮住阴部下方。"
     },
     {
       "name": "clothing aside",
@@ -1170,9 +1170,9 @@
       "wiki_url": "/wiki_pages/clothing_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣物拨开",
+      "confidence": "A",
+      "tag_cn_long": "将通常遮盖生殖器的衣物拨到一旁以暴露，常为性活动。"
     },
     {
       "name": "crotch cutout",
@@ -1180,9 +1180,9 @@
       "wiki_url": "/wiki_pages/crotch_cutout",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裆部镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装设计上的开口，故意露出角色的裆部区域。"
     },
     {
       "name": "dress aside",
@@ -1190,9 +1190,9 @@
       "wiki_url": "/wiki_pages/dress_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙子拨开",
+      "confidence": "B",
+      "tag_cn_long": "裙子被拨到一侧，露出下体或内裤。"
     },
     {
       "name": "leotard aside",
@@ -1200,9 +1200,9 @@
       "wiki_url": "/wiki_pages/leotard_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身衣拨开",
+      "confidence": "B",
+      "tag_cn_long": "紧身衣的裆部被拨到一边，露出生殖器。"
     },
     {
       "name": "hakama pull",
@@ -1210,9 +1210,9 @@
       "wiki_url": "/wiki_pages/hakama_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袴下拉",
+      "confidence": "B",
+      "tag_cn_long": "日式裆裤（袴）被向下拉，露出部分臀部或下体。"
     },
     {
       "name": "kimono lift",
@@ -1220,9 +1220,9 @@
       "wiki_url": "/wiki_pages/kimono_lift",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和服掀开",
+      "confidence": "A",
+      "tag_cn_long": "将和服的下摆向上掀起，露出内裤或裸裆。"
     },
     {
       "name": "yukata lift",
@@ -1230,9 +1230,9 @@
       "wiki_url": "/wiki_pages/yukata_lift",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浴衣掀开",
+      "confidence": "A",
+      "tag_cn_long": "将浴衣的下摆向上掀起，露出内裤或裸裆。"
     },
     {
       "name": "panties, no",
@@ -1240,9 +1240,9 @@
       "wiki_url": "/wiki_pages/no_panties",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无内裤",
+      "confidence": "A",
+      "tag_cn_long": "角色没有穿内裤，下体直接暴露。"
     },
     {
       "name": "panties aside",
@@ -1250,9 +1250,9 @@
       "wiki_url": "/wiki_pages/panties_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内裤拨开",
+      "confidence": "A",
+      "tag_cn_long": "内裤被拨到一侧，露出生殖器，无需完全脱下。"
     },
     {
       "name": "pants pull",
@@ -1260,9 +1260,9 @@
       "wiki_url": "/wiki_pages/pants_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裤子下拉",
+      "confidence": "A",
+      "tag_cn_long": "裤子被从正常位置向下拉，露出内裤或臀部。"
     },
     {
       "name": "open pants",
@@ -1270,9 +1270,9 @@
       "wiki_url": "/wiki_pages/open_pants",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裤子开口",
+      "confidence": "C",
+      "tag_cn_long": "裤子门襟（拉链或纽扣处）打开，露出内裤或下体。"
     },
     {
       "name": "pants pull",
@@ -1280,9 +1280,9 @@
       "wiki_url": "/wiki_pages/pants_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裤子下拉",
+      "confidence": "A",
+      "tag_cn_long": "裤子被从正常位置向下拉，露出内裤或臀部。"
     },
     {
       "name": "panty lift",
@@ -1290,9 +1290,9 @@
       "wiki_url": "/wiki_pages/panty_lift",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内裤上提",
+      "confidence": "B",
+      "tag_cn_long": "内裤被向上提拉，导致裆部紧绷或产生骆驼趾，甚至露出更多。"
     },
     {
       "name": "panty pull",
@@ -1300,9 +1300,9 @@
       "wiki_url": "/wiki_pages/panty_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内裤下拉",
+      "confidence": "A",
+      "tag_cn_long": "内裤被向下拉至大腿处，但未完全脱下。"
     },
     {
       "name": "penis peek",
@@ -1310,9 +1310,9 @@
       "wiki_url": "/wiki_pages/penis_peek",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎微露",
+      "confidence": "B",
+      "tag_cn_long": "内裤或其他衣物被拉低，露出阴茎根部或部分柱体，但未完全露出。"
     },
     {
       "name": "pussy peek",
@@ -1320,9 +1320,9 @@
       "wiki_url": "/wiki_pages/pussy_peek",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴部微露",
+      "confidence": "A",
+      "tag_cn_long": "部分阴部露出或隐约可见。"
     },
     {
       "name": "pantyhose pull",
@@ -1330,9 +1330,9 @@
       "wiki_url": "/wiki_pages/pantyhose_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连裤袜下拉",
+      "confidence": "A",
+      "tag_cn_long": "连裤袜被向下拉至大腿中部，但未完全脱下。"
     },
     {
       "name": "shorts aside",
@@ -1340,9 +1340,9 @@
       "wiki_url": "/wiki_pages/shorts_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短裤拨开",
+      "confidence": "B",
+      "tag_cn_long": "短裤被拨到一侧，露出生殖器。"
     },
     {
       "name": "shorts, open",
@@ -1350,9 +1350,9 @@
       "wiki_url": "/wiki_pages/open_shorts",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短裤开口",
+      "confidence": "C",
+      "tag_cn_long": "短裤的门襟或裆部开口，露出内裤或下体。"
     },
     {
       "name": "shorts pull",
@@ -1360,9 +1360,9 @@
       "wiki_url": "/wiki_pages/shorts_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短裤下拉",
+      "confidence": "A",
+      "tag_cn_long": "短裤被从正常位置向下拉，露出内裤或臀部。"
     },
     {
       "name": "skirt around one leg",
@@ -1370,9 +1370,9 @@
       "wiki_url": "/wiki_pages/skirt_around_one_leg",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙子绕腿",
+      "confidence": "B",
+      "tag_cn_long": "裙子被部分脱下，缠绕在一条腿上，露出下体。"
     },
     {
       "name": "skirt around ankles",
@@ -1380,9 +1380,9 @@
       "wiki_url": "/wiki_pages/skirt_around_ankles",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙落脚踝",
+      "confidence": "A",
+      "tag_cn_long": "裙子被拉下至脚踝附近，通常露出内裤或私处。"
     },
     {
       "name": "open skirt",
@@ -1390,9 +1390,9 @@
       "wiki_url": "/wiki_pages/open_skirt",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开裙",
+      "confidence": "A",
+      "tag_cn_long": "裙子在侧面解开或拉开，通常是脱衣中的姿态。"
     },
     {
       "name": "skirt pull",
@@ -1400,9 +1400,9 @@
       "wiki_url": "/wiki_pages/skirt_pull",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉裙",
+      "confidence": "A",
+      "tag_cn_long": "裙子被从正常位置向下拉。"
     },
     {
       "name": "skirt lift",
@@ -1410,9 +1410,9 @@
       "wiki_url": "/wiki_pages/skirt_lift",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "掀裙",
+      "confidence": "A",
+      "tag_cn_long": "裙子被掀起，露出裆部。"
     },
     {
       "name": "swimsuit aside",
@@ -1420,9 +1420,9 @@
       "wiki_url": "/wiki_pages/swimsuit_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泳衣侧拉",
+      "confidence": "B",
+      "tag_cn_long": "将泳衣拉到一侧以暴露私处。"
     },
     {
       "name": "bikini bottom aside",
@@ -1430,9 +1430,9 @@
       "wiki_url": "/wiki_pages/bikini_bottom_aside",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比基尼下拨",
+      "confidence": "A",
+      "tag_cn_long": "比基尼下装被拨到一边，暴露私处。"
     },
     {
       "name": "naked apron",
@@ -1450,9 +1450,9 @@
       "wiki_url": "/wiki_pages/nearly_naked_apron",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "近乎裸围裙",
+      "confidence": "A",
+      "tag_cn_long": "围裙下仅穿内衣或泳装等轻薄衣物。"
     },
     {
       "name": "naked bandage",
@@ -1460,9 +1460,9 @@
       "wiki_url": "/wiki_pages/naked_bandage",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸绷带",
+      "confidence": "A",
+      "tag_cn_long": "身体裸露，仅用绷带缠绕，可能遮挡私处。"
     },
     {
       "name": "naked cape",
@@ -1470,9 +1470,9 @@
       "wiki_url": "/wiki_pages/naked_cape",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸披风",
+      "confidence": "A",
+      "tag_cn_long": "只穿披风，不穿其他衣物。"
     },
     {
       "name": "naked capelet",
@@ -1480,9 +1480,9 @@
       "wiki_url": "/wiki_pages/naked_capelet",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸短披风",
+      "confidence": "A",
+      "tag_cn_long": "只穿短披风（capelet），不穿其他衣物。"
     },
     {
       "name": "naked chocolate",
@@ -1500,9 +1500,9 @@
       "wiki_url": "/wiki_pages/naked_cloak",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸斗篷",
+      "confidence": "A",
+      "tag_cn_long": "只穿斗篷，不穿其他衣物。"
     },
     {
       "name": "naked coat",
@@ -1510,9 +1510,9 @@
       "wiki_url": "/wiki_pages/naked_coat",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸外套",
+      "confidence": "A",
+      "tag_cn_long": "只穿外套（如大衣、风衣），不穿其他衣物。"
     },
     {
       "name": "naked hoodie",
@@ -1520,9 +1520,9 @@
       "wiki_url": "/wiki_pages/naked_hoodie",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸连帽衫",
+      "confidence": "A",
+      "tag_cn_long": "只穿连帽衫，不穿其他衣物。"
     },
     {
       "name": "naked jacket",
@@ -1530,9 +1530,9 @@
       "wiki_url": "/wiki_pages/naked_jacket",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸夹克",
+      "confidence": "A",
+      "tag_cn_long": "只穿夹克，不穿其他衣物。"
     },
     {
       "name": "naked overalls",
@@ -1540,9 +1540,9 @@
       "wiki_url": "/wiki_pages/naked_overalls",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸背带裤",
+      "confidence": "A",
+      "tag_cn_long": "只穿背带裤，不穿其他衣物。"
     },
     {
       "name": "naked ribbon",
@@ -1550,9 +1550,9 @@
       "wiki_url": "/wiki_pages/naked_ribbon",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸丝带",
+      "confidence": "A",
+      "tag_cn_long": "身体裸露，仅用丝带或蝴蝶结遮盖部分身体。"
     },
     {
       "name": "naked robe",
@@ -1560,9 +1560,9 @@
       "wiki_url": "/wiki_pages/naked_robe",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸长袍",
+      "confidence": "A",
+      "tag_cn_long": "只穿长袍，不穿其他衣物。"
     },
     {
       "name": "naked scarf",
@@ -1570,9 +1570,9 @@
       "wiki_url": "/wiki_pages/naked_scarf",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸围巾",
+      "confidence": "A",
+      "tag_cn_long": "只戴围巾，身体其它部分裸露。"
     },
     {
       "name": "naked sheet",
@@ -1580,9 +1580,9 @@
       "wiki_url": "/wiki_pages/naked_sheet",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸床单",
+      "confidence": "A",
+      "tag_cn_long": "身体部分被床单或毯子遮盖，呈裸体状态。"
     },
     {
       "name": "naked shirt",
@@ -1590,9 +1590,9 @@
       "wiki_url": "/wiki_pages/naked_shirt",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸衬衫",
+      "confidence": "A",
+      "tag_cn_long": "只穿衬衫（通常敞开），不穿其他衣物。"
     },
     {
       "name": "naked suspenders",
@@ -1600,9 +1600,9 @@
       "wiki_url": "/wiki_pages/naked_suspenders",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸穿吊带",
+      "confidence": "A",
+      "tag_cn_long": "角色只穿着吊带背带，未穿上衣，吊带遮盖乳头。"
     },
     {
       "name": "naked tabard",
@@ -1610,9 +1610,9 @@
       "wiki_url": "/wiki_pages/naked_tabard",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸穿罩袍",
+      "confidence": "B",
+      "tag_cn_long": "角色只穿着一件罩袍，露出侧乳和大腿。"
     },
     {
       "name": "naked towel",
@@ -1620,9 +1620,9 @@
       "wiki_url": "/wiki_pages/naked_towel",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸裹毛巾",
+      "confidence": "A",
+      "tag_cn_long": "角色只用毛巾包裹身体，常见于出浴或泡温泉。"
     },
     {
       "name": "underwear only",
@@ -1630,9 +1630,9 @@
       "wiki_url": "/wiki_pages/underwear_only",
       "category_path": "Partial nudity",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "仅着内衣",
+      "confidence": "A",
+      "tag_cn_long": "角色只穿着内衣（内裤、胸罩等），不包括泳装。"
     },
     {
       "name": "downblouse",
@@ -1640,9 +1640,9 @@
       "wiki_url": "/wiki_pages/downblouse",
       "category_path": "Naughty points of view",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领口偷窥",
+      "confidence": "A",
+      "tag_cn_long": "从上方透过领口看到乳房。"
     },
     {
       "name": "downpants",
@@ -1650,9 +1650,9 @@
       "wiki_url": "/wiki_pages/downpants",
       "category_path": "Naughty points of view",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俯视裤腰",
+      "confidence": "A",
+      "tag_cn_long": "从上方通过裤腰看到臀部。"
     },
     {
       "name": "pantyshot",
@@ -1660,9 +1660,9 @@
       "wiki_url": "/wiki_pages/pantyshot",
       "category_path": "Naughty points of view",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内裤走光",
+      "confidence": "A",
+      "tag_cn_long": "非故意的裙底内裤露出。"
     },
     {
       "name": "upskirt",
@@ -1670,9 +1670,9 @@
       "wiki_url": "/wiki_pages/upskirt",
       "category_path": "Naughty points of view",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙底偷窥",
+      "confidence": "A",
+      "tag_cn_long": "从下方看到裙内景象。"
     },
     {
       "name": "covering privates",
@@ -1680,9 +1680,9 @@
       "wiki_url": "/wiki_pages/covering_privates",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮私处",
+      "confidence": "A",
+      "tag_cn_long": "用手或物品遮盖羞羞部位。"
     },
     {
       "name": "covering anus",
@@ -1690,9 +1690,9 @@
       "wiki_url": "/wiki_pages/covering_anus",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮肛门",
+      "confidence": "A",
+      "tag_cn_long": "用手或其他物品遮盖肛门。"
     },
     {
       "name": "covering ass",
@@ -1700,9 +1700,9 @@
       "wiki_url": "/wiki_pages/covering_ass",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮臀",
+      "confidence": "A",
+      "tag_cn_long": "试图遮盖臀部避免暴露。"
     },
     {
       "name": "covering breasts",
@@ -1710,9 +1710,9 @@
       "wiki_url": "/wiki_pages/covering_breasts",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮乳",
+      "confidence": "A",
+      "tag_cn_long": "角色用手或手臂遮挡自己的乳房以盖住乳头。"
     },
     {
       "name": "covering crotch",
@@ -1720,9 +1720,9 @@
       "wiki_url": "/wiki_pages/covering_crotch",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮阴",
+      "confidence": "A",
+      "tag_cn_long": "故意用手或衣物遮挡自己的阴部。"
     },
     {
       "name": "covering head",
@@ -1730,9 +1730,9 @@
       "wiki_url": "/wiki_pages/covering_head",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮头",
+      "confidence": "A",
+      "tag_cn_long": "用手或物体遮住头部。"
     },
     {
       "name": "covering own ears",
@@ -1740,9 +1740,9 @@
       "wiki_url": "/wiki_pages/covering_own_ears",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捂住耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色用手捂住自己的耳朵。"
     },
     {
       "name": "covering one eye",
@@ -1750,9 +1750,9 @@
       "wiki_url": "/wiki_pages/covering_one_eye",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮单眼",
+      "confidence": "A",
+      "tag_cn_long": "遮住一只眼睛。"
     },
     {
       "name": "covering own eyes",
@@ -1760,9 +1760,9 @@
       "wiki_url": "/wiki_pages/covering_own_eyes",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自遮双眼",
+      "confidence": "A",
+      "tag_cn_long": "用手或其他物体遮住自己的眼睛，通常表示羞耻或不想看。"
     },
     {
       "name": "covering face",
@@ -1770,9 +1770,9 @@
       "wiki_url": "/wiki_pages/covering_face",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮脸",
+      "confidence": "A",
+      "tag_cn_long": "用手或物体挡住脸部。"
     },
     {
       "name": "covering own mouth",
@@ -1780,9 +1780,9 @@
       "wiki_url": "/wiki_pages/covering_own_mouth",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捂嘴",
+      "confidence": "A",
+      "tag_cn_long": "用手捂住自己的嘴。"
     },
     {
       "name": "nude cover",
@@ -1790,9 +1790,9 @@
       "wiki_url": "/wiki_pages/nude_cover",
       "category_path": "Dressing / Covering body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸体遮挡",
+      "confidence": "A",
+      "tag_cn_long": "裸体但用手或物品（如枕头）遮盖私处。"
     },
     {
       "name": "adjusting clothes",
@@ -1800,9 +1800,9 @@
       "wiki_url": "/wiki_pages/adjusting_clothes",
       "category_path": "Touching clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "整理衣服",
+      "confidence": "A",
+      "tag_cn_long": "调整衣物使其更舒适。"
     },
     {
       "name": "clothes grab",
@@ -1810,9 +1810,9 @@
       "wiki_url": "/wiki_pages/clothes_grab",
       "category_path": "Touching clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓衣",
+      "confidence": "A",
+      "tag_cn_long": "抓住自己或他人的衣服，通常为了引起注意。"
     },
     {
       "name": "apron grab",
@@ -1820,9 +1820,9 @@
       "wiki_url": "/wiki_pages/apron_grab",
       "category_path": "Touching clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓围裙",
+      "confidence": "A",
+      "tag_cn_long": "用手抓住别人的围裙。"
     },
     {
       "name": "collar grab",
@@ -1850,9 +1850,9 @@
       "wiki_url": "/wiki_pages/grabbing_another%27s_skirt",
       "category_path": "Touching clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓裙子",
+      "confidence": "A",
+      "tag_cn_long": "角色用手抓住另一个人的裙子的动作。"
     },
     {
       "name": "collar tug",
@@ -1870,9 +1870,9 @@
       "wiki_url": "/wiki_pages/dress_tug",
       "category_path": "Touching clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙摆拉扯",
+      "confidence": "A",
+      "tag_cn_long": "向下拉扯裙摆以遮盖身体。"
     },
     {
       "name": "shirt tug",
@@ -1880,9 +1880,9 @@
       "wiki_url": "/wiki_pages/shirt_tug",
       "category_path": "Touching clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉衬衫下摆",
+      "confidence": "A",
+      "tag_cn_long": "角色向下拉拽衬衫下摆以调整衣服或遮挡私处的动作。"
     },
     {
       "name": "skirt tug",
@@ -1890,9 +1890,9 @@
       "wiki_url": "/wiki_pages/skirt_tug",
       "category_path": "Touching clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉裙子",
+      "confidence": "A",
+      "tag_cn_long": "角色向下拉拽自己裙子的动作，通常是为了遮挡私处。"
     },
     {
       "name": "wringing clothes",
@@ -1900,9 +1900,9 @@
       "wiki_url": "/wiki_pages/wringing_clothes",
       "category_path": "Touching clothes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拧衣服",
+      "confidence": "A",
+      "tag_cn_long": "角色双手拧绞湿衣服以挤出水的动作。"
     },
     {
       "name": "nude modeling",
@@ -1910,9 +1910,9 @@
       "wiki_url": "/wiki_pages/nude_modeling",
       "category_path": "Misc / more",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸体模特",
+      "confidence": "A",
+      "tag_cn_long": "裸体人物作为摄影或绘画的模特。"
     },
     {
       "name": "tan",
@@ -1920,9 +1920,9 @@
       "wiki_url": "/wiki_pages/tan",
       "category_path": "Misc / more",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晒黑",
+      "confidence": "A",
+      "tag_cn_long": "皮肤因日晒而变黑的效果。"
     },
     {
       "name": "tanlines",
@@ -1930,9 +1930,9 @@
       "wiki_url": "/wiki_pages/tanlines",
       "category_path": "Misc / more",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晒痕",
+      "confidence": "A",
+      "tag_cn_long": "因穿着衣物日晒而形成的皮肤颜色分界线，常见泳装形状。"
     },
     {
       "name": "pants rolled up",
@@ -1940,9 +1940,9 @@
       "wiki_url": "/wiki_pages/pants_rolled_up",
       "category_path": "Misc / more",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷裤腿",
+      "confidence": "A",
+      "tag_cn_long": "将裤腿向上卷起或折叠至小腿或膝盖处，形成短一截的效果。"
     },
     {
       "name": "skirt rolled up",
@@ -1950,9 +1950,9 @@
       "wiki_url": "/wiki_pages/skirt_rolled_up",
       "category_path": "Misc / more",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷裙子",
+      "confidence": "A",
+      "tag_cn_long": "裙子从腰部向上卷起以缩短裙摆，露出更多腿部。"
     },
     {
       "name": "clothes on and off",
@@ -1960,9 +1960,9 @@
       "wiki_url": "/wiki_pages/clothes_on_and_off",
       "category_path": "Misc / more",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿脱衣服",
+      "confidence": "A",
+      "tag_cn_long": "角色同时呈现穿着和脱去衣服的状态，通常用于对比。"
     }
   ],
   "total_tags": 191,

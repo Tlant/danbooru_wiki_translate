@@ -48,9 +48,9 @@
       "wiki_url": "/wiki_pages/animal_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兽耳",
+      "confidence": "A",
+      "tag_cn_long": "角色头部有或佩戴动物耳朵，包括真实或假耳朵。"
     },
     {
       "name": "axolotl ears",
@@ -58,9 +58,9 @@
       "wiki_url": "/wiki_pages/axolotl_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "六角恐龙耳",
+      "confidence": "A",
+      "tag_cn_long": "基于美西钝口螈（六角恐龙）的兽耳造型。"
     },
     {
       "name": "bat ears",
@@ -68,9 +68,9 @@
       "wiki_url": "/wiki_pages/bat_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝙蝠耳",
+      "confidence": "A",
+      "tag_cn_long": "基于蝙蝠的兽耳，通常较大且尖。"
     },
     {
       "name": "bear ears",
@@ -78,9 +78,9 @@
       "wiki_url": "/wiki_pages/bear_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊耳",
+      "confidence": "A",
+      "tag_cn_long": "小而圆的熊类耳朵造型。"
     },
     {
       "name": "rabbit ears",
@@ -88,9 +88,9 @@
       "wiki_url": "/wiki_pages/rabbit_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔耳",
+      "confidence": "A",
+      "tag_cn_long": "角色具有或佩戴兔子般的长耳朵。"
     },
     {
       "name": "cat ears",
@@ -98,9 +98,9 @@
       "wiki_url": "/wiki_pages/cat_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫耳",
+      "confidence": "A",
+      "tag_cn_long": "角色具有或佩戴猫科动物尖耳朵造型。"
     },
     {
       "name": "cow ears",
@@ -108,9 +108,9 @@
       "wiki_url": "/wiki_pages/cow_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牛耳",
+      "confidence": "A",
+      "tag_cn_long": "角色具有或佩戴牛类动物的大耳朵造型。"
     },
     {
       "name": "deer ears",
@@ -118,9 +118,9 @@
       "wiki_url": "/wiki_pages/deer_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鹿耳",
+      "confidence": "A",
+      "tag_cn_long": "基于鹿的兽耳，通常较圆且向内弯。"
     },
     {
       "name": "dog ears",
@@ -128,9 +128,9 @@
       "wiki_url": "/wiki_pages/dog_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狗耳",
+      "confidence": "A",
+      "tag_cn_long": "角色具有或佩戴狗类动物的下垂或立耳造型。"
     },
     {
       "name": "ferret ears",
@@ -138,9 +138,9 @@
       "wiki_url": "/wiki_pages/ferret_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪貂耳",
+      "confidence": "A",
+      "tag_cn_long": "基于雪貂的小圆耳朵造型。"
     },
     {
       "name": "fox ears",
@@ -148,9 +148,9 @@
       "wiki_url": "/wiki_pages/fox_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狐耳",
+      "confidence": "A",
+      "tag_cn_long": "角色具有或佩戴狐狸般的长而尖的耳朵。"
     },
     {
       "name": "goat ears",
@@ -158,9 +158,9 @@
       "wiki_url": "/wiki_pages/goat_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山羊耳",
+      "confidence": "A",
+      "tag_cn_long": "基于山羊的细长且横向的耳朵造型。"
     },
     {
       "name": "horse ears",
@@ -168,9 +168,9 @@
       "wiki_url": "/wiki_pages/horse_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色拥有或佩戴的、仿马的长而直立耳朵。"
     },
     {
       "name": "kemonomimi mode",
@@ -178,9 +178,9 @@
       "wiki_url": "/wiki_pages/kemonomimi_mode",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兽耳模式",
+      "confidence": "B",
+      "tag_cn_long": "指通常没有动物特征的角色被画上兽耳、尾巴等，呈现临时或额外的动物化状态。"
     },
     {
       "name": "lion ears",
@@ -188,9 +188,9 @@
       "wiki_url": "/wiki_pages/lion_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狮子耳朵",
+      "confidence": "A",
+      "tag_cn_long": "基于狮子耳朵的兽耳，常见于拟人角色。"
     },
     {
       "name": "monkey ears",
@@ -198,9 +198,9 @@
       "wiki_url": "/wiki_pages/monkey_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猴子耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色拥有猴子的耳朵。"
     },
     {
       "name": "mouse ears",
@@ -208,9 +208,9 @@
       "wiki_url": "/wiki_pages/mouse_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "老鼠耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色拥有或佩戴的、仿老鼠的圆形耳朵。"
     },
     {
       "name": "panda ears",
@@ -218,9 +218,9 @@
       "wiki_url": "/wiki_pages/panda_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊猫耳朵",
+      "confidence": "A",
+      "tag_cn_long": "基于熊猫耳朵的兽耳，通常为黑白配色。"
     },
     {
       "name": "pikachu ears",
@@ -228,9 +228,9 @@
       "wiki_url": "/wiki_pages/pikachu_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皮卡丘耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色拥有或佩戴的、仿皮卡丘的黄色尖耳朵。"
     },
     {
       "name": "pig ears",
@@ -238,9 +238,9 @@
       "wiki_url": "/wiki_pages/pig_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猪耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色拥有猪的耳朵。"
     },
     {
       "name": "raccoon ears",
@@ -248,9 +248,9 @@
       "wiki_url": "/wiki_pages/raccoon_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浣熊耳朵",
+      "confidence": "A",
+      "tag_cn_long": "模仿浣熊或狸猫的耳朵，通常呈尖圆形状。"
     },
     {
       "name": "sheep ears",
@@ -258,9 +258,9 @@
       "wiki_url": "/wiki_pages/sheep_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绵羊耳朵",
+      "confidence": "A",
+      "tag_cn_long": "基于绵羊耳朵的兽耳，常为下垂状。"
     },
     {
       "name": "squirrel ears",
@@ -268,9 +268,9 @@
       "wiki_url": "/wiki_pages/squirrel_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "松鼠耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色拥有松鼠的耳朵。"
     },
     {
       "name": "tiger ears",
@@ -278,9 +278,9 @@
       "wiki_url": "/wiki_pages/tiger_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "老虎耳朵",
+      "confidence": "A",
+      "tag_cn_long": "基于老虎耳朵的兽耳，常带有斑纹。"
     },
     {
       "name": "wolf ears",
@@ -288,9 +288,9 @@
       "wiki_url": "/wiki_pages/wolf_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狼耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色拥有狼一样的尖立耳朵。"
     },
     {
       "name": "fake animal ears",
@@ -308,9 +308,9 @@
       "wiki_url": "/wiki_pages/animal_ear_headphones",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兽耳耳机",
+      "confidence": "A",
+      "tag_cn_long": "带有动物耳朵装饰的耳机，常见猫耳、兔耳等款式。"
     },
     {
       "name": "bear ear headphones",
@@ -318,9 +318,9 @@
       "wiki_url": "/wiki_pages/bear_ear_headphones",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊耳耳机",
+      "confidence": "A",
+      "tag_cn_long": "带有假熊耳朵的耳机。"
     },
     {
       "name": "cat ear headphones",
@@ -328,9 +328,9 @@
       "wiki_url": "/wiki_pages/cat_ear_headphones",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫耳耳机",
+      "confidence": "A",
+      "tag_cn_long": "猫耳头箍与耳机结合的款式，有时带有发光功能。"
     },
     {
       "name": "rabbit ear headphones",
@@ -338,9 +338,9 @@
       "wiki_url": "/wiki_pages/rabbit_ear_headphones",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔耳耳机",
+      "confidence": "A",
+      "tag_cn_long": "带有假兔耳朵的耳机，兔耳位于头顶位置。"
     },
     {
       "name": "floppy ears",
@@ -348,9 +348,9 @@
       "wiki_url": "/wiki_pages/floppy_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "垂耳",
+      "confidence": "A",
+      "tag_cn_long": "长而软塌的动物耳朵，自然下垂无法竖立。"
     },
     {
       "name": "hair ears",
@@ -358,9 +358,9 @@
       "wiki_url": "/wiki_pages/hair_ears",
       "category_path": "Animal ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发型兽耳",
+      "confidence": "B",
+      "tag_cn_long": "角色发型设计成类似动物耳朵的形状，如发髻或发片模仿兽耳。"
     },
     {
       "name": "pointy ears",
@@ -368,9 +368,9 @@
       "wiki_url": "/wiki_pages/pointy_ears",
       "category_path": "Other ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖耳朵",
+      "confidence": "A",
+      "tag_cn_long": "末端尖锐的耳朵，常见于精灵、兽耳等角色。"
     },
     {
       "name": "long pointy ears",
@@ -378,9 +378,9 @@
       "wiki_url": "/wiki_pages/long_pointy_ears",
       "category_path": "Other ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长尖耳",
+      "confidence": "A",
+      "tag_cn_long": "比普通尖耳朵更长的尖耳朵。"
     },
     {
       "name": "robot ears",
@@ -388,9 +388,9 @@
       "wiki_url": "/wiki_pages/robot_ears",
       "category_path": "Other ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "机器人耳朵",
+      "confidence": "B",
+      "tag_cn_long": "形似天线或机器部件的耳朵。"
     },
     {
       "name": "extra ears",
@@ -398,9 +398,9 @@
       "wiki_url": "/wiki_pages/extra_ears",
       "category_path": "Number of ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "额外耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色同时拥有人类耳朵和动物耳朵。"
     },
     {
       "name": "ear piercing",
@@ -408,9 +408,9 @@
       "wiki_url": "/wiki_pages/ear_piercing",
       "category_path": "Objects for the ears; or, objects with ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳部穿刺",
+      "confidence": "B",
+      "tag_cn_long": "非耳垂位置的耳部穿刺装饰。"
     },
     {
       "name": "ear protection",
@@ -418,9 +418,9 @@
       "wiki_url": "/wiki_pages/ear_protection",
       "category_path": "Objects for the ears; or, objects with ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护耳罩",
+      "confidence": "A",
+      "tag_cn_long": "用于防止噪音伤害的耳罩。"
     },
     {
       "name": "earrings",
@@ -428,9 +428,9 @@
       "wiki_url": "/wiki_pages/earrings",
       "category_path": "Objects for the ears; or, objects with ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳环",
+      "confidence": "A",
+      "tag_cn_long": "戴在耳垂或耳洞上的饰品。"
     },
     {
       "name": "single earring",
@@ -438,9 +438,9 @@
       "wiki_url": "/wiki_pages/single_earring",
       "category_path": "Objects for the ears; or, objects with ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单耳环",
+      "confidence": "A",
+      "tag_cn_long": "只戴在一个耳朵上的耳环。"
     },
     {
       "name": "headphones",
@@ -448,9 +448,9 @@
       "wiki_url": "/wiki_pages/headphones",
       "category_path": "Objects for the ears; or, objects with ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头戴式耳机",
+      "confidence": "A",
+      "tag_cn_long": "戴在耳朵上的扬声器，由头梁固定。"
     },
     {
       "name": "object behind ear",
@@ -458,9 +458,9 @@
       "wiki_url": "/wiki_pages/object_behind_ear",
       "category_path": "Objects for the ears; or, objects with ears",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳后物品",
+      "confidence": "A",
+      "tag_cn_long": "将物品夹在耳后的动作。"
     },
     {
       "name": "covering own ears",
@@ -468,9 +468,9 @@
       "wiki_url": "/wiki_pages/covering_own_ears",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捂住耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色用手捂住自己的耳朵。"
     },
     {
       "name": "biting ear",
@@ -478,9 +478,9 @@
       "wiki_url": "/wiki_pages/biting_ear",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咬耳朵",
+      "confidence": "A",
+      "tag_cn_long": "轻咬他人的耳朵，通常表示亲密。"
     },
     {
       "name": "grabbing another's ear",
@@ -488,9 +488,9 @@
       "wiki_url": "/wiki_pages/grabbing_another%27s_ear",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "揪耳朵",
+      "confidence": "A",
+      "tag_cn_long": "抓住或拉扯他人的耳朵。"
     },
     {
       "name": "ear wiggle",
@@ -498,9 +498,9 @@
       "wiki_url": "/wiki_pages/ear_wiggle",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳朵摆动",
+      "confidence": "B",
+      "tag_cn_long": "耳朵有意识或不自觉地摆动。"
     },
     {
       "name": "ears down",
@@ -508,9 +508,9 @@
       "wiki_url": "/wiki_pages/ears_down",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳朵耷拉",
+      "confidence": "A",
+      "tag_cn_long": "动物耳朵从竖起变为下垂，通常表示悲伤或沮丧。"
     },
     {
       "name": "ears through headwear",
@@ -518,9 +518,9 @@
       "wiki_url": "/wiki_pages/ears_through_headwear",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳出头饰",
+      "confidence": "A",
+      "tag_cn_long": "动物耳朵从头饰的洞中穿出。"
     },
     {
       "name": "ears under headwear",
@@ -528,9 +528,9 @@
       "wiki_url": "/wiki_pages/ears_under_headwear",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳藏头饰",
+      "confidence": "A",
+      "tag_cn_long": "动物耳朵被头饰部分或完全遮盖。"
     },
     {
       "name": "hand on own ear",
@@ -538,9 +538,9 @@
       "wiki_url": "/wiki_pages/hand_on_own_ear",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手碰耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色用手触碰自己的耳朵。"
     },
     {
       "name": "holding ears",
@@ -548,9 +548,9 @@
       "wiki_url": "/wiki_pages/holding_ears",
       "category_path": "Misc",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握住耳朵",
+      "confidence": "B",
+      "tag_cn_long": "用手握住耳朵。"
     },
     {
       "name": "licking ear",
@@ -558,9 +558,9 @@
       "wiki_url": "/wiki_pages/licking_ear",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "舔耳朵",
+      "confidence": "A",
+      "tag_cn_long": "用舌头舔他人的耳朵。"
     },
     {
       "name": "notched ear",
@@ -568,9 +568,9 @@
       "wiki_url": "/wiki_pages/notched_ear",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缺刻耳",
+      "confidence": "B",
+      "tag_cn_long": "因受伤导致的耳部V形缺口。"
     },
     {
       "name": "one ear down",
@@ -578,9 +578,9 @@
       "wiki_url": "/wiki_pages/one_ear_down",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单耳耷拉",
+      "confidence": "A",
+      "tag_cn_long": "只有一只耳朵下垂。"
     }
   ],
   "total_tags": 54,

@@ -1,0 +1,6 @@
+{
+  "tag": "Has bad revision",
+  "tag_cn": "含不良修订",
+  "confidence": "A",
+  "tag_cn_long": "来源处存在质量差的修订版本，不应上传。"
+}

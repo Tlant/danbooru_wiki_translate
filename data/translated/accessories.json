@@ -224,7 +224,7 @@
       "wiki_exists": true,
       "tag_cn": "护目镜",
       "confidence": "A",
-      "tag_cn_long": "用于防尘、防水、防眩光等的护目眼镜。"
+      "tag_cn_long": "一种用于保护眼睛免受灰尘、水花等伤害的眼镜。"
     },
     {
       "name": "glasses",
@@ -402,9 +402,9 @@
       "wiki_url": "/wiki_pages/hair_stick",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发簪",
+      "confidence": "A",
+      "tag_cn_long": "一种细长条状的头部发饰，用于固定头发或做装饰。"
     },
     {
       "name": "hair tubes",
@@ -412,9 +412,9 @@
       "wiki_url": "/wiki_pages/hair_tubes",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发管",
+      "confidence": "B",
+      "tag_cn_long": "一种圆柱形发饰，用于分隔头发束。"
     },
     {
       "name": "kanzashi",
@@ -422,9 +422,9 @@
       "wiki_url": "/wiki_pages/kanzashi",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本发簪",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型中使用的装饰性发簪。"
     },
     {
       "name": "hat",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/hat",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子",
+      "confidence": "A",
+      "tag_cn_long": "戴在头上的服饰，通常有帽檐。"
     },
     {
       "name": "mini hat",
@@ -442,9 +442,9 @@
       "wiki_url": "/wiki_pages/mini_hat",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷你帽",
+      "confidence": "A",
+      "tag_cn_long": "比正常尺寸小的帽子，通常作为发饰使用。"
     },
     {
       "name": "headband",
@@ -452,9 +452,9 @@
       "wiki_url": "/wiki_pages/headband",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头带",
+      "confidence": "A",
+      "tag_cn_long": "横跨前额佩戴的带子，用于吸汗或装饰。"
     },
     {
       "name": "chain headband",
@@ -462,9 +462,9 @@
       "wiki_url": "/wiki_pages/chain_headband",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "链式头带",
+      "confidence": "B",
+      "tag_cn_long": "由链条制成或设计成链条形状的头带。"
     },
     {
       "name": "forehead protector",
@@ -472,9 +472,9 @@
       "wiki_url": "/wiki_pages/forehead_protector",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护额",
+      "confidence": "A",
+      "tag_cn_long": "保护额头的护具，常见于忍者等角色。"
     },
     {
       "name": "hachimaki",
@@ -482,9 +482,9 @@
       "wiki_url": "/wiki_pages/hachimaki",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钵卷",
+      "confidence": "A",
+      "tag_cn_long": "日本传统布制头带，用于表示干劲或团队颜色。"
     },
     {
       "name": "sweatband",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/sweatband",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吸汗带",
+      "confidence": "A",
+      "tag_cn_long": "用于吸汗的头带或腕带，通常材质毛绒。"
     },
     {
       "name": "head chain",
@@ -502,9 +502,9 @@
       "wiki_url": "/wiki_pages/head_chain",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头链",
+      "confidence": "B",
+      "tag_cn_long": "环绕头部的细链状首饰，通常由贵金属制成。"
     },
     {
       "name": "head-mounted display",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/head-mounted_display",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头戴显示器",
+      "confidence": "A",
+      "tag_cn_long": "完全覆盖眼睛的显示设备，常用于VR或科幻场景。"
     },
     {
       "name": "headpiece",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/headpiece",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头饰",
+      "confidence": "B",
+      "tag_cn_long": "装饰性头戴物，通常戴在额头附近，不属于传统皇冠或发带。"
     },
     {
       "name": "headphones",
@@ -532,9 +532,9 @@
       "wiki_url": "/wiki_pages/headphones",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头戴式耳机",
+      "confidence": "A",
+      "tag_cn_long": "戴在耳朵上的扬声器，由头梁固定。"
     },
     {
       "name": "earphones",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/earphones",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳塞",
+      "confidence": "A",
+      "tag_cn_long": "直接戴在耳内或耳上的小型扬声器。"
     },
     {
       "name": "earpiece",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/earpiece",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单耳塞",
+      "confidence": "B",
+      "tag_cn_long": "只戴在一只耳朵上的小型耳塞，不带麦克风。"
     },
     {
       "name": "headset",
@@ -562,9 +562,9 @@
       "wiki_url": "/wiki_pages/headset",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳麦",
+      "confidence": "A",
+      "tag_cn_long": "带麦克风的头戴式耳机。"
     },
     {
       "name": "headscarf",
@@ -572,9 +572,9 @@
       "wiki_url": "/wiki_pages/headscarf",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头巾",
+      "confidence": "A",
+      "tag_cn_long": "戴在头上的围巾。"
     },
     {
       "name": "hijab",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/hijab",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "希贾布",
+      "confidence": "A",
+      "tag_cn_long": "伊斯兰女性佩戴的头巾。"
     },
     {
       "name": "head wreath",
@@ -592,9 +592,9 @@
       "wiki_url": "/wiki_pages/head_wreath",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花冠",
+      "confidence": "A",
+      "tag_cn_long": "由花、叶子等制成的环形头饰。"
     },
     {
       "name": "vinok",
@@ -602,9 +602,9 @@
       "wiki_url": "/wiki_pages/vinok",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花冠",
+      "confidence": "B",
+      "tag_cn_long": "一种传统花环头饰，通常由鲜花或编织物制成。"
     },
     {
       "name": "horn ornament",
@@ -612,9 +612,9 @@
       "wiki_url": "/wiki_pages/horn_ornament",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角饰",
+      "confidence": "A",
+      "tag_cn_long": "戴在角色角上的装饰品，如蝴蝶结或丝带。"
     },
     {
       "name": "lappet",
@@ -622,9 +622,9 @@
       "wiki_url": "/wiki_pages/lappet",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽垂",
+      "confidence": "A",
+      "tag_cn_long": "从帽子上垂下的装饰性尾状布片，可单个或多个。"
     },
     {
       "name": "laurel crown",
@@ -632,9 +632,9 @@
       "wiki_url": "/wiki_pages/laurel_crown",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月桂花冠",
+      "confidence": "A",
+      "tag_cn_long": "由月桂枝叶编织成的头冠，常与古希腊相关。"
     },
     {
       "name": "safety glasses",
@@ -642,9 +642,9 @@
       "wiki_url": "/wiki_pages/safety_glasses",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "安全眼镜",
+      "confidence": "A",
+      "tag_cn_long": "一种特殊防护眼镜，用于保护眼睛。"
     },
     {
       "name": "sunglasses",
@@ -652,9 +652,9 @@
       "wiki_url": "/wiki_pages/sunglasses",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太阳镜",
+      "confidence": "A",
+      "tag_cn_long": "用于遮挡强光的眼镜，也可用于遮掩眼睛。"
     },
     {
       "name": "tiara",
@@ -662,9 +662,9 @@
       "wiki_url": "/wiki_pages/tiara",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小皇冠",
+      "confidence": "A",
+      "tag_cn_long": "一种金属制成的半圆形头饰，通常镶有宝石，常见于公主或偶像。"
     },
     {
       "name": "triangular headpiece",
@@ -672,9 +672,9 @@
       "wiki_url": "/wiki_pages/triangular_headpiece",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角头饰",
+      "confidence": "B",
+      "tag_cn_long": "日本民间传说中鬼魂佩戴的三角形头饰，源自江户时代葬礼习俗。"
     },
     {
       "name": "veil",
@@ -682,9 +682,9 @@
       "wiki_url": "/wiki_pages/veil",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面纱",
+      "confidence": "A",
+      "tag_cn_long": "用于遮盖部分头部或面部的衣物，常由透明织物制成。"
     },
     {
       "name": "wig",
@@ -692,9 +692,9 @@
       "wiki_url": "/wiki_pages/wig",
       "category_path": "By body part/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假发",
+      "confidence": "A",
+      "tag_cn_long": "用于角色扮演或掩盖真实头发的假发套。"
     },
     {
       "name": "ascot",
@@ -702,9 +702,9 @@
       "wiki_url": "/wiki_pages/ascot",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿斯科特领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种宽颈巾，系在脖子上并在前端形成宽尾。"
     },
     {
       "name": "bib",
@@ -712,9 +712,9 @@
       "wiki_url": "/wiki_pages/bib",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "围兜",
+      "confidence": "A",
+      "tag_cn_long": "婴儿穿戴在脖子周围防止进食时弄脏衣服的衣物。"
     },
     {
       "name": "bowtie",
@@ -722,9 +722,9 @@
       "wiki_url": "/wiki_pages/bowtie",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领结",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的蝴蝶结状装饰，常见于正装或校服。"
     },
     {
       "name": "changmingsuo",
@@ -732,9 +732,9 @@
       "wiki_url": "/wiki_pages/changmingsuo",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长命锁",
+      "confidence": "A",
+      "tag_cn_long": "中国的一种锁形金属饰品，挂在儿童脖子上祈求长寿。"
     },
     {
       "name": "chinstrap",
@@ -742,9 +742,9 @@
       "wiki_url": "/wiki_pages/chinstrap",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下巴带",
+      "confidence": "A",
+      "tag_cn_long": "系在下巴下的带子，用于固定帽子或头盔。"
     },
     {
       "name": "choker",
@@ -752,9 +752,9 @@
       "wiki_url": "/wiki_pages/choker",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "项圈",
+      "confidence": "A",
+      "tag_cn_long": "紧贴脖子佩戴的窄带装饰，常作为项链或饰品。"
     },
     {
       "name": "frilled choker",
@@ -762,9 +762,9 @@
       "wiki_url": "/wiki_pages/frilled_choker",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边项圈",
+      "confidence": "A",
+      "tag_cn_long": "带荷叶边或花边装饰的项圈。"
     },
     {
       "name": "tattoo choker",
@@ -772,9 +772,9 @@
       "wiki_url": "/wiki_pages/tattoo_choker",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纹身项圈",
+      "confidence": "B",
+      "tag_cn_long": "一种带有纹身图案或类似纹身设计的项圈。"
     },
     {
       "name": "collar",
@@ -782,9 +782,9 @@
       "wiki_url": "/wiki_pages/collar",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈圈",
+      "confidence": "A",
+      "tag_cn_long": "作为时尚饰品佩戴在脖子上的环状物，通常比项圈宽松。"
     },
     {
       "name": "collar chain",
@@ -792,9 +792,9 @@
       "wiki_url": "/wiki_pages/collar_chain_%28jewelry%29",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈圈链",
+      "confidence": "B",
+      "tag_cn_long": "连接颈圈的链条，可能是装饰或牵绳。"
     },
     {
       "name": "collar tips",
@@ -802,9 +802,9 @@
       "wiki_url": "/wiki_pages/collar_tips_%28jewelry%29",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领尖饰",
+      "confidence": "B",
+      "tag_cn_long": "衬衫领尖处的小装饰物或扣件。"
     },
     {
       "name": "cross tie",
@@ -812,9 +812,9 @@
       "wiki_url": "/wiki_pages/cross_tie",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉领带",
+      "confidence": "B",
+      "tag_cn_long": "一种细窄布条在颈部交叉重叠的领饰，也称作大陆领带。"
     },
     {
       "name": "dog tags",
@@ -822,9 +822,9 @@
       "wiki_url": "/wiki_pages/dog_tags",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狗牌",
+      "confidence": "A",
+      "tag_cn_long": "军人佩戴的身份识别牌，也用作时尚配饰。"
     },
     {
       "name": "feather boa",
@@ -832,9 +832,9 @@
       "wiki_url": "/wiki_pages/feather_boa",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "羽毛围巾",
+      "confidence": "A",
+      "tag_cn_long": "用羽毛或毛皮制成的长而蓬松的颈部或肩部装饰。"
     },
     {
       "name": "guimpe",
@@ -842,9 +842,9 @@
       "wiki_url": "/wiki_pages/guimpe",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉姆普领巾",
+      "confidence": "B",
+      "tag_cn_long": "一种覆盖颈部和肩部的白色领饰，常见于修女服饰。"
     },
     {
       "name": "lapel pin",
@@ -852,9 +852,9 @@
       "wiki_url": "/wiki_pages/lapel_pin",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翻领别针",
+      "confidence": "A",
+      "tag_cn_long": "别在西装翻领上的小徽章或装饰别针。"
     },
     {
       "name": "lei",
@@ -862,9 +862,9 @@
       "wiki_url": "/wiki_pages/lei",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花环",
+      "confidence": "A",
+      "tag_cn_long": "夏威夷风格的花圈，戴在脖子上作为装饰。"
     },
     {
       "name": "neck ruff",
@@ -872,9 +872,9 @@
       "wiki_url": "/wiki_pages/neck_ruff",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉夫领",
+      "confidence": "A",
+      "tag_cn_long": "16-17世纪欧洲流行的褶皱状颈饰，呈轮状或扇状。"
     },
     {
       "name": "neckerchief",
@@ -882,9 +882,9 @@
       "wiki_url": "/wiki_pages/neckerchief",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手领巾",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的方形或三角形布块，常见于水手服搭配。"
     },
     {
       "name": "necklace",
@@ -892,9 +892,9 @@
       "wiki_url": "/wiki_pages/necklace",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "项链",
+      "confidence": "A",
+      "tag_cn_long": "松绕在颈部的链状饰品，通常带有吊坠或珠子。"
     },
     {
       "name": "neck ribbon",
@@ -902,9 +902,9 @@
       "wiki_url": "/wiki_pages/neck_ribbon",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈带",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的细丝带，替代领带或作为装饰。"
     },
     {
       "name": "neck ring",
@@ -912,9 +912,9 @@
       "wiki_url": "/wiki_pages/neck_ring",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈环",
+      "confidence": "B",
+      "tag_cn_long": "一种硬质环状颈部饰品，不同于松散的项链。"
     },
     {
       "name": "necktie",
@@ -922,9 +922,9 @@
       "wiki_url": "/wiki_pages/necktie",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领带",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的长条形布带，通常搭配正装。"
     },
     {
       "name": "tie clip",
@@ -932,9 +932,9 @@
       "wiki_url": "/wiki_pages/tie_clip",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领带夹",
+      "confidence": "A",
+      "tag_cn_long": "固定在领带上的金属夹，用于将领带固定在衬衫上。"
     },
     {
       "name": "scarf",
@@ -942,9 +942,9 @@
       "wiki_url": "/wiki_pages/scarf",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "围巾",
+      "confidence": "A",
+      "tag_cn_long": "用于保暖或装饰的长条形织物，常围在脖子上。"
     },
     {
       "name": "scarf choker",
@@ -952,9 +952,9 @@
       "wiki_url": "/wiki_pages/scarf_choker",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "围巾项圈",
+      "confidence": "B",
+      "tag_cn_long": "将小围巾紧系在颈部形成的项圈状配饰。"
     },
     {
       "name": "shawl",
@@ -962,9 +962,9 @@
       "wiki_url": "/wiki_pages/shawl",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披肩",
+      "confidence": "A",
+      "tag_cn_long": "披在肩上或颈部的大块布巾。"
     },
     {
       "name": "stole",
@@ -972,9 +972,9 @@
       "wiki_url": "/wiki_pages/stole",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披肩",
+      "confidence": "A",
+      "tag_cn_long": "搭在肩头或颈部的宽幅布料，两端自然下垂，常为正式或宗教服饰。"
     },
     {
       "name": "usekh collar",
@@ -982,9 +982,9 @@
       "wiki_url": "/wiki_pages/usekh_collar",
       "category_path": "By body part/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌塞赫项圈",
+      "confidence": "B",
+      "tag_cn_long": "古埃及贵族佩戴的宽项链，呈半圆片状。"
     },
     {
       "name": "armband",
@@ -992,9 +992,9 @@
       "wiki_url": "/wiki_pages/armband",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂章",
+      "confidence": "A",
+      "tag_cn_long": "戴在上臂的布条，标识身份或作为装饰。"
     },
     {
       "name": "arm belt",
@@ -1002,9 +1002,9 @@
       "wiki_url": "/wiki_pages/arm_belt",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂带",
+      "confidence": "A",
+      "tag_cn_long": "一种系在手臂上的带子，用于装饰或固定。"
     },
     {
       "name": "arm garter",
@@ -1012,9 +1012,9 @@
       "wiki_url": "/wiki_pages/arm_garter",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂环",
+      "confidence": "A",
+      "tag_cn_long": "一种弹性带子，通常戴在上臂，最初用于调节袖子长度，现多为装饰。"
     },
     {
       "name": "armlet",
@@ -1022,9 +1022,9 @@
       "wiki_url": "/wiki_pages/armlet",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂镯",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在上臂的装饰性金属环，通常镶嵌宝石。"
     },
     {
       "name": "arm ribbon",
@@ -1032,9 +1032,9 @@
       "wiki_url": "/wiki_pages/arm_ribbon",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂饰丝带",
+      "confidence": "A",
+      "tag_cn_long": "缠绕在上臂的丝带，可作装饰或固定手套。"
     },
     {
       "name": "arm warmers",
@@ -1042,9 +1042,9 @@
       "wiki_url": "/wiki_pages/arm_warmers",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂套",
+      "confidence": "A",
+      "tag_cn_long": "覆盖手臂的保暖饰品，通常宽松，设计不同于上衣。"
     },
     {
       "name": "bracelet",
@@ -1052,9 +1052,9 @@
       "wiki_url": "/wiki_pages/bracelet",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手镯",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕上的装饰性首饰。"
     },
     {
       "name": "bracer",
@@ -1062,9 +1062,9 @@
       "wiki_url": "/wiki_pages/bracer",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护腕",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕上的护甲，比手镯大。"
     },
     {
       "name": "bridal gauntlets",
@@ -1072,9 +1072,9 @@
       "wiki_url": "/wiki_pages/bridal_gauntlets",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新娘长手套",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身长手套，通常到肘部，用指环固定，常见于婚纱。"
     },
     {
       "name": "cuff links",
@@ -1082,9 +1082,9 @@
       "wiki_url": "/wiki_pages/cuff_links",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袖扣",
+      "confidence": "A",
+      "tag_cn_long": "用于固定衬衫袖口的装饰性扣子。"
     },
     {
       "name": "detached sleeves",
@@ -1092,9 +1092,9 @@
       "wiki_url": "/wiki_pages/detached_sleeves",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分离式袖子",
+      "confidence": "A",
+      "tag_cn_long": "与主体上衣分离的独立袖套，可单独穿戴。"
     },
     {
       "name": "elbow sleeve",
@@ -1102,9 +1102,9 @@
       "wiki_url": "/wiki_pages/elbow_sleeve",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护肘",
+      "confidence": "A",
+      "tag_cn_long": "包裹肘部的紧致袖套，常为运动护具。"
     },
     {
       "name": "epaulettes",
@@ -1112,9 +1112,9 @@
       "wiki_url": "/wiki_pages/epaulettes",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩章",
+      "confidence": "A",
+      "tag_cn_long": "装饰性的肩垫，常见于军装，尤其帝国时期，常有流苏边饰。"
     },
     {
       "name": "finger cots",
@@ -1122,9 +1122,9 @@
       "wiki_url": "/wiki_pages/finger_cots",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指套",
+      "confidence": "A",
+      "tag_cn_long": "单独覆盖手指的护套，像倒过来的露指手套。"
     },
     {
       "name": "gloves",
@@ -1132,9 +1132,9 @@
       "wiki_url": "/wiki_pages/gloves",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手套",
+      "confidence": "A",
+      "tag_cn_long": "覆盖手掌和手指的穿戴品，每根手指有独立套鞘。"
     },
     {
       "name": "fingerless gloves",
@@ -1142,9 +1142,9 @@
       "wiki_url": "/wiki_pages/fingerless_gloves",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无指手套",
+      "confidence": "A",
+      "tag_cn_long": "覆盖手掌但手指露出的手套，常为保护手掌并保持抓握感。"
     },
     {
       "name": "hand chains",
@@ -1152,9 +1152,9 @@
       "wiki_url": "/wiki_pages/hand_chains",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手链",
+      "confidence": "B",
+      "tag_cn_long": "一种手部饰品，由手镯通过链条连接戒指，常见于肚皮舞或后宫装束。"
     },
     {
       "name": "hand jewel",
@@ -1162,9 +1162,9 @@
       "wiki_url": "/wiki_pages/hand_jewel",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手背宝石",
+      "confidence": "A",
+      "tag_cn_long": "镶嵌在手背上的宝石，常见于手套或手套装饰。"
     },
     {
       "name": "mittens",
@@ -1172,9 +1172,9 @@
       "wiki_url": "/wiki_pages/mittens",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连指手套",
+      "confidence": "A",
+      "tag_cn_long": "除拇指外其他四指相连的手套。"
     },
     {
       "name": "wristband",
@@ -1182,9 +1182,9 @@
       "wiki_url": "/wiki_pages/wristband",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腕带",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕上的各种材质的带子。"
     },
     {
       "name": "wrist cuffs",
@@ -1192,9 +1192,9 @@
       "wiki_url": "/wiki_pages/wrist_cuffs",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腕袖",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕的装饰性袖口，类似衬衫袖口但独立。"
     },
     {
       "name": "buttoned cuffs",
@@ -1202,9 +1202,9 @@
       "wiki_url": "/wiki_pages/buttoned_cuffs",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纽扣袖口",
+      "confidence": "A",
+      "tag_cn_long": "袖口处有纽扣的袖口设计，常见于正式衬衫和西装。"
     },
     {
       "name": "wrist flower",
@@ -1212,9 +1212,9 @@
       "wiki_url": "/wiki_pages/wrist_flower",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腕花",
+      "confidence": "A",
+      "tag_cn_long": "佩戴在手腕上的花朵装饰。"
     },
     {
       "name": "wrist ruff",
@@ -1222,9 +1222,9 @@
       "wiki_url": "/wiki_pages/wrist_ruff",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腕部荷叶边",
+      "confidence": "B",
+      "tag_cn_long": "一种在手腕处佩戴的荷叶边装饰，流行于16-17世纪。"
     },
     {
       "name": "wrist scrunchie",
@@ -1232,9 +1232,9 @@
       "wiki_url": "/wiki_pages/wrist_scrunchie",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手腕发圈",
+      "confidence": "A",
+      "tag_cn_long": "像手镯一样戴在手腕上的发圈。"
     },
     {
       "name": "wrist straps",
@@ -1242,9 +1242,9 @@
       "wiki_url": "/wiki_pages/wrist_straps",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腕带",
+      "confidence": "A",
+      "tag_cn_long": "系在手腕上的带子。"
     },
     {
       "name": "wristwatch",
@@ -1252,9 +1252,9 @@
       "wiki_url": "/wiki_pages/wristwatch",
       "category_path": "By body part/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手表",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕上的计时设备。"
     },
     {
       "name": "ankle garter",
@@ -1262,9 +1262,9 @@
       "wiki_url": "/wiki_pages/ankle_garter",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚踝袜带",
+      "confidence": "A",
+      "tag_cn_long": "一种有褶皱的弹性带，戴在脚踝上作为装饰。"
     },
     {
       "name": "ankle strap",
@@ -1272,9 +1272,9 @@
       "wiki_url": "/wiki_pages/ankle_strap",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚踝带",
+      "confidence": "A",
+      "tag_cn_long": "系在脚踝上的带子。"
     },
     {
       "name": "anklet",
@@ -1282,9 +1282,9 @@
       "wiki_url": "/wiki_pages/anklet",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚链",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在脚踝上的珠宝饰品。"
     },
     {
       "name": "barefoot sandals",
@@ -1292,9 +1292,9 @@
       "wiki_url": "/wiki_pages/barefoot_sandals_%28jewelry%29",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸足凉鞋",
+      "confidence": "B",
+      "tag_cn_long": "一种装饰性脚饰，模仿凉鞋但无鞋底，戴在脚背和脚踝上。"
     },
     {
       "name": "calflet",
@@ -1302,9 +1302,9 @@
       "wiki_url": "/wiki_pages/calflet",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小腿环",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在小腿上的装饰性环带，通常为金属或宝石材质。"
     },
     {
       "name": "garter straps",
@@ -1312,9 +1312,9 @@
       "wiki_url": "/wiki_pages/garter_straps",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊袜带（带子）",
+      "confidence": "B",
+      "tag_cn_long": "连接吊袜腰带和长袜的带子，仅当带子可见时使用此标签。"
     },
     {
       "name": "knee strap",
@@ -1322,9 +1322,9 @@
       "wiki_url": "/wiki_pages/knee_strap",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝盖带",
+      "confidence": "A",
+      "tag_cn_long": "系在膝盖上的带子。"
     },
     {
       "name": "leg belt",
@@ -1332,9 +1332,9 @@
       "wiki_url": "/wiki_pages/leg_belt",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿带",
+      "confidence": "A",
+      "tag_cn_long": "系在腿上的带子。"
     },
     {
       "name": "leg ribbon",
@@ -1342,9 +1342,9 @@
       "wiki_url": "/wiki_pages/leg_ribbon",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿饰带",
+      "confidence": "A",
+      "tag_cn_long": "系在腿上的丝带。"
     },
     {
       "name": "thigh ribbon",
@@ -1352,9 +1352,9 @@
       "wiki_url": "/wiki_pages/thigh_ribbon",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿丝带",
+      "confidence": "A",
+      "tag_cn_long": "系在大腿上的丝带。"
     },
     {
       "name": "leg warmers",
@@ -1362,9 +1362,9 @@
       "wiki_url": "/wiki_pages/leg_warmers",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护腿套",
+      "confidence": "A",
+      "tag_cn_long": "套在小腿上用于保暖的厚实宽松套，通常从脚踝到膝盖，不包脚。"
     },
     {
       "name": "fur leg warmers",
@@ -1372,9 +1372,9 @@
       "wiki_url": "/wiki_pages/fur_leg_warmers",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮护腿套",
+      "confidence": "A",
+      "tag_cn_long": "用毛皮制成的护腿套。"
     },
     {
       "name": "legwear garter",
@@ -1382,9 +1382,9 @@
       "wiki_url": "/wiki_pages/legwear_garter",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袜带",
+      "confidence": "B",
+      "tag_cn_long": "用于固定袜子或长袜的吊袜带。"
     },
     {
       "name": "loose socks",
@@ -1392,9 +1392,9 @@
       "wiki_url": "/wiki_pages/loose_socks",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽松袜",
+      "confidence": "A",
+      "tag_cn_long": "宽松且下垂的袜子，通常堆在膝盖下方，常见于校服和辣妹风格。"
     },
     {
       "name": "shin strap",
@@ -1402,9 +1402,9 @@
       "wiki_url": "/wiki_pages/shin_strap",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小腿绑带",
+      "confidence": "B",
+      "tag_cn_long": "一种环绕小腿的绑带，常作为装饰或用于固定装备。"
     },
     {
       "name": "spats",
@@ -1412,9 +1412,9 @@
       "wiki_url": "/wiki_pages/spats_%28footwear%29",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿套",
+      "confidence": "B",
+      "tag_cn_long": "一种覆盖脚踝和小腿的套筒状服饰，多为布质或皮革。"
     },
     {
       "name": "thighlet",
@@ -1422,9 +1422,9 @@
       "wiki_url": "/wiki_pages/thighlet",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿环",
+      "confidence": "A",
+      "tag_cn_long": "一种金属材质的环形首饰，戴在大腿上。"
     },
     {
       "name": "thigh strap",
@@ -1432,9 +1432,9 @@
       "wiki_url": "/wiki_pages/thigh_strap",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿绑带",
+      "confidence": "A",
+      "tag_cn_long": "一种环绕大腿的带子，通常由布料或皮革制成。"
     },
     {
       "name": "frilled thigh strap",
@@ -1442,9 +1442,9 @@
       "wiki_url": "/wiki_pages/frilled_thigh_strap",
       "category_path": "By body part/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边大腿绑带",
+      "confidence": "A",
+      "tag_cn_long": "带有荷叶边装饰的大腿绑带。"
     },
     {
       "name": "aiguillette",
@@ -1452,9 +1452,9 @@
       "wiki_url": "/wiki_pages/aiguillette",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "饰绳",
+      "confidence": "B",
+      "tag_cn_long": "一种装饰性编绳，常见于军服的肩部。"
     },
     {
       "name": "bandolier",
@@ -1462,9 +1462,9 @@
       "wiki_url": "/wiki_pages/bandolier",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弹药带",
+      "confidence": "A",
+      "tag_cn_long": "一种斜跨肩膀的带子，用于携带子弹或其他物品。"
     },
     {
       "name": "belly chain",
@@ -1472,9 +1472,9 @@
       "wiki_url": "/wiki_pages/belly_chain",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰链",
+      "confidence": "A",
+      "tag_cn_long": "一种环绕腰部的链条首饰，常与肚皮舞服饰搭配。"
     },
     {
       "name": "belt",
@@ -1482,9 +1482,9 @@
       "wiki_url": "/wiki_pages/belt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带",
+      "confidence": "A",
+      "tag_cn_long": "一种用于固定裤子或作为装饰的带子，通常系在腰部。"
     },
     {
       "name": "belt buckle",
@@ -1492,9 +1492,9 @@
       "wiki_url": "/wiki_pages/belt_buckle",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带扣",
+      "confidence": "A",
+      "tag_cn_long": "用于扣合腰带的扣具，常作为装饰。"
     },
     {
       "name": "belt charm",
@@ -1502,9 +1502,9 @@
       "wiki_url": "/wiki_pages/belt_charm",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带挂饰",
+      "confidence": "A",
+      "tag_cn_long": "系在腰带上的装饰小物件。"
     },
     {
       "name": "tail keychain",
@@ -1512,9 +1512,9 @@
       "wiki_url": "/wiki_pages/tail_keychain",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尾巴钥匙扣",
+      "confidence": "B",
+      "tag_cn_long": "一种模仿动物尾巴造型的钥匙扣，常挂在腰带或背包上。"
     },
     {
       "name": "belt skirt",
@@ -1522,9 +1522,9 @@
       "wiki_url": "/wiki_pages/belt_skirt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带裙",
+      "confidence": "A",
+      "tag_cn_long": "一种宽大的腰带，围在臀部，形似短裙。"
     },
     {
       "name": "chain belt",
@@ -1532,9 +1532,9 @@
       "wiki_url": "/wiki_pages/chain_belt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "链条腰带",
+      "confidence": "A",
+      "tag_cn_long": "由金属链环制成的腰带。"
     },
     {
       "name": "chatelaine",
@@ -1542,9 +1542,9 @@
       "wiki_url": "/wiki_pages/chatelaine",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带挂链",
+      "confidence": "C",
+      "tag_cn_long": "一种挂在腰带上的装饰链，常用于女性服饰，历史上有实用功能。"
     },
     {
       "name": "gem belt",
@@ -1552,9 +1552,9 @@
       "wiki_url": "/wiki_pages/gem_belt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宝石腰带",
+      "confidence": "A",
+      "tag_cn_long": "完全由宝石或珠宝制成的腰带。"
     },
     {
       "name": "loose belt",
@@ -1562,9 +1562,9 @@
       "wiki_url": "/wiki_pages/loose_belt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "松垮腰带",
+      "confidence": "A",
+      "tag_cn_long": "一种松松地系在腰部的腰带，主要作为装饰。"
     },
     {
       "name": "sam browne belt",
@@ -1572,9 +1572,9 @@
       "wiki_url": "/wiki_pages/sam_browne_belt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "萨姆布朗腰带",
+      "confidence": "B",
+      "tag_cn_long": "一种斜挎右肩并与腰部腰带相连的军用腰带。"
     },
     {
       "name": "shoulder belt",
@@ -1582,9 +1582,9 @@
       "wiki_url": "/wiki_pages/shoulder_belt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩带",
+      "confidence": "A",
+      "tag_cn_long": "一种斜跨肩部的腰带，常见于军服或制服。"
     },
     {
       "name": "studded belt",
@@ -1592,9 +1592,9 @@
       "wiki_url": "/wiki_pages/studded_belt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铆钉腰带",
+      "confidence": "A",
+      "tag_cn_long": "表面镶有金属铆钉的腰带。"
     },
     {
       "name": "wallet chain",
@@ -1602,9 +1602,9 @@
       "wiki_url": "/wiki_pages/wallet_chain",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钱包链",
+      "confidence": "A",
+      "tag_cn_long": "用于将钱包固定在腰带上的短链或长链。"
     },
     {
       "name": "body jewelry",
@@ -1612,9 +1612,9 @@
       "wiki_url": "/wiki_pages/body_jewelry",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "身体珠宝",
+      "confidence": "B",
+      "tag_cn_long": "作为装饰或内衣穿着的覆盖私密部位的珠宝类服装。"
     },
     {
       "name": "boutonniere",
@@ -1622,9 +1622,9 @@
       "wiki_url": "/wiki_pages/boutonniere",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸花",
+      "confidence": "A",
+      "tag_cn_long": "别在西装翻领纽孔上的花饰。"
     },
     {
       "name": "bustle",
@@ -1632,9 +1632,9 @@
       "wiki_url": "/wiki_pages/bustle",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臀垫",
+      "confidence": "A",
+      "tag_cn_long": "用于使裙子后摆蓬起的衬垫结构。"
     },
     {
       "name": "cape",
@@ -1642,9 +1642,9 @@
       "wiki_url": "/wiki_pages/cape",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披风",
+      "confidence": "A",
+      "tag_cn_long": "无袖外用披肩，系于颈后。"
     },
     {
       "name": "capelet",
@@ -1652,9 +1652,9 @@
       "wiki_url": "/wiki_pages/capelet",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短披肩",
+      "confidence": "A",
+      "tag_cn_long": "仅覆盖肩部的小披风，常用于冬季或圣诞服装，如爱丽丝·玛格特罗伊德所穿。"
     },
     {
       "name": "clothes around waist",
@@ -1662,9 +1662,9 @@
       "wiki_url": "/wiki_pages/clothes_around_waist",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣物系腰",
+      "confidence": "A",
+      "tag_cn_long": "将长袖衣物系在腰部的穿搭。"
     },
     {
       "name": "corsage",
@@ -1672,9 +1672,9 @@
       "wiki_url": "/wiki_pages/corsage",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸花",
+      "confidence": "B",
+      "tag_cn_long": "女性在特殊场合佩戴的花饰，常别在裙上或系于手腕。"
     },
     {
       "name": "corset",
@@ -1682,9 +1682,9 @@
       "wiki_url": "/wiki_pages/corset",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束腰",
+      "confidence": "A",
+      "tag_cn_long": "用于塑形的紧身胸衣，常系带。"
     },
     {
       "name": "crinoline",
@@ -1692,9 +1692,9 @@
       "wiki_url": "/wiki_pages/crinoline",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙撑",
+      "confidence": "A",
+      "tag_cn_long": "用于支撑裙形的笼状衬架。"
     },
     {
       "name": "fake tail",
@@ -1702,9 +1702,9 @@
       "wiki_url": "/wiki_pages/fake_tail",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假尾巴",
+      "confidence": "A",
+      "tag_cn_long": "用来模拟尾巴的装饰物。"
     },
     {
       "name": "fanny pack",
@@ -1712,9 +1712,9 @@
       "wiki_url": "/wiki_pages/fanny_pack",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰包",
+      "confidence": "A",
+      "tag_cn_long": "系在腰间的小包。"
     },
     {
       "name": "garter belt",
@@ -1722,9 +1722,9 @@
       "wiki_url": "/wiki_pages/garter_belt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊袜腰带",
+      "confidence": "A",
+      "tag_cn_long": "系腰间用于固定长袜的带子。"
     },
     {
       "name": "harness",
@@ -1732,9 +1732,9 @@
       "wiki_url": "/wiki_pages/harness",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束带",
+      "confidence": "B",
+      "tag_cn_long": "用于装饰或束缚身体的带状结构。"
     },
     {
       "name": "chest harness",
@@ -1742,9 +1742,9 @@
       "wiki_url": "/wiki_pages/chest_harness",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸束带",
+      "confidence": "A",
+      "tag_cn_long": "佩戴在胸部的束带。"
     },
     {
       "name": "haori himo",
@@ -1752,9 +1752,9 @@
       "wiki_url": "/wiki_pages/haori_himo",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "羽织纽",
+      "confidence": "A",
+      "tag_cn_long": "穿在和服外面的羽织的系带。"
     },
     {
       "name": "obi",
@@ -1762,9 +1762,9 @@
       "wiki_url": "/wiki_pages/obi",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和服腰带",
+      "confidence": "A",
+      "tag_cn_long": "和服上宽大的腰带。"
     },
     {
       "name": "inrou",
@@ -1772,9 +1772,9 @@
       "wiki_url": "/wiki_pages/inrou",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印笼",
+      "confidence": "A",
+      "tag_cn_long": "佩戴在腰间的日本传统小盒子。"
     },
     {
       "name": "obiage",
@@ -1782,9 +1782,9 @@
       "wiki_url": "/wiki_pages/obiage",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "带扬",
+      "confidence": "A",
+      "tag_cn_long": "女性穿着和服时系在腰带上方薄薄的布料。"
     },
     {
       "name": "obidome",
@@ -1792,9 +1792,9 @@
       "wiki_url": "/wiki_pages/obidome",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "带留",
+      "confidence": "A",
+      "tag_cn_long": "穿在带缔上的小饰物，用于装饰和服腰带。"
     },
     {
       "name": "obijime",
@@ -1802,9 +1802,9 @@
       "wiki_url": "/wiki_pages/obijime",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "带缔",
+      "confidence": "A",
+      "tag_cn_long": "和服腰带上的装饰绳，两端常有流苏。"
     },
     {
       "name": "pocket square",
@@ -1812,9 +1812,9 @@
       "wiki_url": "/wiki_pages/pocket_square",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口袋巾",
+      "confidence": "A",
+      "tag_cn_long": "折叠后放在西装胸袋的装饰方巾。"
     },
     {
       "name": "sarong",
@@ -1822,9 +1822,9 @@
       "wiki_url": "/wiki_pages/sarong",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纱笼",
+      "confidence": "A",
+      "tag_cn_long": "一种围在腰间的布裙，常用于海滩或度假装扮。"
     },
     {
       "name": "sash",
@@ -1832,9 +1832,9 @@
       "wiki_url": "/wiki_pages/sash",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绶带",
+      "confidence": "A",
+      "tag_cn_long": "一种装饰性带子，可斜挎或系在腰间。"
     },
     {
       "name": "shoulder sash",
@@ -1842,9 +1842,9 @@
       "wiki_url": "/wiki_pages/shoulder_sash",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩部绶带",
+      "confidence": "A",
+      "tag_cn_long": "从一肩斜跨到对侧腰部的装饰带。"
     },
     {
       "name": "waist sash",
@@ -1852,9 +1852,9 @@
       "wiki_url": "/wiki_pages/waist_sash",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰绶带",
+      "confidence": "A",
+      "tag_cn_long": "系在腰部的装饰性带子。"
     },
     {
       "name": "cummerbund",
@@ -1862,9 +1862,9 @@
       "wiki_url": "/wiki_pages/cummerbund",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰封",
+      "confidence": "A",
+      "tag_cn_long": "男士正式礼服中系在腰部的宽腰带。"
     },
     {
       "name": "shendyt",
@@ -1872,9 +1872,9 @@
       "wiki_url": "/wiki_pages/shendyt",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "申迪特",
+      "confidence": "B",
+      "tag_cn_long": "古埃及人穿着的缠腰布，类似短裙。"
     },
     {
       "name": "shimenawa",
@@ -1882,9 +1882,9 @@
       "wiki_url": "/wiki_pages/shimenawa",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "注连绳",
+      "confidence": "A",
+      "tag_cn_long": "神道教用于净化仪式的稻草绳，常挂有白色纸垂。"
     },
     {
       "name": "shirt stay",
@@ -1892,9 +1892,9 @@
       "wiki_url": "/wiki_pages/shirt_stay",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衬衫固定带",
+      "confidence": "B",
+      "tag_cn_long": "用于将衬衫下摆固定住、防止滑出的弹性带子。"
     },
     {
       "name": "suspenders",
@@ -1902,9 +1902,9 @@
       "wiki_url": "/wiki_pages/suspenders",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背带",
+      "confidence": "A",
+      "tag_cn_long": "挂在肩膀上用来固定裤子的弹性带子。"
     },
     {
       "name": "sweater guard",
@@ -1912,9 +1912,9 @@
       "wiki_url": "/wiki_pages/sweater_guard",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛衣链",
+      "confidence": "B",
+      "tag_cn_long": "横跨胸前用于固定衣物或装饰的链子或带子。"
     },
     {
       "name": "underbust",
@@ -1922,9 +1922,9 @@
       "wiki_url": "/wiki_pages/underbust",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下胸围服饰",
+      "confidence": "B",
+      "tag_cn_long": "穿在乳房下方的衣物，用于托高或突出胸部。"
     },
     {
       "name": "waist cape",
@@ -1932,9 +1932,9 @@
       "wiki_url": "/wiki_pages/waist_cape",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰披风",
+      "confidence": "B",
+      "tag_cn_long": "像披风一样但围在腰部的衣物。"
     },
     {
       "name": "yaopei",
@@ -1942,9 +1942,9 @@
       "wiki_url": "/wiki_pages/yaopei",
       "category_path": "By body part/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰佩",
+      "confidence": "A",
+      "tag_cn_long": "中国传统汉服中悬挂在腰间的装饰品，如玉佩、流苏等。"
     },
     {
       "name": "bling",
@@ -1952,9 +1952,9 @@
       "wiki_url": "/wiki_pages/bling",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪亮饰品",
+      "confidence": "A",
+      "tag_cn_long": "闪亮华丽的珠宝或饰品。"
     },
     {
       "name": "body jewelry",
@@ -1962,9 +1962,9 @@
       "wiki_url": "/wiki_pages/body_jewelry",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "身体珠宝",
+      "confidence": "B",
+      "tag_cn_long": "作为装饰或内衣穿着的覆盖私密部位的珠宝类服装。"
     },
     {
       "name": "brooch",
@@ -1972,9 +1972,9 @@
       "wiki_url": "/wiki_pages/brooch",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸针",
+      "confidence": "A",
+      "tag_cn_long": "别在衣物上的装饰别针，常镶嵌宝石。"
     },
     {
       "name": "cameo",
@@ -1982,9 +1982,9 @@
       "wiki_url": "/wiki_pages/cameo_%28jewelry%29",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "客串",
+      "confidence": "A",
+      "tag_cn_long": "版权角色作为背景或次要角色出现。"
     },
     {
       "name": "chatelaine",
@@ -1992,9 +1992,9 @@
       "wiki_url": "/wiki_pages/chatelaine",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带挂链",
+      "confidence": "C",
+      "tag_cn_long": "一种挂在腰带上的装饰链，常用于女性服饰，历史上有实用功能。"
     },
     {
       "name": "grills",
@@ -2002,9 +2002,9 @@
       "wiki_url": "/wiki_pages/grills",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牙饰",
+      "confidence": "A",
+      "tag_cn_long": "覆盖在牙齿上的金属装饰，常镶有宝石。"
     },
     {
       "name": "medallion",
@@ -2012,9 +2012,9 @@
       "wiki_url": "/wiki_pages/medallion",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奖章",
+      "confidence": "A",
+      "tag_cn_long": "像奖牌形状的饰品，常作为吊坠佩戴。"
     },
     {
       "name": "norigae",
@@ -2022,9 +2022,9 @@
       "wiki_url": "/wiki_pages/norigae",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "诺里盖",
+      "confidence": "B",
+      "tag_cn_long": "韩服传统饰品，通常挂在衣襟或腰带上作为装饰。"
     },
     {
       "name": "ring",
@@ -2032,9 +2032,9 @@
       "wiki_url": "/wiki_pages/ring",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戒指",
+      "confidence": "A",
+      "tag_cn_long": "戴在手指上的环形珠宝，常由金属和宝石制成。"
     },
     {
       "name": "claw ring",
@@ -2042,9 +2042,9 @@
       "wiki_url": "/wiki_pages/claw_ring",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爪形戒指",
+      "confidence": "A",
+      "tag_cn_long": "像动物爪子的戒指，通常覆盖手指至指节，可活动。"
     },
     {
       "name": "middle ring",
@@ -2052,9 +2052,9 @@
       "wiki_url": "/wiki_pages/middle_ring",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中环戒",
+      "confidence": "C",
+      "tag_cn_long": "戴在手指指节中间的戒指，或指一种环状戒指。"
     },
     {
       "name": "ornate ring",
@@ -2062,9 +2062,9 @@
       "wiki_url": "/wiki_pages/ornate_ring",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "华丽戒指",
+      "confidence": "A",
+      "tag_cn_long": "带有宝石或雕刻装饰的戒指。"
     },
     {
       "name": "wedding ring",
@@ -2072,9 +2072,9 @@
       "wiki_url": "/wiki_pages/wedding_ring",
       "category_path": "Jewelry/General",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "结婚戒指",
+      "confidence": "A",
+      "tag_cn_long": "戴在左手无名指上，象征婚姻的戒指。"
     },
     {
       "name": "circlet",
@@ -2092,9 +2092,9 @@
       "wiki_url": "/wiki_pages/earclip",
       "category_path": "Jewelry/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳夹",
+      "confidence": "A",
+      "tag_cn_long": "无需穿孔即可夹在耳朵上的装饰品。"
     },
     {
       "name": "earrings",
@@ -2102,9 +2102,9 @@
       "wiki_url": "/wiki_pages/earrings",
       "category_path": "Jewelry/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳环",
+      "confidence": "A",
+      "tag_cn_long": "戴在耳垂或耳洞上的饰品。"
     },
     {
       "name": "crystal earrings",
@@ -2112,9 +2112,9 @@
       "wiki_url": "/wiki_pages/crystal_earrings",
       "category_path": "Jewelry/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水晶耳环",
+      "confidence": "A",
+      "tag_cn_long": "形状类似钻石、通常由水晶制成的耳环。"
     },
     {
       "name": "hoop earrings",
@@ -2122,9 +2122,9 @@
       "wiki_url": "/wiki_pages/hoop_earrings",
       "category_path": "Jewelry/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳圈",
+      "confidence": "A",
+      "tag_cn_long": "环形耳环，穿在耳洞或套在耳垂上。"
     },
     {
       "name": "stud earrings",
@@ -2132,9 +2132,9 @@
       "wiki_url": "/wiki_pages/stud_earrings",
       "category_path": "Jewelry/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳钉",
+      "confidence": "A",
+      "tag_cn_long": "通过穿孔固定在耳垂上的小巧耳环，通常带有一粒宝石。"
     },
     {
       "name": "face chain",
@@ -2142,9 +2142,9 @@
       "wiki_url": "/wiki_pages/face_chain",
       "category_path": "Jewelry/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面链",
+      "confidence": "B",
+      "tag_cn_long": "垂挂在脸庞上的链饰，通常跨过颧骨和鼻梁。"
     },
     {
       "name": "head chain",
@@ -2152,9 +2152,9 @@
       "wiki_url": "/wiki_pages/head_chain",
       "category_path": "Jewelry/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头链",
+      "confidence": "B",
+      "tag_cn_long": "环绕头部的细链状首饰，通常由贵金属制成。"
     },
     {
       "name": "headpiece",
@@ -2162,9 +2162,9 @@
       "wiki_url": "/wiki_pages/headpiece",
       "category_path": "Jewelry/Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头饰",
+      "confidence": "B",
+      "tag_cn_long": "装饰性头戴物，通常戴在额头附近，不属于传统皇冠或发带。"
     },
     {
       "name": "changmingsuo",
@@ -2172,9 +2172,9 @@
       "wiki_url": "/wiki_pages/changmingsuo",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长命锁",
+      "confidence": "A",
+      "tag_cn_long": "中国的一种锁形金属饰品，挂在儿童脖子上祈求长寿。"
     },
     {
       "name": "necklace",
@@ -2182,9 +2182,9 @@
       "wiki_url": "/wiki_pages/necklace",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "项链",
+      "confidence": "A",
+      "tag_cn_long": "松绕在颈部的链状饰品，通常带有吊坠或珠子。"
     },
     {
       "name": "amulet",
@@ -2192,9 +2192,9 @@
       "wiki_url": "/wiki_pages/amulet",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护身符",
+      "confidence": "A",
+      "tag_cn_long": "挂在脖子上的保护性饰品，通常作为吊坠。"
     },
     {
       "name": "bead necklace",
@@ -2202,9 +2202,9 @@
       "wiki_url": "/wiki_pages/bead_necklace",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "珠链",
+      "confidence": "A",
+      "tag_cn_long": "由珠子串成的项链。"
     },
     {
       "name": "chain necklace",
@@ -2212,9 +2212,9 @@
       "wiki_url": "/wiki_pages/chain_necklace",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "链式项链",
+      "confidence": "A",
+      "tag_cn_long": "由金属链节组成的项链。"
     },
     {
       "name": "festoon",
@@ -2222,9 +2222,9 @@
       "wiki_url": "/wiki_pages/festoon_%28necklace%29",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花环项链",
+      "confidence": "B",
+      "tag_cn_long": "一种像花环一样垂挂的项链饰品。"
     },
     {
       "name": "lariat",
@@ -2232,9 +2232,9 @@
       "wiki_url": "/wiki_pages/lariat_%28necklace%29",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长项链",
+      "confidence": "B",
+      "tag_cn_long": "一种长款项链，通常无扣，可绕颈或打结佩戴。"
     },
     {
       "name": "locket",
@@ -2242,9 +2242,9 @@
       "wiki_url": "/wiki_pages/locket",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "相盒项链",
+      "confidence": "A",
+      "tag_cn_long": "可打开的小盒子吊坠，内藏照片。"
     },
     {
       "name": "pearl necklace",
@@ -2252,9 +2252,9 @@
       "wiki_url": "/wiki_pages/pearl_necklace",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "珍珠项链",
+      "confidence": "A",
+      "tag_cn_long": "由珍珠串成的项链。"
     },
     {
       "name": "pendant",
@@ -2262,9 +2262,9 @@
       "wiki_url": "/wiki_pages/pendant",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊坠",
+      "confidence": "A",
+      "tag_cn_long": "挂在项链上的装饰品，是项链的中心部分。"
     },
     {
       "name": "plastron",
@@ -2272,9 +2272,9 @@
       "wiki_url": "/wiki_pages/plastron_%28necklace%29",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸饰",
+      "confidence": "B",
+      "tag_cn_long": "一种装饰性胸饰，常覆盖前胸部分，如礼服衬衫前胸的装饰。"
     },
     {
       "name": "riviere",
@@ -2282,9 +2282,9 @@
       "wiki_url": "/wiki_pages/riviere_%28necklace%29",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宝石项链",
+      "confidence": "B",
+      "tag_cn_long": "由多颗相同大小的宝石串联而成的项链。"
     },
     {
       "name": "sautoir",
@@ -2292,9 +2292,9 @@
       "wiki_url": "/wiki_pages/sautoir",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长项链",
+      "confidence": "B",
+      "tag_cn_long": "一种长度较长、常垂至胸下的项链。"
     },
     {
       "name": "shoulder necklace",
@@ -2302,9 +2302,9 @@
       "wiki_url": "/wiki_pages/shoulder_necklace",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩链",
+      "confidence": "A",
+      "tag_cn_long": "垂挂在肩膀上的项链，有时分成多股。"
     },
     {
       "name": "station necklace",
@@ -2312,9 +2312,9 @@
       "wiki_url": "/wiki_pages/station_necklace",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "间隔项链",
+      "confidence": "B",
+      "tag_cn_long": "带有固定间隔装饰物的项链。"
     },
     {
       "name": "torc",
@@ -2322,9 +2322,9 @@
       "wiki_url": "/wiki_pages/torc",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "环状项圈",
+      "confidence": "A",
+      "tag_cn_long": "一种硬质的金属环状项圈，通常前部开口，古代凯尔特人用作地位象征。"
     },
     {
       "name": "neck ring",
@@ -2332,9 +2332,9 @@
       "wiki_url": "/wiki_pages/neck_ring",
       "category_path": "Jewelry/Neck",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈环",
+      "confidence": "B",
+      "tag_cn_long": "一种硬质环状颈部饰品，不同于松散的项链。"
     },
     {
       "name": "armlet",
@@ -2342,9 +2342,9 @@
       "wiki_url": "/wiki_pages/armlet",
       "category_path": "Jewelry/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂镯",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在上臂的装饰性金属环，通常镶嵌宝石。"
     },
     {
       "name": "bracelet",
@@ -2352,9 +2352,9 @@
       "wiki_url": "/wiki_pages/bracelet",
       "category_path": "Jewelry/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手镯",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕上的装饰性首饰。"
     },
     {
       "name": "bangle",
@@ -2362,9 +2362,9 @@
       "wiki_url": "/wiki_pages/bangle",
       "category_path": "Jewelry/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "硬质手镯",
+      "confidence": "A",
+      "tag_cn_long": "一种宽大的硬质环状手镯，戴在手腕上。"
     },
     {
       "name": "bead bracelet",
@@ -2372,9 +2372,9 @@
       "wiki_url": "/wiki_pages/bead_bracelet",
       "category_path": "Jewelry/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "珠串手链",
+      "confidence": "A",
+      "tag_cn_long": "由珠子串成的手链。"
     },
     {
       "name": "chain bracelet",
@@ -2382,9 +2382,9 @@
       "wiki_url": "/wiki_pages/chain_bracelet",
       "category_path": "Jewelry/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "链式手链",
+      "confidence": "A",
+      "tag_cn_long": "由金属链环制成的手链。"
     },
     {
       "name": "friendship bracelet",
@@ -2392,9 +2392,9 @@
       "wiki_url": "/wiki_pages/friendship_bracelet",
       "category_path": "Jewelry/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "友谊手链",
+      "confidence": "A",
+      "tag_cn_long": "一种编织手链，象征友谊，通常由朋友间互赠。"
     },
     {
       "name": "hand chains",
@@ -2402,9 +2402,9 @@
       "wiki_url": "/wiki_pages/hand_chains",
       "category_path": "Jewelry/Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手链",
+      "confidence": "B",
+      "tag_cn_long": "一种手部饰品，由手镯通过链条连接戒指，常见于肚皮舞或后宫装束。"
     },
     {
       "name": "anklet",
@@ -2412,9 +2412,9 @@
       "wiki_url": "/wiki_pages/anklet",
       "category_path": "Jewelry/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚链",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在脚踝上的珠宝饰品。"
     },
     {
       "name": "barefoot sandals",
@@ -2422,9 +2422,9 @@
       "wiki_url": "/wiki_pages/barefoot_sandals_%28jewelry%29",
       "category_path": "Jewelry/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸足凉鞋",
+      "confidence": "B",
+      "tag_cn_long": "一种装饰性脚饰，模仿凉鞋但无鞋底，戴在脚背和脚踝上。"
     },
     {
       "name": "calflet",
@@ -2432,9 +2432,9 @@
       "wiki_url": "/wiki_pages/calflet",
       "category_path": "Jewelry/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小腿环",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在小腿上的装饰性环带，通常为金属或宝石材质。"
     },
     {
       "name": "thighlet",
@@ -2442,9 +2442,9 @@
       "wiki_url": "/wiki_pages/thighlet",
       "category_path": "Jewelry/Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿环",
+      "confidence": "A",
+      "tag_cn_long": "一种金属材质的环形首饰，戴在大腿上。"
     },
     {
       "name": "belly chain",
@@ -2452,9 +2452,9 @@
       "wiki_url": "/wiki_pages/belly_chain",
       "category_path": "Jewelry/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰链",
+      "confidence": "A",
+      "tag_cn_long": "一种环绕腰部的链条首饰，常与肚皮舞服饰搭配。"
     },
     {
       "name": "collar chain",
@@ -2462,9 +2462,9 @@
       "wiki_url": "/wiki_pages/collar_chain_%28jewelry%29",
       "category_path": "Jewelry/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈圈链",
+      "confidence": "B",
+      "tag_cn_long": "连接颈圈的链条，可能是装饰或牵绳。"
     },
     {
       "name": "collar tips",
@@ -2472,9 +2472,9 @@
       "wiki_url": "/wiki_pages/collar_tips_%28jewelry%29",
       "category_path": "Jewelry/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领尖饰",
+      "confidence": "B",
+      "tag_cn_long": "衬衫领尖处的小装饰物或扣件。"
     },
     {
       "name": "yaopei",
@@ -2482,9 +2482,9 @@
       "wiki_url": "/wiki_pages/yaopei",
       "category_path": "Jewelry/Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰佩",
+      "confidence": "A",
+      "tag_cn_long": "中国传统汉服中悬挂在腰间的装饰品，如玉佩、流苏等。"
     },
     {
       "name": "animal bag",
@@ -2492,9 +2492,9 @@
       "wiki_url": "/wiki_pages/animal_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物造型包",
+      "confidence": "A",
+      "tag_cn_long": "设计成动物形状的包。"
     },
     {
       "name": "backpack",
@@ -2502,9 +2502,9 @@
       "wiki_url": "/wiki_pages/backpack",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背包",
+      "confidence": "A",
+      "tag_cn_long": "背在背上的包，通常有两条肩带。"
     },
     {
       "name": "randoseru",
@@ -2512,9 +2512,9 @@
       "wiki_url": "/wiki_pages/randoseru",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日式小学生书包",
+      "confidence": "A",
+      "tag_cn_long": "日本小学生常用的硬质皮革背包，通常红色或黑色。"
     },
     {
       "name": "briefcase",
@@ -2522,9 +2522,9 @@
       "wiki_url": "/wiki_pages/briefcase",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "公文包",
+      "confidence": "A",
+      "tag_cn_long": "用于携带文件、书籍等物品的手提箱，多用于商务场合。"
     },
     {
       "name": "character bag",
@@ -2532,9 +2532,9 @@
       "wiki_url": "/wiki_pages/character_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角色造型包",
+      "confidence": "A",
+      "tag_cn_long": "形状像某个角色的包或背包。"
     },
     {
       "name": "character backpack",
@@ -2542,9 +2542,9 @@
       "wiki_url": "/wiki_pages/character_backpack",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角色造型背包",
+      "confidence": "A",
+      "tag_cn_long": "设计成角色形状的背包。"
     },
     {
       "name": "clutch purse",
@@ -2552,9 +2552,9 @@
       "wiki_url": "/wiki_pages/clutch_purse",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手拿包",
+      "confidence": "A",
+      "tag_cn_long": "一种无肩带的小型手提包，通常用手拿着。"
     },
     {
       "name": "coin purse",
@@ -2562,9 +2562,9 @@
       "wiki_url": "/wiki_pages/coin_purse",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "零钱包",
+      "confidence": "A",
+      "tag_cn_long": "用于装硬币的小钱包。"
     },
     {
       "name": "drawstring bag",
@@ -2572,9 +2572,9 @@
       "wiki_url": "/wiki_pages/drawstring_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抽绳袋",
+      "confidence": "A",
+      "tag_cn_long": "顶部用抽绳收紧的袋子。"
     },
     {
       "name": "duffel bag",
@@ -2582,9 +2582,9 @@
       "wiki_url": "/wiki_pages/duffel_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "行李袋",
+      "confidence": "A",
+      "tag_cn_long": "一种圆柱形的大容量袋子，常用帆布制成，用于携带运动器材或旅行物品。"
     },
     {
       "name": "fanny pack",
@@ -2592,9 +2592,9 @@
       "wiki_url": "/wiki_pages/fanny_pack",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰包",
+      "confidence": "A",
+      "tag_cn_long": "系在腰间的小包。"
     },
     {
       "name": "food-themed bag",
@@ -2602,9 +2602,9 @@
       "wiki_url": "/wiki_pages/food-themed_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食物主题包",
+      "confidence": "A",
+      "tag_cn_long": "以食物外观或图案为主题的包。"
     },
     {
       "name": "gigbag",
@@ -2612,9 +2612,9 @@
       "wiki_url": "/wiki_pages/gigbag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乐器包",
+      "confidence": "A",
+      "tag_cn_long": "用于存放和运输乐器的软垫袋，最常见的是吉他包。"
     },
     {
       "name": "handbag",
@@ -2622,9 +2622,9 @@
       "wiki_url": "/wiki_pages/handbag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手提包",
+      "confidence": "A",
+      "tag_cn_long": "用于携带钱和小件个人物品的包，外部常装饰。"
     },
     {
       "name": "barrel bag",
@@ -2632,9 +2632,9 @@
       "wiki_url": "/wiki_pages/barrel_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆筒包",
+      "confidence": "A",
+      "tag_cn_long": "圆柱形的包，常配有单肩带，比行李袋更轻便。"
     },
     {
       "name": "half moon bag",
@@ -2642,9 +2642,9 @@
       "wiki_url": "/wiki_pages/half_moon_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半月包",
+      "confidence": "A",
+      "tag_cn_long": "形状像半月的包。"
     },
     {
       "name": "heart-shaped bag",
@@ -2652,9 +2652,9 @@
       "wiki_url": "/wiki_pages/heart-shaped_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形包",
+      "confidence": "A",
+      "tag_cn_long": "设计成心形的包。"
     },
     {
       "name": "itabag",
@@ -2662,9 +2662,9 @@
       "wiki_url": "/wiki_pages/itabag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "痛包",
+      "confidence": "A",
+      "tag_cn_long": "表面贴满或挂满动漫周边的肩包或背包。"
     },
     {
       "name": "leather bag",
@@ -2672,9 +2672,9 @@
       "wiki_url": "/wiki_pages/leather_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皮包",
+      "confidence": "A",
+      "tag_cn_long": "用皮革制成的包。"
     },
     {
       "name": "mesh bag",
@@ -2682,9 +2682,9 @@
       "wiki_url": "/wiki_pages/mesh_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网眼包",
+      "confidence": "A",
+      "tag_cn_long": "用网状材料制成的包。"
     },
     {
       "name": "omamori",
@@ -2692,9 +2692,9 @@
       "wiki_url": "/wiki_pages/omamori",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "御守",
+      "confidence": "A",
+      "tag_cn_long": "日本神社或寺庙出售的护身符，常为装饰精美的彩色小袋。"
     },
     {
       "name": "pouch",
@@ -2702,9 +2702,9 @@
       "wiki_url": "/wiki_pages/pouch",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小袋",
+      "confidence": "A",
+      "tag_cn_long": "小型容器，通常用皮革、纺织品或塑料制成，有抽绳、拉链或翻盖。"
     },
     {
       "name": "belt pouch",
@@ -2712,9 +2712,9 @@
       "wiki_url": "/wiki_pages/belt_pouch",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带包",
+      "confidence": "A",
+      "tag_cn_long": "附在腰带上的小袋，或设计为系在腰间的小包。"
     },
     {
       "name": "bokjumeoni",
@@ -2722,9 +2722,9 @@
       "wiki_url": "/wiki_pages/bokjumeoni",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福袋",
+      "confidence": "B",
+      "tag_cn_long": "韩国传统彩色丝绸小袋，常用于携带小礼物，寓意好运。"
     },
     {
       "name": "round bag",
@@ -2732,9 +2732,9 @@
       "wiki_url": "/wiki_pages/round_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆形包",
+      "confidence": "A",
+      "tag_cn_long": "形状为圆形的包。"
     },
     {
       "name": "saddlebags",
@@ -2742,9 +2742,9 @@
       "wiki_url": "/wiki_pages/saddlebags",
       "category_path": "Bags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鞍囊",
+      "confidence": "B",
+      "tag_cn_long": "挂在马鞍或车辆两侧的包，也可指挂在腰间的袋状物。"
     },
     {
       "name": "satchel",
@@ -2752,9 +2752,9 @@
       "wiki_url": "/wiki_pages/satchel",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单肩挎包",
+      "confidence": "A",
+      "tag_cn_long": "有长肩带可斜挎的包，常用于携带书本等物品。"
     },
     {
       "name": "school bag",
@@ -2762,9 +2762,9 @@
       "wiki_url": "/wiki_pages/school_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "书包",
+      "confidence": "A",
+      "tag_cn_long": "学生用包，日本常见传统硬壳公文包式或现代肩包式。"
     },
     {
       "name": "shoulder bag",
@@ -2772,9 +2772,9 @@
       "wiki_url": "/wiki_pages/shoulder_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单肩包",
+      "confidence": "A",
+      "tag_cn_long": "一种用肩部携带的包袋。"
     },
     {
       "name": "messenger bag",
@@ -2782,9 +2782,9 @@
       "wiki_url": "/wiki_pages/messenger_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "邮差包",
+      "confidence": "A",
+      "tag_cn_long": "单肩包的一种，带有单一大翻盖。"
     },
     {
       "name": "star-shaped bag",
@@ -2792,9 +2792,9 @@
       "wiki_url": "/wiki_pages/star-shaped_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星形包",
+      "confidence": "A",
+      "tag_cn_long": "形状像星星的包。"
     },
     {
       "name": "suitcase",
@@ -2802,9 +2802,9 @@
       "wiki_url": "/wiki_pages/suitcase",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手提箱",
+      "confidence": "A",
+      "tag_cn_long": "一种用于旅行时携带衣物和其他物品的箱子，通常由布料、皮革或塑料制成。"
     },
     {
       "name": "tote bag",
@@ -2812,9 +2812,9 @@
       "wiki_url": "/wiki_pages/tote_bag",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "托特包",
+      "confidence": "A",
+      "tag_cn_long": "一种大型手提袋，常用于携带多种物品。"
     },
     {
       "name": "waterskin",
@@ -2822,9 +2822,9 @@
       "wiki_url": "/wiki_pages/waterskin",
       "category_path": "Bags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水囊",
+      "confidence": "A",
+      "tag_cn_long": "一种中世纪的水袋，通常由皮革制成，顶部有一个小嘴用于饮水。"
     },
     {
       "name": "badge",
@@ -2832,9 +2832,9 @@
       "wiki_url": "/wiki_pages/badge",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "徽章",
+      "confidence": "A",
+      "tag_cn_long": "一种象征身份、等级、会员资格等的标志，通常由塑料、金属或布料制成。"
     },
     {
       "name": "bandages",
@@ -2842,9 +2842,9 @@
       "wiki_url": "/wiki_pages/bandages",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绷带",
+      "confidence": "A",
+      "tag_cn_long": "一种用于医疗或装饰的带状材料，可缠绕在身体部位。"
     },
     {
       "name": "bandaid",
@@ -2852,9 +2852,9 @@
       "wiki_url": "/wiki_pages/bandaid",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "创可贴",
+      "confidence": "A",
+      "tag_cn_long": "一种小型粘性敷料，用于遮盖小伤口。"
     },
     {
       "name": "beads",
@@ -2862,9 +2862,9 @@
       "wiki_url": "/wiki_pages/beads",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "珠子",
+      "confidence": "A",
+      "tag_cn_long": "小型的玻璃、石头或类似材料的圆球，通常有孔可串成项链或手链。"
     },
     {
       "name": "magatama",
@@ -2872,9 +2872,9 @@
       "wiki_url": "/wiki_pages/magatama",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "勾玉",
+      "confidence": "A",
+      "tag_cn_long": "一种弯曲的逗号形珠玉，常作为项链佩戴，源自日本古代。"
     },
     {
       "name": "prayer beads",
@@ -2882,9 +2882,9 @@
       "wiki_url": "/wiki_pages/prayer_beads",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "念珠",
+      "confidence": "A",
+      "tag_cn_long": "用于宗教祈祷的珠串，如佛教、天主教、伊斯兰教等。"
     },
     {
       "name": "rosary",
@@ -2892,9 +2892,9 @@
       "wiki_url": "/wiki_pages/rosary",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玫瑰念珠",
+      "confidence": "A",
+      "tag_cn_long": "天主教使用的念珠，通常带有十字架，用于祈祷。"
     },
     {
       "name": "bell",
@@ -2902,9 +2902,9 @@
       "wiki_url": "/wiki_pages/bell",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铃铛",
+      "confidence": "A",
+      "tag_cn_long": "一种中空的金属乐器，敲击时发出金属声。常用于装饰或佩戴。"
     },
     {
       "name": "jingle bell",
@@ -2912,9 +2912,9 @@
       "wiki_url": "/wiki_pages/jingle_bell",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铃铛",
+      "confidence": "A",
+      "tag_cn_long": "一种球形小铃铛，内有响舌，声音清脆，常与圣诞节或宠物项圈关联。"
     },
     {
       "name": "bow",
@@ -2922,9 +2922,9 @@
       "wiki_url": "/wiki_pages/bow",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶结",
+      "confidence": "A",
+      "tag_cn_long": "一种通常有两个环和两个尾端的结，常用于服装、头发或礼物包装。"
     },
     {
       "name": "hair bow",
@@ -2942,9 +2942,9 @@
       "wiki_url": "/wiki_pages/buckle",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扣子",
+      "confidence": "A",
+      "tag_cn_long": "用于固定两个松散末端的装置，常见于腰带、鞋子等。"
     },
     {
       "name": "buttons",
@@ -2952,9 +2952,9 @@
       "wiki_url": "/wiki_pages/buttons",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纽扣",
+      "confidence": "A",
+      "tag_cn_long": "衣服上的小圆片，用于扣合或装饰。"
     },
     {
       "name": "buttoned cuffs",
@@ -2962,9 +2962,9 @@
       "wiki_url": "/wiki_pages/buttoned_cuffs",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纽扣袖口",
+      "confidence": "A",
+      "tag_cn_long": "袖口处有纽扣的袖口设计，常见于正式衬衫和西装。"
     },
     {
       "name": "double-breasted",
@@ -2972,9 +2972,9 @@
       "wiki_url": "/wiki_pages/double-breasted",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双排扣",
+      "confidence": "A",
+      "tag_cn_long": "一种外套的扣合方式，有两排纽扣，衣襟重叠。"
     },
     {
       "name": "button badge",
@@ -2982,9 +2982,9 @@
       "wiki_url": "/wiki_pages/button_badge",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "徽章",
+      "confidence": "A",
+      "tag_cn_long": "一种别在衣服上的圆形小徽章，通常带有图案或文字。"
     },
     {
       "name": "charm",
@@ -2992,9 +2992,9 @@
       "wiki_url": "/wiki_pages/charm_%28object%29",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挂件",
+      "confidence": "B",
+      "tag_cn_long": "一种小装饰品或护身符，可挂在钥匙、手机或包上，有多种含义。"
     },
     {
       "name": "bag charm",
@@ -3002,9 +3002,9 @@
       "wiki_url": "/wiki_pages/bag_charm",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "包挂件",
+      "confidence": "A",
+      "tag_cn_long": "装饰在包或背包上的小饰品。"
     },
     {
       "name": "belt charm",
@@ -3012,9 +3012,9 @@
       "wiki_url": "/wiki_pages/belt_charm",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带挂饰",
+      "confidence": "A",
+      "tag_cn_long": "系在腰带上的装饰小物件。"
     },
     {
       "name": "cellphone charm",
@@ -3022,9 +3022,9 @@
       "wiki_url": "/wiki_pages/cellphone_charm",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手机挂件",
+      "confidence": "A",
+      "tag_cn_long": "系在手机上的小玩具或装饰物。"
     },
     {
       "name": "character charm",
@@ -3032,9 +3032,9 @@
       "wiki_url": "/wiki_pages/character_charm",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角色挂饰",
+      "confidence": "A",
+      "tag_cn_long": "以角色形象设计的装饰小挂件。"
     },
     {
       "name": "chinese knot",
@@ -3042,9 +3042,9 @@
       "wiki_url": "/wiki_pages/chinese_knot",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中国结",
+      "confidence": "A",
+      "tag_cn_long": "一种中国传统编织饰品，通常由两根绳线对称编织而成。"
     },
     {
       "name": "decoden",
@@ -3052,9 +3052,9 @@
       "wiki_url": "/wiki_pages/decoden",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手机壳装饰",
+      "confidence": "B",
+      "tag_cn_long": "用多种材料（如贴纸、水钻、树脂等）装饰手机壳或其他物品的工艺。"
     },
     {
       "name": "flower",
@@ -3062,9 +3062,9 @@
       "wiki_url": "/wiki_pages/flower",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花",
+      "confidence": "A",
+      "tag_cn_long": "植物的繁殖器官，常具有鲜艳色彩和花瓣。"
     },
     {
       "name": "hair flower",
@@ -3082,9 +3082,9 @@
       "wiki_url": "/wiki_pages/flower_trim",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花边饰边",
+      "confidence": "A",
+      "tag_cn_long": "服装边缘用花朵形状装饰的镶边。"
     },
     {
       "name": "frills",
@@ -3092,9 +3092,9 @@
       "wiki_url": "/wiki_pages/frills",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边",
+      "confidence": "A",
+      "tag_cn_long": "布料或蕾丝制成的褶皱装饰边，边缘松散。"
     },
     {
       "name": "fur trim",
@@ -3102,9 +3102,9 @@
       "wiki_url": "/wiki_pages/fur_trim",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮饰边",
+      "confidence": "A",
+      "tag_cn_long": "服装领口、下摆或袖口等部位的毛皮镶边。"
     },
     {
       "name": "gem",
@@ -3112,9 +3112,9 @@
       "wiki_url": "/wiki_pages/gem",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宝石",
+      "confidence": "A",
+      "tag_cn_long": "光滑的珍贵石头，常用于制作首饰。"
     },
     {
       "name": "hand jewel",
@@ -3122,9 +3122,9 @@
       "wiki_url": "/wiki_pages/hand_jewel",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手背宝石",
+      "confidence": "A",
+      "tag_cn_long": "镶嵌在手背上的宝石，常见于手套或手套装饰。"
     },
     {
       "name": "rhinestone",
@@ -3132,9 +3132,9 @@
       "wiki_url": "/wiki_pages/rhinestone",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水钻",
+      "confidence": "A",
+      "tag_cn_long": "模仿钻石的人造装饰品，通常由水晶玻璃或亚克力制成。"
     },
     {
       "name": "lace",
@@ -3142,9 +3142,9 @@
       "wiki_url": "/wiki_pages/lace",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝",
+      "confidence": "A",
+      "tag_cn_long": "一种精致的花边织物，通常为白色，带有网状图案。"
     },
     {
       "name": "nail art",
@@ -3152,9 +3152,9 @@
       "wiki_url": "/wiki_pages/nail_art",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美甲",
+      "confidence": "A",
+      "tag_cn_long": "对指甲进行装饰和美化处理。"
     },
     {
       "name": "fake nails",
@@ -3162,9 +3162,9 @@
       "wiki_url": "/wiki_pages/fake_nails",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假指甲",
+      "confidence": "A",
+      "tag_cn_long": "可以黏贴在真指甲上的塑料模具，可涂指甲油。"
     },
     {
       "name": "nail ornament",
@@ -3172,9 +3172,9 @@
       "wiki_url": "/wiki_pages/nail_ornament",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指甲装饰",
+      "confidence": "A",
+      "tag_cn_long": "指甲上的装饰物。"
     },
     {
       "name": "o-ring",
@@ -3182,9 +3182,9 @@
       "wiki_url": "/wiki_pages/o-ring",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "O型环",
+      "confidence": "A",
+      "tag_cn_long": "一种O形环，用于服装或配饰的连接或装饰。"
     },
     {
       "name": "heart o-ring",
@@ -3192,9 +3192,9 @@
       "wiki_url": "/wiki_pages/heart_o-ring",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形O型环",
+      "confidence": "A",
+      "tag_cn_long": "心形形状的O型环，常用于连接衣物或作为配饰。"
     },
     {
       "name": "pocket",
@@ -3202,9 +3202,9 @@
       "wiki_url": "/wiki_pages/pocket",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口袋",
+      "confidence": "A",
+      "tag_cn_long": "缝在衣物上的小袋，用于存放小物件。"
     },
     {
       "name": "pom pom",
@@ -3212,9 +3212,9 @@
       "wiki_url": "/wiki_pages/pom_pom_%28clothes%29",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绒球",
+      "confidence": "B",
+      "tag_cn_long": "蓬松的球状装饰物，可用于服装或啦啦队道具。"
     },
     {
       "name": "ribbon",
@@ -3222,9 +3222,9 @@
       "wiki_url": "/wiki_pages/ribbon",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丝带",
+      "confidence": "A",
+      "tag_cn_long": "一种细长的柔性带状物，常用于系结或装饰。"
     },
     {
       "name": "hair ribbon",
@@ -3242,9 +3242,9 @@
       "wiki_url": "/wiki_pages/neck_ribbon",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈带",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的细丝带，替代领带或作为装饰。"
     },
     {
       "name": "spikes",
@@ -3252,9 +3252,9 @@
       "wiki_url": "/wiki_pages/spikes",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖刺",
+      "confidence": "A",
+      "tag_cn_long": "表面突出的尖锐刺状物，常用于防护或装饰。"
     },
     {
       "name": "sticker",
@@ -3262,9 +3262,9 @@
       "wiki_url": "/wiki_pages/sticker",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贴纸",
+      "confidence": "A",
+      "tag_cn_long": "一面带胶、另一面有图案或文字的纸或塑料片。"
     },
     {
       "name": "tassel",
@@ -3272,9 +3272,9 @@
       "wiki_url": "/wiki_pages/tassel",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "流苏",
+      "confidence": "A",
+      "tag_cn_long": "装饰在绳索或带子末端的一束悬挂线。"
     },
     {
       "name": "zipper",
@@ -3282,9 +3282,9 @@
       "wiki_url": "/wiki_pages/zipper",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉链",
+      "confidence": "A",
+      "tag_cn_long": "由金属或塑料齿组成的装置，用于临时连接两块布料边缘。"
     },
     {
       "name": "zipper pull tab",
@@ -3292,9 +3292,9 @@
       "wiki_url": "/wiki_pages/zipper_pull_tab",
       "category_path": "Decorations",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉链头",
+      "confidence": "A",
+      "tag_cn_long": "拉链上用于拉动的小拉片。"
     },
     {
       "name": "cane",
@@ -3302,9 +3302,9 @@
       "wiki_url": "/wiki_pages/cane",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手杖",
+      "confidence": "A",
+      "tag_cn_long": "长条形、有时弯曲的棍子，用于辅助行走或作为时尚配饰。"
     },
     {
       "name": "cellphone strap",
@@ -3312,9 +3312,9 @@
       "wiki_url": "/wiki_pages/cellphone_strap",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手机挂绳",
+      "confidence": "A",
+      "tag_cn_long": "用于帮助握持手机的绳或环，常带有装饰物。"
     },
     {
       "name": "cigarette holder",
@@ -3322,9 +3322,9 @@
       "wiki_url": "/wiki_pages/cigarette_holder",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "烟嘴",
+      "confidence": "A",
+      "tag_cn_long": "用于夹持香烟的细管状时尚配件。"
     },
     {
       "name": "MP3 player",
@@ -3332,9 +3332,9 @@
       "wiki_url": "/wiki_pages/mp3_player",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "MP3播放器",
+      "confidence": "A",
+      "tag_cn_long": "便携式数字音频播放器。"
     },
     {
       "name": "Digital Walkman",
@@ -3342,9 +3342,9 @@
       "wiki_url": "/wiki_pages/digital_walkman",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "数字随身听",
+      "confidence": "A",
+      "tag_cn_long": "索尼公司推出的数字媒体播放器系列。"
     },
     {
       "name": "iPod",
@@ -3352,9 +3352,9 @@
       "wiki_url": "/wiki_pages/ipod",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "iPod",
+      "confidence": "A",
+      "tag_cn_long": "苹果公司生产的数字媒体播放器。"
     },
     {
       "name": "dust plug",
@@ -3362,9 +3362,9 @@
       "wiki_url": "/wiki_pages/dust_plug",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "防尘塞",
+      "confidence": "A",
+      "tag_cn_long": "插入手机耳机孔防止灰尘进入的小物件，常带有装饰。"
     },
     {
       "name": "hand fan",
@@ -3372,9 +3372,9 @@
       "wiki_url": "/wiki_pages/hand_fan",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手扇",
+      "confidence": "A",
+      "tag_cn_long": "用于扇风降温的手持工具，有纸扇、折扇等多种类型。"
     },
     {
       "name": "folding fan",
@@ -3382,9 +3382,9 @@
       "wiki_url": "/wiki_pages/folding_fan",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "折扇",
+      "confidence": "A",
+      "tag_cn_long": "可折叠收起的便携手扇。"
     },
     {
       "name": "tuanshan",
@@ -3392,9 +3392,9 @@
       "wiki_url": "/wiki_pages/tuanshan",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "团扇",
+      "confidence": "A",
+      "tag_cn_long": "一种中式圆形手扇，常由丝绸制成，搭配汉服或旗袍使用。"
     },
     {
       "name": "handkerchief",
@@ -3402,9 +3402,9 @@
       "wiki_url": "/wiki_pages/handkerchief",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手帕",
+      "confidence": "A",
+      "tag_cn_long": "小块布料，用于擦拭面部或擤鼻涕，也常放在西装口袋中。"
     },
     {
       "name": "muff",
@@ -3412,9 +3412,9 @@
       "wiki_url": "/wiki_pages/muff",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "暖手筒",
+      "confidence": "A",
+      "tag_cn_long": "筒状保暖配件，两端开口，用于插手取暖。"
     },
     {
       "name": "pencil case",
@@ -3422,9 +3422,9 @@
       "wiki_url": "/wiki_pages/pencil_case",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铅笔盒",
+      "confidence": "A",
+      "tag_cn_long": "用于收纳铅笔、钢笔等文具的小包或盒子。"
     },
     {
       "name": "pop socket",
@@ -3432,9 +3432,9 @@
       "wiki_url": "/wiki_pages/pop_socket",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指环扣",
+      "confidence": "A",
+      "tag_cn_long": "粘在手机背面的可弹出握持或支架配件。"
     },
     {
       "name": "tail ornament",
@@ -3442,9 +3442,9 @@
       "wiki_url": "/wiki_pages/tail_ornament",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尾饰",
+      "confidence": "A",
+      "tag_cn_long": "任何系在尾巴上的装饰物。"
     },
     {
       "name": "umbrella",
@@ -3452,9 +3452,9 @@
       "wiki_url": "/wiki_pages/umbrella",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伞",
+      "confidence": "A",
+      "tag_cn_long": "一种用于遮雨或遮阳的器具。"
     },
     {
       "name": "folding umbrella",
@@ -3462,9 +3462,9 @@
       "wiki_url": "/wiki_pages/folding_umbrella",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "折叠伞",
+      "confidence": "A",
+      "tag_cn_long": "可以折叠成小巧形状便于携带的雨伞。"
     },
     {
       "name": "parasol",
@@ -3472,9 +3472,9 @@
       "wiki_url": "/wiki_pages/parasol",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阳伞",
+      "confidence": "A",
+      "tag_cn_long": "一种遮阳用的伞，通常比雨伞更精致，用于遮挡阳光。"
     },
     {
       "name": "virtual pet",
@@ -3482,9 +3482,9 @@
       "wiki_url": "/wiki_pages/virtual_pet_%28toy%29",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "电子宠物",
+      "confidence": "A",
+      "tag_cn_long": "一种虚拟的宠物，通常出现在电子设备上，需要喂养和照顾。"
     },
     {
       "name": "wallet",
@@ -3492,9 +3492,9 @@
       "wiki_url": "/wiki_pages/wallet",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钱包",
+      "confidence": "A",
+      "tag_cn_long": "一种扁平的小包，用于存放纸币、卡片等小件个人物品。"
     },
     {
       "name": "hakoseko",
@@ -3502,9 +3502,9 @@
       "wiki_url": "/wiki_pages/hakoseko",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "箱迫",
+      "confidence": "C",
+      "tag_cn_long": "一种挂在腰间的小盒子，用于存放化妆品或小物件，是日本传统服饰配件。"
     },
     {
       "name": "watch",
@@ -3512,9 +3512,9 @@
       "wiki_url": "/wiki_pages/watch",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手表",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在手腕上的计时工具。"
     },
     {
       "name": "wristwatch",
@@ -3522,9 +3522,9 @@
       "wiki_url": "/wiki_pages/wristwatch",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手表",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕上的计时设备。"
     },
     {
       "name": "pocket watch",
@@ -3532,9 +3532,9 @@
       "wiki_url": "/wiki_pages/pocket_watch",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "怀表",
+      "confidence": "A",
+      "tag_cn_long": "一种放在口袋中的手持式时钟，通常带有链条。"
     },
     {
       "name": "wing ornament",
@@ -3542,9 +3542,9 @@
       "wiki_url": "/wiki_pages/wing_ornament",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翼饰",
+      "confidence": "A",
+      "tag_cn_long": "佩戴在翅膀上的装饰性配件。"
     }
   ],
   "total_tags": 345,

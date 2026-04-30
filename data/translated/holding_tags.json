@@ -162,9 +162,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_clothes",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持脱下的衣物",
+      "confidence": "A",
+      "tag_cn_long": "角色拿着已经脱下的衣服的动作。"
     },
     {
       "name": "holding coat",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/holding_coat",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持外套",
+      "confidence": "A",
+      "tag_cn_long": "角色拿着一件脱下的外套。"
     },
     {
       "name": "holding shirt",
@@ -182,9 +182,9 @@
       "wiki_url": "/wiki_pages/holding_shirt",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持衬衫",
+      "confidence": "A",
+      "tag_cn_long": "角色拿着一件脱下的衬衫。"
     },
     {
       "name": "holding shorts",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/holding_shorts",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持短裤",
+      "confidence": "A",
+      "tag_cn_long": "角色拿着一条脱下的短裤。"
     },
     {
       "name": "holding swimsuit",
@@ -202,9 +202,9 @@
       "wiki_url": "/wiki_pages/holding_swimsuit",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持泳装",
+      "confidence": "A",
+      "tag_cn_long": "角色拿着一件脱下的泳装。"
     },
     {
       "name": "holding underwear",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/holding_underwear",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持内衣",
+      "confidence": "A",
+      "tag_cn_long": "角色拿着脱下的内衣（包括内裤、胸罩等）。"
     },
     {
       "name": "holding unworn cape",
@@ -222,9 +222,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_cape",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持披风",
+      "confidence": "A",
+      "tag_cn_long": "角色拿着一件脱下的披风。"
     },
     {
       "name": "holding unworn dress",
@@ -232,9 +232,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_dress",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "角色拿着一件脱下的连衣裙。"
     },
     {
       "name": "holding unworn jacket",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_jacket",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持外套",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一件未穿的外套。"
     },
     {
       "name": "holding unworn skirt",
@@ -252,9 +252,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_skirt",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持裙子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一件未穿的裙子。"
     },
     {
       "name": "holding collar",
@@ -262,9 +262,9 @@
       "wiki_url": "/wiki_pages/holding_collar",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持项圈",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个项圈或衣领。"
     },
     {
       "name": "holding mask",
@@ -272,9 +272,9 @@
       "wiki_url": "/wiki_pages/holding_mask",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持面具",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个面具。"
     },
     {
       "name": "holding unworn hat",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_hat",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿着未戴的帽子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一顶未戴在头上的帽子。"
     },
     {
       "name": "holding unworn helmet",
@@ -292,9 +292,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_helmet",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿着未戴的头盔",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个未戴在头上的头盔。"
     },
     {
       "name": "holding unworn necktie",
@@ -302,9 +302,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_necktie",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持领带",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一条未系的领带。"
     },
     {
       "name": "holding unworn scarf",
@@ -312,9 +312,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_scarf",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持围巾",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一条未戴的围巾。"
     },
     {
       "name": "holding boots",
@@ -322,9 +322,9 @@
       "wiki_url": "/wiki_pages/holding_boots",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持靴子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一双靴子。"
     },
     {
       "name": "holding legwear",
@@ -332,9 +332,9 @@
       "wiki_url": "/wiki_pages/holding_legwear",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持腿袜",
+      "confidence": "B",
+      "tag_cn_long": "角色手中拿着脱下的腿部衣物，如袜子或裤袜。"
     },
     {
       "name": "holding sandals",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/holding_sandals",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持凉鞋",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一双凉鞋。"
     },
     {
       "name": "holding shoes",
@@ -352,9 +352,9 @@
       "wiki_url": "/wiki_pages/holding_shoes",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持鞋子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一双或多只鞋子。"
     },
     {
       "name": "holding sock",
@@ -362,9 +362,9 @@
       "wiki_url": "/wiki_pages/holding_sock",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持袜子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一只袜子。"
     },
     {
       "name": "holding bag",
@@ -372,9 +372,9 @@
       "wiki_url": "/wiki_pages/holding_bag",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持包",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个包。"
     },
     {
       "name": "holding briefcase",
@@ -382,9 +382,9 @@
       "wiki_url": "/wiki_pages/holding_briefcase",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持公文包",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个公文包。"
     },
     {
       "name": "holding suitcase",
@@ -392,9 +392,9 @@
       "wiki_url": "/wiki_pages/holding_suitcase",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持行李箱",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个行李箱。"
     },
     {
       "name": "holding wallet",
@@ -402,9 +402,9 @@
       "wiki_url": "/wiki_pages/holding_wallet",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持钱包",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个钱包。"
     },
     {
       "name": "holding hair ornament",
@@ -412,9 +412,9 @@
       "wiki_url": "/wiki_pages/holding_hair_ornament",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持发饰",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个发饰。"
     },
     {
       "name": "holding hair tie",
@@ -422,9 +422,9 @@
       "wiki_url": "/wiki_pages/holding_hair_tie",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持发绳",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根发绳。"
     },
     {
       "name": "holding jewelry",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/holding_jewelry",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持珠宝",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着某件珠宝首饰。"
     },
     {
       "name": "holding earrings",
@@ -442,9 +442,9 @@
       "wiki_url": "/wiki_pages/holding_earrings",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持耳环",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一对耳环。"
     },
     {
       "name": "holding necklace",
@@ -452,9 +452,9 @@
       "wiki_url": "/wiki_pages/holding_necklace",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持项链",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一条项链。"
     },
     {
       "name": "holding ring",
@@ -462,9 +462,9 @@
       "wiki_url": "/wiki_pages/holding_ring",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持戒指",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一枚戒指。"
     },
     {
       "name": "holding pocket watch",
@@ -472,9 +472,9 @@
       "wiki_url": "/wiki_pages/holding_pocket_watch",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持怀表",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一块怀表。"
     },
     {
       "name": "holding compact",
@@ -482,9 +482,9 @@
       "wiki_url": "/wiki_pages/holding_compact",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持粉饼盒",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个粉饼盒。"
     },
     {
       "name": "holding lipstick tube",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/holding_lipstick_tube",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持口红管",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一支口红管。"
     },
     {
       "name": "holding mirror",
@@ -502,9 +502,9 @@
       "wiki_url": "/wiki_pages/holding_mirror",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持镜子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一面镜子（通常是小手镜）。"
     },
     {
       "name": "holding comb",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/holding_comb",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持梳子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把梳子。"
     },
     {
       "name": "holding belt",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/holding_belt",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持腰带",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一条腰带。"
     },
     {
       "name": "holding cane",
@@ -532,9 +532,9 @@
       "wiki_url": "/wiki_pages/holding_cane",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持手杖",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一根手杖。"
     },
     {
       "name": "holding clothes hanger",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/holding_clothes_hanger",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持衣架",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个衣架。"
     },
     {
       "name": "holding handkerchief",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/holding_handkerchief",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持手帕",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一块手帕。"
     },
     {
       "name": "holding tissue",
@@ -562,9 +562,9 @@
       "wiki_url": "/wiki_pages/holding_tissue",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持纸巾",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一张纸巾。"
     },
     {
       "name": "holding umbrella",
@@ -572,9 +572,9 @@
       "wiki_url": "/wiki_pages/holding_umbrella",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持雨伞",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把雨伞。"
     },
     {
       "name": "holding wig",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/holding_wig",
       "category_path": "Attire and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持假发",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一顶假发。"
     },
     {
       "name": "holding blanket",
@@ -592,9 +592,9 @@
       "wiki_url": "/wiki_pages/holding_blanket",
       "category_path": "Bedding",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持毯子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一条毯子。"
     },
     {
       "name": "holding pillow",
@@ -602,9 +602,9 @@
       "wiki_url": "/wiki_pages/holding_pillow",
       "category_path": "Bedding",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持枕头",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个枕头。"
     },
     {
       "name": "holding sheet",
@@ -612,9 +612,9 @@
       "wiki_url": "/wiki_pages/holding_sheet",
       "category_path": "Bedding",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持床单",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一张床单。"
     },
     {
       "name": "holding another's leg",
@@ -622,9 +622,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_leg",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持他人腿",
+      "confidence": "A",
+      "tag_cn_long": "角色手持另一角色的单腿。"
     },
     {
       "name": "holding another's legs",
@@ -632,9 +632,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_legs",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持他人双腿",
+      "confidence": "A",
+      "tag_cn_long": "角色手持另一角色的双腿。"
     },
     {
       "name": "holding",
@@ -642,9 +642,9 @@
       "wiki_url": "/wiki_pages/holding",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持",
+      "confidence": "A",
+      "tag_cn_long": "角色手持某物品的通用标签。"
     },
     {
       "name": "holding another's ankle",
@@ -652,9 +652,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_ankle",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持他人脚踝",
+      "confidence": "A",
+      "tag_cn_long": "角色手持另一角色的脚踝。"
     },
     {
       "name": "holding another's arm",
@@ -662,9 +662,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_arm",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓臂",
+      "confidence": "A",
+      "tag_cn_long": "一个角色用手抓住或握住另一个角色的手臂。"
     },
     {
       "name": "holding another's finger",
@@ -672,9 +672,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_finger",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握手指",
+      "confidence": "A",
+      "tag_cn_long": "一个角色握住另一个角色的手指。"
     },
     {
       "name": "holding another's foot",
@@ -682,9 +682,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_foot",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握脚",
+      "confidence": "A",
+      "tag_cn_long": "一个角色握住另一个角色的脚或脚踝。"
     },
     {
       "name": "holding another's hair",
@@ -692,9 +692,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_hair",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握他人发",
+      "confidence": "B",
+      "tag_cn_long": "用手握住他人头发的动作。"
     },
     {
       "name": "holding another's leg",
@@ -702,9 +702,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_leg",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持他人腿",
+      "confidence": "A",
+      "tag_cn_long": "角色手持另一角色的单腿。"
     },
     {
       "name": "holding another's tail",
@@ -712,9 +712,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_tail",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓尾巴",
+      "confidence": "A",
+      "tag_cn_long": "一个角色握住另一个角色的尾巴。"
     },
     {
       "name": "holding another's tongue",
@@ -722,9 +722,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_tongue",
       "category_path": "Body Part",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓舌头",
+      "confidence": "A",
+      "tag_cn_long": "一个角色握住另一个角色的舌头。"
     },
     {
       "name": "holding another's wrist",
@@ -732,9 +732,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_wrist",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓手腕",
+      "confidence": "A",
+      "tag_cn_long": "一个角色握住另一个角色的手腕。"
     },
     {
       "name": "holding hands",
@@ -742,9 +742,9 @@
       "wiki_url": "/wiki_pages/holding_hands",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牵手",
+      "confidence": "A",
+      "tag_cn_long": "两个或更多角色的手互相接触。"
     },
     {
       "name": "holding own ankle",
@@ -752,9 +752,9 @@
       "wiki_url": "/wiki_pages/holding_own_ankle",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握自己脚踝",
+      "confidence": "A",
+      "tag_cn_long": "角色握住自己的脚踝。"
     },
     {
       "name": "hand on own arm",
@@ -762,9 +762,9 @@
       "wiki_url": "/wiki_pages/hand_on_own_arm",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手扶自己手臂",
+      "confidence": "A",
+      "tag_cn_long": "角色的一只手放在自己的另一只手臂上。"
     },
     {
       "name": "holding own foot",
@@ -772,9 +772,9 @@
       "wiki_url": "/wiki_pages/holding_own_foot",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握自己脚",
+      "confidence": "A",
+      "tag_cn_long": "角色握住或触摸自己的脚或脚踝。"
     },
     {
       "name": "holding own hair",
@@ -782,9 +782,9 @@
       "wiki_url": "/wiki_pages/holding_own_hair",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握发",
+      "confidence": "B",
+      "tag_cn_long": "用手握住自己头发的动作。"
     },
     {
       "name": "holding own leg",
@@ -792,9 +792,9 @@
       "wiki_url": "/wiki_pages/holding_own_leg",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握自己腿",
+      "confidence": "A",
+      "tag_cn_long": "角色握住自己的腿。"
     },
     {
       "name": "holding own tail",
@@ -802,9 +802,9 @@
       "wiki_url": "/wiki_pages/holding_own_tail",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓自己尾巴",
+      "confidence": "A",
+      "tag_cn_long": "角色握住自己的尾巴。"
     },
     {
       "name": "holding own wrist",
@@ -812,9 +812,9 @@
       "wiki_url": "/wiki_pages/holding_own_wrist",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓自己手腕",
+      "confidence": "A",
+      "tag_cn_long": "角色握住自己的手腕。"
     },
     {
       "name": "holding bone",
@@ -822,9 +822,9 @@
       "wiki_url": "/wiki_pages/holding_bone",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握骨头",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一根骨头。"
     },
     {
       "name": "holding detached head",
@@ -832,9 +832,9 @@
       "wiki_url": "/wiki_pages/holding_detached_head",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握断头",
+      "confidence": "A",
+      "tag_cn_long": "角色握住一个与身体分离的头颅。"
     },
     {
       "name": "holding eyeball",
@@ -842,9 +842,9 @@
       "wiki_url": "/wiki_pages/holding_eyeball",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握眼球",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着眼球。"
     },
     {
       "name": "holding heart (organ)",
@@ -852,9 +852,9 @@
       "wiki_url": "/wiki_pages/holding_heart_%28organ%29",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握心脏",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一颗心脏（器官）。"
     },
     {
       "name": "holding skull",
@@ -862,9 +862,9 @@
       "wiki_url": "/wiki_pages/holding_skull",
       "category_path": "Body Part",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握头骨",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一个头骨。"
     },
     {
       "name": "holding basket",
@@ -872,9 +872,9 @@
       "wiki_url": "/wiki_pages/holding_basket",
       "category_path": "Containers and Storage",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "提篮子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中提着或拿着一个篮子。"
     },
     {
       "name": "holding box",
@@ -882,9 +882,9 @@
       "wiki_url": "/wiki_pages/holding_box",
       "category_path": "Containers and Storage",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿盒子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个盒子。"
     },
     {
       "name": "holding cage",
@@ -892,9 +892,9 @@
       "wiki_url": "/wiki_pages/holding_cage",
       "category_path": "Containers and Storage",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持笼子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个笼子。"
     },
     {
       "name": "holding halloween bucket",
@@ -902,9 +902,9 @@
       "wiki_url": "/wiki_pages/holding_halloween_bucket",
       "category_path": "Containers and Storage",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持万圣节桶",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个万圣节主题的桶。"
     },
     {
       "name": "holding sack",
@@ -912,9 +912,9 @@
       "wiki_url": "/wiki_pages/holding_sack",
       "category_path": "Containers and Storage",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持麻袋",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个麻袋，常与圣诞老人和圣诞节相关。"
     },
     {
       "name": "holding earphones",
@@ -922,9 +922,9 @@
       "wiki_url": "/wiki_pages/holding_earphones",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持耳塞",
+      "confidence": "B",
+      "tag_cn_long": "角色手持一对入耳式耳机。"
     },
     {
       "name": "holding headphones",
@@ -932,9 +932,9 @@
       "wiki_url": "/wiki_pages/holding_headphones",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持头戴式耳机",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一副头戴式耳机。"
     },
     {
       "name": "holding megaphone",
@@ -942,9 +942,9 @@
       "wiki_url": "/wiki_pages/holding_megaphone",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持扩音器",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个扩音器（喊话筒）。"
     },
     {
       "name": "holding microphone stand",
@@ -952,9 +952,9 @@
       "wiki_url": "/wiki_pages/holding_microphone_stand",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持麦克风支架",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个麦克风支架。"
     },
     {
       "name": "holding microphone",
@@ -962,9 +962,9 @@
       "wiki_url": "/wiki_pages/holding_microphone",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持麦克风",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个麦克风。"
     },
     {
       "name": "holding mp3 player",
@@ -972,9 +972,9 @@
       "wiki_url": "/wiki_pages/holding_mp3_player",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持MP3播放器",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个MP3播放器。"
     },
     {
       "name": "holding phone",
@@ -982,9 +982,9 @@
       "wiki_url": "/wiki_pages/holding_phone",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持手机",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一部手机。"
     },
     {
       "name": "holding walkie-talkie",
@@ -992,9 +992,9 @@
       "wiki_url": "/wiki_pages/holding_walkie-talkie",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持对讲机",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一部对讲机。"
     },
     {
       "name": "holding handheld game console",
@@ -1002,9 +1002,9 @@
       "wiki_url": "/wiki_pages/holding_handheld_game_console",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持掌机",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一台掌上游戏机。"
     },
     {
       "name": "holding laptop",
@@ -1012,9 +1012,9 @@
       "wiki_url": "/wiki_pages/holding_laptop",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持笔记本电脑",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一台笔记本电脑。"
     },
     {
       "name": "holding tablet pc",
@@ -1022,9 +1022,9 @@
       "wiki_url": "/wiki_pages/holding_tablet_pc",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持平板电脑",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一台平板电脑。"
     },
     {
       "name": "holding computer mouse",
@@ -1032,9 +1032,9 @@
       "wiki_url": "/wiki_pages/holding_computer_mouse",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持鼠标",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个电脑鼠标。"
     },
     {
       "name": "holding computer keyboard",
@@ -1042,9 +1042,9 @@
       "wiki_url": "/wiki_pages/holding_computer_keyboard",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持键盘",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个电脑键盘。"
     },
     {
       "name": "holding controller",
@@ -1052,9 +1052,9 @@
       "wiki_url": "/wiki_pages/holding_controller",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持手柄",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个游戏手柄或控制器。"
     },
     {
       "name": "holding camera",
@@ -1062,9 +1062,9 @@
       "wiki_url": "/wiki_pages/holding_camera",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持相机",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一台相机或摄像机。"
     },
     {
       "name": "holding tripod",
@@ -1072,9 +1072,9 @@
       "wiki_url": "/wiki_pages/holding_tripod",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持三脚架",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个三脚架。"
     },
     {
       "name": "holding photo",
@@ -1082,9 +1082,9 @@
       "wiki_url": "/wiki_pages/holding_photo",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持照片",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一张照片（实体照片）。"
     },
     {
       "name": "holding barcode scanner",
@@ -1092,9 +1092,9 @@
       "wiki_url": "/wiki_pages/holding_barcode_scanner",
       "category_path": "Electronics and Tech",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿条码扫描器",
+      "confidence": "B",
+      "tag_cn_long": "角色手中拿着条码扫描器。"
     },
     {
       "name": "holding food",
@@ -1102,9 +1102,9 @@
       "wiki_url": "/wiki_pages/holding_food",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿食物",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着食物。"
     },
     {
       "name": "holding drink",
@@ -1112,9 +1112,9 @@
       "wiki_url": "/wiki_pages/holding_drink",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿饮料",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着饮料。"
     },
     {
       "name": "holding cake",
@@ -1122,9 +1122,9 @@
       "wiki_url": "/wiki_pages/holding_cake",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿蛋糕",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着蛋糕，通常放在盘子上。"
     },
     {
       "name": "holding candy",
@@ -1132,9 +1132,9 @@
       "wiki_url": "/wiki_pages/holding_candy",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿糖果",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着糖果。"
     },
     {
       "name": "holding candy apple",
@@ -1142,9 +1142,9 @@
       "wiki_url": "/wiki_pages/holding_candy_apple",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿糖苹果",
+      "confidence": "B",
+      "tag_cn_long": "角色手中拿着糖苹果（裹着糖衣的苹果）。"
     },
     {
       "name": "holding chocolate",
@@ -1152,9 +1152,9 @@
       "wiki_url": "/wiki_pages/holding_chocolate",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿巧克力",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着固体巧克力。"
     },
     {
       "name": "holding cookie",
@@ -1162,9 +1162,9 @@
       "wiki_url": "/wiki_pages/holding_cookie",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿饼干",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着饼干。"
     },
     {
       "name": "holding cotton candy",
@@ -1172,9 +1172,9 @@
       "wiki_url": "/wiki_pages/holding_cotton_candy",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿棉花糖",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着棉花糖。"
     },
     {
       "name": "holding crepe",
@@ -1182,9 +1182,9 @@
       "wiki_url": "/wiki_pages/holding_crepe",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿可丽饼",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着可丽饼。"
     },
     {
       "name": "holding donut",
@@ -1192,9 +1192,9 @@
       "wiki_url": "/wiki_pages/holding_donut",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿甜甜圈",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着甜甜圈。"
     },
     {
       "name": "holding ice cream",
@@ -1202,9 +1202,9 @@
       "wiki_url": "/wiki_pages/holding_ice_cream",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿冰淇淋",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着冰淇淋，可以是蛋筒或杯装等。"
     },
     {
       "name": "holding ice cream cone",
@@ -1212,9 +1212,9 @@
       "wiki_url": "/wiki_pages/holding_ice_cream_cone",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿蛋筒冰淇淋",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着蛋筒冰淇淋，可能有冰淇淋也可能没有。"
     },
     {
       "name": "holding pocky",
@@ -1222,9 +1222,9 @@
       "wiki_url": "/wiki_pages/holding_pocky",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿Pocky",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根Pocky（一种棒状饼干）。"
     },
     {
       "name": "holding popsicle",
@@ -1232,9 +1232,9 @@
       "wiki_url": "/wiki_pages/holding_popsicle",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿冰棒",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着冰棒（棒状冰淇淋）。"
     },
     {
       "name": "holding burger",
@@ -1242,9 +1242,9 @@
       "wiki_url": "/wiki_pages/holding_burger",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿汉堡",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着汉堡。"
     },
     {
       "name": "holding pizza",
@@ -1262,9 +1262,9 @@
       "wiki_url": "/wiki_pages/holding_sandwich",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿三明治",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着三明治。"
     },
     {
       "name": "holding bento",
@@ -1272,9 +1272,9 @@
       "wiki_url": "/wiki_pages/holding_bento",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿便当",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着便当盒。"
     },
     {
       "name": "holding skewer",
@@ -1282,9 +1282,9 @@
       "wiki_url": "/wiki_pages/holding_skewer",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿串",
+      "confidence": "B",
+      "tag_cn_long": "角色手中拿着穿在签子上的食物（如烤串）。"
     },
     {
       "name": "holding carrot",
@@ -1292,9 +1292,9 @@
       "wiki_url": "/wiki_pages/holding_carrot",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持胡萝卜",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一根胡萝卜。"
     },
     {
       "name": "holding egg",
@@ -1302,9 +1302,9 @@
       "wiki_url": "/wiki_pages/holding_egg",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持鸡蛋",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一枚鸡蛋。"
     },
     {
       "name": "holding fruit",
@@ -1312,9 +1312,9 @@
       "wiki_url": "/wiki_pages/holding_fruit",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持水果",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个水果。"
     },
     {
       "name": "holding mushroom",
@@ -1322,9 +1322,9 @@
       "wiki_url": "/wiki_pages/holding_mushroom",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持蘑菇",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一只蘑菇。"
     },
     {
       "name": "holding pumpkin",
@@ -1332,9 +1332,9 @@
       "wiki_url": "/wiki_pages/holding_pumpkin",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持南瓜",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个南瓜，可能是雕刻过的南瓜灯。"
     },
     {
       "name": "holding vegetable",
@@ -1342,9 +1342,9 @@
       "wiki_url": "/wiki_pages/holding_vegetable",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持蔬菜",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一棵蔬菜。"
     },
     {
       "name": "holding bottle",
@@ -1352,9 +1352,9 @@
       "wiki_url": "/wiki_pages/holding_bottle",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持瓶子",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个瓶子。"
     },
     {
       "name": "holding can",
@@ -1362,9 +1362,9 @@
       "wiki_url": "/wiki_pages/holding_can",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持罐子",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个金属罐子或易拉罐。"
     },
     {
       "name": "holding cup",
@@ -1372,9 +1372,9 @@
       "wiki_url": "/wiki_pages/holding_cup",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持杯子",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个杯子，可以是茶杯、马克杯、酒杯等。"
     },
     {
       "name": "holding drink carton",
@@ -1382,9 +1382,9 @@
       "wiki_url": "/wiki_pages/holding_drink_carton",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持饮料纸盒",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个饮料纸盒。"
     },
     {
       "name": "holding juice box",
@@ -1392,9 +1392,9 @@
       "wiki_url": "/wiki_pages/holding_juice_box",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持果汁盒",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个果汁盒。"
     },
     {
       "name": "holding milk carton",
@@ -1402,9 +1402,9 @@
       "wiki_url": "/wiki_pages/holding_milk_carton",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持牛奶盒",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个牛奶纸盒。"
     },
     {
       "name": "holding gourd",
@@ -1412,9 +1412,9 @@
       "wiki_url": "/wiki_pages/holding_gourd",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持葫芦",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个葫芦。"
     },
     {
       "name": "holding drinking straw",
@@ -1422,9 +1422,9 @@
       "wiki_url": "/wiki_pages/holding_drinking_straw",
       "category_path": "Food and Drink",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持吸管",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一根吸管。"
     },
     {
       "name": "holding hair brush",
@@ -1432,9 +1432,9 @@
       "wiki_url": "/wiki_pages/holding_hair_brush",
       "category_path": "Hygiene",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持梳子",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一把梳子（刷子状的）。"
     },
     {
       "name": "holding hair dryer",
@@ -1442,9 +1442,9 @@
       "wiki_url": "/wiki_pages/holding_hair_dryer",
       "category_path": "Hygiene",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持吹风机",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个吹风机。"
     },
     {
       "name": "holding razor",
@@ -1452,9 +1452,9 @@
       "wiki_url": "/wiki_pages/holding_razor",
       "category_path": "Hygiene",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持剃刀",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一把剃刀。"
     },
     {
       "name": "holding shower head",
@@ -1462,9 +1462,9 @@
       "wiki_url": "/wiki_pages/holding_shower_head",
       "category_path": "Hygiene",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持淋浴头",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个手持淋浴喷头。"
     },
     {
       "name": "holding toothbrush",
@@ -1472,9 +1472,9 @@
       "wiki_url": "/wiki_pages/holding_toothbrush",
       "category_path": "Hygiene",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持牙刷",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一把牙刷。"
     },
     {
       "name": "holding towel",
@@ -1482,9 +1482,9 @@
       "wiki_url": "/wiki_pages/holding_towel",
       "category_path": "Hygiene",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持毛巾",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一条毛巾。"
     },
     {
       "name": "holding bamboo steamer",
@@ -1492,9 +1492,9 @@
       "wiki_url": "/wiki_pages/holding_bamboo_steamer",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持竹蒸笼",
+      "confidence": "A",
+      "tag_cn_long": "角色手持竹蒸笼。"
     },
     {
       "name": "holding coffee pot",
@@ -1502,9 +1502,9 @@
       "wiki_url": "/wiki_pages/holding_coffee_pot",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持咖啡壶",
+      "confidence": "A",
+      "tag_cn_long": "角色手持咖啡壶。"
     },
     {
       "name": "holding cooking pot",
@@ -1512,9 +1512,9 @@
       "wiki_url": "/wiki_pages/holding_cooking_pot",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持煮锅",
+      "confidence": "A",
+      "tag_cn_long": "角色手持煮锅。"
     },
     {
       "name": "holding frying pan",
@@ -1522,9 +1522,9 @@
       "wiki_url": "/wiki_pages/holding_frying_pan",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持煎锅",
+      "confidence": "A",
+      "tag_cn_long": "角色手持平底煎锅。"
     },
     {
       "name": "holding kettle",
@@ -1532,9 +1532,9 @@
       "wiki_url": "/wiki_pages/holding_kettle",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持水壶",
+      "confidence": "A",
+      "tag_cn_long": "角色手持烧水壶。"
     },
     {
       "name": "holding teapot",
@@ -1542,9 +1542,9 @@
       "wiki_url": "/wiki_pages/holding_teapot",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持茶壶",
+      "confidence": "A",
+      "tag_cn_long": "角色手持茶壶。"
     },
     {
       "name": "holding chopsticks",
@@ -1552,9 +1552,9 @@
       "wiki_url": "/wiki_pages/holding_chopsticks",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持筷子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持筷子。"
     },
     {
       "name": "holding fork",
@@ -1562,9 +1562,9 @@
       "wiki_url": "/wiki_pages/holding_fork",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持叉子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持叉子。"
     },
     {
       "name": "holding spoon",
@@ -1572,9 +1572,9 @@
       "wiki_url": "/wiki_pages/holding_spoon",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持勺子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持勺子。"
     },
     {
       "name": "holding spork",
@@ -1582,9 +1582,9 @@
       "wiki_url": "/wiki_pages/holding_spork",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持叉勺",
+      "confidence": "B",
+      "tag_cn_long": "角色手持叉勺（叉和勺一体的餐具）。"
     },
     {
       "name": "holding cocktail shaker",
@@ -1592,9 +1592,9 @@
       "wiki_url": "/wiki_pages/holding_cocktail_shaker",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持调酒器",
+      "confidence": "A",
+      "tag_cn_long": "角色手持调酒器。"
     },
     {
       "name": "holding ladle",
@@ -1602,9 +1602,9 @@
       "wiki_url": "/wiki_pages/holding_ladle",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持汤勺",
+      "confidence": "A",
+      "tag_cn_long": "角色手持长柄汤勺。"
     },
     {
       "name": "holding pastry bag",
@@ -1612,9 +1612,9 @@
       "wiki_url": "/wiki_pages/holding_pastry_bag",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持裱花袋",
+      "confidence": "A",
+      "tag_cn_long": "角色手持裱花袋。"
     },
     {
       "name": "holding spatula",
@@ -1622,9 +1622,9 @@
       "wiki_url": "/wiki_pages/holding_spatula",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持锅铲",
+      "confidence": "B",
+      "tag_cn_long": "角色手持锅铲或刮刀。"
     },
     {
       "name": "holding tongs",
@@ -1632,9 +1632,9 @@
       "wiki_url": "/wiki_pages/holding_tongs",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持夹子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持夹子。"
     },
     {
       "name": "holding whisk",
@@ -1642,9 +1642,9 @@
       "wiki_url": "/wiki_pages/holding_whisk",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持打蛋器",
+      "confidence": "A",
+      "tag_cn_long": "角色手持打蛋器。"
     },
     {
       "name": "holding bowl",
@@ -1652,9 +1652,9 @@
       "wiki_url": "/wiki_pages/holding_bowl",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持碗",
+      "confidence": "A",
+      "tag_cn_long": "角色手持碗。"
     },
     {
       "name": "holding plate",
@@ -1672,9 +1672,9 @@
       "wiki_url": "/wiki_pages/holding_saucer",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持茶托",
+      "confidence": "A",
+      "tag_cn_long": "角色手持茶托（小碟子）。"
     },
     {
       "name": "holding tray",
@@ -1682,9 +1682,9 @@
       "wiki_url": "/wiki_pages/holding_tray",
       "category_path": "Kitchenware and Utensils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持托盘",
+      "confidence": "A",
+      "tag_cn_long": "角色手持托盘。"
     },
     {
       "name": "holding magnifying glass",
@@ -1692,9 +1692,9 @@
       "wiki_url": "/wiki_pages/holding_magnifying_glass",
       "category_path": "Lab and Research",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持放大镜",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把放大镜。"
     },
     {
       "name": "holding telescope",
@@ -1702,9 +1702,9 @@
       "wiki_url": "/wiki_pages/holding_telescope",
       "category_path": "Lab and Research",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持望远镜",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一架望远镜。"
     },
     {
       "name": "holding test tube",
@@ -1712,9 +1712,9 @@
       "wiki_url": "/wiki_pages/holding_test_tube",
       "category_path": "Lab and Research",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持试管",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一支试管。"
     },
     {
       "name": "holding vial",
@@ -1722,9 +1722,9 @@
       "wiki_url": "/wiki_pages/holding_vial",
       "category_path": "Lab and Research",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持小瓶",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个小瓶子。"
     },
     {
       "name": "holding candle",
@@ -1732,9 +1732,9 @@
       "wiki_url": "/wiki_pages/holding_candle",
       "category_path": "Lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持蜡烛",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一根蜡烛。"
     },
     {
       "name": "holding candlestand",
@@ -1742,9 +1742,9 @@
       "wiki_url": "/wiki_pages/holding_candlestand",
       "category_path": "Lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持烛台",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个烛台。"
     },
     {
       "name": "holding flashlight",
@@ -1752,9 +1752,9 @@
       "wiki_url": "/wiki_pages/holding_flashlight",
       "category_path": "Lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持手电筒",
+      "confidence": "A",
+      "tag_cn_long": "角色手持手电筒。"
     },
     {
       "name": "holding lantern",
@@ -1762,9 +1762,9 @@
       "wiki_url": "/wiki_pages/holding_lantern",
       "category_path": "Lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持灯笼",
+      "confidence": "A",
+      "tag_cn_long": "角色手持灯笼。"
     },
     {
       "name": "holding torch",
@@ -1772,9 +1772,9 @@
       "wiki_url": "/wiki_pages/holding_torch",
       "category_path": "Lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持火炬",
+      "confidence": "A",
+      "tag_cn_long": "角色手持火炬。"
     },
     {
       "name": "holding bandages",
@@ -1782,9 +1782,9 @@
       "wiki_url": "/wiki_pages/holding_bandages",
       "category_path": "Medical Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持绷带",
+      "confidence": "A",
+      "tag_cn_long": "角色手持绷带。"
     },
     {
       "name": "holding bandaid",
@@ -1792,9 +1792,9 @@
       "wiki_url": "/wiki_pages/holding_bandaid",
       "category_path": "Medical Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持创可贴",
+      "confidence": "A",
+      "tag_cn_long": "角色手持创可贴。"
     },
     {
       "name": "holding pill",
@@ -1802,9 +1802,9 @@
       "wiki_url": "/wiki_pages/holding_pill",
       "category_path": "Medical Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持药片",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一粒药片。"
     },
     {
       "name": "holding pregnancy test",
@@ -1812,9 +1812,9 @@
       "wiki_url": "/wiki_pages/holding_pregnancy_test",
       "category_path": "Medical Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持验孕棒",
+      "confidence": "A",
+      "tag_cn_long": "角色手持验孕棒。"
     },
     {
       "name": "holding scalpel",
@@ -1822,9 +1822,9 @@
       "wiki_url": "/wiki_pages/holding_scalpel",
       "category_path": "Medical Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持手术刀",
+      "confidence": "A",
+      "tag_cn_long": "角色手持手术刀。"
     },
     {
       "name": "holding stethoscope",
@@ -1832,9 +1832,9 @@
       "wiki_url": "/wiki_pages/holding_stethoscope",
       "category_path": "Medical Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持听诊器",
+      "confidence": "A",
+      "tag_cn_long": "角色手持听诊器。"
     },
     {
       "name": "holding syringe",
@@ -1842,9 +1842,9 @@
       "wiki_url": "/wiki_pages/holding_syringe",
       "category_path": "Medical Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持注射器",
+      "confidence": "A",
+      "tag_cn_long": "角色手持注射器。"
     },
     {
       "name": "holding thermometer",
@@ -1852,9 +1852,9 @@
       "wiki_url": "/wiki_pages/holding_thermometer",
       "category_path": "Medical Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持温度计",
+      "confidence": "A",
+      "tag_cn_long": "角色手持温度计。"
     },
     {
       "name": "holding bow (music)",
@@ -1862,9 +1862,9 @@
       "wiki_url": "/wiki_pages/holding_bow_%28music%29",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持琴弓",
+      "confidence": "A",
+      "tag_cn_long": "角色手持琴弓（乐器用）。"
     },
     {
       "name": "holding drumsticks",
@@ -1872,9 +1872,9 @@
       "wiki_url": "/wiki_pages/holding_drumsticks",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持鼓槌",
+      "confidence": "A",
+      "tag_cn_long": "角色手持鼓槌。"
     },
     {
       "name": "holding instrument",
@@ -1882,9 +1882,9 @@
       "wiki_url": "/wiki_pages/holding_instrument",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持乐器",
+      "confidence": "A",
+      "tag_cn_long": "角色手持某种乐器。"
     },
     {
       "name": "holding bass_guitar",
@@ -1892,9 +1892,9 @@
       "wiki_url": "/wiki_pages/holding_bass_guitar",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持贝斯",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把贝斯吉他。"
     },
     {
       "name": "holding flute",
@@ -1902,9 +1902,9 @@
       "wiki_url": "/wiki_pages/holding_flute",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持长笛",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一支长笛。"
     },
     {
       "name": "holding guitar",
@@ -1912,9 +1912,9 @@
       "wiki_url": "/wiki_pages/holding_guitar",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持吉他",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把吉他，可以是原声或电吉他。"
     },
     {
       "name": "holding lyre",
@@ -1922,9 +1922,9 @@
       "wiki_url": "/wiki_pages/holding_lyre",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持里拉琴",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一架里拉琴。"
     },
     {
       "name": "holding maracas",
@@ -1932,9 +1932,9 @@
       "wiki_url": "/wiki_pages/holding_maracas",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持沙锤",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一对沙锤。"
     },
     {
       "name": "holding saxophone",
@@ -1942,9 +1942,9 @@
       "wiki_url": "/wiki_pages/holding_saxophone",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持萨克斯",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把萨克斯风。"
     },
     {
       "name": "holding trombone",
@@ -1952,9 +1952,9 @@
       "wiki_url": "/wiki_pages/holding_trombone",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持长号",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把长号。"
     },
     {
       "name": "holding trumpet",
@@ -1962,9 +1962,9 @@
       "wiki_url": "/wiki_pages/holding_trumpet",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持小号",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把小号。"
     },
     {
       "name": "holding ukulele",
@@ -1972,9 +1972,9 @@
       "wiki_url": "/wiki_pages/holding_ukulele",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持尤克里里",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把尤克里里。"
     },
     {
       "name": "holding violin",
@@ -1982,9 +1982,9 @@
       "wiki_url": "/wiki_pages/holding_violin",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持小提琴",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把小提琴。"
     },
     {
       "name": "holding plectrum",
@@ -1992,9 +1992,9 @@
       "wiki_url": "/wiki_pages/holding_plectrum",
       "category_path": "Music ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持拨片",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个乐器拨片。"
     },
     {
       "name": "holding creature",
@@ -2002,9 +2002,9 @@
       "wiki_url": "/wiki_pages/holding_creature",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持生物",
+      "confidence": "B",
+      "tag_cn_long": "角色手持一个小动物或生物。"
     },
     {
       "name": "holding bouquet",
@@ -2012,9 +2012,9 @@
       "wiki_url": "/wiki_pages/holding_bouquet",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持花束",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一束鲜花。"
     },
     {
       "name": "holding branch",
@@ -2022,9 +2022,9 @@
       "wiki_url": "/wiki_pages/holding_branch",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持树枝",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一根树枝。"
     },
     {
       "name": "holding clover",
@@ -2032,9 +2032,9 @@
       "wiki_url": "/wiki_pages/holding_clover",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持三叶草",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一片三叶草。"
     },
     {
       "name": "holding flower pot",
@@ -2042,9 +2042,9 @@
       "wiki_url": "/wiki_pages/holding_flower_pot",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持花盆",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个花盆。"
     },
     {
       "name": "holding flower",
@@ -2052,9 +2052,9 @@
       "wiki_url": "/wiki_pages/holding_flower",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持花",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一朵或多朵花。"
     },
     {
       "name": "holding leaf",
@@ -2062,9 +2062,9 @@
       "wiki_url": "/wiki_pages/holding_leaf",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持叶子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一片叶子。"
     },
     {
       "name": "holding mistletoe",
@@ -2072,9 +2072,9 @@
       "wiki_url": "/wiki_pages/holding_mistletoe",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持槲寄生",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一枝槲寄生，常与圣诞亲吻传统相关。"
     },
     {
       "name": "holding petal",
@@ -2082,9 +2082,9 @@
       "wiki_url": "/wiki_pages/holding_petal",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持花瓣",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一片花瓣。"
     },
     {
       "name": "holding plant",
@@ -2092,9 +2092,9 @@
       "wiki_url": "/wiki_pages/holding_plant",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持植物",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一株植物。"
     },
     {
       "name": "holding stick",
@@ -2102,9 +2102,9 @@
       "wiki_url": "/wiki_pages/holding_stick",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持棍",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一根棍子。"
     },
     {
       "name": "holding wreath",
@@ -2112,9 +2112,9 @@
       "wiki_url": "/wiki_pages/holding_wreath",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持花环",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一个花环。"
     },
     {
       "name": "holding animal",
@@ -2122,9 +2122,9 @@
       "wiki_url": "/wiki_pages/holding_animal",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持动物",
+      "confidence": "A",
+      "tag_cn_long": "角色手里抱着或拿着一只动物。"
     },
     {
       "name": "holding bird",
@@ -2132,9 +2132,9 @@
       "wiki_url": "/wiki_pages/holding_bird",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持鸟",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一只鸟。"
     },
     {
       "name": "holding cat",
@@ -2142,9 +2142,9 @@
       "wiki_url": "/wiki_pages/holding_cat",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持猫",
+      "confidence": "A",
+      "tag_cn_long": "角色手里抱着一只猫。"
     },
     {
       "name": "holding dog",
@@ -2152,9 +2152,9 @@
       "wiki_url": "/wiki_pages/holding_dog",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持狗",
+      "confidence": "A",
+      "tag_cn_long": "角色手里抱着一只狗。"
     },
     {
       "name": "holding fish",
@@ -2162,9 +2162,9 @@
       "wiki_url": "/wiki_pages/holding_fish",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持鱼",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一条鱼。"
     },
     {
       "name": "holding frog",
@@ -2172,9 +2172,9 @@
       "wiki_url": "/wiki_pages/holding_frog",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持蛙",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一只青蛙。"
     },
     {
       "name": "holding rabbit",
@@ -2182,9 +2182,9 @@
       "wiki_url": "/wiki_pages/holding_rabbit",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持兔",
+      "confidence": "A",
+      "tag_cn_long": "角色手里抱着一只兔子。"
     },
     {
       "name": "holding snake",
@@ -2192,9 +2192,9 @@
       "wiki_url": "/wiki_pages/holding_snake",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持蛇",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一条蛇。"
     },
     {
       "name": "holding crystal",
@@ -2202,9 +2202,9 @@
       "wiki_url": "/wiki_pages/holding_crystal",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持水晶",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一块水晶。"
     },
     {
       "name": "holding gem",
@@ -2212,9 +2212,9 @@
       "wiki_url": "/wiki_pages/holding_gem",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持宝石",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一颗宝石。"
     },
     {
       "name": "holding rock",
@@ -2222,9 +2222,9 @@
       "wiki_url": "/wiki_pages/holding_rock",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持石",
+      "confidence": "A",
+      "tag_cn_long": "角色手拿着一块石头。"
     },
     {
       "name": "holding feather",
@@ -2232,9 +2232,9 @@
       "wiki_url": "/wiki_pages/holding_feather",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持羽毛",
+      "confidence": "A",
+      "tag_cn_long": "角色手里拿着一根羽毛。"
     },
     {
       "name": "holding shell",
@@ -2242,9 +2242,9 @@
       "wiki_url": "/wiki_pages/holding_shell",
       "category_path": "Nature",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持贝壳",
+      "confidence": "A",
+      "tag_cn_long": "角色手拿一个贝壳。"
     },
     {
       "name": "holding drawing",
@@ -2252,9 +2252,9 @@
       "wiki_url": "/wiki_pages/holding_drawing",
       "category_path": "Painting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持画",
+      "confidence": "A",
+      "tag_cn_long": "角色手拿一幅画。"
     },
     {
       "name": "holding drawing tablet",
@@ -2262,9 +2262,9 @@
       "wiki_url": "/wiki_pages/holding_drawing_tablet",
       "category_path": "Painting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持绘图板",
+      "confidence": "A",
+      "tag_cn_long": "角色手拿一块绘图板（数位板）。"
     },
     {
       "name": "holding paint palette",
@@ -2272,9 +2272,9 @@
       "wiki_url": "/wiki_pages/holding_paint_palette",
       "category_path": "Painting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持调色板",
+      "confidence": "A",
+      "tag_cn_long": "角色手拿一个调色板。"
     },
     {
       "name": "holding paintbrush",
@@ -2282,9 +2282,9 @@
       "wiki_url": "/wiki_pages/holding_paintbrush",
       "category_path": "Painting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持画笔",
+      "confidence": "A",
+      "tag_cn_long": "角色手拿一支画笔。"
     },
     {
       "name": "holding sketchbook",
@@ -2292,9 +2292,9 @@
       "wiki_url": "/wiki_pages/holding_sketchbook",
       "category_path": "Painting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持速写本",
+      "confidence": "A",
+      "tag_cn_long": "角色手拿一个速写本。"
     },
     {
       "name": "holding stylus",
@@ -2302,9 +2302,9 @@
       "wiki_url": "/wiki_pages/holding_stylus",
       "category_path": "Painting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿触控笔",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着触控笔。"
     },
     {
       "name": "holding paper",
@@ -2312,9 +2312,9 @@
       "wiki_url": "/wiki_pages/holding_paper",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿纸",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一张纸。"
     },
     {
       "name": "holding book",
@@ -2322,9 +2322,9 @@
       "wiki_url": "/wiki_pages/holding_book",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿书",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一本书。"
     },
     {
       "name": "holding magazine",
@@ -2332,9 +2332,9 @@
       "wiki_url": "/wiki_pages/holding_magazine",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿杂志",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一本杂志。"
     },
     {
       "name": "holding manga",
@@ -2342,9 +2342,9 @@
       "wiki_url": "/wiki_pages/holding_manga",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿漫画",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一本漫画书。"
     },
     {
       "name": "holding newspaper",
@@ -2352,9 +2352,9 @@
       "wiki_url": "/wiki_pages/holding_newspaper",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿报纸",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一张报纸。"
     },
     {
       "name": "holding scroll",
@@ -2362,9 +2362,9 @@
       "wiki_url": "/wiki_pages/holding_scroll",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握卷轴",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一幅卷轴。"
     },
     {
       "name": "holding diploma",
@@ -2372,9 +2372,9 @@
       "wiki_url": "/wiki_pages/holding_diploma",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿文凭",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一张毕业文凭。"
     },
     {
       "name": "holding id card",
@@ -2382,9 +2382,9 @@
       "wiki_url": "/wiki_pages/holding_id_card",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿身份证",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一张身份证。"
     },
     {
       "name": "holding ticket",
@@ -2392,9 +2392,9 @@
       "wiki_url": "/wiki_pages/holding_ticket",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿票",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一张票（如门票、车票）。"
     },
     {
       "name": "holding envelope",
@@ -2402,9 +2402,9 @@
       "wiki_url": "/wiki_pages/holding_envelope",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿信封",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个信封。"
     },
     {
       "name": "holding letter",
@@ -2412,9 +2412,9 @@
       "wiki_url": "/wiki_pages/holding_letter",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿信",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一封信。"
     },
     {
       "name": "holding notebook",
@@ -2422,9 +2422,9 @@
       "wiki_url": "/wiki_pages/holding_notebook",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿笔记本",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个笔记本。"
     },
     {
       "name": "holding notepad",
@@ -2432,9 +2432,9 @@
       "wiki_url": "/wiki_pages/holding_notepad",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿便签本",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个便签本。"
     },
     {
       "name": "holding folder",
@@ -2442,9 +2442,9 @@
       "wiki_url": "/wiki_pages/holding_folder",
       "category_path": "Paper and Documents ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿文件夹",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个文件夹。"
     },
     {
       "name": "holding ema",
@@ -2452,9 +2452,9 @@
       "wiki_url": "/wiki_pages/holding_ema",
       "category_path": "Religious and Cultural",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿绘马",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一块绘马（日本神社的许愿木牌）。"
     },
     {
       "name": "holding gohei",
@@ -2462,9 +2462,9 @@
       "wiki_url": "/wiki_pages/holding_gohei",
       "category_path": "Religious and Cultural",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿御币",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着御币（神道教祭祀用的纸垂木棒）。"
     },
     {
       "name": "holding ofuda",
@@ -2472,9 +2472,9 @@
       "wiki_url": "/wiki_pages/holding_ofuda",
       "category_path": "Religious and Cultural",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿护符",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一张护符（神道教或佛教的符咒）。"
     },
     {
       "name": "holding omikuji",
@@ -2482,9 +2482,9 @@
       "wiki_url": "/wiki_pages/holding_omikuji",
       "category_path": "Religious and Cultural",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿签文",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一张神签（神社抽签的纸条）。"
     },
     {
       "name": "holding tanzaku",
@@ -2492,9 +2492,9 @@
       "wiki_url": "/wiki_pages/holding_tanzaku",
       "category_path": "Religious and Cultural",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿短册",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根短册（写诗或愿望的窄长纸条）。"
     },
     {
       "name": "holding cross",
@@ -2502,9 +2502,9 @@
       "wiki_url": "/wiki_pages/holding_cross",
       "category_path": "Religious and Cultural",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持十字架",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个十字架。"
     },
     {
       "name": "holding crown",
@@ -2512,9 +2512,9 @@
       "wiki_url": "/wiki_pages/holding_crown",
       "category_path": "Religious and Cultural",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持王冠",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一顶王冠。"
     },
     {
       "name": "holding scepter",
@@ -2522,9 +2522,9 @@
       "wiki_url": "/wiki_pages/holding_scepter",
       "category_path": "Religious and Cultural",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持权杖",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一根权杖。"
     },
     {
       "name": "holding condom",
@@ -2532,9 +2532,9 @@
       "wiki_url": "/wiki_pages/holding_condom",
       "category_path": "Sexual Intercourse",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持避孕套",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个避孕套。"
     },
     {
       "name": "holding riding crop",
@@ -2542,9 +2542,9 @@
       "wiki_url": "/wiki_pages/holding_riding_crop",
       "category_path": "Sexual Intercourse",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持马鞭",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一根马鞭。"
     },
     {
       "name": "holding sex toy",
@@ -2552,9 +2552,9 @@
       "wiki_url": "/wiki_pages/holding_sex_toy",
       "category_path": "Sexual Intercourse",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持情趣玩具",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个情趣玩具。"
     },
     {
       "name": "holding cigar",
@@ -2562,9 +2562,9 @@
       "wiki_url": "/wiki_pages/holding_cigar",
       "category_path": "Smoking ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持雪茄",
+      "confidence": "A",
+      "tag_cn_long": "角色手中夹着一根雪茄。"
     },
     {
       "name": "holding cigarette pack",
@@ -2572,9 +2572,9 @@
       "wiki_url": "/wiki_pages/holding_cigarette_pack",
       "category_path": "Smoking ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持香烟盒",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一包香烟。"
     },
     {
       "name": "holding cigarette",
@@ -2582,9 +2582,9 @@
       "wiki_url": "/wiki_pages/holding_cigarette",
       "category_path": "Smoking ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持香烟",
+      "confidence": "A",
+      "tag_cn_long": "角色手指间夹着一根点燃的香烟。"
     },
     {
       "name": "holding lighter",
@@ -2592,9 +2592,9 @@
       "wiki_url": "/wiki_pages/holding_lighter",
       "category_path": "Smoking ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持打火机",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一只打火机。"
     },
     {
       "name": "holding smoking pipe",
@@ -2602,9 +2602,9 @@
       "wiki_url": "/wiki_pages/holding_smoking_pipe",
       "category_path": "Smoking ",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持烟斗",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根烟斗。"
     },
     {
       "name": "holding ball",
@@ -2612,9 +2612,9 @@
       "wiki_url": "/wiki_pages/holding_ball",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持球",
+      "confidence": "A",
+      "tag_cn_long": "角色手中抱着一个球。"
     },
     {
       "name": "holding dumbbell",
@@ -2622,9 +2622,9 @@
       "wiki_url": "/wiki_pages/holding_dumbbell",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持哑铃",
+      "confidence": "A",
+      "tag_cn_long": "角色手中举着一只哑铃。"
     },
     {
       "name": "holding golf club",
@@ -2632,9 +2632,9 @@
       "wiki_url": "/wiki_pages/holding_golf_club",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持高尔夫球杆",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一根高尔夫球杆。"
     },
     {
       "name": "holding jump rope",
@@ -2642,9 +2642,9 @@
       "wiki_url": "/wiki_pages/holding_jump_rope",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持跳绳",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一条跳绳。"
     },
     {
       "name": "holding racket",
@@ -2652,9 +2652,9 @@
       "wiki_url": "/wiki_pages/holding_racket",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持球拍",
+      "confidence": "B",
+      "tag_cn_long": "角色手中拿着一只球拍（网球拍或羽毛球拍等）。"
     },
     {
       "name": "holding badminton racket",
@@ -2662,9 +2662,9 @@
       "wiki_url": "/wiki_pages/holding_badminton_racket",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持羽毛球拍",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一只羽毛球拍。"
     },
     {
       "name": "holding tennis racket",
@@ -2672,9 +2672,9 @@
       "wiki_url": "/wiki_pages/holding_tennis_racket",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持网球拍",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一只网球拍。"
     },
     {
       "name": "holding skateboard",
@@ -2682,9 +2682,9 @@
       "wiki_url": "/wiki_pages/holding_skateboard",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持滑板",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一块滑板。"
     },
     {
       "name": "holding stopwatch",
@@ -2692,9 +2692,9 @@
       "wiki_url": "/wiki_pages/holding_stopwatch",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持秒表",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个秒表。"
     },
     {
       "name": "holding surfboard",
@@ -2702,9 +2702,9 @@
       "wiki_url": "/wiki_pages/holding_surfboard",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持冲浪板",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一块冲浪板。"
     },
     {
       "name": "holding whistle",
@@ -2712,9 +2712,9 @@
       "wiki_url": "/wiki_pages/holding_whistle",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持哨子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一只哨子。"
     },
     {
       "name": "holding butterfly net",
@@ -2722,9 +2722,9 @@
       "wiki_url": "/wiki_pages/holding_butterfly_net",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持捕虫网",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一个捕蝶网。"
     },
     {
       "name": "holding fishing rod",
@@ -2732,9 +2732,9 @@
       "wiki_url": "/wiki_pages/holding_fishing_rod",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持钓竿",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根钓鱼竿。"
     },
     {
       "name": "holding oar",
@@ -2742,9 +2742,9 @@
       "wiki_url": "/wiki_pages/holding_oar",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持船桨",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一支船桨。"
     },
     {
       "name": "holding paddle",
@@ -2752,9 +2752,9 @@
       "wiki_url": "/wiki_pages/holding_paddle",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持桨",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一支桨（如皮划艇桨）。"
     },
     {
       "name": "holding swim ring",
@@ -2762,9 +2762,9 @@
       "wiki_url": "/wiki_pages/holding_swim_ring",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持游泳圈",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个游泳圈。"
     },
     {
       "name": "holding pom poms",
@@ -2772,9 +2772,9 @@
       "wiki_url": "/wiki_pages/holding_pom_poms",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持花球",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着啦啦队用的彩球。"
     },
     {
       "name": "holding trophy",
@@ -2782,9 +2782,9 @@
       "wiki_url": "/wiki_pages/holding_trophy",
       "category_path": "Sports and Recreation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持奖杯",
+      "confidence": "A",
+      "tag_cn_long": "角色手中举着一个奖杯。"
     },
     {
       "name": "holding chalk",
@@ -2792,9 +2792,9 @@
       "wiki_url": "/wiki_pages/holding_chalk",
       "category_path": "Stationery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持粉笔",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一支粉笔。"
     },
     {
       "name": "holding crayon",
@@ -2802,9 +2802,9 @@
       "wiki_url": "/wiki_pages/holding_crayon",
       "category_path": "Stationery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持蜡笔",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一支蜡笔。"
     },
     {
       "name": "holding marker",
@@ -2812,9 +2812,9 @@
       "wiki_url": "/wiki_pages/holding_marker",
       "category_path": "Stationery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持马克笔",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿一支马克笔。"
     },
     {
       "name": "holding pen",
@@ -2822,9 +2822,9 @@
       "wiki_url": "/wiki_pages/holding_pen",
       "category_path": "Stationery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持笔",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一支笔（钢笔、圆珠笔等）。"
     },
     {
       "name": "holding pencil",
@@ -2832,9 +2832,9 @@
       "wiki_url": "/wiki_pages/holding_pencil",
       "category_path": "Stationery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持铅笔",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一支铅笔。"
     },
     {
       "name": "holding quill",
@@ -2842,9 +2842,9 @@
       "wiki_url": "/wiki_pages/holding_quill",
       "category_path": "Stationery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持羽毛笔",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一支羽毛笔。"
     },
     {
       "name": "holding ruler",
@@ -2852,9 +2852,9 @@
       "wiki_url": "/wiki_pages/holding_ruler",
       "category_path": "Stationery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持尺子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一把尺子。"
     },
     {
       "name": "holding scissors",
@@ -2862,9 +2862,9 @@
       "wiki_url": "/wiki_pages/holding_scissors",
       "category_path": "Stationery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持剪刀",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一把剪刀。"
     },
     {
       "name": "holding pointer",
@@ -2872,9 +2872,9 @@
       "wiki_url": "/wiki_pages/holding_pointer",
       "category_path": "Stationery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持教鞭",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根教鞭或指示棒。"
     },
     {
       "name": "holding weapon",
@@ -2882,9 +2882,9 @@
       "wiki_url": "/wiki_pages/holding_weapon",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持武器",
+      "confidence": "A",
+      "tag_cn_long": "角色手中持有某种武器。"
     },
     {
       "name": "holding crowbar",
@@ -2892,9 +2892,9 @@
       "wiki_url": "/wiki_pages/holding_crowbar",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持撬棍",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一根撬棍。"
     },
     {
       "name": "holding hammer",
@@ -2902,9 +2902,9 @@
       "wiki_url": "/wiki_pages/holding_hammer",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持锤",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把锤子。"
     },
     {
       "name": "holding mallet",
@@ -2912,9 +2912,9 @@
       "wiki_url": "/wiki_pages/holding_mallet",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持木槌",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把木槌。"
     },
     {
       "name": "holding pickaxe",
@@ -2922,9 +2922,9 @@
       "wiki_url": "/wiki_pages/holding_pickaxe",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持镐",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把镐。"
     },
     {
       "name": "holding power drill",
@@ -2932,9 +2932,9 @@
       "wiki_url": "/wiki_pages/holding_power_drill",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持电钻",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把电钻。"
     },
     {
       "name": "holding saw",
@@ -2942,9 +2942,9 @@
       "wiki_url": "/wiki_pages/holding_saw",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持锯",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把锯子。"
     },
     {
       "name": "holding screwdriver",
@@ -2952,9 +2952,9 @@
       "wiki_url": "/wiki_pages/holding_screwdriver",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持螺丝刀",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把螺丝刀。"
     },
     {
       "name": "holding shovel",
@@ -2962,9 +2962,9 @@
       "wiki_url": "/wiki_pages/holding_shovel",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持铲",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把铲子。"
     },
     {
       "name": "holding wrench",
@@ -2972,9 +2972,9 @@
       "wiki_url": "/wiki_pages/holding_wrench",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持扳手",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把扳手。"
     },
     {
       "name": "holding axe",
@@ -2982,9 +2982,9 @@
       "wiki_url": "/wiki_pages/holding_axe",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持斧",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把斧头。"
     },
     {
       "name": "holding chainsaw",
@@ -2992,9 +2992,9 @@
       "wiki_url": "/wiki_pages/holding_chainsaw",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持电锯",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把电锯。"
     },
     {
       "name": "holding broom",
@@ -3002,9 +3002,9 @@
       "wiki_url": "/wiki_pages/holding_broom",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持扫帚",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把扫帚。"
     },
     {
       "name": "holding bucket",
@@ -3012,9 +3012,9 @@
       "wiki_url": "/wiki_pages/holding_bucket",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持桶",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个桶。"
     },
     {
       "name": "holding duster",
@@ -3022,9 +3022,9 @@
       "wiki_url": "/wiki_pages/holding_duster",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持掸子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把掸子。"
     },
     {
       "name": "holding dustpan",
@@ -3032,9 +3032,9 @@
       "wiki_url": "/wiki_pages/holding_dustpan",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持簸箕",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个簸箕。"
     },
     {
       "name": "holding mop",
@@ -3042,9 +3042,9 @@
       "wiki_url": "/wiki_pages/holding_mop",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持拖把",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把拖把。"
     },
     {
       "name": "holding sponge",
@@ -3052,9 +3052,9 @@
       "wiki_url": "/wiki_pages/holding_sponge",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持海绵",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一块海绵。"
     },
     {
       "name": "holding hose",
@@ -3062,9 +3062,9 @@
       "wiki_url": "/wiki_pages/holding_hose",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持水管",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根水管。"
     },
     {
       "name": "holding pitchfork",
@@ -3072,9 +3072,9 @@
       "wiki_url": "/wiki_pages/holding_pitchfork",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持干草叉",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把干草叉。"
     },
     {
       "name": "holding sickle",
@@ -3082,9 +3082,9 @@
       "wiki_url": "/wiki_pages/holding_sickle",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持镰刀",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把镰刀。"
     },
     {
       "name": "holding trowel",
@@ -3092,9 +3092,9 @@
       "wiki_url": "/wiki_pages/holding_trowel",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持泥铲",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把泥铲。"
     },
     {
       "name": "holding watering can",
@@ -3102,9 +3102,9 @@
       "wiki_url": "/wiki_pages/holding_watering_can",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持喷壶",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个浇水用的喷壶。"
     },
     {
       "name": "holding cable",
@@ -3112,9 +3112,9 @@
       "wiki_url": "/wiki_pages/holding_cable",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持线缆",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根电线或数据线。"
     },
     {
       "name": "holding nail",
@@ -3122,9 +3122,9 @@
       "wiki_url": "/wiki_pages/holding_nail",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持钉子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一枚钉子。"
     },
     {
       "name": "holding string",
@@ -3132,9 +3132,9 @@
       "wiki_url": "/wiki_pages/holding_string",
       "category_path": "Tools",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持绳子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根细绳或线。"
     },
     {
       "name": "holding card",
@@ -3142,9 +3142,9 @@
       "wiki_url": "/wiki_pages/holding_card",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持卡片",
+      "confidence": "A",
+      "tag_cn_long": "角色手中持有一张或多张卡片（如扑克牌、游戏卡等）。"
     },
     {
       "name": "holding chess piece",
@@ -3152,9 +3152,9 @@
       "wiki_url": "/wiki_pages/holding_chess_piece",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持棋子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一枚国际象棋棋子。"
     },
     {
       "name": "holding dice",
@@ -3162,9 +3162,9 @@
       "wiki_url": "/wiki_pages/holding_dice",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持骰子",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一颗或多颗骰子。"
     },
     {
       "name": "holding mahjong tile",
@@ -3172,9 +3172,9 @@
       "wiki_url": "/wiki_pages/holding_mahjong_tile",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持麻将牌",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一块麻将牌。"
     },
     {
       "name": "holding doll",
@@ -3182,9 +3182,9 @@
       "wiki_url": "/wiki_pages/holding_doll",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持玩偶",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个玩偶或娃娃。"
     },
     {
       "name": "holding pinwheel",
@@ -3192,9 +3192,9 @@
       "wiki_url": "/wiki_pages/holding_pinwheel",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持风车",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个纸风车。"
     },
     {
       "name": "holding rattle",
@@ -3202,9 +3202,9 @@
       "wiki_url": "/wiki_pages/holding_rattle",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持摇铃",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个婴儿摇铃。"
     },
     {
       "name": "holding snow globe",
@@ -3212,9 +3212,9 @@
       "wiki_url": "/wiki_pages/holding_snow_globe",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持雪花球",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个雪花水晶球。"
     },
     {
       "name": "holding stuffed toy",
@@ -3222,9 +3222,9 @@
       "wiki_url": "/wiki_pages/holding_stuffed_toy",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持毛绒玩具",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个毛绒填充玩具。"
     },
     {
       "name": "holding toy gun",
@@ -3232,9 +3232,9 @@
       "wiki_url": "/wiki_pages/holding_toy_gun",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持玩具枪",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把玩具枪。"
     },
     {
       "name": "holding toy",
@@ -3242,9 +3242,9 @@
       "wiki_url": "/wiki_pages/holding_toy",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持玩具",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一个玩具。"
     },
     {
       "name": "holding water gun",
@@ -3252,9 +3252,9 @@
       "wiki_url": "/wiki_pages/holding_water_gun",
       "category_path": "Toys and Games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持水枪",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把水枪。"
     },
     {
       "name": "holding weapon",
@@ -3262,9 +3262,9 @@
       "wiki_url": "/wiki_pages/holding_weapon",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持武器",
+      "confidence": "A",
+      "tag_cn_long": "角色手中持有某种武器。"
     },
     {
       "name": "holding baton (weapon)",
@@ -3272,9 +3272,9 @@
       "wiki_url": "/wiki_pages/holding_baton_%28weapon%29",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持警棍",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根警棍或短棒武器。"
     },
     {
       "name": "holding club",
@@ -3282,9 +3282,9 @@
       "wiki_url": "/wiki_pages/holding_club",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持棍棒",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一根棍棒武器。"
     },
     {
       "name": "holding cleaver",
@@ -3292,9 +3292,9 @@
       "wiki_url": "/wiki_pages/holding_cleaver",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持砍刀",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把砍肉刀或菜刀。"
     },
     {
       "name": "holding dagger",
@@ -3302,9 +3302,9 @@
       "wiki_url": "/wiki_pages/holding_dagger",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持匕首",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一把匕首。"
     },
     {
       "name": "holding flail",
@@ -3312,9 +3312,9 @@
       "wiki_url": "/wiki_pages/holding_flail",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持连枷",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把连枷。"
     },
     {
       "name": "holding knife",
@@ -3322,9 +3322,9 @@
       "wiki_url": "/wiki_pages/holding_knife",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持匕首",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把匕首。"
     },
     {
       "name": "holding knife behind back",
@@ -3332,9 +3332,9 @@
       "wiki_url": "/wiki_pages/holding_knife_behind_back",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背后持匕首",
+      "confidence": "A",
+      "tag_cn_long": "角色手持匕首并藏在背后。"
     },
     {
       "name": "holding kunai",
@@ -3342,9 +3342,9 @@
       "wiki_url": "/wiki_pages/holding_kunai",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持苦无",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一枚苦无。"
     },
     {
       "name": "holding lead pipe",
@@ -3352,9 +3352,9 @@
       "wiki_url": "/wiki_pages/holding_lead_pipe",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持铅管",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一根铅管作为武器。"
     },
     {
       "name": "holding mace",
@@ -3362,9 +3362,9 @@
       "wiki_url": "/wiki_pages/holding_mace",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持钉头锤",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把钉头锤。"
     },
     {
       "name": "holding machete",
@@ -3372,9 +3372,9 @@
       "wiki_url": "/wiki_pages/holding_machete",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持砍刀",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把砍刀。"
     },
     {
       "name": "holding nunchaku",
@@ -3382,9 +3382,9 @@
       "wiki_url": "/wiki_pages/holding_nunchaku",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持双节棍",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一对双节棍。"
     },
     {
       "name": "holding polearm",
@@ -3392,9 +3392,9 @@
       "wiki_url": "/wiki_pages/holding_polearm",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持长柄武器",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一件长柄武器。"
     },
     {
       "name": "holding sword",
@@ -3402,9 +3402,9 @@
       "wiki_url": "/wiki_pages/holding_sword",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持剑",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把剑。"
     },
     {
       "name": "holding bow (weapon)",
@@ -3412,9 +3412,9 @@
       "wiki_url": "/wiki_pages/holding_bow_%28weapon%29",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持弓",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把弓。"
     },
     {
       "name": "holding cannon",
@@ -3422,9 +3422,9 @@
       "wiki_url": "/wiki_pages/holding_cannon",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持火炮",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一门火炮。"
     },
     {
       "name": "holding crossbow",
@@ -3432,9 +3432,9 @@
       "wiki_url": "/wiki_pages/holding_crossbow",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持弩",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把弩。"
     },
     {
       "name": "holding energy gun",
@@ -3442,9 +3442,9 @@
       "wiki_url": "/wiki_pages/holding_energy_gun",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持能量枪",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把能量枪。"
     },
     {
       "name": "holding flamethrower",
@@ -3452,9 +3452,9 @@
       "wiki_url": "/wiki_pages/holding_flamethrower",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持火焰喷射器",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个火焰喷射器。"
     },
     {
       "name": "holding grenade",
@@ -3462,9 +3462,9 @@
       "wiki_url": "/wiki_pages/holding_grenade",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持手雷",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一枚手雷。"
     },
     {
       "name": "holding gun",
@@ -3472,9 +3472,9 @@
       "wiki_url": "/wiki_pages/holding_gun",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持枪",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把枪。"
     },
     {
       "name": "holding rocket launcher",
@@ -3482,9 +3482,9 @@
       "wiki_url": "/wiki_pages/holding_rocket_launcher",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持火箭筒",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个火箭筒。"
     },
     {
       "name": "holding slingshot",
@@ -3492,9 +3492,9 @@
       "wiki_url": "/wiki_pages/holding_slingshot",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持弹弓",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一把弹弓。"
     },
     {
       "name": "holding turret",
@@ -3502,9 +3502,9 @@
       "wiki_url": "/wiki_pages/holding_turret",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持炮塔",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个炮塔。"
     },
     {
       "name": "holding arrow",
@@ -3512,9 +3512,9 @@
       "wiki_url": "/wiki_pages/holding_arrow",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持箭",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着一支箭。"
     },
     {
       "name": "holding bullet",
@@ -3522,9 +3522,9 @@
       "wiki_url": "/wiki_pages/holding_bullet",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握子弹",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着一颗子弹。"
     },
     {
       "name": "holding magazine (weapon)",
@@ -3532,9 +3532,9 @@
       "wiki_url": "/wiki_pages/holding_magazine_%28weapon%29",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握弹匣",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着一个枪械弹匣。"
     },
     {
       "name": "holding shield",
@@ -3542,9 +3542,9 @@
       "wiki_url": "/wiki_pages/holding_shield",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持盾",
+      "confidence": "A",
+      "tag_cn_long": "角色手里举着一面盾牌。"
     },
     {
       "name": "holding sheath",
@@ -3552,9 +3552,9 @@
       "wiki_url": "/wiki_pages/holding_sheath",
       "category_path": "Weapons",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持鞘",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着刀鞘或剑鞘。"
     },
     {
       "name": "holding anchor",
@@ -3562,9 +3562,9 @@
       "wiki_url": "/wiki_pages/holding_anchor",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握锚",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着一个船锚。"
     },
     {
       "name": "holding coin",
@@ -3572,9 +3572,9 @@
       "wiki_url": "/wiki_pages/holding_coin",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握硬币",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着一枚硬币。"
     },
     {
       "name": "holding glowstick",
@@ -3582,9 +3582,9 @@
       "wiki_url": "/wiki_pages/holding_glowstick",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握荧光棒",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着一根荧光棒。"
     },
     {
       "name": "holding key",
@@ -3592,9 +3592,9 @@
       "wiki_url": "/wiki_pages/holding_key",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握钥匙",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着一把钥匙。"
     },
     {
       "name": "holding mini person",
@@ -3602,9 +3602,9 @@
       "wiki_url": "/wiki_pages/holding_mini_person",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持小人",
+      "confidence": "B",
+      "tag_cn_long": "角色手里握着一个微型人物或人偶。"
     },
     {
       "name": "holding money",
@@ -3612,9 +3612,9 @@
       "wiki_url": "/wiki_pages/holding_money",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握钱",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着钱，可能是硬币或纸币。"
     },
     {
       "name": "holding ribbon",
@@ -3622,9 +3622,9 @@
       "wiki_url": "/wiki_pages/holding_ribbon",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握丝带",
+      "confidence": "A",
+      "tag_cn_long": "角色手里握着一条丝带或缎带。"
     },
     {
       "name": "between fingers",
@@ -3632,9 +3632,9 @@
       "wiki_url": "/wiki_pages/between_fingers",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指间夹物",
+      "confidence": "A",
+      "tag_cn_long": "角色用两根手指夹着某物，如香烟、卡片等。"
     },
     {
       "name": "between toes",
@@ -3642,9 +3642,9 @@
       "wiki_url": "/wiki_pages/between_toes",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "趾间夹物",
+      "confidence": "A",
+      "tag_cn_long": "角色用脚趾夹着某物，如头发、刀具等。"
     },
     {
       "name": "grabbing",
@@ -3652,9 +3652,9 @@
       "wiki_url": "/wiki_pages/grabbing",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓取",
+      "confidence": "A",
+      "tag_cn_long": "角色抓住某人或某物，手部呈抓握姿势。"
     },
     {
       "name": "holding behind back",
@@ -3662,9 +3662,9 @@
       "wiki_url": "/wiki_pages/holding_behind_back",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背手持物",
+      "confidence": "A",
+      "tag_cn_long": "角色将某物藏在背后或双手在背后拿着东西。"
     },
     {
       "name": "holding with feet",
@@ -3672,9 +3672,9 @@
       "wiki_url": "/wiki_pages/holding_with_feet",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚持",
+      "confidence": "A",
+      "tag_cn_long": "角色用脚或脚趾夹住某物。"
     },
     {
       "name": "holding with tail",
@@ -3682,9 +3682,9 @@
       "wiki_url": "/wiki_pages/holding_with_tail",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尾持",
+      "confidence": "A",
+      "tag_cn_long": "角色用尾巴卷住或夹住某物。"
     }
   ],
   "total_tags": 353,

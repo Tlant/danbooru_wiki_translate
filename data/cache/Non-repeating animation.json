@@ -1,0 +1,6 @@
+{
+  "tag": "Non-repeating animation",
+  "tag_cn": "非循环动画",
+  "confidence": "A",
+  "tag_cn_long": "播放一次即停止、不循环播放的动画。"
+}

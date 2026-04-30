@@ -1,0 +1,6 @@
+{
+  "tag": "MD5 mismatch",
+  "tag_cn": "MD5不匹配",
+  "confidence": "A",
+  "tag_cn_long": "帖子文件与源文件的MD5哈希值不匹配，可能由于文件被修改或不同版本。"
+}

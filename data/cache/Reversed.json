@@ -1,0 +1,6 @@
+{
+  "tag": "Reversed",
+  "tag_cn": "水平翻转",
+  "confidence": "A",
+  "tag_cn_long": "图像整体左右颠倒，通常是第三方编辑的结果。"
+}

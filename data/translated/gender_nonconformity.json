@@ -54,9 +54,9 @@
       "wiki_url": "/wiki_pages/androgyne_symbol",
       "category_path": "Symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中性符号",
+      "confidence": "A",
+      "tag_cn_long": "一个结合♂和♀的符号，代表性别中立、双性人或非二元性别。"
     },
     {
       "name": "male-female symbol",
@@ -64,9 +64,9 @@
       "wiki_url": "/wiki_pages/male-female_symbol",
       "category_path": "Symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男女符号",
+      "confidence": "A",
+      "tag_cn_long": "一个结合♂和♀的符号，常代表扶她、双性人或性别转换角色。"
     },
     {
       "name": "crossdressing",
@@ -74,9 +74,9 @@
       "wiki_url": "/wiki_pages/crossdressing",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "异装",
+      "confidence": "A",
+      "tag_cn_long": "穿着传统上属于异性服装的行为。"
     },
     {
       "name": "crossdressing (mtf)",
@@ -84,9 +84,9 @@
       "wiki_url": "/wiki_pages/crossdressing_%28mtf%29",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女装",
+      "confidence": "A",
+      "tag_cn_long": "男性角色穿着女性服装的行为。"
     },
     {
       "name": "male maid",
@@ -94,9 +94,9 @@
       "wiki_url": "/wiki_pages/male_maid",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男仆装",
+      "confidence": "A",
+      "tag_cn_long": "男性角色穿着女仆装。"
     },
     {
       "name": "crossdressing (ftm)",
@@ -104,9 +104,9 @@
       "wiki_url": "/wiki_pages/crossdressing_%28ftm%29",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男装",
+      "confidence": "A",
+      "tag_cn_long": "女性角色穿着男性服装的行为。"
     },
     {
       "name": "female butler",
@@ -114,9 +114,9 @@
       "wiki_url": "/wiki_pages/female_butler",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女执事",
+      "confidence": "A",
+      "tag_cn_long": "女性角色穿着男性管家制服。"
     },
     {
       "name": "trap",
@@ -124,9 +124,9 @@
       "wiki_url": "/wiki_pages/trap",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伪娘",
+      "confidence": "A",
+      "tag_cn_long": "外表像女性但实际为男性的角色。"
     },
     {
       "name": "multiple traps",
@@ -134,9 +134,9 @@
       "wiki_url": "/wiki_pages/multiple_traps",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多个伪娘",
+      "confidence": "A",
+      "tag_cn_long": "多个外表像女性的男性角色同时出现。"
     },
     {
       "name": "reverse trap",
@@ -144,9 +144,9 @@
       "wiki_url": "/wiki_pages/reverse_trap",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伪郎",
+      "confidence": "A",
+      "tag_cn_long": "外表像男性但实际为女性的角色。"
     },
     {
       "name": "multiple reverse traps",
@@ -154,9 +154,9 @@
       "wiki_url": "/wiki_pages/multiple_reverse_traps",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多个伪郎",
+      "confidence": "A",
+      "tag_cn_long": "多个外表像男性的女性角色同时出现。"
     },
     {
       "name": "androgynous",
@@ -164,9 +164,9 @@
       "wiki_url": "/wiki_pages/androgynous",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中性",
+      "confidence": "A",
+      "tag_cn_long": "外貌特征模糊性别，难以分辨男女。"
     },
     {
       "name": "bishounen",
@@ -174,9 +174,9 @@
       "wiki_url": "/wiki_pages/bishounen",
       "category_path": "Appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美少年",
+      "confidence": "A",
+      "tag_cn_long": "日语指漂亮的美少年，约13-18岁，外貌超越性别界限。"
     },
     {
       "name": "girly boy",
@@ -184,9 +184,9 @@
       "wiki_url": "/wiki_pages/girly_boy",
       "category_path": "Behavior",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女性化男孩",
+      "confidence": "B",
+      "tag_cn_long": "行为举止女性化的男孩，但外表仍可识别为男性。"
     },
     {
       "name": "tomboy",
@@ -194,9 +194,9 @@
       "wiki_url": "/wiki_pages/tomboy",
       "category_path": "Behavior",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假小子",
+      "confidence": "A",
+      "tag_cn_long": "行为像男孩的女孩，通常好动、运动型，穿着中性或男装。"
     },
     {
       "name": "male with breasts",
@@ -204,9 +204,9 @@
       "wiki_url": "/wiki_pages/male_with_breasts",
       "category_path": "Anatomy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男乳",
+      "confidence": "A",
+      "tag_cn_long": "生理男性但拥有女性般的乳房。"
     },
     {
       "name": "manboobs",
@@ -214,9 +214,9 @@
       "wiki_url": "/wiki_pages/manboobs",
       "category_path": "Anatomy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男乳",
+      "confidence": "A",
+      "tag_cn_long": "男性胸部呈现类似女性乳房的脂肪或肌肉形态。"
     },
     {
       "name": "gynecomastia",
@@ -224,9 +224,9 @@
       "wiki_url": "/wiki_pages/gynecomastia",
       "category_path": "Anatomy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男性乳房发育症",
+      "confidence": "A",
+      "tag_cn_long": "医学上男性乳房异常发育，呈现女性乳房形状。"
     },
     {
       "name": "puffy chest",
@@ -234,9 +234,9 @@
       "wiki_url": "/wiki_pages/puffy_chest",
       "category_path": "Anatomy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "微隆胸",
+      "confidence": "B",
+      "tag_cn_long": "男性裸露胸部呈现类似少女发育初期的微隆起状态。"
     },
     {
       "name": "small penis",
@@ -244,9 +244,9 @@
       "wiki_url": "/wiki_pages/small_penis",
       "category_path": "Anatomy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小阴茎",
+      "confidence": "A",
+      "tag_cn_long": "比正常成年男性小的阴茎，长度通常不长于角色的中指。"
     },
     {
       "name": "feminization",
@@ -254,9 +254,9 @@
       "wiki_url": "/wiki_pages/feminization",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女性化",
+      "confidence": "A",
+      "tag_cn_long": "一种性癖，通常涉及将男性打扮或培养成女性化，或让假小子女性变得女性化。"
     },
     {
       "name": "before feminization",
@@ -264,9 +264,9 @@
       "wiki_url": "/wiki_pages/before_feminization",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女性化前",
+      "confidence": "A",
+      "tag_cn_long": "角色尚未经历女性化改造前的形象。"
     },
     {
       "name": "forced feminization",
@@ -274,9 +274,9 @@
       "wiki_url": "/wiki_pages/forced_feminization",
       "category_path": "Fetishes",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "强制女性化",
+      "confidence": "A",
+      "tag_cn_long": "强迫角色进行女性化改造，通常作为支配或羞辱手段。"
     },
     {
       "name": "hormone replacement therapy",
@@ -284,9 +284,9 @@
       "wiki_url": "/wiki_pages/hormone_replacement_therapy",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "激素替代疗法",
+      "confidence": "A",
+      "tag_cn_long": "通过服用激素改变性征的医学疗法，常用于跨性别者或女性化/男性化。"
     },
     {
       "name": "estrogen",
@@ -294,9 +294,9 @@
       "wiki_url": "/wiki_pages/estrogen",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雌激素",
+      "confidence": "A",
+      "tag_cn_long": "一种女性激素，用于女性化治疗。"
     },
     {
       "name": "estradiol",
@@ -304,9 +304,9 @@
       "wiki_url": "/wiki_pages/estradiol",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雌二醇",
+      "confidence": "A",
+      "tag_cn_long": "一种雌激素，常用于性别转换相关的激素治疗。"
     },
     {
       "name": "chastity cage",
@@ -314,9 +314,9 @@
       "wiki_url": "/wiki_pages/chastity_cage",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贞操笼",
+      "confidence": "A",
+      "tag_cn_long": "一种可锁定在阴茎上的装置，用于防止性接触或勃起，常用于性玩具场景。"
     },
     {
       "name": "small chastity cage",
@@ -324,9 +324,9 @@
       "wiki_url": "/wiki_pages/small_chastity_cage",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小贞操笼",
+      "confidence": "A",
+      "tag_cn_long": "尺寸较小的贞操笼，通常用于更紧密的约束。"
     },
     {
       "name": "flat chastity cage",
@@ -334,9 +334,9 @@
       "wiki_url": "/wiki_pages/flat_chastity_cage",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扁平贞操笼",
+      "confidence": "A",
+      "tag_cn_long": "一种扁平设计的贞操笼，将阴茎压平，通常带有孔洞。"
     },
     {
       "name": "breast expansion",
@@ -344,9 +344,9 @@
       "wiki_url": "/wiki_pages/breast_expansion",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房膨胀",
+      "confidence": "A",
+      "tag_cn_long": "角色乳房正在变大或已明显变大。"
     },
     {
       "name": "penis reduction",
@@ -354,9 +354,9 @@
       "wiki_url": "/wiki_pages/penis_reduction",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎缩小",
+      "confidence": "A",
+      "tag_cn_long": "通过药物或手术使阴茎变小的过程，常出现在性别转换或特殊癖好中。"
     },
     {
       "name": "sexuality change",
@@ -364,9 +364,9 @@
       "wiki_url": "/wiki_pages/sexuality_change",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "性取向改变",
+      "confidence": "B",
+      "tag_cn_long": "角色性取向发生变化的情节或属性，可能涉及从异性恋变为同性恋等。"
     },
     {
       "name": "josou seme",
@@ -374,9 +374,9 @@
       "wiki_url": "/wiki_pages/josou_seme",
       "category_path": "Fetishes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女装攻",
+      "confidence": "A",
+      "tag_cn_long": "穿着女装的角色在性关系中扮演主动方（攻）。"
     },
     {
       "name": "femboy hooters (meme)",
@@ -384,9 +384,9 @@
       "wiki_url": "/wiki_pages/femboy_hooters_%28meme%29",
       "category_path": "Culture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伪娘Hooters",
+      "confidence": "B",
+      "tag_cn_long": "一个网络迷因，想象Hooters餐厅由伪娘员工运营，并衍生出其他主题餐厅版本。"
     },
     {
       "name": "boykisser",
@@ -394,9 +394,9 @@
       "wiki_url": "/wiki_pages/boykisser",
       "category_path": "Culture",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "接吻男孩",
+      "confidence": "B",
+      "tag_cn_long": "一个网络迷因或角色形象，特指喜欢亲吻其他男孩的男孩。"
     },
     {
       "name": "genderswap",
@@ -404,9 +404,9 @@
       "wiki_url": "/wiki_pages/genderswap",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "性转",
+      "confidence": "A",
+      "tag_cn_long": "角色从一种性别转变为另一种性别，通常为魔法或虚构方式，不涉及医疗手段。"
     },
     {
       "name": "futanari",
@@ -414,9 +414,9 @@
       "wiki_url": "/wiki_pages/futanari",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扶她",
+      "confidence": "A",
+      "tag_cn_long": "拥有男性生殖器的女性角色，是一种虚构的双性人形象。"
     },
     {
       "name": "cuntboy",
@@ -424,9 +424,9 @@
       "wiki_url": "/wiki_pages/cuntboy",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男体女阴",
+      "confidence": "B",
+      "tag_cn_long": "拥有男性身体但只有女性生殖器的角色。"
     },
     {
       "name": "male futanari",
@@ -434,9 +434,9 @@
       "wiki_url": "/wiki_pages/male_futanari",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男性扶她",
+      "confidence": "A",
+      "tag_cn_long": "拥有男性体型但同时具有男性和女性生殖器的角色。"
     },
     {
       "name": "bimbofication",
@@ -444,9 +444,9 @@
       "wiki_url": "/wiki_pages/bimbofication",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脑残化",
+      "confidence": "B",
+      "tag_cn_long": "一种性癖，将角色（通常是女性）转变为愚蠢、过度性感的“碧池”形象，包括夸张的化妆和性征。"
     }
   ],
   "total_tags": 40,

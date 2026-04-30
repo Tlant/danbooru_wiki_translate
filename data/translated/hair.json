@@ -48,9 +48,9 @@
       "wiki_url": "/wiki_pages/biting_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咬头发",
+      "confidence": "A",
+      "tag_cn_long": "角色咬住自己或他人的头发，通常带有俏皮或诱惑意味。"
     },
     {
       "name": "eating hair",
@@ -58,9 +58,9 @@
       "wiki_url": "/wiki_pages/eating_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吃头发",
+      "confidence": "A",
+      "tag_cn_long": "角色咀嚼自己或他人的头发。"
     },
     {
       "name": "grabbing another's hair",
@@ -68,9 +68,9 @@
       "wiki_url": "/wiki_pages/grabbing_another%27s_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓他人头发",
+      "confidence": "A",
+      "tag_cn_long": "抓住或拉扯另一个角色的头发。"
     },
     {
       "name": "hairdressing",
@@ -78,9 +78,9 @@
       "wiki_url": "/wiki_pages/hairdressing",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美发",
+      "confidence": "A",
+      "tag_cn_long": "打理头发的活动，包括造型、剪发或洗发等。"
     },
     {
       "name": "braiding hair",
@@ -88,9 +88,9 @@
       "wiki_url": "/wiki_pages/braiding_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "编发",
+      "confidence": "A",
+      "tag_cn_long": "将头发编成辫子的动作。"
     },
     {
       "name": "cutting hair",
@@ -98,9 +98,9 @@
       "wiki_url": "/wiki_pages/cutting_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "剪发",
+      "confidence": "A",
+      "tag_cn_long": "剪掉头发的动作，不论由谁或如何剪。"
     },
     {
       "name": "cutting another's hair",
@@ -108,9 +108,9 @@
       "wiki_url": "/wiki_pages/cutting_another%27s_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "剪他人头发",
+      "confidence": "A",
+      "tag_cn_long": "剪掉他人头发的动作。"
     },
     {
       "name": "cutting own hair",
@@ -118,9 +118,9 @@
       "wiki_url": "/wiki_pages/cutting_own_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自剪头发",
+      "confidence": "A",
+      "tag_cn_long": "自己剪自己头发的动作。"
     },
     {
       "name": "brushing hair",
@@ -128,9 +128,9 @@
       "wiki_url": "/wiki_pages/brushing_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梳头",
+      "confidence": "A",
+      "tag_cn_long": "用梳子或刷子梳理头发的动作。"
     },
     {
       "name": "brushing another's hair",
@@ -138,9 +138,9 @@
       "wiki_url": "/wiki_pages/brushing_another%27s_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "为他人梳头",
+      "confidence": "A",
+      "tag_cn_long": "梳理他人头发的动作。"
     },
     {
       "name": "brushing own hair",
@@ -148,9 +148,9 @@
       "wiki_url": "/wiki_pages/brushing_own_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自己梳头",
+      "confidence": "A",
+      "tag_cn_long": "梳理自己头发的动作。"
     },
     {
       "name": "heartbreak haircut",
@@ -158,9 +158,9 @@
       "wiki_url": "/wiki_pages/heartbreak_haircut",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "失恋剪发",
+      "confidence": "B",
+      "tag_cn_long": "失恋后剪掉头发以象征全新开始的举动。"
     },
     {
       "name": "tying hair",
@@ -168,9 +168,9 @@
       "wiki_url": "/wiki_pages/tying_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扎头发",
+      "confidence": "A",
+      "tag_cn_long": "将头发扎成马尾、双马尾等发型。"
     },
     {
       "name": "hand in own hair",
@@ -178,9 +178,9 @@
       "wiki_url": "/wiki_pages/hand_in_own_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手抚己发",
+      "confidence": "B",
+      "tag_cn_long": "描绘角色将手放入自己头发中的姿态。"
     },
     {
       "name": "adjusting hair",
@@ -188,9 +188,9 @@
       "wiki_url": "/wiki_pages/adjusting_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "整理头发",
+      "confidence": "A",
+      "tag_cn_long": "用手随意整理、拨弄头发的动作。"
     },
     {
       "name": "bunching hair",
@@ -198,9 +198,9 @@
       "wiki_url": "/wiki_pages/bunching_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拢发",
+      "confidence": "B",
+      "tag_cn_long": "用手将部分头发聚拢以模拟某种发型的动作。"
     },
     {
       "name": "hair flip",
@@ -208,9 +208,9 @@
       "wiki_url": "/wiki_pages/hair_flip",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "甩头发",
+      "confidence": "A",
+      "tag_cn_long": "用手将一缕头发甩到一边的动作，通常显得优雅。"
     },
     {
       "name": "grabbing another's hair",
@@ -218,9 +218,9 @@
       "wiki_url": "/wiki_pages/grabbing_another%27s_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓他人头发",
+      "confidence": "A",
+      "tag_cn_long": "抓住或拉扯另一个角色的头发。"
     },
     {
       "name": "tucking hair",
@@ -228,9 +228,9 @@
       "wiki_url": "/wiki_pages/tucking_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "掖发",
+      "confidence": "A",
+      "tag_cn_long": "将头发移到脸旁或耳后的动作。"
     },
     {
       "name": "holding own hair",
@@ -238,9 +238,9 @@
       "wiki_url": "/wiki_pages/holding_own_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握发",
+      "confidence": "B",
+      "tag_cn_long": "用手握住自己头发的动作。"
     },
     {
       "name": "holding another's hair",
@@ -248,9 +248,9 @@
       "wiki_url": "/wiki_pages/holding_another%27s_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握他人发",
+      "confidence": "B",
+      "tag_cn_long": "用手握住他人头发的动作。"
     },
     {
       "name": "ruffling hair",
@@ -258,9 +258,9 @@
       "wiki_url": "/wiki_pages/ruffling_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "揉发",
+      "confidence": "A",
+      "tag_cn_long": "把头发弄乱的动作。"
     },
     {
       "name": "twirling hair",
@@ -268,9 +268,9 @@
       "wiki_url": "/wiki_pages/twirling_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绕头发",
+      "confidence": "A",
+      "tag_cn_long": "用手指缠绕头发，通常表示紧张或害羞。"
     },
     {
       "name": "playing with hair",
@@ -278,9 +278,9 @@
       "wiki_url": "/wiki_pages/playing_with_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玩头发",
+      "confidence": "A",
+      "tag_cn_long": "随意地玩弄头发，如缠绕、甩动等。"
     },
     {
       "name": "playing with another's hair",
@@ -288,9 +288,9 @@
       "wiki_url": "/wiki_pages/playing_with_another%27s_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玩他人头发",
+      "confidence": "A",
+      "tag_cn_long": "玩弄他人头发的动作。"
     },
     {
       "name": "playing with own hair",
@@ -298,9 +298,9 @@
       "wiki_url": "/wiki_pages/playing_with_own_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玩头发",
+      "confidence": "A",
+      "tag_cn_long": "角色用手指缠绕或拨弄自己的头发。"
     },
     {
       "name": "hairjob",
@@ -308,9 +308,9 @@
       "wiki_url": "/wiki_pages/hairjob",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发交",
+      "confidence": "A",
+      "tag_cn_long": "用头发进行性交的行为。"
     },
     {
       "name": "licking another's hair",
@@ -318,9 +318,9 @@
       "wiki_url": "/wiki_pages/licking_another%27s_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "舔发",
+      "confidence": "A",
+      "tag_cn_long": "角色舔舐他人头发的动作。"
     },
     {
       "name": "kissing hair",
@@ -328,9 +328,9 @@
       "wiki_url": "/wiki_pages/kissing_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吻发",
+      "confidence": "A",
+      "tag_cn_long": "角色用嘴唇触碰他人头发的动作，常示爱意。"
     },
     {
       "name": "smelling hair",
@@ -338,9 +338,9 @@
       "wiki_url": "/wiki_pages/smelling_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闻发",
+      "confidence": "A",
+      "tag_cn_long": "角色闻自己或他人头发的动作。"
     },
     {
       "name": "whipping hair",
@@ -348,9 +348,9 @@
       "wiki_url": "/wiki_pages/whipping_hair",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "甩发",
+      "confidence": "A",
+      "tag_cn_long": "角色快速甩头使头发呈弧形飘动，常见于长发湿发。"
     },
     {
       "name": "hair brush",
@@ -358,9 +358,9 @@
       "wiki_url": "/wiki_pages/hair_brush",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发刷",
+      "confidence": "A",
+      "tag_cn_long": "一种用于梳理和造型头发的刷子。"
     },
     {
       "name": "hair dryer",
@@ -368,9 +368,9 @@
       "wiki_url": "/wiki_pages/hair_dryer",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吹风机",
+      "confidence": "A",
+      "tag_cn_long": "手持式电器，用于吹干和造型头发。"
     },
     {
       "name": "shampoo",
@@ -378,9 +378,9 @@
       "wiki_url": "/wiki_pages/shampoo",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洗发水",
+      "confidence": "A",
+      "tag_cn_long": "用于清洁头发的液体或膏状产品。"
     },
     {
       "name": "hair rollers",
@@ -388,9 +388,9 @@
       "wiki_url": "/wiki_pages/hair_rollers",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发卷",
+      "confidence": "A",
+      "tag_cn_long": "用于卷曲或拉直头发的小管状工具，可加热。"
     },
     {
       "name": "curling iron",
@@ -398,9 +398,9 @@
       "wiki_url": "/wiki_pages/curling_iron",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷发棒",
+      "confidence": "A",
+      "tag_cn_long": "通过加热卷曲头发的造型工具。"
     },
     {
       "name": "hair straightener",
@@ -408,9 +408,9 @@
       "wiki_url": "/wiki_pages/hair_straightener",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "直发器",
+      "confidence": "A",
+      "tag_cn_long": "通过加热拉直卷发的电器工具。"
     },
     {
       "name": "arrow through hair",
@@ -418,9 +418,9 @@
       "wiki_url": "/wiki_pages/arrow_through_hair",
       "category_path": "Objects",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿发箭",
+      "confidence": "B",
+      "tag_cn_long": "箭头穿过角色头发的画面。"
     },
     {
       "name": "bun cover",
@@ -428,9 +428,9 @@
       "wiki_url": "/wiki_pages/bun_cover",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发髻罩",
+      "confidence": "A",
+      "tag_cn_long": "装饰用布料或饰物，覆盖在发髻上，如春丽的发饰。"
     },
     {
       "name": "hairpods",
@@ -438,9 +438,9 @@
       "wiki_url": "/wiki_pages/hairpods",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发髻环",
+      "confidence": "B",
+      "tag_cn_long": "硬质材料制成的发髻装饰，如金属环。"
     },
     {
       "name": "comb",
@@ -448,9 +448,9 @@
       "wiki_url": "/wiki_pages/comb",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梳子",
+      "confidence": "A",
+      "tag_cn_long": "带有齿的梳理头发工具。"
     },
     {
       "name": "hair extensions",
@@ -488,9 +488,9 @@
       "wiki_url": "/wiki_pages/hair_bell",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发铃",
+      "confidence": "A",
+      "tag_cn_long": "用作头饰的铃铛。"
     },
     {
       "name": "hair bobbles",
@@ -558,9 +558,9 @@
       "wiki_url": "/wiki_pages/hair_tubes",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发管",
+      "confidence": "B",
+      "tag_cn_long": "一种圆柱形发饰，用于分隔头发束。"
     },
     {
       "name": "frilled hair tubes",
@@ -568,9 +568,9 @@
       "wiki_url": "/wiki_pages/frilled_hair_tubes",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶发管",
+      "confidence": "B",
+      "tag_cn_long": "带有褶边装饰的头发管子饰品，常见于博丽灵梦。"
     },
     {
       "name": "single hair tube",
@@ -578,9 +578,9 @@
       "wiki_url": "/wiki_pages/single_hair_tube",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单发管",
+      "confidence": "A",
+      "tag_cn_long": "角色头发上只戴一个发管。"
     },
     {
       "name": "kanzashi",
@@ -588,9 +588,9 @@
       "wiki_url": "/wiki_pages/kanzashi",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本发簪",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型中使用的装饰性发簪。"
     },
     {
       "name": "hair stick",
@@ -598,9 +598,9 @@
       "wiki_url": "/wiki_pages/hair_stick",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发簪",
+      "confidence": "A",
+      "tag_cn_long": "一种细长条状的头部发饰，用于固定头发或做装饰。"
     },
     {
       "name": "hair tie",
@@ -608,9 +608,9 @@
       "wiki_url": "/wiki_pages/hair_tie",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发圈",
+      "confidence": "A",
+      "tag_cn_long": "用于扎头发的小型弹性带子。"
     },
     {
       "name": "hairband",
@@ -628,9 +628,9 @@
       "wiki_url": "/wiki_pages/hair_weapon",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发武器",
+      "confidence": "A",
+      "tag_cn_long": "头发附着或形成武器形状，如米莉亚·雷奇。"
     },
     {
       "name": "headband",
@@ -638,9 +638,9 @@
       "wiki_url": "/wiki_pages/headband",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头带",
+      "confidence": "A",
+      "tag_cn_long": "横跨前额佩戴的带子，用于吸汗或装饰。"
     },
     {
       "name": "knife in hair",
@@ -648,9 +648,9 @@
       "wiki_url": "/wiki_pages/knife_in_hair",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发插刀",
+      "confidence": "A",
+      "tag_cn_long": "头发中插着一把刀。"
     },
     {
       "name": "scrunchie",
@@ -658,9 +658,9 @@
       "wiki_url": "/wiki_pages/scrunchie",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发圈",
+      "confidence": "A",
+      "tag_cn_long": "一种包有布料的弹性发带，用于扎头发。"
     },
     {
       "name": "wig",
@@ -668,9 +668,9 @@
       "wiki_url": "/wiki_pages/wig",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假发",
+      "confidence": "A",
+      "tag_cn_long": "用于角色扮演或掩盖真实头发的假发套。"
     },
     {
       "name": "facial hair",
@@ -678,9 +678,9 @@
       "wiki_url": "/wiki_pages/facial_hair",
       "category_path": "Facial hair",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胡须",
+      "confidence": "A",
+      "tag_cn_long": "生长在面部的毛发，包括胡子、胡渣等。"
     },
     {
       "name": "beard",
@@ -688,9 +688,9 @@
       "wiki_url": "/wiki_pages/beard",
       "category_path": "Facial hair",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胡子",
+      "confidence": "A",
+      "tag_cn_long": "生长在脸颊、下巴和颈部的胡须。"
     },
     {
       "name": "bearded girl",
@@ -698,9 +698,9 @@
       "wiki_url": "/wiki_pages/bearded_girl",
       "category_path": "Facial hair",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胡子女郎",
+      "confidence": "A",
+      "tag_cn_long": "长有真实胡须的女性角色。"
     },
     {
       "name": "goatee",
@@ -708,9 +708,9 @@
       "wiki_url": "/wiki_pages/goatee",
       "category_path": "Facial hair",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山羊胡",
+      "confidence": "A",
+      "tag_cn_long": "下巴上修剪成尖状或簇状的小胡子。"
     },
     {
       "name": "mustache",
@@ -718,9 +718,9 @@
       "wiki_url": "/wiki_pages/mustache",
       "category_path": "Facial hair",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小胡子",
+      "confidence": "A",
+      "tag_cn_long": "上唇处生长的胡须。"
     },
     {
       "name": "fake mustache",
@@ -728,9 +728,9 @@
       "wiki_url": "/wiki_pages/fake_mustache",
       "category_path": "Facial hair",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假胡须",
+      "confidence": "A",
+      "tag_cn_long": "戴在鼻子下方的人造胡子，常用于女性角色。"
     },
     {
       "name": "stubble",
@@ -738,9 +738,9 @@
       "wiki_url": "/wiki_pages/stubble",
       "category_path": "Facial hair",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胡茬",
+      "confidence": "A",
+      "tag_cn_long": "刚长出的短硬胡须，即胡渣。"
     },
     {
       "name": "cloud hair",
@@ -748,9 +748,9 @@
       "wiki_url": "/wiki_pages/cloud_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "云发",
+      "confidence": "A",
+      "tag_cn_long": "头发呈现或由云朵构成。"
     },
     {
       "name": "chocolate hair",
@@ -758,9 +758,9 @@
       "wiki_url": "/wiki_pages/chocolate_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巧克力发色",
+      "confidence": "B",
+      "tag_cn_long": "指头发为巧克力般的棕色。"
     },
     {
       "name": "crystal hair",
@@ -768,9 +768,9 @@
       "wiki_url": "/wiki_pages/crystal_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水晶发",
+      "confidence": "A",
+      "tag_cn_long": "头发由水晶状宝石构成或具有晶体质感。"
     },
     {
       "name": "energy hair",
@@ -778,9 +778,9 @@
       "wiki_url": "/wiki_pages/energy_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "能量发",
+      "confidence": "A",
+      "tag_cn_long": "头发由非有机能量（如闪电、火焰）构成。"
     },
     {
       "name": "feather hair",
@@ -788,9 +788,9 @@
       "wiki_url": "/wiki_pages/feather_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "羽发",
+      "confidence": "A",
+      "tag_cn_long": "头发中包含从头上长出的羽毛，常见于鸟娘角色。"
     },
     {
       "name": "fiery hair",
@@ -798,9 +798,9 @@
       "wiki_url": "/wiki_pages/fiery_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火发",
+      "confidence": "A",
+      "tag_cn_long": "头发由火焰构成或呈现火焰状。"
     },
     {
       "name": "food-themed hair",
@@ -808,9 +808,9 @@
       "wiki_url": "/wiki_pages/food-themed_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食物发",
+      "confidence": "A",
+      "tag_cn_long": "角色的头发由食物组成。"
     },
     {
       "name": "glowing hair",
@@ -818,9 +818,9 @@
       "wiki_url": "/wiki_pages/glowing_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发光发",
+      "confidence": "A",
+      "tag_cn_long": "头发发出光芒，能照亮周围环境。"
     },
     {
       "name": "intestine hair",
@@ -828,9 +828,9 @@
       "wiki_url": "/wiki_pages/intestine_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肠发",
+      "confidence": "A",
+      "tag_cn_long": "头发由肠子构成。"
     },
     {
       "name": "liquid hair",
@@ -838,9 +838,9 @@
       "wiki_url": "/wiki_pages/liquid_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "液发",
+      "confidence": "A",
+      "tag_cn_long": "头发由液体构成，如水或熔岩。"
     },
     {
       "name": "mechanical hair",
@@ -848,9 +848,9 @@
       "wiki_url": "/wiki_pages/mechanical_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "机械发",
+      "confidence": "A",
+      "tag_cn_long": "头发由非有机的金属结构构成，呈头发形状。"
     },
     {
       "name": "plant hair",
@@ -858,9 +858,9 @@
       "wiki_url": "/wiki_pages/plant_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "植物发",
+      "confidence": "A",
+      "tag_cn_long": "头发由植物组织（如叶子）构成。"
     },
     {
       "name": "prehensile hair",
@@ -868,9 +868,9 @@
       "wiki_url": "/wiki_pages/prehensile_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓握发",
+      "confidence": "A",
+      "tag_cn_long": "头发能凭借意念移动并抓握物体，可形似手或触手。"
     },
     {
       "name": "helicopter hair",
@@ -878,9 +878,9 @@
       "wiki_url": "/wiki_pages/helicopter_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "螺旋桨发",
+      "confidence": "A",
+      "tag_cn_long": "头发像直升机旋翼一样旋转或翘起，通常是呆毛的夸张形态。"
     },
     {
       "name": "tentacle hair",
@@ -888,9 +888,9 @@
       "wiki_url": "/wiki_pages/tentacle_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "触手发",
+      "confidence": "A",
+      "tag_cn_long": "头发由触手组成，常具有缠绕或抓握能力。"
     },
     {
       "name": "living hair",
@@ -898,9 +898,9 @@
       "wiki_url": "/wiki_pages/living_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "活发",
+      "confidence": "B",
+      "tag_cn_long": "头发仿佛有自主生命，能像蛇或其他生物一样活动。"
     },
     {
       "name": "ribbon hair",
@@ -908,9 +908,9 @@
       "wiki_url": "/wiki_pages/ribbon_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丝带发",
+      "confidence": "A",
+      "tag_cn_long": "头发由丝带构成，与作为饰品的发带不同。"
     },
     {
       "name": "slime hair",
@@ -918,9 +918,9 @@
       "wiki_url": "/wiki_pages/slime_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "史莱姆发",
+      "confidence": "A",
+      "tag_cn_long": "头发呈史莱姆或黏液状，柔软且有流动感。"
     },
     {
       "name": "snake hair",
@@ -928,9 +928,9 @@
       "wiki_url": "/wiki_pages/snake_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蛇发",
+      "confidence": "A",
+      "tag_cn_long": "头发是蛇或呈现蛇形，常与美杜莎传说相关。"
     },
     {
       "name": "starry hair",
@@ -938,9 +938,9 @@
       "wiki_url": "/wiki_pages/starry_hair",
       "category_path": "Fantasy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星空发",
+      "confidence": "A",
+      "tag_cn_long": "头发内部有星星或星光图案，仿佛夜空。"
     },
     {
       "name": "blood in hair",
@@ -948,9 +948,9 @@
       "wiki_url": "/wiki_pages/blood_in_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "血染发",
+      "confidence": "B",
+      "tag_cn_long": "头发上沾有血迹或鲜血。"
     },
     {
       "name": "cum on hair",
@@ -958,9 +958,9 @@
       "wiki_url": "/wiki_pages/cum_on_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发上精液",
+      "confidence": "B",
+      "tag_cn_long": "头发上沾有精液。"
     },
     {
       "name": "burnt hair",
@@ -968,9 +968,9 @@
       "wiki_url": "/wiki_pages/burnt_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "焦发",
+      "confidence": "A",
+      "tag_cn_long": "头发被烧焦或正在燃烧，呈现焦糊状。"
     },
     {
       "name": "naturally detached hair",
@@ -978,9 +978,9 @@
       "wiki_url": "/wiki_pages/naturally_detached_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自然落发",
+      "confidence": "C",
+      "tag_cn_long": "头发自然从头部脱落，非外力剪断的脱发。"
     },
     {
       "name": "severed hair",
@@ -988,9 +988,9 @@
       "wiki_url": "/wiki_pages/severed_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "断发",
+      "confidence": "A",
+      "tag_cn_long": "从头部剪断或分离的头发，作为独立物体出现。"
     },
     {
       "name": "expressive hair",
@@ -998,9 +998,9 @@
       "wiki_url": "/wiki_pages/expressive_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "表情发",
+      "confidence": "A",
+      "tag_cn_long": "头发通过形状或动态表达情绪，如兴奋时翘起。"
     },
     {
       "name": "floating hair",
@@ -1008,9 +1008,9 @@
       "wiki_url": "/wiki_pages/floating_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飘浮发",
+      "confidence": "A",
+      "tag_cn_long": "头发因风或失重而飘浮在半空中。"
     },
     {
       "name": "hair in own mouth",
@@ -1018,9 +1018,9 @@
       "wiki_url": "/wiki_pages/hair_in_own_mouth",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴含发",
+      "confidence": "A",
+      "tag_cn_long": "角色将自己的头发含在嘴里。"
     },
     {
       "name": "hair spread out",
@@ -1028,9 +1028,9 @@
       "wiki_url": "/wiki_pages/hair_spread_out",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铺发",
+      "confidence": "A",
+      "tag_cn_long": "头发在平面（如床、地板）上铺散开。"
     },
     {
       "name": "heart-shaped hair",
@@ -1038,9 +1038,9 @@
       "wiki_url": "/wiki_pages/heart-shaped_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形发",
+      "confidence": "A",
+      "tag_cn_long": "头发呈现心形形状。"
     },
     {
       "name": "lone nape hair",
@@ -1048,9 +1048,9 @@
       "wiki_url": "/wiki_pages/lone_nape_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "后颈发",
+      "confidence": "B",
+      "tag_cn_long": "后颈处突出的一小撮头发，类似呆毛，多见于扎发造型。"
     },
     {
       "name": "loose hair strand",
@@ -1058,9 +1058,9 @@
       "wiki_url": "/wiki_pages/loose_hair_strand",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "散落发丝",
+      "confidence": "A",
+      "tag_cn_long": "脱离整体发型的一缕或一根头发，显得散乱。"
     },
     {
       "name": "symbol-shaped hair",
@@ -1068,9 +1068,9 @@
       "wiki_url": "/wiki_pages/symbol-shaped_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "符号发",
+      "confidence": "A",
+      "tag_cn_long": "头发形成特定的符号或图案形状。"
     },
     {
       "name": "wet hair",
@@ -1078,9 +1078,9 @@
       "wiki_url": "/wiki_pages/wet_hair",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湿发",
+      "confidence": "A",
+      "tag_cn_long": "角色的头发是湿的。"
     }
   ],
   "total_tags": 104,

@@ -1,0 +1,6 @@
+{
+  "tag": "Typo",
+  "tag_cn": "拼写错误",
+  "confidence": "A",
+  "tag_cn_long": "文本中的意外拼写错误。"
+}

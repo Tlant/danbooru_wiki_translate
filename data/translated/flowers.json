@@ -36,9 +36,9 @@
       "wiki_url": "/wiki_pages/flower",
       "category_path": "Main",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花",
+      "confidence": "A",
+      "tag_cn_long": "植物的繁殖器官，常具有鲜艳色彩和花瓣。"
     },
     {
       "name": "Adonis",
@@ -46,9 +46,9 @@
       "wiki_url": "/wiki_pages/adonis_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧金盏花",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科侧金盏花属植物，开黄色或红色花朵。"
     },
     {
       "name": "Agapanthus",
@@ -56,9 +56,9 @@
       "wiki_url": "/wiki_pages/agapanthus_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百子莲",
+      "confidence": "A",
+      "tag_cn_long": "石蒜科百子莲属植物，开蓝色或白色伞形花序。"
     },
     {
       "name": "Allium",
@@ -66,9 +66,9 @@
       "wiki_url": "/wiki_pages/allium_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "葱属",
+      "confidence": "A",
+      "tag_cn_long": "百合科葱属植物，包括洋葱、大蒜和观赏葱。"
     },
     {
       "name": "Alstroemeria",
@@ -76,9 +76,9 @@
       "wiki_url": "/wiki_pages/alstroemeria_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "六出花",
+      "confidence": "A",
+      "tag_cn_long": "六出花科六出花属植物，原产南美，花色丰富。"
     },
     {
       "name": "Amaryllis",
@@ -86,9 +86,9 @@
       "wiki_url": "/wiki_pages/amaryllis_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "朱顶红",
+      "confidence": "A",
+      "tag_cn_long": "一种石蒜科球根花卉，花朵大而艳丽，常呈红色或粉色。"
     },
     {
       "name": "Anemone",
@@ -96,9 +96,9 @@
       "wiki_url": "/wiki_pages/anemone_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "银莲花",
+      "confidence": "B",
+      "tag_cn_long": "一种毛茛科花卉，花朵呈杯状，颜色多样，但此标签也可能指其他作品角色。"
     },
     {
       "name": "Angel's trumpet",
@@ -106,9 +106,9 @@
       "wiki_url": "/wiki_pages/angel%27s_trumpet",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天使喇叭",
+      "confidence": "A",
+      "tag_cn_long": "一种茄科植物，花朵呈大喇叭状，通常为黄色、白色或紫色，有毒性。"
     },
     {
       "name": "Anthurium",
@@ -116,9 +116,9 @@
       "wiki_url": "/wiki_pages/anthurium",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红掌",
+      "confidence": "A",
+      "tag_cn_long": "一种天南星科植物，具有独特的佛焰苞和肉穗花序，常见红色、粉色等。"
     },
     {
       "name": "Arisaema",
@@ -126,9 +126,9 @@
       "wiki_url": "/wiki_pages/arisaema_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天南星",
+      "confidence": "B",
+      "tag_cn_long": "天南星属植物，具有独特的佛焰苞和肉穗花序，常生长在林下。"
     },
     {
       "name": "Azalea",
@@ -136,9 +136,9 @@
       "wiki_url": "/wiki_pages/azalea_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "杜鹃花",
+      "confidence": "B",
+      "tag_cn_long": "杜鹃花科灌木，花朵呈漏斗形，颜色丰富，但此标签有歧义，建议使用更具体的标签。"
     },
     {
       "name": "Baby's-breath",
@@ -146,9 +146,9 @@
       "wiki_url": "/wiki_pages/baby%27s-breath",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "满天星",
+      "confidence": "A",
+      "tag_cn_long": "石竹科植物，开密集的小白花或粉花，常用于花束配衬。"
     },
     {
       "name": "Begonia",
@@ -156,9 +156,9 @@
       "wiki_url": "/wiki_pages/begonia_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "秋海棠",
+      "confidence": "A",
+      "tag_cn_long": "秋海棠科植物，种类繁多，花色丰富，叶片常有不规则斑纹。"
     },
     {
       "name": "Bellflower",
@@ -166,9 +166,9 @@
       "wiki_url": "/wiki_pages/bellflower",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "风铃草",
+      "confidence": "A",
+      "tag_cn_long": "桔梗科植物，花朵呈钟形，通常为蓝色、紫色或白色。"
     },
     {
       "name": "Bird of paradise flower",
@@ -176,9 +176,9 @@
       "wiki_url": "/wiki_pages/bird_of_paradise_flower",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鹤望兰",
+      "confidence": "A",
+      "tag_cn_long": "旅人蕉科植物，花朵形似鸟冠，颜色鲜艳，通常为橙黄色或白色。"
     },
     {
       "name": "Black-eyed Susan",
@@ -186,9 +186,9 @@
       "wiki_url": "/wiki_pages/black-eyed_susan",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑心菊",
+      "confidence": "A",
+      "tag_cn_long": "菊科植物，花瓣黄色，中心深褐色至黑色，形似眼睛。"
     },
     {
       "name": "Bleeding heart",
@@ -196,9 +196,9 @@
       "wiki_url": "/wiki_pages/bleeding_heart_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷包牡丹",
+      "confidence": "A",
+      "tag_cn_long": "罂粟科植物，花朵呈心形，下垂排列，通常为粉色或红色。"
     },
     {
       "name": "Bluebell",
@@ -206,9 +206,9 @@
       "wiki_url": "/wiki_pages/bluebell_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝铃花",
+      "confidence": "A",
+      "tag_cn_long": "天门冬科植物，花朵呈钟形，下垂，通常为蓝色。"
     },
     {
       "name": "Blueberry blossoms",
@@ -216,9 +216,9 @@
       "wiki_url": "/wiki_pages/blueberry_blossoms",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝莓花",
+      "confidence": "A",
+      "tag_cn_long": "杜鹃花科蓝莓树的花朵，呈白色或淡粉色，形如小铃铛。"
     },
     {
       "name": "Bougainvillea",
@@ -226,9 +226,9 @@
       "wiki_url": "/wiki_pages/bougainvillea_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角梅",
+      "confidence": "A",
+      "tag_cn_long": "紫茉莉科藤本植物，苞片鲜艳，常见红色、粉色等，真正的花很小。"
     },
     {
       "name": "Buttercup",
@@ -236,9 +236,9 @@
       "wiki_url": "/wiki_pages/buttercup_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛茛",
+      "confidence": "B",
+      "tag_cn_long": "毛茛科植物，花朵呈杯状，通常为黄色有光泽，但此标签也可能指画师。"
     },
     {
       "name": "Calla lily",
@@ -246,9 +246,9 @@
       "wiki_url": "/wiki_pages/calla_lily",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马蹄莲",
+      "confidence": "A",
+      "tag_cn_long": "天南星科植物，佛焰苞呈漏斗形，包裹黄色肉穗花序，常见白色、黄色、粉色。"
     },
     {
       "name": "Camellia",
@@ -256,9 +256,9 @@
       "wiki_url": "/wiki_pages/camellia",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山茶花",
+      "confidence": "A",
+      "tag_cn_long": "山茶科灌木，花瓣多层，颜色多为红色、白色或粉色，中心有黄色雄蕊。"
     },
     {
       "name": "Canna lily",
@@ -266,9 +266,9 @@
       "wiki_url": "/wiki_pages/canna_lily",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美人蕉",
+      "confidence": "A",
+      "tag_cn_long": "美人蕉科植物，叶片宽大，花朵大而鲜艳，常见红色、黄色、橙色。"
     },
     {
       "name": "Carnation",
@@ -276,9 +276,9 @@
       "wiki_url": "/wiki_pages/carnation",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "康乃馨",
+      "confidence": "A",
+      "tag_cn_long": "石竹科植物，花瓣有锯齿状边缘，颜色丰富，常用于母亲节和装饰。"
     },
     {
       "name": "Catharanthus",
@@ -286,9 +286,9 @@
       "wiki_url": "/wiki_pages/catharanthus_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长春花",
+      "confidence": "A",
+      "tag_cn_long": "夹竹桃科长春花属的观赏植物，花朵五瓣星形，常见粉色或白色。"
     },
     {
       "name": "Cerastium",
@@ -296,9 +296,9 @@
       "wiki_url": "/wiki_pages/cerastium",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷耳",
+      "confidence": "B",
+      "tag_cn_long": "石竹科卷耳属植物，白色小花，常成片生长。"
     },
     {
       "name": "Chamomile",
@@ -306,9 +306,9 @@
       "wiki_url": "/wiki_pages/chamomile",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洋甘菊",
+      "confidence": "A",
+      "tag_cn_long": "菊科母菊属或果香菊属植物，花似雏菊，常用于泡茶。"
     },
     {
       "name": "Cherry blossoms",
@@ -316,9 +316,9 @@
       "wiki_url": "/wiki_pages/cherry_blossoms",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "樱花",
+      "confidence": "A",
+      "tag_cn_long": "蔷薇科樱属植物的花朵，日本文化重要象征，花色多为粉白。"
     },
     {
       "name": "Chicory",
@@ -326,9 +326,9 @@
       "wiki_url": "/wiki_pages/chicory_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菊苣",
+      "confidence": "A",
+      "tag_cn_long": "菊科菊苣属植物，开鲜艳的蓝色花朵。"
     },
     {
       "name": "Chrysanthemum",
@@ -336,9 +336,9 @@
       "wiki_url": "/wiki_pages/chrysanthemum",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菊花",
+      "confidence": "A",
+      "tag_cn_long": "菊科菊属的观赏花卉，品种繁多，花型丰富。"
     },
     {
       "name": "Clematis",
@@ -346,9 +346,9 @@
       "wiki_url": "/wiki_pages/clematis_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铁线莲",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科铁线莲属藤本植物，花朵多样，色彩丰富。"
     },
     {
       "name": "Clivia",
@@ -356,9 +356,9 @@
       "wiki_url": "/wiki_pages/clivia",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "君子兰",
+      "confidence": "A",
+      "tag_cn_long": "石蒜科君子兰属观赏植物，伞形花序，橙红或黄色。"
     },
     {
       "name": "Clover",
@@ -366,9 +366,9 @@
       "wiki_url": "/wiki_pages/clover_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三叶草",
+      "confidence": "A",
+      "tag_cn_long": "豆科车轴草属植物，通常有三片小叶，花序球形。"
     },
     {
       "name": "Cockscomb",
@@ -376,9 +376,9 @@
       "wiki_url": "/wiki_pages/cockscomb_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸡冠花",
+      "confidence": "A",
+      "tag_cn_long": "苋科青葙属植物，花序形似鸡冠，颜色鲜艳。"
     },
     {
       "name": "Coffee blossom",
@@ -386,9 +386,9 @@
       "wiki_url": "/wiki_pages/coffee_blossom",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咖啡花",
+      "confidence": "A",
+      "tag_cn_long": "茜草科咖啡属植物的白色花朵，有清香。"
     },
     {
       "name": "Columbine",
@@ -396,9 +396,9 @@
       "wiki_url": "/wiki_pages/columbine_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耧斗菜",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科耧斗菜属植物，花形独特，有距。"
     },
     {
       "name": "Cornflower",
@@ -406,9 +406,9 @@
       "wiki_url": "/wiki_pages/cornflower",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "矢车菊",
+      "confidence": "A",
+      "tag_cn_long": "菊科矢车菊属植物，常见蓝色花朵，边缘有锯齿。"
     },
     {
       "name": "Cosmos",
@@ -416,9 +416,9 @@
       "wiki_url": "/wiki_pages/cosmos_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波斯菊",
+      "confidence": "A",
+      "tag_cn_long": "菊科秋英属植物，花色丰富，花瓣单层。"
     },
     {
       "name": "Craspedia",
@@ -426,9 +426,9 @@
       "wiki_url": "/wiki_pages/craspedia_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金槌花",
+      "confidence": "B",
+      "tag_cn_long": "菊科金杖球属植物，球形黄色花序，常用于干花。"
     },
     {
       "name": "Crocus",
@@ -436,9 +436,9 @@
       "wiki_url": "/wiki_pages/crocus_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "番红花",
+      "confidence": "A",
+      "tag_cn_long": "鸢尾科番红花属植物，早春开花，花色多为紫、白、黄。"
     },
     {
       "name": "Cyclamen",
@@ -446,9 +446,9 @@
       "wiki_url": "/wiki_pages/cyclamen",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "仙客来",
+      "confidence": "A",
+      "tag_cn_long": "报春花科仙客来属植物，花瓣反卷，形似兔耳。"
     },
     {
       "name": "Cymbidium",
@@ -456,9 +456,9 @@
       "wiki_url": "/wiki_pages/cymbidium",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大花蕙兰",
+      "confidence": "B",
+      "tag_cn_long": "兰科兰属附生兰花，花朵大型，花色丰富。"
     },
     {
       "name": "Daffodil",
@@ -466,9 +466,9 @@
       "wiki_url": "/wiki_pages/daffodil",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水仙花",
+      "confidence": "A",
+      "tag_cn_long": "石蒜科水仙属植物，黄色喇叭形花朵，春季开花。"
     },
     {
       "name": "Dahlia",
@@ -476,9 +476,9 @@
       "wiki_url": "/wiki_pages/dahlia",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大丽花",
+      "confidence": "A",
+      "tag_cn_long": "菊科大丽花属植物，花大而艳丽，花瓣密集。"
     },
     {
       "name": "Daisy",
@@ -486,9 +486,9 @@
       "wiki_url": "/wiki_pages/daisy_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雏菊",
+      "confidence": "A",
+      "tag_cn_long": "一种常见的小型花卉，通常有白色花瓣和黄色花心。"
     },
     {
       "name": "Dandelion",
@@ -496,9 +496,9 @@
       "wiki_url": "/wiki_pages/dandelion",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒲公英",
+      "confidence": "A",
+      "tag_cn_long": "一种黄色头状花序的野花，种子成熟后形成白色绒球。"
     },
     {
       "name": "Dayflower",
@@ -506,9 +506,9 @@
       "wiki_url": "/wiki_pages/dayflower",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸭跖草",
+      "confidence": "A",
+      "tag_cn_long": "一种蓝色小花的草本植物，常见于路旁。"
     },
     {
       "name": "Dianthus",
@@ -516,9 +516,9 @@
       "wiki_url": "/wiki_pages/dianthus",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "石竹",
+      "confidence": "A",
+      "tag_cn_long": "一类花瓣边缘有锯齿状的花卉，颜色多样。"
     },
     {
       "name": "Dogtooth violet",
@@ -526,9 +526,9 @@
       "wiki_url": "/wiki_pages/dogtooth_violet_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狗牙堇",
+      "confidence": "A",
+      "tag_cn_long": "一种早春开花的球根植物，花瓣反卷，颜色多为黄或白。"
     },
     {
       "name": "Dogwood",
@@ -536,9 +536,9 @@
       "wiki_url": "/wiki_pages/dogwood_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山茱萸",
+      "confidence": "A",
+      "tag_cn_long": "一种落叶乔木，其苞片形似花瓣，常见白色或粉色。"
     },
     {
       "name": "Dusty miller",
@@ -546,9 +546,9 @@
       "wiki_url": "/wiki_pages/dusty_miller",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "银叶菊",
+      "confidence": "A",
+      "tag_cn_long": "一种叶片银白色、覆盖细毛的观叶植物。"
     },
     {
       "name": "Edelweiss",
@@ -556,9 +556,9 @@
       "wiki_url": "/wiki_pages/edelweiss_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪绒花",
+      "confidence": "A",
+      "tag_cn_long": "一种高山植物，白色星形花朵，表面有绒毛。"
     },
     {
       "name": "Epiphyllum",
@@ -566,9 +566,9 @@
       "wiki_url": "/wiki_pages/epiphyllum",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "昙花",
+      "confidence": "A",
+      "tag_cn_long": "一种仙人掌科植物，花朵于夜间开放，花瓣细长多层。"
     },
     {
       "name": "Eustoma",
@@ -576,9 +576,9 @@
       "wiki_url": "/wiki_pages/eustoma",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洋桔梗",
+      "confidence": "A",
+      "tag_cn_long": "一种花瓣层叠、色彩丰富的观赏花卉。"
     },
     {
       "name": "Fish mint",
@@ -586,9 +586,9 @@
       "wiki_url": "/wiki_pages/fish_mint_%28plant%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鱼腥草",
+      "confidence": "A",
+      "tag_cn_long": "一种叶片心形、有鱼腥味的草本植物，花为白色穗状。"
     },
     {
       "name": "Flax",
@@ -596,9 +596,9 @@
       "wiki_url": "/wiki_pages/flax_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "亚麻",
+      "confidence": "A",
+      "tag_cn_long": "一种开蓝色小花的经济作物，也观赏用。"
     },
     {
       "name": "Forget-me-not",
@@ -606,9 +606,9 @@
       "wiki_url": "/wiki_pages/forget-me-not_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "勿忘我",
+      "confidence": "A",
+      "tag_cn_long": "一种蓝色小花，花心黄色，常象征记忆。"
     },
     {
       "name": "Forsythia",
@@ -616,9 +616,9 @@
       "wiki_url": "/wiki_pages/forsythia",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连翘",
+      "confidence": "A",
+      "tag_cn_long": "一种早春开花的灌木，四瓣金色花朵。"
     },
     {
       "name": "Four o'clock",
@@ -626,9 +626,9 @@
       "wiki_url": "/wiki_pages/four_o%27clock_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫茉莉",
+      "confidence": "A",
+      "tag_cn_long": "一种傍晚开放的花卉，漏斗状，颜色有紫、红、白等。"
     },
     {
       "name": "Foxglove",
@@ -636,9 +636,9 @@
       "wiki_url": "/wiki_pages/foxglove",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛地黄",
+      "confidence": "A",
+      "tag_cn_long": "一种高大的草本植物，钟形花朵成串排列，常见紫色。"
     },
     {
       "name": "Freesia",
@@ -646,9 +646,9 @@
       "wiki_url": "/wiki_pages/freesia_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小苍兰",
+      "confidence": "A",
+      "tag_cn_long": "一种芳香花卉，花朵漏斗形，色彩丰富。"
     },
     {
       "name": "Fuchsia",
@@ -656,9 +656,9 @@
       "wiki_url": "/wiki_pages/fuchsia_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "倒挂金钟",
+      "confidence": "A",
+      "tag_cn_long": "一种垂吊花卉，花瓣反折，颜色多为红紫搭配。"
     },
     {
       "name": "Genista",
@@ -666,9 +666,9 @@
       "wiki_url": "/wiki_pages/genista_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金雀花",
+      "confidence": "A",
+      "tag_cn_long": "一种蝶形花科灌木，开黄色小花。"
     },
     {
       "name": "Gentiana",
@@ -676,9 +676,9 @@
       "wiki_url": "/wiki_pages/gentiana_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "龙胆",
+      "confidence": "A",
+      "tag_cn_long": "一种高山植物，喇叭状花朵，通常蓝色。"
     },
     {
       "name": "Geranium",
@@ -686,9 +686,9 @@
       "wiki_url": "/wiki_pages/geranium",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天竺葵",
+      "confidence": "A",
+      "tag_cn_long": "牻牛儿苗科天竺葵属植物的统称，常见观赏花卉。"
     },
     {
       "name": "Gerbera",
@@ -696,9 +696,9 @@
       "wiki_url": "/wiki_pages/gerbera",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非洲菊",
+      "confidence": "A",
+      "tag_cn_long": "菊科大丁草属植物，头状花序，色彩丰富。"
     },
     {
       "name": "Gladiolus",
@@ -706,9 +706,9 @@
       "wiki_url": "/wiki_pages/gladiolus",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "剑兰",
+      "confidence": "A",
+      "tag_cn_long": "鸢尾科唐菖蒲属植物，穗状花序，花剑形。"
     },
     {
       "name": "Gloriosa",
@@ -716,9 +716,9 @@
       "wiki_url": "/wiki_pages/gloriosa_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘉兰",
+      "confidence": "A",
+      "tag_cn_long": "秋水仙科嘉兰属植物，花瓣反卷，红色或黄色。"
     },
     {
       "name": "Golden trumpet",
@@ -726,9 +726,9 @@
       "wiki_url": "/wiki_pages/golden_trumpet",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金喇叭花",
+      "confidence": "B",
+      "tag_cn_long": "黄钟花（Allamanda）的俗称，喇叭状黄色花朵。"
     },
     {
       "name": "Gourd blossom",
@@ -736,9 +736,9 @@
       "wiki_url": "/wiki_pages/gourd_blossom",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "葫芦花",
+      "confidence": "A",
+      "tag_cn_long": "葫芦科植物的白色或黄色花朵，常夜间开放。"
     },
     {
       "name": "Grape hyacinth",
@@ -746,9 +746,9 @@
       "wiki_url": "/wiki_pages/grape_hyacinth",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "葡萄风信子",
+      "confidence": "A",
+      "tag_cn_long": "天门冬科麝香兰属植物，花序似一串葡萄，蓝紫色。"
     },
     {
       "name": "Grass lily",
@@ -756,9 +756,9 @@
       "wiki_url": "/wiki_pages/grass_lily",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草地百合",
+      "confidence": "B",
+      "tag_cn_long": "虎眼万年青属（Ornithogalum）植物，星形白色花朵。"
     },
     {
       "name": "Great burnet",
@@ -766,9 +766,9 @@
       "wiki_url": "/wiki_pages/great_burnet",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "地榆",
+      "confidence": "A",
+      "tag_cn_long": "蔷薇科地榆属植物，穗状花序，暗红色。"
     },
     {
       "name": "Hawthorn",
@@ -776,9 +776,9 @@
       "wiki_url": "/wiki_pages/hawthorn_%28plant%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山楂花",
+      "confidence": "A",
+      "tag_cn_long": "蔷薇科山楂属植物的白色或粉色花朵。"
     },
     {
       "name": "Heather",
@@ -786,9 +786,9 @@
       "wiki_url": "/wiki_pages/heather_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "石楠花",
+      "confidence": "A",
+      "tag_cn_long": "杜鹃花科帚石楠属植物，小型钟状花朵，常紫粉色。"
     },
     {
       "name": "Heliconia",
@@ -796,9 +796,9 @@
       "wiki_url": "/wiki_pages/heliconia",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝎尾蕉",
+      "confidence": "A",
+      "tag_cn_long": "赫蕉科蝎尾蕉属热带植物，花序独特，似鸟喙或龙虾爪。"
     },
     {
       "name": "Hellebore",
@@ -806,9 +806,9 @@
       "wiki_url": "/wiki_pages/hellebore",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铁筷子",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科嚏根草属植物，冬季至早春开花，花瓣状萼片。"
     },
     {
       "name": "Hemerocallis",
@@ -816,9 +816,9 @@
       "wiki_url": "/wiki_pages/hemerocallis",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "萱草",
+      "confidence": "A",
+      "tag_cn_long": "阿福花科萱草属植物，花大漏斗形，单日开放。"
     },
     {
       "name": "Hepatica",
@@ -826,9 +826,9 @@
       "wiki_url": "/wiki_pages/hepatica_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "獐耳细辛",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科獐耳细辛属植物，三裂叶，蓝紫或粉色小花。"
     },
     {
       "name": "Hibiscus",
@@ -836,9 +836,9 @@
       "wiki_url": "/wiki_pages/hibiscus",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "木槿",
+      "confidence": "A",
+      "tag_cn_long": "锦葵科木槿属植物，花大五瓣，中央有长雄蕊柱。"
     },
     {
       "name": "Hollyhock",
@@ -846,9 +846,9 @@
       "wiki_url": "/wiki_pages/hollyhock",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蜀葵",
+      "confidence": "A",
+      "tag_cn_long": "锦葵科蜀葵属植物，高茎穗状花序，花色丰富。"
     },
     {
       "name": "Hyacinth",
@@ -856,9 +856,9 @@
       "wiki_url": "/wiki_pages/hyacinth",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "风信子",
+      "confidence": "A",
+      "tag_cn_long": "天门冬科风信子属植物，总状花序，花钟形，芳香。"
     },
     {
       "name": "Hydrangea",
@@ -866,9 +866,9 @@
       "wiki_url": "/wiki_pages/hydrangea",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绣球花",
+      "confidence": "A",
+      "tag_cn_long": "绣球花科绣球属植物，球形或伞形花序，花色受土壤pH影响。"
     },
     {
       "name": "Iris",
@@ -876,9 +876,9 @@
       "wiki_url": "/wiki_pages/iris_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸢尾花",
+      "confidence": "A",
+      "tag_cn_long": "鸢尾科鸢尾属植物，花瓣三三相对，常有斑纹。"
     },
     {
       "name": "Ixia",
@@ -886,9 +886,9 @@
       "wiki_url": "/wiki_pages/ixia_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小鸢尾",
+      "confidence": "A",
+      "tag_cn_long": "一种鸢尾科花卉，花朵呈星形，颜色多样。"
     },
     {
       "name": "Jade vine",
@@ -896,9 +896,9 @@
       "wiki_url": "/wiki_pages/jade_vine",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翡翠藤",
+      "confidence": "A",
+      "tag_cn_long": "一种豆科藤本植物，花朵呈蓝绿色，形似爪状。"
     },
     {
       "name": "Jasmine",
@@ -906,9 +906,9 @@
       "wiki_url": "/wiki_pages/jasmine_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "茉莉花",
+      "confidence": "A",
+      "tag_cn_long": "木犀科灌木，白色小花，芳香浓郁。"
     },
     {
       "name": "Kamchatka lily",
@@ -916,9 +916,9 @@
       "wiki_url": "/wiki_pages/kamchatka_lily",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑百合",
+      "confidence": "A",
+      "tag_cn_long": "一种百合科植物，花朵紫褐色至黑色，钟形，下垂。"
     },
     {
       "name": "Kerria japonica",
@@ -926,9 +926,9 @@
       "wiki_url": "/wiki_pages/kerria_japonica",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棣棠",
+      "confidence": "A",
+      "tag_cn_long": "蔷薇科落叶灌木，花朵金黄色，重瓣，常用于园林。"
     },
     {
       "name": "Lantana",
@@ -936,9 +936,9 @@
       "wiki_url": "/wiki_pages/lantana_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马缨丹",
+      "confidence": "A",
+      "tag_cn_long": "马鞭草科灌木，花序由多色小花组成，又名五色梅。"
     },
     {
       "name": "Larkspur",
@@ -946,9 +946,9 @@
       "wiki_url": "/wiki_pages/larkspur_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞燕草",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科植物，花序挺拔，花朵形似飞燕，多为蓝色或紫色。"
     },
     {
       "name": "Lavender",
@@ -956,9 +956,9 @@
       "wiki_url": "/wiki_pages/lavender_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "薰衣草",
+      "confidence": "A",
+      "tag_cn_long": "唇形科植物，紫色穗状花序，具强烈香气，常用于精油。"
     },
     {
       "name": "Lemon blossoms",
@@ -966,9 +966,9 @@
       "wiki_url": "/wiki_pages/lemon_blossoms",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "柠檬花",
+      "confidence": "A",
+      "tag_cn_long": "芸香科柠檬树的花朵，白色花瓣带淡紫色晕，芳香。"
     },
     {
       "name": "Lilac",
@@ -976,9 +976,9 @@
       "wiki_url": "/wiki_pages/lilac",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丁香花",
+      "confidence": "A",
+      "tag_cn_long": "木犀科灌木，紫色或白色圆锥花序，芳香浓郁。"
     },
     {
       "name": "Lily",
@@ -986,9 +986,9 @@
       "wiki_url": "/wiki_pages/lily_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百合花",
+      "confidence": "A",
+      "tag_cn_long": "百合科植物，花朵大而艳丽，花瓣六片，常具芳香。"
     },
     {
       "name": "Lily of the valley",
@@ -996,9 +996,9 @@
       "wiki_url": "/wiki_pages/lily_of_the_valley",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铃兰",
+      "confidence": "A",
+      "tag_cn_long": "天门冬科植物，白色钟形小花悬垂，具芳香，有毒。"
     },
     {
       "name": "Lotus",
@@ -1006,9 +1006,9 @@
       "wiki_url": "/wiki_pages/lotus",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莲花",
+      "confidence": "C",
+      "tag_cn_long": "一种水生植物，花瓣粉白，花心有盘状种子结构。"
     },
     {
       "name": "Lupinus",
@@ -1016,9 +1016,9 @@
       "wiki_url": "/wiki_pages/lupinus_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "羽扇豆",
+      "confidence": "A",
+      "tag_cn_long": "豆科植物，花序塔状，花朵色彩丰富，俗称鲁冰花。"
     },
     {
       "name": "Magnolia",
@@ -1026,9 +1026,9 @@
       "wiki_url": "/wiki_pages/magnolia",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玉兰",
+      "confidence": "A",
+      "tag_cn_long": "木兰科乔木，花朵大而芳香，早春开放。"
     },
     {
       "name": "Marigold",
@@ -1036,9 +1036,9 @@
       "wiki_url": "/wiki_pages/marigold",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "万寿菊",
+      "confidence": "A",
+      "tag_cn_long": "菊科植物，花朵橙黄色，常用于花坛或节日装饰。"
     },
     {
       "name": "Marsh marigold",
@@ -1046,9 +1046,9 @@
       "wiki_url": "/wiki_pages/marsh_marigold",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "驴蹄草",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科植物，生长于湿地，黄色花朵，形似金盏花。"
     },
     {
       "name": "Mimosa",
@@ -1056,9 +1056,9 @@
       "wiki_url": "/wiki_pages/mimosa_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含羞草",
+      "confidence": "A",
+      "tag_cn_long": "豆科植物，粉红色绒球状花序，叶片受触动会闭合。"
     },
     {
       "name": "Moonflower",
@@ -1066,9 +1066,9 @@
       "wiki_url": "/wiki_pages/moonflower_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月光花",
+      "confidence": "A",
+      "tag_cn_long": "旋花科藤本植物，白色大花，傍晚开放至次日清晨。"
     },
     {
       "name": "Morning glory",
@@ -1076,9 +1076,9 @@
       "wiki_url": "/wiki_pages/morning_glory",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牵牛花",
+      "confidence": "A",
+      "tag_cn_long": "旋花科植物，漏斗形花朵，清晨开放，又名朝颜。"
     },
     {
       "name": "Nemophila",
@@ -1086,9 +1086,9 @@
       "wiki_url": "/wiki_pages/nemophila_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喜林草",
+      "confidence": "A",
+      "tag_cn_long": "紫草科植物，蓝色五瓣小花，中心白色，常用于地被。"
     },
     {
       "name": "Nerine",
@@ -1096,9 +1096,9 @@
       "wiki_url": "/wiki_pages/nerine_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "娜丽花",
+      "confidence": "B",
+      "tag_cn_long": "石蒜属的一种花卉，也指《Shuffle!》中的角色。"
     },
     {
       "name": "Nigella",
@@ -1106,9 +1106,9 @@
       "wiki_url": "/wiki_pages/nigella",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑种草",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科黑种草属植物，常见观赏花卉。"
     },
     {
       "name": "Nightshade",
@@ -1116,9 +1116,9 @@
       "wiki_url": "/wiki_pages/nightshade_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颠茄",
+      "confidence": "B",
+      "tag_cn_long": "茄科有毒植物，如颠茄或龙葵，花朵多为紫色。"
     },
     {
       "name": "Oleander",
@@ -1126,9 +1126,9 @@
       "wiki_url": "/wiki_pages/oleander",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夹竹桃",
+      "confidence": "A",
+      "tag_cn_long": "夹竹桃科灌木，花朵艳丽但有毒。"
     },
     {
       "name": "Orange blossoms",
@@ -1136,9 +1136,9 @@
       "wiki_url": "/wiki_pages/orange_blossoms",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙花",
+      "confidence": "A",
+      "tag_cn_long": "橙树开出的白色芬芳花朵，有五片花瓣。"
     },
     {
       "name": "Orchid",
@@ -1146,9 +1146,9 @@
       "wiki_url": "/wiki_pages/orchid",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兰花",
+      "confidence": "A",
+      "tag_cn_long": "兰科植物的统称，花型优雅多样。"
     },
     {
       "name": "Osmanthus",
@@ -1156,9 +1156,9 @@
       "wiki_url": "/wiki_pages/osmanthus",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "桂花",
+      "confidence": "A",
+      "tag_cn_long": "木樨科植物，花香浓郁，常用于茶饮。"
     },
     {
       "name": "Pansy",
@@ -1166,9 +1166,9 @@
       "wiki_url": "/wiki_pages/pansy",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三色堇",
+      "confidence": "A",
+      "tag_cn_long": "堇菜科多年生草本，花瓣常具深色斑纹。"
     },
     {
       "name": "Pasqueflower",
@@ -1176,9 +1176,9 @@
       "wiki_url": "/wiki_pages/pasqueflower",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白头翁",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科银莲花属植物，花后具羽毛状果序。"
     },
     {
       "name": "Passion flower",
@@ -1186,9 +1186,9 @@
       "wiki_url": "/wiki_pages/passion_flower",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西番莲",
+      "confidence": "A",
+      "tag_cn_long": "西番莲属藤本植物，花朵结构奇特，形似时钟。"
     },
     {
       "name": "Peach blossom",
@@ -1196,9 +1196,9 @@
       "wiki_url": "/wiki_pages/peach_blossom",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "桃花",
+      "confidence": "A",
+      "tag_cn_long": "桃树春季开出的粉色或白色花朵。"
     },
     {
       "name": "Pentas",
@@ -1206,9 +1206,9 @@
       "wiki_url": "/wiki_pages/pentas_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五星花",
+      "confidence": "A",
+      "tag_cn_long": "茜草科多年生草本，花呈星形，常为红色或粉色。"
     },
     {
       "name": "Peony",
@@ -1216,9 +1216,9 @@
       "wiki_url": "/wiki_pages/peony_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牡丹",
+      "confidence": "B",
+      "tag_cn_long": "芍药属灌木，花大而艳丽，有‘花王’之称。"
     },
     {
       "name": "Periwinkle",
@@ -1226,9 +1226,9 @@
       "wiki_url": "/wiki_pages/periwinkle_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长春花",
+      "confidence": "A",
+      "tag_cn_long": "夹竹桃科植物，花通常为蓝色或粉红色。"
     },
     {
       "name": "Persian Speedwell",
@@ -1236,9 +1236,9 @@
       "wiki_url": "/wiki_pages/persian_speedwell",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波斯婆婆纳",
+      "confidence": "A",
+      "tag_cn_long": "车前科婆婆纳属一年生草本，花小、蓝色，有四片花瓣。"
     },
     {
       "name": "Petunia",
@@ -1246,9 +1246,9 @@
       "wiki_url": "/wiki_pages/petunia_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "矮牵牛",
+      "confidence": "A",
+      "tag_cn_long": "茄科多年生草本，花喇叭形，颜色丰富。"
     },
     {
       "name": "Pieris japonica",
@@ -1256,9 +1256,9 @@
       "wiki_url": "/wiki_pages/pieris_japonica",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本马醉木",
+      "confidence": "A",
+      "tag_cn_long": "杜鹃花科灌木，春季开白色或粉色铃状花。"
     },
     {
       "name": "Plum blossoms",
@@ -1266,9 +1266,9 @@
       "wiki_url": "/wiki_pages/plum_blossoms",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梅花",
+      "confidence": "A",
+      "tag_cn_long": "蔷薇科李属植物，早春开花，花瓣多为白、粉或红色。"
     },
     {
       "name": "Plumeria",
@@ -1276,9 +1276,9 @@
       "wiki_url": "/wiki_pages/plumeria",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸡蛋花",
+      "confidence": "A",
+      "tag_cn_long": "夹竹桃科落叶灌木，多为五瓣，色彩斑斓，具芳香。"
     },
     {
       "name": "Poinsettia",
@@ -1286,9 +1286,9 @@
       "wiki_url": "/wiki_pages/poinsettia",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "一品红",
+      "confidence": "A",
+      "tag_cn_long": "大戟科灌木，红色苞片似花瓣，常与圣诞节关联。"
     },
     {
       "name": "Pomegranate flower",
@@ -1296,9 +1296,9 @@
       "wiki_url": "/wiki_pages/pomegranate_flower",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "石榴花",
+      "confidence": "A",
+      "tag_cn_long": "石榴树开的花，通常为红色或橙色，象征繁荣与多子多福。"
     },
     {
       "name": "Poppy",
@@ -1306,9 +1306,9 @@
       "wiki_url": "/wiki_pages/poppy_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罂粟花",
+      "confidence": "A",
+      "tag_cn_long": "罂粟科植物的花，常见红色，花型艳丽，种子可用于提取鸦片。"
     },
     {
       "name": "Portulaca",
@@ -1316,9 +1316,9 @@
       "wiki_url": "/wiki_pages/portulaca",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马齿苋花",
+      "confidence": "B",
+      "tag_cn_long": "马齿苋科植物开的花，也称太阳花或半支莲，花瓣鲜艳，常见红、黄、粉色。"
     },
     {
       "name": "Potato flower",
@@ -1326,9 +1326,9 @@
       "wiki_url": "/wiki_pages/potato_flower",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "土豆花",
+      "confidence": "A",
+      "tag_cn_long": "马铃薯植株开的花，通常白色、粉色或淡紫色，花心黄色。"
     },
     {
       "name": "Potentilla",
@@ -1336,9 +1336,9 @@
       "wiki_url": "/wiki_pages/potentilla",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "委陵菜花",
+      "confidence": "B",
+      "tag_cn_long": "蔷薇科委陵菜属植物的花，多为五瓣黄色，亦有粉色或白色品种。"
     },
     {
       "name": "Primrose",
@@ -1346,9 +1346,9 @@
       "wiki_url": "/wiki_pages/primrose_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "报春花",
+      "confidence": "A",
+      "tag_cn_long": "报春花属植物的花，早春开花，颜色多样，有黄、粉、红、紫等。"
     },
     {
       "name": "Protea",
@@ -1356,9 +1356,9 @@
       "wiki_url": "/wiki_pages/protea_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帝王花",
+      "confidence": "A",
+      "tag_cn_long": "山龙眼科帝王花属大型花卉，花形似皇冠，是南非国花。"
     },
     {
       "name": "Quince blossoms",
@@ -1366,9 +1366,9 @@
       "wiki_url": "/wiki_pages/quince_blossoms",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "榅桲花",
+      "confidence": "B",
+      "tag_cn_long": "榅桲树开的花，白色或浅粉色，早春开放，花径较大。"
     },
     {
       "name": "Rafflesia",
@@ -1376,9 +1376,9 @@
       "wiki_url": "/wiki_pages/rafflesia_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大王花",
+      "confidence": "A",
+      "tag_cn_long": "世界上最大的花，属于大花草属，产自东南亚，花瓣巨大且有腐臭味。"
     },
     {
       "name": "Ranunculus",
@@ -1386,9 +1386,9 @@
       "wiki_url": "/wiki_pages/ranunculus",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花毛茛",
+      "confidence": "A",
+      "tag_cn_long": "毛茛科花毛茛属花卉，花瓣多层，形似玫瑰，颜色丰富，常见切花。"
     },
     {
       "name": "Rapeseed blossoms",
@@ -1396,9 +1396,9 @@
       "wiki_url": "/wiki_pages/rapeseed_blossoms",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "油菜花",
+      "confidence": "A",
+      "tag_cn_long": "油菜植物开的花，鲜黄色，成片盛开形成壮丽花海。"
     },
     {
       "name": "Red ginger",
@@ -1406,9 +1406,9 @@
       "wiki_url": "/wiki_pages/red_ginger_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红姜花",
+      "confidence": "B",
+      "tag_cn_long": "姜科山姜属植物，花序红色或粉红色，形似火炬，观赏花卉。"
     },
     {
       "name": "Reimu",
@@ -1416,9 +1416,9 @@
       "wiki_url": "/wiki_pages/reimu_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灵梦花",
+      "confidence": "D",
+      "tag_cn_long": "一种花卉，具体种类不明，名称可能来源于虚构或角色（如博丽灵梦），需人工确认。"
     },
     {
       "name": "Rhododendron",
@@ -1426,9 +1426,9 @@
       "wiki_url": "/wiki_pages/rhododendron",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "杜鹃花",
+      "confidence": "A",
+      "tag_cn_long": "杜鹃花属植物的花朵，颜色丰富，常见于春季山坡，又名映山红。"
     },
     {
       "name": "Rose",
@@ -1446,9 +1446,9 @@
       "wiki_url": "/wiki_pages/rudbeckia",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金光菊",
+      "confidence": "A",
+      "tag_cn_long": "菊科金光菊属植物，黄色舌状花瓣，中央花盘深色，也称黑眼菊。"
     },
     {
       "name": "Safflower",
@@ -1456,9 +1456,9 @@
       "wiki_url": "/wiki_pages/safflower",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红花",
+      "confidence": "A",
+      "tag_cn_long": "菊科红花属植物，花橙红色或红色，常用于染料和中药。"
     },
     {
       "name": "Sandersonia",
@@ -1466,9 +1466,9 @@
       "wiki_url": "/wiki_pages/sandersonia_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宫灯花",
+      "confidence": "B",
+      "tag_cn_long": "百合科宫灯花属植物，花形似灯笼或提灯，橙色，观赏花卉。"
     },
     {
       "name": "Skeleton flower",
@@ -1476,9 +1476,9 @@
       "wiki_url": "/wiki_pages/skeleton_flower_%28plant%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骨架花",
+      "confidence": "B",
+      "tag_cn_long": "山茱萸科植物，花瓣白色，遇水变透明，显现出骨架状脉络，也称骷髅花。"
     },
     {
       "name": "Snapdragon",
@@ -1486,9 +1486,9 @@
       "wiki_url": "/wiki_pages/snapdragon",
       "category_path": "Species of flower",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金鱼草",
+      "confidence": "A",
+      "tag_cn_long": "车前科金鱼草属花卉，花朵形似金鱼嘴，颜色多样，常见于花坛。"
     },
     {
       "name": "Snowbell",
@@ -1496,9 +1496,9 @@
       "wiki_url": "/wiki_pages/snowbell_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪铃花",
+      "confidence": "A",
+      "tag_cn_long": "一种开白色钟形花朵的植物。"
     },
     {
       "name": "Snowdrop",
@@ -1506,9 +1506,9 @@
       "wiki_url": "/wiki_pages/snowdrop_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪花莲",
+      "confidence": "A",
+      "tag_cn_long": "一种早春开白色下垂花朵的球根植物。"
     },
     {
       "name": "Spathiphyllum",
@@ -1516,9 +1516,9 @@
       "wiki_url": "/wiki_pages/spathiphyllum",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白掌",
+      "confidence": "A",
+      "tag_cn_long": "天南星科多年生草本，常见观赏植物，白色佛焰苞似手掌。"
     },
     {
       "name": "Spider lily",
@@ -1526,9 +1526,9 @@
       "wiki_url": "/wiki_pages/spider_lily",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彼岸花",
+      "confidence": "A",
+      "tag_cn_long": "石蒜科植物，红色花丝细长如蜘蛛腿，常与死亡相关联。"
     },
     {
       "name": "Spiderwort",
@@ -1536,9 +1536,9 @@
       "wiki_url": "/wiki_pages/spiderwort_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫露草",
+      "confidence": "B",
+      "tag_cn_long": "鸭跖草科植物，多为紫色或蓝色小花。"
     },
     {
       "name": "Strawberry blossoms",
@@ -1546,9 +1546,9 @@
       "wiki_url": "/wiki_pages/strawberry_blossoms",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草莓花",
+      "confidence": "A",
+      "tag_cn_long": "草莓的白色小花，结出草莓果实。"
     },
     {
       "name": "Sunflower",
@@ -1556,9 +1556,9 @@
       "wiki_url": "/wiki_pages/sunflower",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "向日葵",
+      "confidence": "A",
+      "tag_cn_long": "菊科一年生植物，花盘随太阳转动，常见黄色大花。"
     },
     {
       "name": "Sweet pea",
@@ -1566,9 +1566,9 @@
       "wiki_url": "/wiki_pages/sweet_pea",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "香豌豆",
+      "confidence": "A",
+      "tag_cn_long": "豆科植物，花朵芳香，颜色多样，攀援生长。"
     },
     {
       "name": "Thistle",
@@ -1576,9 +1576,9 @@
       "wiki_url": "/wiki_pages/thistle",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓟",
+      "confidence": "A",
+      "tag_cn_long": "菊科多刺植物，常见紫色头状花序。"
     },
     {
       "name": "Tigridia",
@@ -1586,9 +1586,9 @@
       "wiki_url": "/wiki_pages/tigridia",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "老虎花",
+      "confidence": "B",
+      "tag_cn_long": "鸢尾科植物，花朵有虎斑花纹，又称虎斑花。"
     },
     {
       "name": "Tiger lily",
@@ -1596,9 +1596,9 @@
       "wiki_url": "/wiki_pages/tiger_lily",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷丹",
+      "confidence": "B",
+      "tag_cn_long": "百合科植物，橙色花瓣带有黑色斑点。"
     },
     {
       "name": "Trumpet creeper",
@@ -1606,9 +1606,9 @@
       "wiki_url": "/wiki_pages/trumpet_creeper",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凌霄花",
+      "confidence": "A",
+      "tag_cn_long": "紫葳科木质藤本，开橙红色喇叭状花朵，攀附生长。"
     },
     {
       "name": "Tuberose",
@@ -1616,9 +1616,9 @@
       "wiki_url": "/wiki_pages/tuberose",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晚香玉",
+      "confidence": "A",
+      "tag_cn_long": "石蒜科球根植物，白色花序，夜晚散发浓香。"
     },
     {
       "name": "Tulip",
@@ -1626,9 +1626,9 @@
       "wiki_url": "/wiki_pages/tulip",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "郁金香",
+      "confidence": "A",
+      "tag_cn_long": "百合科球根花卉，杯状花朵，颜色丰富。"
     },
     {
       "name": "Violet",
@@ -1636,9 +1636,9 @@
       "wiki_url": "/wiki_pages/violet_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫罗兰",
+      "confidence": "A",
+      "tag_cn_long": "堇菜科花卉，常见紫色或白色小花，有芳香。"
     },
     {
       "name": "Water lily flower",
@@ -1646,9 +1646,9 @@
       "wiki_url": "/wiki_pages/water_lily_flower",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睡莲花",
+      "confidence": "A",
+      "tag_cn_long": "睡莲科水生植物的花，浮于水面，颜色多样。"
     },
     {
       "name": "Wisteria",
@@ -1656,9 +1656,9 @@
       "wiki_url": "/wiki_pages/wisteria",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫藤",
+      "confidence": "A",
+      "tag_cn_long": "豆科藤本植物，总状花序下垂，紫色或白色。"
     },
     {
       "name": "Wolfsbane",
@@ -1666,9 +1666,9 @@
       "wiki_url": "/wiki_pages/wolfsbane_%28flower%29",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌头",
+      "confidence": "B",
+      "tag_cn_long": "毛茛科有毒植物，开蓝紫色盔形花。"
     },
     {
       "name": "Zinnia",
@@ -1676,9 +1676,9 @@
       "wiki_url": "/wiki_pages/zinnia",
       "category_path": "Species of flower",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百日菊",
+      "confidence": "A",
+      "tag_cn_long": "菊科一年生草本，花色鲜艳，花期长。"
     },
     {
       "name": "Black lotus",
@@ -1686,9 +1686,9 @@
       "wiki_url": "/wiki_pages/black_lotus",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑莲",
+      "confidence": "A",
+      "tag_cn_long": "虚构的黑色莲花，常出现在奇幻题材中。"
     },
     {
       "name": "Fire flower",
@@ -1696,9 +1696,9 @@
       "wiki_url": "/wiki_pages/fire_flower",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火力花",
+      "confidence": "A",
+      "tag_cn_long": "来自《超级马里奥》系列的一种道具，可以让玩家角色发射火球，通常呈三瓣花朵形状，带有笑脸眼睛。"
     },
     {
       "name": "Glaze lily",
@@ -1706,9 +1706,9 @@
       "wiki_url": "/wiki_pages/glaze_lily",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "琉璃百合",
+      "confidence": "A",
+      "tag_cn_long": "出自《原神》的一种蓝色花朵，常与璃月地区相关。"
     },
     {
       "name": "Gracidea",
@@ -1716,9 +1716,9 @@
       "wiki_url": "/wiki_pages/gracidea",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "葛拉西蒂亚花",
+      "confidence": "A",
+      "tag_cn_long": "《宝可梦》系列中的一种特殊花朵，可以让洁咪（陆地形态）转变为天空形态。"
     },
     {
       "name": "Ice flower",
@@ -1726,9 +1726,9 @@
       "wiki_url": "/wiki_pages/ice_flower",
       "category_path": "Fictional flowers",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冰之花",
+      "confidence": "A",
+      "tag_cn_long": "类似火力花的冰属性道具，源自《超级马里奥》系列，可发射冰冻弹。"
     },
     {
       "name": "Inteyvat flower",
@@ -1736,9 +1736,9 @@
       "wiki_url": "/wiki_pages/inteyvat_flower_%28genshin_impact%29",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "因提瓦特花",
+      "confidence": "A",
+      "tag_cn_long": "出自《原神》中的一种白色花朵，与地名因提瓦特相关。"
     },
     {
       "name": "Lunar tear",
@@ -1746,9 +1746,9 @@
       "wiki_url": "/wiki_pages/lunar_tear",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月之泪",
+      "confidence": "A",
+      "tag_cn_long": "《尼尔》系列中的一种白色发光花朵，名字意为「月亮的眼泪」。"
     },
     {
       "name": "Qingxin flower",
@@ -1756,9 +1756,9 @@
       "wiki_url": "/wiki_pages/qingxin_flower",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "清心",
+      "confidence": "A",
+      "tag_cn_long": "出自《原神》的一种白色五瓣花，为甘雨最爱的食物。"
     },
     {
       "name": "Silent princess",
@@ -1766,9 +1766,9 @@
       "wiki_url": "/wiki_pages/silent_princess",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "静寂公主",
+      "confidence": "A",
+      "tag_cn_long": "《塞尔达传说：旷野之息》中的一种蓝色花朵，外观静谧。"
     },
     {
       "name": "Silk flower",
@@ -1776,9 +1776,9 @@
       "wiki_url": "/wiki_pages/silk_flower_%28genshin_impact%29",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "霓裳花",
+      "confidence": "A",
+      "tag_cn_long": "出自《原神》的一种红色花朵，常用于制作染料或装饰。"
     },
     {
       "name": "Sweet flower",
@@ -1786,9 +1786,9 @@
       "wiki_url": "/wiki_pages/sweet_flower",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "甜甜花",
+      "confidence": "A",
+      "tag_cn_long": "出自《原神》的一种常见草药，具有甜味。"
     },
     {
       "name": "Wither rose",
@@ -1796,9 +1796,9 @@
       "wiki_url": "/wiki_pages/wither_rose",
       "category_path": "Fictional flowers",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凋零玫瑰",
+      "confidence": "A",
+      "tag_cn_long": "《我的世界》中的一种黑色枯萎玫瑰，接触后会使玩家获得凋零效果。"
     },
     {
       "name": "bouquet",
@@ -1806,9 +1806,9 @@
       "wiki_url": "/wiki_pages/bouquet",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花束",
+      "confidence": "A",
+      "tag_cn_long": "将多朵花以创意方式绑扎而成的装饰性花束。"
     },
     {
       "name": "boutonniere",
@@ -1816,9 +1816,9 @@
       "wiki_url": "/wiki_pages/boutonniere",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸花",
+      "confidence": "A",
+      "tag_cn_long": "别在西装翻领纽孔上的花饰。"
     },
     {
       "name": "corsage",
@@ -1826,9 +1826,9 @@
       "wiki_url": "/wiki_pages/corsage",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸花",
+      "confidence": "B",
+      "tag_cn_long": "女性在特殊场合佩戴的花饰，常别在裙上或系于手腕。"
     },
     {
       "name": "coughing flowers",
@@ -1836,9 +1836,9 @@
       "wiki_url": "/wiki_pages/coughing_flowers",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花吐症",
+      "confidence": "B",
+      "tag_cn_long": "一种虚构疾病，角色因单恋而开始咳出花朵或花瓣，又名花吐病。"
     },
     {
       "name": "field",
@@ -1846,9 +1846,9 @@
       "wiki_url": "/wiki_pages/field",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "田野",
+      "confidence": "A",
+      "tag_cn_long": "一片广阔的土地，通常用于种植作物或野花生长。"
     },
     {
       "name": "flower field",
@@ -1856,9 +1856,9 @@
       "wiki_url": "/wiki_pages/flower_field",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花田",
+      "confidence": "A",
+      "tag_cn_long": "主要由花朵覆盖的田野，呈现色彩斑斓的景观。"
     },
     {
       "name": "meadow",
@@ -1866,9 +1866,9 @@
       "wiki_url": "/wiki_pages/meadow",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草甸",
+      "confidence": "B",
+      "tag_cn_long": "未开垦的草地，混有野花和野草，通常不用于耕作。"
     },
     {
       "name": "flower symbol",
@@ -1876,9 +1876,9 @@
       "wiki_url": "/wiki_pages/flower_symbol",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花朵符号",
+      "confidence": "A",
+      "tag_cn_long": "以花朵形状作为象征或装饰的符号。"
     },
     {
       "name": "flower bed",
@@ -1886,9 +1886,9 @@
       "wiki_url": "/wiki_pages/flower_bed",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花坛",
+      "confidence": "A",
+      "tag_cn_long": "种植一种或多种花卉的小型花园区域。"
     },
     {
       "name": "flower bracelet",
@@ -1896,9 +1896,9 @@
       "wiki_url": "/wiki_pages/flower_bracelet",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花手链",
+      "confidence": "A",
+      "tag_cn_long": "一种带有花朵装饰的手链。"
     },
     {
       "name": "flower in mouth",
@@ -1906,9 +1906,9 @@
       "wiki_url": "/wiki_pages/flower_in_mouth",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含花",
+      "confidence": "A",
+      "tag_cn_long": "角色用嘴叼着一朵花的姿势。"
     },
     {
       "name": "flower necklace",
@@ -1926,9 +1926,9 @@
       "wiki_url": "/wiki_pages/flower_on_head",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头上开花",
+      "confidence": "A",
+      "tag_cn_long": "花朵从角色头顶生长出来，通常带茎和叶。"
     },
     {
       "name": "flower on liquid",
@@ -1936,9 +1936,9 @@
       "wiki_url": "/wiki_pages/flower_on_liquid",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水上花",
+      "confidence": "A",
+      "tag_cn_long": "花朵漂浮在液体（通常是水）表面。"
     },
     {
       "name": "flower trim",
@@ -1946,9 +1946,9 @@
       "wiki_url": "/wiki_pages/flower_trim",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花边饰边",
+      "confidence": "A",
+      "tag_cn_long": "服装边缘用花朵形状装饰的镶边。"
     },
     {
       "name": "floral print",
@@ -1956,9 +1956,9 @@
       "wiki_url": "/wiki_pages/floral_print",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花卉印花",
+      "confidence": "A",
+      "tag_cn_long": "衣服上印有花朵图案。"
     },
     {
       "name": "garden",
@@ -1966,9 +1966,9 @@
       "wiki_url": "/wiki_pages/garden",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花园",
+      "confidence": "A",
+      "tag_cn_long": "人工培育的户外区域，用于观赏或种植植物。"
     },
     {
       "name": "gardening",
@@ -1976,9 +1976,9 @@
       "wiki_url": "/wiki_pages/gardening",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "园艺",
+      "confidence": "A",
+      "tag_cn_long": "照料植物的活动，如种植、浇水等。"
     },
     {
       "name": "hair flower",
@@ -1996,9 +1996,9 @@
       "wiki_url": "/wiki_pages/hanafuda",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花札",
+      "confidence": "A",
+      "tag_cn_long": "日本传统花牌，共48张，以花卉代表月份。"
     },
     {
       "name": "hat flower",
@@ -2006,9 +2006,9 @@
       "wiki_url": "/wiki_pages/hat_flower",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽花",
+      "confidence": "A",
+      "tag_cn_long": "装饰在帽子上的花朵。"
     },
     {
       "name": "holding flower",
@@ -2016,9 +2016,9 @@
       "wiki_url": "/wiki_pages/holding_flower",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持花",
+      "confidence": "A",
+      "tag_cn_long": "角色手中拿着一朵或多朵花。"
     },
     {
       "name": "lei",
@@ -2026,9 +2026,9 @@
       "wiki_url": "/wiki_pages/lei",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花环",
+      "confidence": "A",
+      "tag_cn_long": "夏威夷风格的花圈，戴在脖子上作为装饰。"
     },
     {
       "name": "on flower",
@@ -2036,9 +2036,9 @@
       "wiki_url": "/wiki_pages/on_flower",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "在花上",
+      "confidence": "A",
+      "tag_cn_long": "角色站在、坐在、躺在等巨型花朵上。"
     },
     {
       "name": "outdoors",
@@ -2046,9 +2046,9 @@
       "wiki_url": "/wiki_pages/outdoors",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "户外",
+      "confidence": "A",
+      "tag_cn_long": "室外场景，与室内相对。"
     },
     {
       "name": "perennial",
@@ -2056,9 +2056,9 @@
       "wiki_url": "/wiki_pages/perennial_%28flower%29",
       "category_path": "Flower Misc",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多年生植物",
+      "confidence": "A",
+      "tag_cn_long": "生命周期超过两年的植物。"
     },
     {
       "name": "petals",
@@ -2066,9 +2066,9 @@
       "wiki_url": "/wiki_pages/petals",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花瓣",
+      "confidence": "A",
+      "tag_cn_long": "从花朵上脱落的花瓣。"
     },
     {
       "name": "rose petals",
@@ -2076,9 +2076,9 @@
       "wiki_url": "/wiki_pages/rose_petals",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玫瑰花瓣",
+      "confidence": "A",
+      "tag_cn_long": "来源于玫瑰的花瓣。"
     },
     {
       "name": "petals on liquid",
@@ -2086,9 +2086,9 @@
       "wiki_url": "/wiki_pages/petals_on_liquid",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水上花瓣",
+      "confidence": "A",
+      "tag_cn_long": "漂浮在水或其他液体表面的花瓣。"
     },
     {
       "name": "plant",
@@ -2096,9 +2096,9 @@
       "wiki_url": "/wiki_pages/plant",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "植物",
+      "confidence": "A",
+      "tag_cn_long": "属于植物界的生物。"
     },
     {
       "name": "smelling flower",
@@ -2106,9 +2106,9 @@
       "wiki_url": "/wiki_pages/smelling_flower",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闻花",
+      "confidence": "A",
+      "tag_cn_long": "将花朵靠近鼻子闻其气味。"
     },
     {
       "name": "wreath",
@@ -2116,9 +2116,9 @@
       "wiki_url": "/wiki_pages/wreath",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花环",
+      "confidence": "A",
+      "tag_cn_long": "用花朵、叶子等制成的环形装饰品。"
     },
     {
       "name": "head wreath",
@@ -2126,9 +2126,9 @@
       "wiki_url": "/wiki_pages/head_wreath",
       "category_path": "Flower Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花冠",
+      "confidence": "A",
+      "tag_cn_long": "由花、叶子等制成的环形头饰。"
     }
   ],
   "total_tags": 210,

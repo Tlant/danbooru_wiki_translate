@@ -1,0 +1,6 @@
+{
+  "tag": "EXIF thumbnail surprise",
+  "tag_cn": "EXIF缩略图彩蛋",
+  "confidence": "B",
+  "tag_cn_long": "JPEG文件的EXIF缩略图与主图不一致，通常为隐藏彩蛋。"
+}

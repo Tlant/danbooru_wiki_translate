@@ -1,0 +1,6 @@
+{
+  "tag": "intentional JPEG artifacts",
+  "tag_cn": "刻意JPEG伪影",
+  "confidence": "A",
+  "tag_cn_long": "刻意制造的JPEG压缩块状或色块失真，用于达成某种视觉风格。"
+}

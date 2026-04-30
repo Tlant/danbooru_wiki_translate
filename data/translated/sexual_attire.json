@@ -42,9 +42,9 @@
       "wiki_url": "/wiki_pages/lingerie",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "性感内衣",
+      "confidence": "B",
+      "tag_cn_long": "一种时尚且具有诱惑力的女性内衣，常带有蕾丝或薄纱等装饰。"
     },
     {
       "name": "babydoll",
@@ -52,9 +52,9 @@
       "wiki_url": "/wiki_pages/babydoll",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "娃娃式睡衣",
+      "confidence": "B",
+      "tag_cn_long": "一种短款无袖宽松睡衣，常为透明材质，带有装饰。"
     },
     {
       "name": "bodystocking",
@@ -62,9 +62,9 @@
       "wiki_url": "/wiki_pages/bodystocking",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连体丝袜",
+      "confidence": "B",
+      "tag_cn_long": "一种薄透的全身紧身衣，类似连裤袜覆盖全身。"
     },
     {
       "name": "bra",
@@ -72,9 +72,9 @@
       "wiki_url": "/wiki_pages/bra",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩",
+      "confidence": "A",
+      "tag_cn_long": "女性用于支撑胸部的内衣。"
     },
     {
       "name": "bustier",
@@ -82,9 +82,9 @@
       "wiki_url": "/wiki_pages/bustier",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身胸衣",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身内衣，从胸部延伸至腰部以上，用于支撑和塑造胸部。"
     },
     {
       "name": "camisole",
@@ -92,9 +92,9 @@
       "wiki_url": "/wiki_pages/camisole",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊带背心",
+      "confidence": "A",
+      "tag_cn_long": "一种细肩带的无袖上衣，可作为外衣或内衣穿着。"
     },
     {
       "name": "chemise",
@@ -102,9 +102,9 @@
       "wiki_url": "/wiki_pages/chemise",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衬裙",
+      "confidence": "B",
+      "tag_cn_long": "一种宽松无袖的女性内衣，长度一般到腰以下，常作为睡衣或性感内衣。"
     },
     {
       "name": "corset",
@@ -112,9 +112,9 @@
       "wiki_url": "/wiki_pages/corset",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束腰",
+      "confidence": "A",
+      "tag_cn_long": "用于塑形的紧身胸衣，常系带。"
     },
     {
       "name": "fishnets",
@@ -122,9 +122,9 @@
       "wiki_url": "/wiki_pages/fishnets",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渔网袜",
+      "confidence": "A",
+      "tag_cn_long": "一种网眼钻石形编织的丝袜，通常为黑色，用于腿部或全身。"
     },
     {
       "name": "garter straps",
@@ -132,9 +132,9 @@
       "wiki_url": "/wiki_pages/garter_straps",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊袜带（带子）",
+      "confidence": "B",
+      "tag_cn_long": "连接吊袜腰带和长袜的带子，仅当带子可见时使用此标签。"
     },
     {
       "name": "garter belt",
@@ -142,9 +142,9 @@
       "wiki_url": "/wiki_pages/garter_belt",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊袜腰带",
+      "confidence": "A",
+      "tag_cn_long": "系腰间用于固定长袜的带子。"
     },
     {
       "name": "lace",
@@ -152,9 +152,9 @@
       "wiki_url": "/wiki_pages/lace",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝",
+      "confidence": "A",
+      "tag_cn_long": "一种精致的花边织物，通常为白色，带有网状图案。"
     },
     {
       "name": "nightgown",
@@ -162,9 +162,9 @@
       "wiki_url": "/wiki_pages/nightgown",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睡裙",
+      "confidence": "A",
+      "tag_cn_long": "女性穿的宽松睡衣，长度从臀部到地板不等。"
     },
     {
       "name": "panties",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/panties",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内裤",
+      "confidence": "A",
+      "tag_cn_long": "女性覆盖阴部的内衣，无腿部分。"
     },
     {
       "name": "boyshort panties",
@@ -182,9 +182,9 @@
       "wiki_url": "/wiki_pages/boyshort_panties",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男孩短裤",
+      "confidence": "B",
+      "tag_cn_long": "一种女性内裤，类似于短裤，覆盖臀部和上大腿。"
     },
     {
       "name": "strapless bottom",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/strapless_bottom",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无带底裤",
+      "confidence": "B",
+      "tag_cn_long": "一种仅遮盖裆部的内裤，两侧无吊带或腰带固定。"
     },
     {
       "name": "teddy",
@@ -202,9 +202,9 @@
       "wiki_url": "/wiki_pages/teddy_%28lingerie%29",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连体内衣",
+      "confidence": "C",
+      "tag_cn_long": "一种一件式的性感内衣，通常覆盖胸部、腰部和臀部。"
     },
     {
       "name": "thighhighs",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/thighhighs",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿袜",
+      "confidence": "A",
+      "tag_cn_long": "覆盖从脚到大腿的袜子或长袜，通常由弹性大腿带或吊袜带固定。"
     },
     {
       "name": "thong",
@@ -222,9 +222,9 @@
       "wiki_url": "/wiki_pages/thong",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丁字裤",
+      "confidence": "A",
+      "tag_cn_long": "一种只覆盖臀部之间一条细布的内衣，露出臀部。"
     },
     {
       "name": "g-string",
@@ -232,9 +232,9 @@
       "wiki_url": "/wiki_pages/g-string",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "G弦裤",
+      "confidence": "A",
+      "tag_cn_long": "一种类似丁字裤的内衣，但背后只有一根细绳，更加暴露。"
     },
     {
       "name": "pearl thong",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/pearl_thong",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "珍珠丁字裤",
+      "confidence": "A",
+      "tag_cn_long": "一种带有串珠的丁字裤，用于提供性刺激。"
     },
     {
       "name": "male underwear",
@@ -252,9 +252,9 @@
       "wiki_url": "/wiki_pages/male_underwear",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男式内裤",
+      "confidence": "A",
+      "tag_cn_long": "男性穿着的内衣，包括平角裤、三角裤等。"
     },
     {
       "name": "ball bra",
@@ -262,9 +262,9 @@
       "wiki_url": "/wiki_pages/ball_bra",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睾丸托带",
+      "confidence": "B",
+      "tag_cn_long": "一种绑缚在睾丸上的性感内衣，通常用于恋物癖。"
     },
     {
       "name": "boxers",
@@ -272,9 +272,9 @@
       "wiki_url": "/wiki_pages/boxers",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "平角内裤",
+      "confidence": "A",
+      "tag_cn_long": "男性平角内裤，外形类似短裤。"
     },
     {
       "name": "briefs",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/briefs",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角内裤",
+      "confidence": "A",
+      "tag_cn_long": "男性三角内裤，紧身Y形。"
     },
     {
       "name": "boxer briefs",
@@ -292,9 +292,9 @@
       "wiki_url": "/wiki_pages/boxer_briefs",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身平角内裤",
+      "confidence": "A",
+      "tag_cn_long": "介于平角内裤和三角内裤之间的紧身男性内裤。"
     },
     {
       "name": "bikini briefs",
@@ -302,9 +302,9 @@
       "wiki_url": "/wiki_pages/bikini_briefs",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比基尼内裤",
+      "confidence": "A",
+      "tag_cn_long": "高胯剪裁的男性内裤，仅覆盖骨盆区域。"
     },
     {
       "name": "jockstrap",
@@ -312,9 +312,9 @@
       "wiki_url": "/wiki_pages/jockstrap",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护裆",
+      "confidence": "A",
+      "tag_cn_long": "一种男性运动护具，包含腰带宽紧带和囊袋，用于支撑和保护生殖器。"
     },
     {
       "name": "penis sheath",
@@ -322,9 +322,9 @@
       "wiki_url": "/wiki_pages/penis_sheath",
       "category_path": "Lingerie",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎鞘",
+      "confidence": "B",
+      "tag_cn_long": "覆盖阴茎的套状物，如避孕套或装饰性鞘。"
     },
     {
       "name": "armbinder",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/blindfold",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒙眼布",
+      "confidence": "A",
+      "tag_cn_long": "遮住双眼的布条，用于阻止视线。"
     },
     {
       "name": "bitchsuit",
@@ -352,9 +352,9 @@
       "wiki_url": "/wiki_pages/bitchsuit",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贱婢装",
+      "confidence": "B",
+      "tag_cn_long": "一种用于BDSM的全身束缚服装，带有羞辱意味。"
     },
     {
       "name": "bodysuit",
@@ -362,9 +362,9 @@
       "wiki_url": "/wiki_pages/bodysuit",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连体紧身衣",
+      "confidence": "A",
+      "tag_cn_long": "紧身一件式服装，从颈部覆盖到至少大腿上部。"
     },
     {
       "name": "bondage mittens",
@@ -372,9 +372,9 @@
       "wiki_url": "/wiki_pages/bondage_mittens",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束缚手套",
+      "confidence": "A",
+      "tag_cn_long": "一种BDSM用具，套在手上限制手指活动，通常无拇指分离。"
     },
     {
       "name": "bondage outfit",
@@ -382,9 +382,9 @@
       "wiki_url": "/wiki_pages/bondage_outfit",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束缚装",
+      "confidence": "A",
+      "tag_cn_long": "用于BDSM玩耍的束缚性或暴露性服装。"
     },
     {
       "name": "chastity belt",
@@ -392,9 +392,9 @@
       "wiki_url": "/wiki_pages/chastity_belt",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贞操带",
+      "confidence": "A",
+      "tag_cn_long": "防止性接触的金属或塑料器具，通常上锁。"
     },
     {
       "name": "chastity cage",
@@ -402,9 +402,9 @@
       "wiki_url": "/wiki_pages/chastity_cage",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贞操笼",
+      "confidence": "A",
+      "tag_cn_long": "一种可锁定在阴茎上的装置，用于防止性接触或勃起，常用于性玩具场景。"
     },
     {
       "name": "collar",
@@ -412,9 +412,9 @@
       "wiki_url": "/wiki_pages/collar",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈圈",
+      "confidence": "A",
+      "tag_cn_long": "作为时尚饰品佩戴在脖子上的环状物，通常比项圈宽松。"
     },
     {
       "name": "cuffs",
@@ -422,9 +422,9 @@
       "wiki_url": "/wiki_pages/cuffs",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "镣铐",
+      "confidence": "A",
+      "tag_cn_long": "通常由皮革或金属制成的环，套在手腕或脚踝上，用于限制行动。"
     },
     {
       "name": "handcuffs",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/handcuffs",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手铐",
+      "confidence": "A",
+      "tag_cn_long": "金属环状束缚工具，用于限制手腕活动。"
     },
     {
       "name": "shackles",
@@ -442,9 +442,9 @@
       "wiki_url": "/wiki_pages/shackles",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "镣铐",
+      "confidence": "A",
+      "tag_cn_long": "用于束缚手臂或腿部的金属镣铐，常见于地牢或监狱场景。"
     },
     {
       "name": "gag",
@@ -452,9 +452,9 @@
       "wiki_url": "/wiki_pages/gag",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口塞",
+      "confidence": "A",
+      "tag_cn_long": "塞入或罩住嘴部以限制说话的器具。"
     },
     {
       "name": "gimp mask",
@@ -462,9 +462,9 @@
       "wiki_url": "/wiki_pages/gimp_mask",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "GIMP头套",
+      "confidence": "B",
+      "tag_cn_long": "覆盖整个头部的面具，常与全身紧身衣搭配使用。"
     },
     {
       "name": "gimp suit",
@@ -472,9 +472,9 @@
       "wiki_url": "/wiki_pages/gimp_suit",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "GIMP服",
+      "confidence": "B",
+      "tag_cn_long": "一种用于束缚的橡胶全身紧身衣。"
     },
     {
       "name": "latex",
@@ -482,9 +482,9 @@
       "wiki_url": "/wiki_pages/latex",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳胶",
+      "confidence": "A",
+      "tag_cn_long": "乳胶材料制成的服装，具有光泽、紧身的特点。"
     },
     {
       "name": "nose hook",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/nose_hook",
       "category_path": "BDSM",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鼻钩",
+      "confidence": "A",
+      "tag_cn_long": "一种性玩具，钩在鼻孔下方向后拉，用于头部固定。"
     },
     {
       "name": "ass cutout",
@@ -502,9 +502,9 @@
       "wiki_url": "/wiki_pages/ass_cutout",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臀部镂空",
+      "confidence": "A",
+      "tag_cn_long": "衣物上露出臀部的开口设计。"
     },
     {
       "name": "assless swimsuit",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/assless_swimsuit",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露臀泳装",
+      "confidence": "B",
+      "tag_cn_long": "一种覆盖阴部但露出臀部的泳装。"
     },
     {
       "name": "backless panties",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/backless_panties",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露臀内裤",
+      "confidence": "A",
+      "tag_cn_long": "覆盖阴部但露出臀部的内裤，常为了减少内裤痕迹。"
     },
     {
       "name": "backless pants",
@@ -532,9 +532,9 @@
       "wiki_url": "/wiki_pages/backless_pants",
       "category_path": "Exposure",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露臀裤",
+      "confidence": "B",
+      "tag_cn_long": "一种后面露出臀部的裤子。"
     },
     {
       "name": "anus cutout",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/anus_cutout",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露肛装",
+      "confidence": "B",
+      "tag_cn_long": "在肛门位置有开口的服装设计。"
     },
     {
       "name": "breast cutouts",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/breast_cutouts",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露胸开洞",
+      "confidence": "B",
+      "tag_cn_long": "在胸部位置有开口露出乳房的服装。"
     },
     {
       "name": "breastless clothes",
@@ -562,9 +562,9 @@
       "wiki_url": "/wiki_pages/breastless_clothes",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露胸装",
+      "confidence": "B",
+      "tag_cn_long": "专门设计来露出乳房而非遮护的衣物。"
     },
     {
       "name": "cupless bikini",
@@ -572,9 +572,9 @@
       "wiki_url": "/wiki_pages/cupless_bikini",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无杯比基尼",
+      "confidence": "A",
+      "tag_cn_long": "一种没有罩杯覆盖乳房的比基尼设计，可能露出乳头。"
     },
     {
       "name": "cupless bra",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/cupless_bra",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无罩杯胸罩",
+      "confidence": "A",
+      "tag_cn_long": "无罩杯包裹的胸罩，设计为托起并露出乳房，可能遮挡或不遮挡乳头。"
     },
     {
       "name": "nippleless clothes",
@@ -592,9 +592,9 @@
       "wiki_url": "/wiki_pages/nippleless_clothes",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露乳装",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有孔洞让乳头穿出。"
     },
     {
       "name": "nipple cutout",
@@ -602,9 +602,9 @@
       "wiki_url": "/wiki_pages/nipple_cutout",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头镂空",
+      "confidence": "A",
+      "tag_cn_long": "衣服上在乳头位置挖出开口。"
     },
     {
       "name": "crotchless",
@@ -612,9 +612,9 @@
       "wiki_url": "/wiki_pages/crotchless",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开裆",
+      "confidence": "A",
+      "tag_cn_long": "服装的裆部有意开口，露出生殖器或内裤。"
     },
     {
       "name": "crotchless bloomers",
@@ -622,9 +622,9 @@
       "wiki_url": "/wiki_pages/crotchless_bloomers",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开裆灯笼裤",
+      "confidence": "B",
+      "tag_cn_long": "裆部开口的灯笼裤。"
     },
     {
       "name": "crotchless buruma",
@@ -632,9 +632,9 @@
       "wiki_url": "/wiki_pages/crotchless_buruma",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开裆布鲁马",
+      "confidence": "C",
+      "tag_cn_long": "裆部开口的布鲁马短裤（日本女式运动短裤）。"
     },
     {
       "name": "crotchless leotard",
@@ -642,9 +642,9 @@
       "wiki_url": "/wiki_pages/crotchless_leotard",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开裆连体衣",
+      "confidence": "A",
+      "tag_cn_long": "裆部开口的紧身连体衣。"
     },
     {
       "name": "crotchless panties",
@@ -652,9 +652,9 @@
       "wiki_url": "/wiki_pages/crotchless_panties",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开裆内裤",
+      "confidence": "A",
+      "tag_cn_long": "没有裆部的内裤，暴露阴道区域。"
     },
     {
       "name": "crotchless pants",
@@ -662,9 +662,9 @@
       "wiki_url": "/wiki_pages/crotchless_pants",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开裆裤",
+      "confidence": "A",
+      "tag_cn_long": "裆部开口的裤子，设计上缺失裆部区域。"
     },
     {
       "name": "crotchless pantyhose",
@@ -672,9 +672,9 @@
       "wiki_url": "/wiki_pages/crotchless_pantyhose",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开裆连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "裆部开口的连裤袜，设计上缺失裆部。"
     },
     {
       "name": "crotchless swimsuit",
@@ -682,9 +682,9 @@
       "wiki_url": "/wiki_pages/crotchless_swimsuit",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无裆泳衣",
+      "confidence": "A",
+      "tag_cn_long": "裆部开口露出阴部的泳衣。"
     },
     {
       "name": "revealing clothes",
@@ -692,9 +692,9 @@
       "wiki_url": "/wiki_pages/revealing_clothes",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "暴露装",
+      "confidence": "A",
+      "tag_cn_long": "一种非常暴露且不实用的服装，穿着者几乎等同于裸体。"
     },
     {
       "name": "reverse outfit",
@@ -702,9 +702,9 @@
       "wiki_url": "/wiki_pages/reverse_outfit",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "反穿服装",
+      "confidence": "B",
+      "tag_cn_long": "布料位置颠倒的服装，通常将裸露处变为布料覆盖。"
     },
     {
       "name": "reverse bikini armor",
@@ -712,9 +712,9 @@
       "wiki_url": "/wiki_pages/reverse_bikini_armor",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "反比基尼铠甲",
+      "confidence": "B",
+      "tag_cn_long": "覆盖身体大部分但裸露胸部和阴部的铠甲。"
     },
     {
       "name": "reverse bunnysuit",
@@ -722,9 +722,9 @@
       "wiki_url": "/wiki_pages/reverse_bunnysuit",
       "category_path": "Exposure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "反兔女郎装",
+      "confidence": "B",
+      "tag_cn_long": "类似兔女郎装但躯干裸露，手臂和腿覆盖的服装。"
     },
     {
       "name": "anal ball wear",
@@ -732,9 +732,9 @@
       "wiki_url": "/wiki_pages/anal_ball_wear",
       "category_path": "More / Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肛珠穿戴",
+      "confidence": "B",
+      "tag_cn_long": "通过插入式肛珠或肛塞固定的服装。"
     },
     {
       "name": "maebari",
@@ -752,9 +752,9 @@
       "wiki_url": "/wiki_pages/nipple_ring_dress",
       "category_path": "More / Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头环连衣裙",
+      "confidence": "C",
+      "tag_cn_long": "通过乳头环固定的连衣裙。"
     },
     {
       "name": "pasties",
@@ -762,9 +762,9 @@
       "wiki_url": "/wiki_pages/pasties",
       "category_path": "More / Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头贴",
+      "confidence": "A",
+      "tag_cn_long": "用于遮挡乳头的贴片，常见心形或星形。"
     }
   ],
   "total_tags": 73,

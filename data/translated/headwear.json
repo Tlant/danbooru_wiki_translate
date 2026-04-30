@@ -82,9 +82,9 @@
       "wiki_url": "/wiki_pages/hat",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子",
+      "confidence": "A",
+      "tag_cn_long": "戴在头上的服饰，通常有帽檐。"
     },
     {
       "name": "helmet",
@@ -92,9 +92,9 @@
       "wiki_url": "/wiki_pages/helmet",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头盔",
+      "confidence": "A",
+      "tag_cn_long": "用于保护头部的盔甲装备。"
     },
     {
       "name": "aqua hat",
@@ -102,9 +102,9 @@
       "wiki_url": "/wiki_pages/aqua_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "青色帽子",
+      "confidence": "A",
+      "tag_cn_long": "一顶青色的帽子。"
     },
     {
       "name": "black hat",
@@ -112,9 +112,9 @@
       "wiki_url": "/wiki_pages/black_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色帽子",
+      "confidence": "A",
+      "tag_cn_long": "一顶黑色的帽子。"
     },
     {
       "name": "blue hat",
@@ -122,9 +122,9 @@
       "wiki_url": "/wiki_pages/blue_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色帽子",
+      "confidence": "A",
+      "tag_cn_long": "一顶蓝色的帽子。"
     },
     {
       "name": "brown hat",
@@ -132,9 +132,9 @@
       "wiki_url": "/wiki_pages/brown_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色帽子",
+      "confidence": "A",
+      "tag_cn_long": "一顶棕色的帽子。"
     },
     {
       "name": "green hat",
@@ -142,9 +142,9 @@
       "wiki_url": "/wiki_pages/green_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色帽子",
+      "confidence": "A",
+      "tag_cn_long": "一顶绿色的帽子。"
     },
     {
       "name": "grey hat",
@@ -152,9 +152,9 @@
       "wiki_url": "/wiki_pages/grey_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色帽子",
+      "confidence": "A",
+      "tag_cn_long": "一顶灰色的帽子。"
     },
     {
       "name": "orange hat",
@@ -162,9 +162,9 @@
       "wiki_url": "/wiki_pages/orange_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色帽子",
+      "confidence": "A",
+      "tag_cn_long": "一顶橙色的帽子。"
     },
     {
       "name": "pink hat",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/pink_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色帽子",
+      "confidence": "A",
+      "tag_cn_long": "一顶粉色的帽子。"
     },
     {
       "name": "purple hat",
@@ -182,9 +182,9 @@
       "wiki_url": "/wiki_pages/purple_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫色帽子",
+      "confidence": "A",
+      "tag_cn_long": "一顶紫色的帽子。"
     },
     {
       "name": "red hat",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/red_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红帽",
+      "confidence": "A",
+      "tag_cn_long": "颜色为红色的帽子。"
     },
     {
       "name": "white hat",
@@ -202,9 +202,9 @@
       "wiki_url": "/wiki_pages/white_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白帽",
+      "confidence": "A",
+      "tag_cn_long": "颜色为白色的帽子。"
     },
     {
       "name": "yellow hat",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/yellow_hat",
       "category_path": "Colours",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄帽",
+      "confidence": "A",
+      "tag_cn_long": "颜色为黄色的帽子。"
     },
     {
       "name": "baseball cap",
@@ -222,9 +222,9 @@
       "wiki_url": "/wiki_pages/baseball_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棒球帽",
+      "confidence": "A",
+      "tag_cn_long": "一种带有长硬帽檐的软帽，通常后面有调节扣。"
     },
     {
       "name": "budenovka",
@@ -232,9 +232,9 @@
       "wiki_url": "/wiki_pages/budenovka",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布琼尼帽",
+      "confidence": "B",
+      "tag_cn_long": "一种柔软的羊毛帽，能覆盖耳朵和颈部，与苏联红军有关。"
     },
     {
       "name": "deerstalker",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/deerstalker",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猎鹿帽",
+      "confidence": "A",
+      "tag_cn_long": "一种有前后帽檐和可放下耳罩的格子呢帽，常与夏洛克·福尔摩斯关联。"
     },
     {
       "name": "dianzi",
@@ -252,9 +252,9 @@
       "wiki_url": "/wiki_pages/dianzi",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钿子",
+      "confidence": "A",
+      "tag_cn_long": "清代满族妇女佩戴的半圆形金属框架头饰，常饰有珠宝。"
     },
     {
       "name": "field cap",
@@ -262,9 +262,9 @@
       "wiki_url": "/wiki_pages/field_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "野战帽",
+      "confidence": "A",
+      "tag_cn_long": "一种软质军帽，类似棒球帽但顶部扁平，用于不需要头盔的场合。"
     },
     {
       "name": "kepi",
@@ -272,9 +272,9 @@
       "wiki_url": "/wiki_pages/kepi",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凯皮帽",
+      "confidence": "A",
+      "tag_cn_long": "一种平顶圆柱形带帽檐的帽子，主要与法国军队关联。"
     },
     {
       "name": "M43 field cap",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/m43_field_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "M43野战帽",
+      "confidence": "B",
+      "tag_cn_long": "德国二战时期使用的滑雪帽式军帽，带有高顶和可折叠耳罩。"
     },
     {
       "name": "Mao cap",
@@ -292,9 +292,9 @@
       "wiki_url": "/wiki_pages/mao_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "解放帽",
+      "confidence": "A",
+      "tag_cn_long": "一种软质平顶小帽檐的帽子，在中国常与毛泽东和解放军关联。"
     },
     {
       "name": "newsboy cap",
@@ -302,9 +302,9 @@
       "wiki_url": "/wiki_pages/newsboy_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "报童帽",
+      "confidence": "A",
+      "tag_cn_long": "一种类似八角帽的软帽，通常与报童形象关联。"
     },
     {
       "name": "peaked cap",
@@ -312,9 +312,9 @@
       "wiki_url": "/wiki_pages/peaked_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大檐帽",
+      "confidence": "A",
+      "tag_cn_long": "一种带有硬质帽檐的军帽，常用于军队和执法机关。"
     },
     {
       "name": "rogatywka",
@@ -322,9 +322,9 @@
       "wiki_url": "/wiki_pages/rogatywka",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波兰四角军帽",
+      "confidence": "B",
+      "tag_cn_long": "一种波兰军队的四角尖顶军帽，通常为棕色。"
     },
     {
       "name": "shako cap",
@@ -332,9 +332,9 @@
       "wiki_url": "/wiki_pages/shako_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "沙科帽",
+      "confidence": "A",
+      "tag_cn_long": "一种高筒圆柱形军帽，带有帽檐和装饰徽章，有时顶部有羽毛或绒球。"
     },
     {
       "name": "mini shako cap",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/mini_shako_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷你沙科帽",
+      "confidence": "B",
+      "tag_cn_long": "一种较小版本的筒形军帽。"
     },
     {
       "name": "bicorne",
@@ -352,9 +352,9 @@
       "wiki_url": "/wiki_pages/bicorne",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双角帽",
+      "confidence": "A",
+      "tag_cn_long": "一种帽檐向上翻起形成两个尖角的帽子。"
     },
     {
       "name": "boater hat",
@@ -362,9 +362,9 @@
       "wiki_url": "/wiki_pages/boater_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "船夫帽",
+      "confidence": "A",
+      "tag_cn_long": "一种平顶硬质帽子，带有缎带，流行于19世纪末20世纪初。"
     },
     {
       "name": "boonie hat",
@@ -372,9 +372,9 @@
       "wiki_url": "/wiki_pages/boonie_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奔尼帽",
+      "confidence": "A",
+      "tag_cn_long": "一种宽檐软帽，常用于热带地区军队，类似渔夫帽但帽檐较硬。"
     },
     {
       "name": "bowler hat",
@@ -382,9 +382,9 @@
       "wiki_url": "/wiki_pages/bowler_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆顶礼帽",
+      "confidence": "A",
+      "tag_cn_long": "一种圆顶翻边礼帽，由托马斯和威廉·波勒兄弟于1849年设计。"
     },
     {
       "name": "bucket hat",
@@ -392,9 +392,9 @@
       "wiki_url": "/wiki_pages/bucket_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渔夫帽",
+      "confidence": "A",
+      "tag_cn_long": "一种软布制成的宽檐向下倾斜的帽子，常为渔民所用。"
     },
     {
       "name": "campaign hat",
@@ -402,9 +402,9 @@
       "wiki_url": "/wiki_pages/campaign_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斯莫基熊帽",
+      "confidence": "C",
+      "tag_cn_long": "一种宽檐高冠帽，四角对称捏褶，常见于美国军队和加拿大骑警。"
     },
     {
       "name": "cavalier hat",
@@ -412,9 +412,9 @@
       "wiki_url": "/wiki_pages/cavalier_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骑士帽",
+      "confidence": "A",
+      "tag_cn_long": "一种17世纪流行的宽檐帽，帽檐一侧上翻，常带有大羽毛装饰。"
     },
     {
       "name": "cloche hat",
@@ -422,9 +422,9 @@
       "wiki_url": "/wiki_pages/cloche_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钟形帽",
+      "confidence": "A",
+      "tag_cn_long": "一种钟形女帽，流行于1920年代，帽身贴合头部，帽檐向下。"
     },
     {
       "name": "cowboy hat",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/cowboy_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牛仔帽",
+      "confidence": "A",
+      "tag_cn_long": "一种宽檐高冠帽，典型于美国西部牛仔和牧场工人。"
     },
     {
       "name": "straw hat",
@@ -442,9 +442,9 @@
       "wiki_url": "/wiki_pages/straw_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草帽",
+      "confidence": "A",
+      "tag_cn_long": "一种用稻草或类似材料编织的帽子，包括各种款式。"
     },
     {
       "name": "ajirogasa",
@@ -452,9 +452,9 @@
       "wiki_url": "/wiki_pages/ajirogasa",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "编笠",
+      "confidence": "A",
+      "tag_cn_long": "日本传统圆锥形帽子，由竹或藤条编织而成。"
     },
     {
       "name": "amigasa",
@@ -462,9 +462,9 @@
       "wiki_url": "/wiki_pages/amigasa",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网笠",
+      "confidence": "A",
+      "tag_cn_long": "日本圆形或半月形草帽，常用于阿波舞表演。"
     },
     {
       "name": "ayaigasa",
@@ -472,9 +472,9 @@
       "wiki_url": "/wiki_pages/ayaigasa",
       "category_path": "Hats",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绫笠",
+      "confidence": "D",
+      "tag_cn_long": "一种日本草帽，具体样式不详，可能带有花纹。"
     },
     {
       "name": "ichimegasa",
@@ -482,9 +482,9 @@
       "wiki_url": "/wiki_pages/ichimegasa",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "市女笠",
+      "confidence": "A",
+      "tag_cn_long": "日本贵族女性使用的草帽，顶部有钝圆突起，边缘垂有面纱。"
     },
     {
       "name": "roningasa",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/roningasa",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浪人笠",
+      "confidence": "A",
+      "tag_cn_long": "一种圆锥形帽子，带有通风孔，可下拉遮面，常被浪人佩戴。"
     },
     {
       "name": "sandogasa",
@@ -502,9 +502,9 @@
       "wiki_url": "/wiki_pages/sandogasa",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三度笠",
+      "confidence": "A",
+      "tag_cn_long": "一种边缘下垂的日本传统帽子，顶部通常平坦。"
     },
     {
       "name": "torioigasa",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/torioigasa",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸟追笠",
+      "confidence": "D",
+      "tag_cn_long": "一种日本草帽，具体形式不详，可能与节日相关。"
     },
     {
       "name": "rice hat",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/rice_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斗笠",
+      "confidence": "A",
+      "tag_cn_long": "一种亚洲常见的圆锥形帽子，由稻草或棕榈叶等材料制成。"
     },
     {
       "name": "fascinator",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/fedora",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "费多拉帽",
+      "confidence": "A",
+      "tag_cn_long": "一种软呢帽，冠部有纵向折痕，前侧两侧捏褶，常配有帽带。"
     },
     {
       "name": "female service cap",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/female_service_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女式勤务帽",
+      "confidence": "B",
+      "tag_cn_long": "一种女性制服帽，类似卷边或折叠的平顶帽，常见于军队和乘务员。"
     },
     {
       "name": "flat cap",
@@ -562,9 +562,9 @@
       "wiki_url": "/wiki_pages/flat_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "平顶帽",
+      "confidence": "A",
+      "tag_cn_long": "一种短檐、冠部扁平的软帽，常为传统男士帽款。"
     },
     {
       "name": "gat",
@@ -572,9 +572,9 @@
       "wiki_url": "/wiki_pages/gat_%28hat%29",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "韩国纱帽",
+      "confidence": "B",
+      "tag_cn_long": "韩国传统帽子，用马毛编织，黑色半透明，有宽檐。"
     },
     {
       "name": "paeraengi",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/paeraengi",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竹纱帽",
+      "confidence": "B",
+      "tag_cn_long": "韩国一种用竹子制成的帽子，款式类似纱帽，历史上为下层男性佩戴。"
     },
     {
       "name": "jingasa",
@@ -592,9 +592,9 @@
       "wiki_url": "/wiki_pages/jingasa",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阵笠",
+      "confidence": "A",
+      "tag_cn_long": "日本士兵佩戴的金属或硬质斗笠，常为圆锥形，用于防箭和防暑。"
     },
     {
       "name": "mob cap",
@@ -602,9 +602,9 @@
       "wiki_url": "/wiki_pages/mob_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莫布帽",
+      "confidence": "B",
+      "tag_cn_long": "18-19世纪已婚女性室内佩戴的帽子，有褶皱边缘和缎带，常与女仆装关联。"
     },
     {
       "name": "picture hat",
@@ -612,9 +612,9 @@
       "wiki_url": "/wiki_pages/picture_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽边装饰帽",
+      "confidence": "A",
+      "tag_cn_long": "一种宽边的装饰性女帽，常用于正式场合。"
     },
     {
       "name": "pirate hat",
@@ -622,9 +622,9 @@
       "wiki_url": "/wiki_pages/pirate_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海盗帽",
+      "confidence": "A",
+      "tag_cn_long": "一种带有骷髅标志的三角帽，常见于海盗装扮。"
     },
     {
       "name": "pith helmet",
@@ -632,9 +632,9 @@
       "wiki_url": "/wiki_pages/pith_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "软木遮阳帽",
+      "confidence": "A",
+      "tag_cn_long": "一种轻便的软木或木髓制成的遮阳帽，常见于探险者。"
     },
     {
       "name": "porkpie hat",
@@ -642,9 +642,9 @@
       "wiki_url": "/wiki_pages/porkpie_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "平顶帽",
+      "confidence": "A",
+      "tag_cn_long": "一种平顶短檐的帽子，常与爵士乐相关。"
     },
     {
       "name": "shampoo hat",
@@ -652,9 +652,9 @@
       "wiki_url": "/wiki_pages/shampoo_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洗发帽",
+      "confidence": "A",
+      "tag_cn_long": "洗澡时戴的防止洗发水进入眼睛的帽子，常带锯齿状边缘。"
     },
     {
       "name": "sombrero",
@@ -662,9 +662,9 @@
       "wiki_url": "/wiki_pages/sombrero",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "墨西哥宽檐帽",
+      "confidence": "A",
+      "tag_cn_long": "一种墨西哥风格的大宽檐帽子。"
     },
     {
       "name": "sun hat",
@@ -672,9 +672,9 @@
       "wiki_url": "/wiki_pages/sun_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮阳帽",
+      "confidence": "A",
+      "tag_cn_long": "一种宽边帽子，用于遮挡阳光。"
     },
     {
       "name": "top hat",
@@ -682,9 +682,9 @@
       "wiki_url": "/wiki_pages/top_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高顶礼帽",
+      "confidence": "A",
+      "tag_cn_long": "一种高筒礼帽，常与绅士或魔术师相关。"
     },
     {
       "name": "mini top hat",
@@ -692,9 +692,9 @@
       "wiki_url": "/wiki_pages/mini_top_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷你高顶礼帽",
+      "confidence": "A",
+      "tag_cn_long": "一种小巧的女式高顶礼帽，常见于哥特洛丽塔风格。"
     },
     {
       "name": "tricorne",
@@ -702,9 +702,9 @@
       "wiki_url": "/wiki_pages/tricorne",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角帽",
+      "confidence": "A",
+      "tag_cn_long": "一种帽檐向上翻折形成三个角的帽子，常见于18世纪。"
     },
     {
       "name": "trilby",
@@ -712,9 +712,9 @@
       "wiki_url": "/wiki_pages/trilby",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "窄边软呢帽",
+      "confidence": "A",
+      "tag_cn_long": "一种窄边软帽，常被误称为Fedora。"
     },
     {
       "name": "tulip hat",
@@ -722,9 +722,9 @@
       "wiki_url": "/wiki_pages/tulip_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "郁金香帽",
+      "confidence": "B",
+      "tag_cn_long": "一种形状像郁金香花朵的帽子。"
     },
     {
       "name": "witch hat",
@@ -732,9 +732,9 @@
       "wiki_url": "/wiki_pages/witch_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女巫帽",
+      "confidence": "A",
+      "tag_cn_long": "一种尖顶宽边的黑色帽子，常见于女巫形象。"
     },
     {
       "name": "mini witch hat",
@@ -742,9 +742,9 @@
       "wiki_url": "/wiki_pages/mini_witch_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷你女巫帽",
+      "confidence": "A",
+      "tag_cn_long": "一种小型的女巫帽形状的帽子。"
     },
     {
       "name": "wizard hat",
@@ -752,9 +752,9 @@
       "wiki_url": "/wiki_pages/wizard_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巫师帽",
+      "confidence": "A",
+      "tag_cn_long": "一种长而尖的锥形帽子，常见于巫师形象。"
     },
     {
       "name": "deerstalker",
@@ -762,9 +762,9 @@
       "wiki_url": "/wiki_pages/deerstalker",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猎鹿帽",
+      "confidence": "A",
+      "tag_cn_long": "一种有前后帽檐和可放下耳罩的格子呢帽，常与夏洛克·福尔摩斯关联。"
     },
     {
       "name": "earflap beanie",
@@ -772,9 +772,9 @@
       "wiki_url": "/wiki_pages/earflap_beanie",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护耳针织帽",
+      "confidence": "A",
+      "tag_cn_long": "一种带有长耳罩的针织帽，用于保暖。"
     },
     {
       "name": "budenovka",
@@ -782,9 +782,9 @@
       "wiki_url": "/wiki_pages/budenovka",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布琼尼帽",
+      "confidence": "B",
+      "tag_cn_long": "一种柔软的羊毛帽，能覆盖耳朵和颈部，与苏联红军有关。"
     },
     {
       "name": "papakha",
@@ -792,9 +792,9 @@
       "wiki_url": "/wiki_pages/papakha",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帕帕克帽",
+      "confidence": "A",
+      "tag_cn_long": "一种高加索地区的羊毛帽，常为圆柱形。"
     },
     {
       "name": "ushanka",
@@ -802,9 +802,9 @@
       "wiki_url": "/wiki_pages/ushanka",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俄式护耳帽",
+      "confidence": "A",
+      "tag_cn_long": "一种俄罗斯风格的毛皮帽子，带有可系起的护耳。"
     },
     {
       "name": "ayam hat",
@@ -812,9 +812,9 @@
       "wiki_url": "/wiki_pages/ayam_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "ayam帽",
+      "confidence": "D",
+      "tag_cn_long": "一种特定样式的帽子，具体不详。"
     },
     {
       "name": "bashlik",
@@ -822,9 +822,9 @@
       "wiki_url": "/wiki_pages/bashlik",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴斯利克帽",
+      "confidence": "B",
+      "tag_cn_long": "一种传统的尖顶布帽，常见于高加索地区。"
     },
     {
       "name": "beanie",
@@ -832,9 +832,9 @@
       "wiki_url": "/wiki_pages/beanie",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "针织帽",
+      "confidence": "A",
+      "tag_cn_long": "一种紧贴头部的针织帽子，通常用于保暖。"
     },
     {
       "name": "earflap beanie",
@@ -842,9 +842,9 @@
       "wiki_url": "/wiki_pages/earflap_beanie",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护耳针织帽",
+      "confidence": "A",
+      "tag_cn_long": "一种带有长耳罩的针织帽，用于保暖。"
     },
     {
       "name": "beret",
@@ -852,9 +852,9 @@
       "wiki_url": "/wiki_pages/beret",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贝雷帽",
+      "confidence": "A",
+      "tag_cn_long": "一种软质圆形平顶帽，常见于时尚和军装。"
     },
     {
       "name": "chef hat",
@@ -892,9 +892,9 @@
       "wiki_url": "/wiki_pages/coif",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身帽",
+      "confidence": "B",
+      "tag_cn_long": "中世纪起源的紧贴头部帽子，有时带垂片。"
     },
     {
       "name": "dixie cup hat",
@@ -902,9 +902,9 @@
       "wiki_url": "/wiki_pages/dixie_cup_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迪克西帽",
+      "confidence": "B",
+      "tag_cn_long": "美国海军白色船形帽，因形似一次性纸杯得名。"
     },
     {
       "name": "donald duck sailor hat",
@@ -912,9 +912,9 @@
       "wiki_url": "/wiki_pages/donald_duck_sailor_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "唐老鸭水手帽",
+      "confidence": "A",
+      "tag_cn_long": "唐老鸭标志性的白色水手帽，顶部有蓝色条纹。"
     },
     {
       "name": "dunce cap",
@@ -922,9 +922,9 @@
       "wiki_url": "/wiki_pages/dunce_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "笨蛋帽",
+      "confidence": "A",
+      "tag_cn_long": "一种圆锥形纸帽，曾用作惩罚学习慢的学生。"
     },
     {
       "name": "fez hat",
@@ -932,9 +932,9 @@
       "wiki_url": "/wiki_pages/fez_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非斯帽",
+      "confidence": "A",
+      "tag_cn_long": "短圆柱形无檐帽，顶部有流苏，通常为红色。"
     },
     {
       "name": "flight attendant hat",
@@ -942,9 +942,9 @@
       "wiki_url": "/wiki_pages/flight_attendant_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "空乘帽",
+      "confidence": "B",
+      "tag_cn_long": "女性空乘人员戴的圆形卷边帽，通常有前开缝。"
     },
     {
       "name": "fur hat",
@@ -952,9 +952,9 @@
       "wiki_url": "/wiki_pages/fur_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮帽",
+      "confidence": "A",
+      "tag_cn_long": "用厚毛皮制成的保暖帽子，常见于俄罗斯风格。"
     },
     {
       "name": "bearskin cap",
@@ -962,9 +962,9 @@
       "wiki_url": "/wiki_pages/bearskin_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊皮帽",
+      "confidence": "A",
+      "tag_cn_long": "一种高大的毛皮帽子，常用于礼仪军装。"
     },
     {
       "name": "papakha",
@@ -972,9 +972,9 @@
       "wiki_url": "/wiki_pages/papakha",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帕帕克帽",
+      "confidence": "A",
+      "tag_cn_long": "一种高加索地区的羊毛帽，常为圆柱形。"
     },
     {
       "name": "ushanka",
@@ -982,9 +982,9 @@
       "wiki_url": "/wiki_pages/ushanka",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俄式护耳帽",
+      "confidence": "A",
+      "tag_cn_long": "一种俄罗斯风格的毛皮帽子，带有可系起的护耳。"
     },
     {
       "name": "garrison cap",
@@ -992,9 +992,9 @@
       "wiki_url": "/wiki_pages/garrison_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "船形帽",
+      "confidence": "B",
+      "tag_cn_long": "一种可折叠的军便帽，侧面直、顶部有褶，正面呈三角形。"
     },
     {
       "name": "hennin",
@@ -1002,9 +1002,9 @@
       "wiki_url": "/wiki_pages/hennin",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "汉宁帽",
+      "confidence": "C",
+      "tag_cn_long": "中世纪欧洲贵族女性戴的锥形高帽，有时附有纱巾。"
     },
     {
       "name": "kippah",
@@ -1012,9 +1012,9 @@
       "wiki_url": "/wiki_pages/kippah",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "基帕",
+      "confidence": "A",
+      "tag_cn_long": "犹太男性戴的无边小圆布帽，用于遮盖头顶。"
     },
     {
       "name": "mian guan",
@@ -1022,9 +1022,9 @@
       "wiki_url": "/wiki_pages/mian_guan",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冕冠",
+      "confidence": "A",
+      "tag_cn_long": "古代中国、日本、朝鲜、越南帝王戴的方形顶冠，垂有珠串。"
     },
     {
       "name": "mitre",
@@ -1032,9 +1032,9 @@
       "wiki_url": "/wiki_pages/mitre",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "主教冠",
+      "confidence": "A",
+      "tag_cn_long": "基督教主教、大主教等高级神职人员戴的高帽，顶部有两个尖角。"
     },
     {
       "name": "mortarboard",
@@ -1042,9 +1042,9 @@
       "wiki_url": "/wiki_pages/mortarboard",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "学士帽",
+      "confidence": "A",
+      "tag_cn_long": "方形平顶帽，带流苏，毕业典礼上佩戴。"
     },
     {
       "name": "nightcap",
@@ -1052,9 +1052,9 @@
       "wiki_url": "/wiki_pages/nightcap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睡帽",
+      "confidence": "A",
+      "tag_cn_long": "睡觉时戴的布帽，通常与睡衣搭配。"
     },
     {
       "name": "nurse cap",
@@ -1062,9 +1062,9 @@
       "wiki_url": "/wiki_pages/nurse_cap",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护士帽",
+      "confidence": "A",
+      "tag_cn_long": "女护士戴的白色帽子，有时附有十字标志，现已较少使用。"
     },
     {
       "name": "party hat",
@@ -1072,9 +1072,9 @@
       "wiki_url": "/wiki_pages/party_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "派对帽",
+      "confidence": "A",
+      "tag_cn_long": "一种小型圆锥形帽子，常在生日派对上佩戴。"
     },
     {
       "name": "pillbox hat",
@@ -1082,9 +1082,9 @@
       "wiki_url": "/wiki_pages/pillbox_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "药盒帽",
+      "confidence": "A",
+      "tag_cn_long": "一种平顶、直边、无檐的小帽子，通常由女性佩戴。"
     },
     {
       "name": "qingdai guanmao",
@@ -1092,9 +1092,9 @@
       "wiki_url": "/wiki_pages/qingdai_guanmao",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "清代官帽",
+      "confidence": "A",
+      "tag_cn_long": "清朝官员佩戴的圆形帽子，厚黑绒边，锥形顶，顶部有小纽扣。"
     },
     {
       "name": "guapi mao",
@@ -1102,9 +1102,9 @@
       "wiki_url": "/wiki_pages/guapi_mao",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瓜皮帽",
+      "confidence": "A",
+      "tag_cn_long": "一种圆形无檐的传统中式帽子，有时有条纹或流苏。"
     },
     {
       "name": "sailor hat",
@@ -1112,9 +1112,9 @@
       "wiki_url": "/wiki_pages/sailor_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手帽",
+      "confidence": "A",
+      "tag_cn_long": "海军水手佩戴的圆形平顶无边帽，常带有写有船名的缎带。"
     },
     {
       "name": "sajkaca",
@@ -1122,9 +1122,9 @@
       "wiki_url": "/wiki_pages/sajkaca",
       "category_path": "Hats",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "萨伊卡查帽",
+      "confidence": "D",
+      "tag_cn_long": "一种东南欧传统帽子，形似圆顶无边帽，常用于塞尔维亚等地区。"
     },
     {
       "name": "santa hat",
@@ -1132,9 +1132,9 @@
       "wiki_url": "/wiki_pages/santa_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣诞帽",
+      "confidence": "A",
+      "tag_cn_long": "一种红色尖顶帽子，边缘和顶端有白色毛绒球，与圣诞老人相关。"
     },
     {
       "name": "mini santa hat",
@@ -1142,9 +1142,9 @@
       "wiki_url": "/wiki_pages/mini_santa_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷你圣诞帽",
+      "confidence": "A",
+      "tag_cn_long": "比普通圣诞帽更小的版本。"
     },
     {
       "name": "songkok",
@@ -1152,9 +1152,9 @@
       "wiki_url": "/wiki_pages/songkok",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宋谷帽",
+      "confidence": "B",
+      "tag_cn_long": "东南亚男性佩戴的深色绒布或毡制梯形帽子，常与穆斯林服饰搭配。"
     },
     {
       "name": "tam o' shanter",
@@ -1162,9 +1162,9 @@
       "wiki_url": "/wiki_pages/tam_o%27_shanter",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苏格兰便帽",
+      "confidence": "B",
+      "tag_cn_long": "一种传统的苏格兰扁平帽子，顶部常有绒球。"
     },
     {
       "name": "tate eboshi",
@@ -1172,9 +1172,9 @@
       "wiki_url": "/wiki_pages/tate_eboshi",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立乌帽子",
+      "confidence": "A",
+      "tag_cn_long": "日本男性贵族佩戴的直立高帽，源于平安时代。"
     },
     {
       "name": "tengai",
@@ -1182,9 +1182,9 @@
       "wiki_url": "/wiki_pages/tengai_%28hat%29",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天盖",
+      "confidence": "B",
+      "tag_cn_long": "一种日本传统斗笠或头巾，常与天狗或山伏形象相关。"
     },
     {
       "name": "tokin hat",
@@ -1192,9 +1192,9 @@
       "wiki_url": "/wiki_pages/tokin_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兜巾",
+      "confidence": "A",
+      "tag_cn_long": "一种小型箱形日本帽子，通常与天狗或山伏相关，也可用作杯子。"
     },
     {
       "name": "tsunokakushi",
@@ -1202,9 +1202,9 @@
       "wiki_url": "/wiki_pages/tsunokakushi",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角隐",
+      "confidence": "A",
+      "tag_cn_long": "日本传统婚礼中新娘佩戴的头饰，用布包裹头发，露出部分发丝。"
     },
     {
       "name": "xiezhi guan",
@@ -1212,9 +1212,9 @@
       "wiki_url": "/wiki_pages/xiezhi_guan",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "獬豸冠",
+      "confidence": "A",
+      "tag_cn_long": "中国古代执法官员佩戴的矩形帽子，上沿外扩，常有流苏装饰，以神兽獬豸命名。"
     },
     {
       "name": "animal hat",
@@ -1222,9 +1222,9 @@
       "wiki_url": "/wiki_pages/animal_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物帽",
+      "confidence": "A",
+      "tag_cn_long": "一种外形类似动物头部的帽子，如猫帽、兔帽等。"
     },
     {
       "name": "hat with ears",
@@ -1232,9 +1232,9 @@
       "wiki_url": "/wiki_pages/hat_with_ears",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "带耳朵的帽子",
+      "confidence": "A",
+      "tag_cn_long": "一种帽子，顶部额外附有耳朵装饰，区别于动物帽。"
     },
     {
       "name": "deviruchi hat",
@@ -1242,9 +1242,9 @@
       "wiki_url": "/wiki_pages/deviruchi_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "恶魔波利帽",
+      "confidence": "B",
+      "tag_cn_long": "《仙境传说》中的一种黑色或深紫色帽子，形似豆豆帽，有两只高耳和顽皮表情。"
     },
     {
       "name": "bear hat",
@@ -1252,9 +1252,9 @@
       "wiki_url": "/wiki_pages/bear_hat",
       "category_path": "Hats",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊帽",
+      "confidence": "A",
+      "tag_cn_long": "一种动物帽子，外形像熊。"
     },
     {
       "name": "rabbit hat",
@@ -1262,9 +1262,9 @@
       "wiki_url": "/wiki_pages/rabbit_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔帽",
+      "confidence": "A",
+      "tag_cn_long": "一种动物帽子，外形像兔子或小兔。"
     },
     {
       "name": "cat hat",
@@ -1272,9 +1272,9 @@
       "wiki_url": "/wiki_pages/cat_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫耳帽",
+      "confidence": "A",
+      "tag_cn_long": "一种带有猫耳朵或制成猫形状的帽子。"
     },
     {
       "name": "dog hat",
@@ -1282,9 +1282,9 @@
       "wiki_url": "/wiki_pages/dog_hat",
       "category_path": "Hats",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狗耳帽",
+      "confidence": "A",
+      "tag_cn_long": "一种带有狗耳朵或制成狗形状的帽子。"
     },
     {
       "name": "fox hat",
@@ -1292,9 +1292,9 @@
       "wiki_url": "/wiki_pages/fox_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狐狸帽",
+      "confidence": "A",
+      "tag_cn_long": "一种基于狐狸造型的动物帽子。"
     },
     {
       "name": "pelt",
@@ -1302,9 +1302,9 @@
       "wiki_url": "/wiki_pages/pelt",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮帽",
+      "confidence": "B",
+      "tag_cn_long": "用动物毛皮制作的帽子或带有毛皮装饰的帽子。"
     },
     {
       "name": "penguin hat",
@@ -1312,9 +1312,9 @@
       "wiki_url": "/wiki_pages/penguin_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "企鹅帽",
+      "confidence": "A",
+      "tag_cn_long": "造型像企鹅的帽子。"
     },
     {
       "name": "wolf hat",
@@ -1322,9 +1322,9 @@
       "wiki_url": "/wiki_pages/wolf_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狼耳帽",
+      "confidence": "A",
+      "tag_cn_long": "带有狼耳朵或制成狼形状的帽子。"
     },
     {
       "name": "eggshell hat",
@@ -1342,9 +1342,9 @@
       "wiki_url": "/wiki_pages/pumpkin_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "南瓜帽",
+      "confidence": "A",
+      "tag_cn_long": "造型像南瓜的帽子，可能包括整个南瓜或万圣节南瓜灯。"
     },
     {
       "name": "Helmets",
@@ -1352,9 +1352,9 @@
       "wiki_url": "/wiki_pages/helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头盔",
+      "confidence": "A",
+      "tag_cn_long": "各种头盔的统称，用于保护头部的硬质帽子。"
     },
     {
       "name": "Adrian helmet",
@@ -1362,9 +1362,9 @@
       "wiki_url": "/wiki_pages/adrian_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿德里安头盔",
+      "confidence": "A",
+      "tag_cn_long": "法军一战时期使用的钢盔，顶部有脊。"
     },
     {
       "name": "Altyn helmet",
@@ -1372,9 +1372,9 @@
       "wiki_url": "/wiki_pages/altyn_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿尔金头盔",
+      "confidence": "A",
+      "tag_cn_long": "苏联生产的钛合金战斗头盔，带有焊工风格面罩。"
     },
     {
       "name": "American football helmet",
@@ -1382,9 +1382,9 @@
       "wiki_url": "/wiki_pages/american_football_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美式橄榄球头盔",
+      "confidence": "A",
+      "tag_cn_long": "美式橄榄球运动员佩戴的硬质头盔，带有面罩。"
     },
     {
       "name": "animal ear helmet",
@@ -1392,9 +1392,9 @@
       "wiki_url": "/wiki_pages/animal_ear_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物耳头盔",
+      "confidence": "B",
+      "tag_cn_long": "带有动物耳朵装饰或造型的头盔。"
     },
     {
       "name": "baseball helmet",
@@ -1402,9 +1402,9 @@
       "wiki_url": "/wiki_pages/baseball_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棒球头盔",
+      "confidence": "A",
+      "tag_cn_long": "棒球击球员佩戴的保护头盔，通常覆盖单耳。"
     },
     {
       "name": "bicycle helmet",
@@ -1412,9 +1412,9 @@
       "wiki_url": "/wiki_pages/bicycle_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自行车头盔",
+      "confidence": "A",
+      "tag_cn_long": "骑自行车时佩戴的安全头盔。"
     },
     {
       "name": "Brodie helmet",
@@ -1422,9 +1422,9 @@
       "wiki_url": "/wiki_pages/brodie_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布罗迪头盔",
+      "confidence": "A",
+      "tag_cn_long": "英军在第一次世界大战中使用的钢盔，圆顶宽边。"
     },
     {
       "name": "diving helmet",
@@ -1432,9 +1432,9 @@
       "wiki_url": "/wiki_pages/diving_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "潜水头盔",
+      "confidence": "A",
+      "tag_cn_long": "潜水时佩戴的头盔，通常与潜水服配合使用。"
     },
     {
       "name": "dragoon helmet",
@@ -1442,9 +1442,9 @@
       "wiki_url": "/wiki_pages/dragoon_helmet",
       "category_path": "Hats",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "龙骑兵头盔",
+      "confidence": "B",
+      "tag_cn_long": "龙骑兵佩戴的军用头盔，通常带有装饰。"
     },
     {
       "name": "fishbowl helmet",
@@ -1452,9 +1452,9 @@
       "wiki_url": "/wiki_pages/fishbowl_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鱼缸头盔",
+      "confidence": "B",
+      "tag_cn_long": "一种球形透明头盔，形似鱼缸，常用于科幻设定。"
     },
     {
       "name": "hard hat",
@@ -1462,9 +1462,9 @@
       "wiki_url": "/wiki_pages/hard_hat",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "安全帽",
+      "confidence": "A",
+      "tag_cn_long": "建筑工人佩戴的黄色硬质安全帽。"
     },
     {
       "name": "headlamp",
@@ -1472,9 +1472,9 @@
       "wiki_url": "/wiki_pages/headlamp",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头灯",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在头上的小型照明设备，用于解放双手。"
     },
     {
       "name": "helm",
@@ -1482,9 +1482,9 @@
       "wiki_url": "/wiki_pages/helm",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全罩头盔",
+      "confidence": "B",
+      "tag_cn_long": "一种完全包裹头部的 medieval 风格头盔，笨重但提供绝对保护。"
     },
     {
       "name": "horned helmet",
@@ -1492,9 +1492,9 @@
       "wiki_url": "/wiki_pages/horned_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角盔",
+      "confidence": "A",
+      "tag_cn_long": "设计有角的头盔。"
     },
     {
       "name": "kabuto",
@@ -1502,9 +1502,9 @@
       "wiki_url": "/wiki_pages/kabuto_%28helmet%29",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兜",
+      "confidence": "A",
+      "tag_cn_long": "日本传统武士头盔。"
     },
     {
       "name": "kettle helm",
@@ -1512,9 +1512,9 @@
       "wiki_url": "/wiki_pages/kettle_helm",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锅盔",
+      "confidence": "B",
+      "tag_cn_long": "一种形状像锅的中世纪宽边头盔。"
     },
     {
       "name": "M1 helmet",
@@ -1522,9 +1522,9 @@
       "wiki_url": "/wiki_pages/m1_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "M1钢盔",
+      "confidence": "A",
+      "tag_cn_long": "美国自二战至1985年使用的圆顶战斗头盔。"
     },
     {
       "name": "motorcycle helmet",
@@ -1532,9 +1532,9 @@
       "wiki_url": "/wiki_pages/motorcycle_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摩托车头盔",
+      "confidence": "A",
+      "tag_cn_long": "骑摩托车时用于保护头部的头盔。"
     },
     {
       "name": "Pickelhaube",
@@ -1542,9 +1542,9 @@
       "wiki_url": "/wiki_pages/pickelhaube",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖顶头盔",
+      "confidence": "A",
+      "tag_cn_long": "普鲁士起源的尖顶头盔，常与德意志帝国军队关联。"
     },
     {
       "name": "pilot helmet",
@@ -1552,9 +1552,9 @@
       "wiki_url": "/wiki_pages/pilot_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞行员头盔",
+      "confidence": "A",
+      "tag_cn_long": "飞行员或空勤人员穿戴的防护头盔，通常带有耳机和面罩。"
     },
     {
       "name": "pith helmet",
@@ -1562,9 +1562,9 @@
       "wiki_url": "/wiki_pages/pith_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "软木遮阳帽",
+      "confidence": "A",
+      "tag_cn_long": "一种轻便的软木或木髓制成的遮阳帽，常见于探险者。"
     },
     {
       "name": "sallet",
@@ -1572,9 +1572,9 @@
       "wiki_url": "/wiki_pages/sallet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "萨莱特盔",
+      "confidence": "B",
+      "tag_cn_long": "15世纪欧洲的一种头盔，后部有护颈尾翼，可有或没有面甲。"
     },
     {
       "name": "space helmet",
@@ -1582,9 +1582,9 @@
       "wiki_url": "/wiki_pages/space_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太空头盔",
+      "confidence": "A",
+      "tag_cn_long": "宇航员穿戴的圆形透明头盔。"
     },
     {
       "name": "Stahlhelm",
@@ -1592,9 +1592,9 @@
       "wiki_url": "/wiki_pages/stahlhelm",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德式钢盔",
+      "confidence": "A",
+      "tag_cn_long": "德国在一战和二战中使用的钢制战斗头盔，取代了尖顶头盔。"
     },
     {
       "name": "tank helmet",
@@ -1602,9 +1602,9 @@
       "wiki_url": "/wiki_pages/tank_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坦克头盔",
+      "confidence": "A",
+      "tag_cn_long": "坦克或装甲车辆乘员佩戴的防撞保护头盔。"
     },
     {
       "name": "winged helmet",
@@ -1612,9 +1612,9 @@
       "wiki_url": "/wiki_pages/winged_helmet",
       "category_path": "Hats",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翼盔",
+      "confidence": "A",
+      "tag_cn_long": "两侧饰有翅膀的头盔，常与希腊神墨丘利或维京人关联。"
     },
     {
       "name": "circlet",
@@ -1632,9 +1632,9 @@
       "wiki_url": "/wiki_pages/diadem",
       "category_path": "Crowns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "额冠",
+      "confidence": "A",
+      "tag_cn_long": "一种装饰性头带，常作为王室标志。"
     },
     {
       "name": "fengguan",
@@ -1642,9 +1642,9 @@
       "wiki_url": "/wiki_pages/fengguan",
       "category_path": "Crowns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凤冠",
+      "confidence": "A",
+      "tag_cn_long": "中国传统女性头饰，饰有凤凰等图案，常用于婚礼或正式场合。"
     },
     {
       "name": "mian guan",
@@ -1652,9 +1652,9 @@
       "wiki_url": "/wiki_pages/mian_guan",
       "category_path": "Crowns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冕冠",
+      "confidence": "A",
+      "tag_cn_long": "古代中国、日本、朝鲜、越南帝王戴的方形顶冠，垂有珠串。"
     },
     {
       "name": "mini crown",
@@ -1672,9 +1672,9 @@
       "wiki_url": "/wiki_pages/saishi",
       "category_path": "Crowns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三尖宝冠",
+      "confidence": "B",
+      "tag_cn_long": "日本雏人形中皇后佩戴的三尖状头饰，类似小皇冠。"
     },
     {
       "name": "tiara",
@@ -1682,9 +1682,9 @@
       "wiki_url": "/wiki_pages/tiara",
       "category_path": "Crowns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小皇冠",
+      "confidence": "A",
+      "tag_cn_long": "一种金属制成的半圆形头饰，通常镶有宝石，常见于公主或偶像。"
     },
     {
       "name": "aviator cap",
@@ -1692,9 +1692,9 @@
       "wiki_url": "/wiki_pages/aviator_cap",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞行帽",
+      "confidence": "A",
+      "tag_cn_long": "飞行员或赛车手穿戴的皮制保暖帽，带有耳罩。"
     },
     {
       "name": "balaclava",
@@ -1702,9 +1702,9 @@
       "wiki_url": "/wiki_pages/balaclava",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头罩",
+      "confidence": "A",
+      "tag_cn_long": "覆盖整个头部仅露出眼睛或嘴的面罩，常用于犯罪或特警。"
     },
     {
       "name": "bandana",
@@ -1732,9 +1732,9 @@
       "wiki_url": "/wiki_pages/dalachi_%28headdress%29",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大拉翅",
+      "confidence": "B",
+      "tag_cn_long": "清代满族妇女的一种大型头饰，通常带有装饰。"
     },
     {
       "name": "Futou",
@@ -1742,9 +1742,9 @@
       "wiki_url": "/wiki_pages/futou",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "幞头",
+      "confidence": "A",
+      "tag_cn_long": "中国古代黑色帽子，有两片翼状帽翅。"
     },
     {
       "name": "headscarf",
@@ -1752,9 +1752,9 @@
       "wiki_url": "/wiki_pages/headscarf",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头巾",
+      "confidence": "A",
+      "tag_cn_long": "戴在头上的围巾。"
     },
     {
       "name": "hijab",
@@ -1762,9 +1762,9 @@
       "wiki_url": "/wiki_pages/hijab",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "希贾布",
+      "confidence": "A",
+      "tag_cn_long": "伊斯兰女性佩戴的头巾。"
     },
     {
       "name": "jester cap",
@@ -1772,9 +1772,9 @@
       "wiki_url": "/wiki_pages/jester_cap",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小丑帽",
+      "confidence": "A",
+      "tag_cn_long": "小丑戴的帽子，通常有下垂尖角并缀有铃铛。"
     },
     {
       "name": "jin",
@@ -1782,9 +1782,9 @@
       "wiki_url": "/wiki_pages/jin_%28headwear%29",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头巾",
+      "confidence": "D",
+      "tag_cn_long": "歧义标签，可能指头巾、角色或艺术家；作为头饰可能指传统头巾。"
     },
     {
       "name": "dongpo jin",
@@ -1792,9 +1792,9 @@
       "wiki_url": "/wiki_pages/dongpo_jin_%28headwear%29",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东坡巾",
+      "confidence": "A",
+      "tag_cn_long": "一种中国传统头巾，因苏轼（东坡）而得名，通常为文人佩戴。"
     },
     {
       "name": "tang jin",
@@ -1802,9 +1802,9 @@
       "wiki_url": "/wiki_pages/tang_jin_%28headwear%29",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "唐巾",
+      "confidence": "A",
+      "tag_cn_long": "一种中国传统头巾，源于唐代，常与汉服搭配。"
     },
     {
       "name": "zhouzi jin",
@@ -1812,9 +1812,9 @@
       "wiki_url": "/wiki_pages/zhouzi_jin_%28headwear%29",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绉子巾",
+      "confidence": "B",
+      "tag_cn_long": "一种带有细褶的中国传统头巾，常用于古装角色。"
     },
     {
       "name": "keffiyeh",
@@ -1822,9 +1822,9 @@
       "wiki_url": "/wiki_pages/keffiyeh",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿拉伯头巾",
+      "confidence": "A",
+      "tag_cn_long": "一种中东传统方形头巾，通常为黑白或红黑格子图案，戴于头上或围在颈部。"
     },
     {
       "name": "object on head",
@@ -1832,9 +1832,9 @@
       "wiki_url": "/wiki_pages/object_on_head",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头上放物",
+      "confidence": "A",
+      "tag_cn_long": "角色头上放置了非帽子类物品，如书本、食物等。"
     },
     {
       "name": "bowl hat",
@@ -1842,9 +1842,9 @@
       "wiki_url": "/wiki_pages/bowl_hat",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "碗帽",
+      "confidence": "A",
+      "tag_cn_long": "将碗扣在头上当作帽子，常见于少名针妙丸角色。"
     },
     {
       "name": "bloomers on head",
@@ -1852,9 +1852,9 @@
       "wiki_url": "/wiki_pages/bloomers_on_head",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灯笼裤头饰",
+      "confidence": "A",
+      "tag_cn_long": "将灯笼裤像帽子一样戴在头上。"
     },
     {
       "name": "book on head",
@@ -1862,9 +1862,9 @@
       "wiki_url": "/wiki_pages/book_on_head",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "顶书",
+      "confidence": "A",
+      "tag_cn_long": "角色头上顶着一本书或一摞书，常用来练习仪态。"
     },
     {
       "name": "bra on head",
@@ -1872,9 +1872,9 @@
       "wiki_url": "/wiki_pages/bra_on_head",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩在头",
+      "confidence": "A",
+      "tag_cn_long": "将胸罩戴在头上或脸上的滑稽场景。"
     },
     {
       "name": "bucket on head",
@@ -1882,9 +1882,9 @@
       "wiki_url": "/wiki_pages/bucket_on_head",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头套桶",
+      "confidence": "A",
+      "tag_cn_long": "将水桶套在头上，区别于渔夫帽。"
     },
     {
       "name": "food on head",
@@ -1892,9 +1892,9 @@
       "wiki_url": "/wiki_pages/food_on_head",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头上食物",
+      "confidence": "A",
+      "tag_cn_long": "角色头上放置了食物，如水果、甜点等。"
     },
     {
       "name": "panties on head",
@@ -1902,9 +1902,9 @@
       "wiki_url": "/wiki_pages/panties_on_head",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内裤头饰",
+      "confidence": "A",
+      "tag_cn_long": "将内裤像帽子或面具一样戴在头上。"
     },
     {
       "name": "traffic cone on head",
@@ -1912,9 +1912,9 @@
       "wiki_url": "/wiki_pages/traffic_cone_on_head",
       "category_path": "Other",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头戴锥筒",
+      "confidence": "A",
+      "tag_cn_long": "将交通锥形桶戴在头上。"
     },
     {
       "name": "okosozukin",
@@ -1922,9 +1922,9 @@
       "wiki_url": "/wiki_pages/okosozukin",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本御寒头巾",
+      "confidence": "B",
+      "tag_cn_long": "一种日本冬季戴的棉质头巾，包裹头部和颈部，类似兜帽。"
     },
     {
       "name": "shower cap",
@@ -1932,9 +1932,9 @@
       "wiki_url": "/wiki_pages/shower_cap",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浴帽",
+      "confidence": "A",
+      "tag_cn_long": "洗澡时戴的防水帽，防止头发弄湿。"
     },
     {
       "name": "shufa guan",
@@ -1942,9 +1942,9 @@
       "wiki_url": "/wiki_pages/shufa_guan",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束发冠",
+      "confidence": "C",
+      "tag_cn_long": "中国古代男子束发用的冠饰，可能指特定形制。"
     },
     {
       "name": "tenugui",
@@ -1952,9 +1952,9 @@
       "wiki_url": "/wiki_pages/tenugui",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手拭巾",
+      "confidence": "A",
+      "tag_cn_long": "日本传统棉质方巾，可作头巾、毛巾或装饰用。"
     },
     {
       "name": "turban",
@@ -1962,9 +1962,9 @@
       "wiki_url": "/wiki_pages/turban",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "包头巾",
+      "confidence": "A",
+      "tag_cn_long": "一种用布缠绕而成的头饰，常见于锡克教等文化。"
     },
     {
       "name": "visor cap",
@@ -1972,9 +1972,9 @@
       "wiki_url": "/wiki_pages/visor_cap",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮阳帽",
+      "confidence": "A",
+      "tag_cn_long": "一种无顶的帽子，只有遮阳板和固定带，用于遮阳。"
     },
     {
       "name": "veil",
@@ -1982,9 +1982,9 @@
       "wiki_url": "/wiki_pages/veil",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面纱",
+      "confidence": "A",
+      "tag_cn_long": "用于遮盖部分头部或面部的衣物，常由透明织物制成。"
     },
     {
       "name": "zhuang hat",
@@ -1992,9 +1992,9 @@
       "wiki_url": "/wiki_pages/zhuang_hat",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "壮族头饰",
+      "confidence": "A",
+      "tag_cn_long": "中国壮族传统头饰，通常用布制成，有褶皱、流苏等装饰。"
     },
     {
       "name": "camouflage headwear",
@@ -2002,9 +2002,9 @@
       "wiki_url": "/wiki_pages/camouflage_headwear",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷彩头饰",
+      "confidence": "A",
+      "tag_cn_long": "具有迷彩图案的头部穿戴物，如帽子、头盔等。"
     },
     {
       "name": "checkered headwear",
@@ -2012,9 +2012,9 @@
       "wiki_url": "/wiki_pages/checkered_headwear",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子头饰",
+      "confidence": "A",
+      "tag_cn_long": "带有格子图案的头饰。"
     },
     {
       "name": "frilled hat",
@@ -2022,9 +2022,9 @@
       "wiki_url": "/wiki_pages/frilled_hat",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边帽子",
+      "confidence": "A",
+      "tag_cn_long": "带有荷叶边装饰的帽子。"
     },
     {
       "name": "military hat",
@@ -2032,9 +2032,9 @@
       "wiki_url": "/wiki_pages/military_hat",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "军帽",
+      "confidence": "A",
+      "tag_cn_long": "军事制服的一部分，不包括头盔。"
     },
     {
       "name": "mini hat",
@@ -2042,9 +2042,9 @@
       "wiki_url": "/wiki_pages/mini_hat",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷你帽",
+      "confidence": "A",
+      "tag_cn_long": "比正常尺寸小的帽子，通常作为发饰使用。"
     },
     {
       "name": "multicolored headwear",
@@ -2052,9 +2052,9 @@
       "wiki_url": "/wiki_pages/multicolored_headwear",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色头饰",
+      "confidence": "B",
+      "tag_cn_long": "颜色多样的头饰，此标签已废弃，建议使用更具体标签。"
     },
     {
       "name": "police hat",
@@ -2062,9 +2062,9 @@
       "wiki_url": "/wiki_pages/police_hat",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "警帽",
+      "confidence": "A",
+      "tag_cn_long": "警察戴的帽子，通常为蓝色大檐帽配警徽。"
     },
     {
       "name": "print headwear",
@@ -2072,9 +2072,9 @@
       "wiki_url": "/wiki_pages/print_headwear",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花头饰",
+      "confidence": "B",
+      "tag_cn_long": "带有印花图案的头饰，通常用更具体的标签代替。"
     },
     {
       "name": "school hat",
@@ -2082,9 +2082,9 @@
       "wiki_url": "/wiki_pages/school_hat",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "学生帽",
+      "confidence": "A",
+      "tag_cn_long": "日本幼儿园或小学生戴的黄色帽子，形似遮阳帽。"
     },
     {
       "name": "straw hat",
@@ -2092,9 +2092,9 @@
       "wiki_url": "/wiki_pages/straw_hat",
       "category_path": "Non-specific styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草帽",
+      "confidence": "A",
+      "tag_cn_long": "一种用稻草或类似材料编织的帽子，包括各种款式。"
     },
     {
       "name": "adjusting headwear",
@@ -2102,9 +2102,9 @@
       "wiki_url": "/wiki_pages/adjusting_headwear",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "整理头饰",
+      "confidence": "A",
+      "tag_cn_long": "角色调整帽子或其他头饰以使其更舒适。"
     },
     {
       "name": "backwards hat",
@@ -2112,9 +2112,9 @@
       "wiki_url": "/wiki_pages/backwards_hat",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "反戴帽子",
+      "confidence": "A",
+      "tag_cn_long": "帽子（通常是棒球帽）反向佩戴。"
     },
     {
       "name": "sideways hat",
@@ -2122,9 +2122,9 @@
       "wiki_url": "/wiki_pages/sideways_hat",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧戴帽子",
+      "confidence": "A",
+      "tag_cn_long": "帽子向侧面佩戴，区别于倾斜佩戴。"
     },
     {
       "name": "hand on headwear",
@@ -2132,9 +2132,9 @@
       "wiki_url": "/wiki_pages/hand_on_headwear",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手扶帽子",
+      "confidence": "A",
+      "tag_cn_long": "角色单手触摸或按住正在戴的帽子。"
     },
     {
       "name": "hands on headwear",
@@ -2142,9 +2142,9 @@
       "wiki_url": "/wiki_pages/hands_on_headwear",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手扶帽",
+      "confidence": "A",
+      "tag_cn_long": "角色双手触摸或按住正在戴的帽子。"
     },
     {
       "name": "hat basket",
@@ -2152,9 +2152,9 @@
       "wiki_url": "/wiki_pages/hat_basket",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子篮",
+      "confidence": "B",
+      "tag_cn_long": "用帽子作为容器盛放物品。"
     },
     {
       "name": "hat loss",
@@ -2162,9 +2162,9 @@
       "wiki_url": "/wiki_pages/hat_loss",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子掉落",
+      "confidence": "A",
+      "tag_cn_long": "帽子意外掉落，通常由风或动作引起。"
     },
     {
       "name": "hat on chest",
@@ -2172,9 +2172,9 @@
       "wiki_url": "/wiki_pages/hat_on_chest",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子放在胸前",
+      "confidence": "A",
+      "tag_cn_long": "角色摘下帽子并握在胸前，常见于葬礼场景。"
     },
     {
       "name": "hat over eyes",
@@ -2182,9 +2182,9 @@
       "wiki_url": "/wiki_pages/hat_over_eyes",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子遮眼",
+      "confidence": "A",
+      "tag_cn_long": "帽子戴得很低遮住了双眼。"
     },
     {
       "name": "hat over one eye",
@@ -2192,9 +2192,9 @@
       "wiki_url": "/wiki_pages/hat_over_one_eye",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子遮单眼",
+      "confidence": "A",
+      "tag_cn_long": "帽子只遮住角色一只眼睛。"
     },
     {
       "name": "hat tip",
@@ -2212,9 +2212,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_hat",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿着未戴的帽子",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一顶未戴在头上的帽子。"
     },
     {
       "name": "holding unworn helmet",
@@ -2222,9 +2222,9 @@
       "wiki_url": "/wiki_pages/holding_unworn_helmet",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿着未戴的头盔",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个未戴在头上的头盔。"
     },
     {
       "name": "missing headwear",
@@ -2232,9 +2232,9 @@
       "wiki_url": "/wiki_pages/missing_headwear",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缺少头饰",
+      "confidence": "B",
+      "tag_cn_long": "角色缺少本应佩戴的头饰。"
     },
     {
       "name": "putting on headwear",
@@ -2242,9 +2242,9 @@
       "wiki_url": "/wiki_pages/putting_on_headwear",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戴头饰",
+      "confidence": "A",
+      "tag_cn_long": "角色正在将头饰（帽子、皇冠、头盔等）戴在头上。"
     },
     {
       "name": "removing helmet",
@@ -2252,9 +2252,9 @@
       "wiki_url": "/wiki_pages/removing_helmet",
       "category_path": "Actions / states",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摘盔",
+      "confidence": "A",
+      "tag_cn_long": "摘下头盔的动作。"
     },
     {
       "name": "tilted headwear",
@@ -2262,9 +2262,9 @@
       "wiki_url": "/wiki_pages/tilted_headwear",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "歪戴头饰",
+      "confidence": "A",
+      "tag_cn_long": "帽子或头饰倾斜佩戴在头上。"
     },
     {
       "name": "torn hat",
@@ -2272,9 +2272,9 @@
       "wiki_url": "/wiki_pages/torn_hat",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破帽",
+      "confidence": "A",
+      "tag_cn_long": "明显磨损或撕裂的帽子。"
     },
     {
       "name": "unworn hat",
@@ -2282,9 +2282,9 @@
       "wiki_url": "/wiki_pages/unworn_hat",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴帽",
+      "confidence": "A",
+      "tag_cn_long": "画面中可见帽子但无人佩戴。"
     },
     {
       "name": "unworn headwear",
@@ -2292,9 +2292,9 @@
       "wiki_url": "/wiki_pages/unworn_headwear",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴头饰",
+      "confidence": "A",
+      "tag_cn_long": "画面中可见头饰但无人佩戴。"
     },
     {
       "name": "unworn helmet",
@@ -2302,9 +2302,9 @@
       "wiki_url": "/wiki_pages/unworn_helmet",
       "category_path": "Actions / states",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴盔",
+      "confidence": "A",
+      "tag_cn_long": "画面中可见头盔但无人佩戴。"
     },
     {
       "name": "chinstrap",
@@ -2312,9 +2312,9 @@
       "wiki_url": "/wiki_pages/chinstrap",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下巴带",
+      "confidence": "A",
+      "tag_cn_long": "系在下巴下的带子，用于固定帽子或头盔。"
     },
     {
       "name": "hat bow",
@@ -2322,9 +2322,9 @@
       "wiki_url": "/wiki_pages/hat_bow",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽结",
+      "confidence": "A",
+      "tag_cn_long": "系在帽子上的蝴蝶结装饰。"
     },
     {
       "name": "hat feather",
@@ -2332,9 +2332,9 @@
       "wiki_url": "/wiki_pages/hat_feather",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽羽",
+      "confidence": "A",
+      "tag_cn_long": "插在帽子上的羽毛装饰。"
     },
     {
       "name": "hat flower",
@@ -2342,9 +2342,9 @@
       "wiki_url": "/wiki_pages/hat_flower",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽花",
+      "confidence": "A",
+      "tag_cn_long": "装饰在帽子上的花朵。"
     },
     {
       "name": "hat ornament",
@@ -2352,9 +2352,9 @@
       "wiki_url": "/wiki_pages/hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽饰",
+      "confidence": "A",
+      "tag_cn_long": "用于装饰帽子的配件。"
     },
     {
       "name": "anchor hat ornament",
@@ -2362,9 +2362,9 @@
       "wiki_url": "/wiki_pages/anchor_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锚形帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像船锚的帽子装饰。"
     },
     {
       "name": "butterfly hat ornament",
@@ -2372,9 +2372,9 @@
       "wiki_url": "/wiki_pages/butterfly_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像蝴蝶的帽子装饰。"
     },
     {
       "name": "character hat ornament",
@@ -2382,9 +2382,9 @@
       "wiki_url": "/wiki_pages/character_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角色帽饰",
+      "confidence": "B",
+      "tag_cn_long": "形状像特定角色或人物的帽子装饰。"
     },
     {
       "name": "crescent hat ornament",
@@ -2392,9 +2392,9 @@
       "wiki_url": "/wiki_pages/crescent_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新月帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像新月（弯月）的帽子装饰。"
     },
     {
       "name": "dolphin hat ornament",
@@ -2402,9 +2402,9 @@
       "wiki_url": "/wiki_pages/dolphin_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海豚帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像海豚的帽子装饰。"
     },
     {
       "name": "food-themed hat ornament",
@@ -2412,9 +2412,9 @@
       "wiki_url": "/wiki_pages/food-themed_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食物帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像各种食物的帽子装饰。"
     },
     {
       "name": "fruit hat ornament",
@@ -2422,9 +2422,9 @@
       "wiki_url": "/wiki_pages/fruit_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水果帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像水果的帽子装饰。"
     },
     {
       "name": "grape hat ornament",
@@ -2432,9 +2432,9 @@
       "wiki_url": "/wiki_pages/grape_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "葡萄帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像葡萄的帽子装饰。"
     },
     {
       "name": "peach hat ornament",
@@ -2442,9 +2442,9 @@
       "wiki_url": "/wiki_pages/peach_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "桃子帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像桃子的帽子装饰。"
     },
     {
       "name": "pumpkin hat ornament",
@@ -2452,9 +2452,9 @@
       "wiki_url": "/wiki_pages/pumpkin_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "南瓜帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像南瓜的帽子装饰。"
     },
     {
       "name": "gear hat ornament",
@@ -2462,9 +2462,9 @@
       "wiki_url": "/wiki_pages/gear_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "齿轮帽饰",
+      "confidence": "A",
+      "tag_cn_long": "形状像机械齿轮的帽子装饰。"
     },
     {
       "name": "heart hat ornament",
@@ -2472,9 +2472,9 @@
       "wiki_url": "/wiki_pages/heart_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形帽饰",
+      "confidence": "A",
+      "tag_cn_long": "帽子上的心形装饰物。"
     },
     {
       "name": "holly hat ornament",
@@ -2482,9 +2482,9 @@
       "wiki_url": "/wiki_pages/holly_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冬青叶帽饰",
+      "confidence": "A",
+      "tag_cn_long": "帽子上的冬青叶形状装饰。"
     },
     {
       "name": "jack-o'-lantern hat ornament",
@@ -2492,9 +2492,9 @@
       "wiki_url": "/wiki_pages/jack-o%27-lantern_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "南瓜灯帽饰",
+      "confidence": "A",
+      "tag_cn_long": "帽子上的杰克南瓜灯形状装饰。"
     },
     {
       "name": "leaf hat ornament",
@@ -2502,9 +2502,9 @@
       "wiki_url": "/wiki_pages/leaf_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叶子帽饰",
+      "confidence": "A",
+      "tag_cn_long": "帽子上的叶子形状装饰。"
     },
     {
       "name": "palette hat ornament",
@@ -2512,9 +2512,9 @@
       "wiki_url": "/wiki_pages/palette_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调色板帽饰",
+      "confidence": "A",
+      "tag_cn_long": "帽子上的调色板形状装饰。"
     },
     {
       "name": "star hat ornament",
@@ -2522,9 +2522,9 @@
       "wiki_url": "/wiki_pages/star_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星帽饰",
+      "confidence": "A",
+      "tag_cn_long": "帽子上的星星形状装饰。"
     },
     {
       "name": "skull hat ornament",
@@ -2532,9 +2532,9 @@
       "wiki_url": "/wiki_pages/skull_hat_ornament",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骷髅帽饰",
+      "confidence": "A",
+      "tag_cn_long": "帽子上的骷髅或骷髅旗形状装饰。"
     },
     {
       "name": "hat flower",
@@ -2542,9 +2542,9 @@
       "wiki_url": "/wiki_pages/hat_flower",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽花",
+      "confidence": "A",
+      "tag_cn_long": "装饰在帽子上的花朵。"
     },
     {
       "name": "hat tassel",
@@ -2552,9 +2552,9 @@
       "wiki_url": "/wiki_pages/hat_tassel",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子流苏",
+      "confidence": "A",
+      "tag_cn_long": "帽子上的流苏装饰。"
     },
     {
       "name": "hat ribbon",
@@ -2562,9 +2562,9 @@
       "wiki_url": "/wiki_pages/hat_ribbon",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子缎带",
+      "confidence": "A",
+      "tag_cn_long": "系在帽子上的缎带。"
     },
     {
       "name": "hat with ears",
@@ -2572,9 +2572,9 @@
       "wiki_url": "/wiki_pages/hat_with_ears",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "带耳朵的帽子",
+      "confidence": "A",
+      "tag_cn_long": "一种帽子，顶部额外附有耳朵装饰，区别于动物帽。"
     },
     {
       "name": "lappet",
@@ -2582,9 +2582,9 @@
       "wiki_url": "/wiki_pages/lappet",
       "category_path": "Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽垂",
+      "confidence": "A",
+      "tag_cn_long": "从帽子上垂下的装饰性尾状布片，可单个或多个。"
     },
     {
       "name": "hair bow",
@@ -2622,9 +2622,9 @@
       "wiki_url": "/wiki_pages/headband",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头带",
+      "confidence": "A",
+      "tag_cn_long": "横跨前额佩戴的带子，用于吸汗或装饰。"
     },
     {
       "name": "forehead protector",
@@ -2632,9 +2632,9 @@
       "wiki_url": "/wiki_pages/forehead_protector",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护额",
+      "confidence": "A",
+      "tag_cn_long": "保护额头的护具，常见于忍者等角色。"
     },
     {
       "name": "hachimaki",
@@ -2642,9 +2642,9 @@
       "wiki_url": "/wiki_pages/hachimaki",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钵卷",
+      "confidence": "A",
+      "tag_cn_long": "日本传统布制头带，用于表示干劲或团队颜色。"
     },
     {
       "name": "nejiri hachimaki",
@@ -2652,9 +2652,9 @@
       "wiki_url": "/wiki_pages/nejiri_hachimaki",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捻式头带",
+      "confidence": "B",
+      "tag_cn_long": "一种扭绞布条后系在头上的传统头带。"
     },
     {
       "name": "mongkhon",
@@ -2662,9 +2662,9 @@
       "wiki_url": "/wiki_pages/mongkhon",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒙空",
+      "confidence": "B",
+      "tag_cn_long": "泰拳运动员佩戴的传统头带。"
     },
     {
       "name": "sweatband",
@@ -2672,9 +2672,9 @@
       "wiki_url": "/wiki_pages/sweatband",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吸汗带",
+      "confidence": "A",
+      "tag_cn_long": "用于吸汗的头带或腕带，通常材质毛绒。"
     },
     {
       "name": "headdress",
@@ -2682,9 +2682,9 @@
       "wiki_url": "/wiki_pages/headdress",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头饰",
+      "confidence": "A",
+      "tag_cn_long": "装饰性头部饰物，常用于仪式场合。"
     },
     {
       "name": "maid headdress",
@@ -2692,9 +2692,9 @@
       "wiki_url": "/wiki_pages/maid_headdress",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女仆头饰",
+      "confidence": "A",
+      "tag_cn_long": "常与女仆制服搭配的荷叶边发带。"
     },
     {
       "name": "native american headdress",
@@ -2702,9 +2702,9 @@
       "wiki_url": "/wiki_pages/native_american_headdress",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美洲原住民头饰",
+      "confidence": "A",
+      "tag_cn_long": "美洲原住民风格的羽毛头冠。"
     },
     {
       "name": "warbonnet",
@@ -2712,9 +2712,9 @@
       "wiki_url": "/wiki_pages/warbonnet",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "战冠",
+      "confidence": "A",
+      "tag_cn_long": "美洲原住民华丽羽毛头饰，也称战争之冠。"
     },
     {
       "name": "veil",
@@ -2722,9 +2722,9 @@
       "wiki_url": "/wiki_pages/veil",
       "category_path": "Not headwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面纱",
+      "confidence": "A",
+      "tag_cn_long": "用于遮盖部分头部或面部的衣物，常由透明织物制成。"
     }
   ],
   "total_tags": 266,

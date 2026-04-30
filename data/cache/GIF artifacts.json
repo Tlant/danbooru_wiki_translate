@@ -1,0 +1,6 @@
+{
+  "tag": "GIF artifacts",
+  "tag_cn": "GIF伪影",
+  "confidence": "A",
+  "tag_cn_long": "由于GIF格式颜色限制（最多256色）导致的图像缺陷，如抖动或色带。"
+}

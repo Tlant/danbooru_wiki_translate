@@ -36,9 +36,9 @@
       "wiki_url": "/wiki_pages/air_quotes",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指引号",
+      "confidence": "A",
+      "tag_cn_long": "双手食指和中指弯曲做引号状的手势，表示对某个词或短语的讽刺或强调。"
     },
     {
       "name": "carry me",
@@ -46,9 +46,9 @@
       "wiki_url": "/wiki_pages/carry_me",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱我",
+      "confidence": "A",
+      "tag_cn_long": "角色双手向观众伸出，做出求抱抱的姿势。"
     },
     {
       "name": "circle hands",
@@ -56,9 +56,9 @@
       "wiki_url": "/wiki_pages/circle_hands",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手围圈",
+      "confidence": "B",
+      "tag_cn_long": "双手手指或手掌围成一个圈状的手势，可能表示圆形或拥抱。"
     },
     {
       "name": "clenched hands",
@@ -66,9 +66,9 @@
       "wiki_url": "/wiki_pages/clenched_hands",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握拳",
+      "confidence": "A",
+      "tag_cn_long": "双手紧握成拳头的动作。"
     },
     {
       "name": "cupping hands",
@@ -76,9 +76,9 @@
       "wiki_url": "/wiki_pages/cupping_hands",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捧手",
+      "confidence": "A",
+      "tag_cn_long": "双手合拢形成杯状，通常用于盛放液体或小物体。"
     },
     {
       "name": "double finger gun",
@@ -86,9 +86,9 @@
       "wiki_url": "/wiki_pages/double_finger_gun",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双指枪",
+      "confidence": "A",
+      "tag_cn_long": "双手同时做出食指伸出模仿手枪的手势。"
     },
     {
       "name": "double L",
@@ -96,9 +96,9 @@
       "wiki_url": "/wiki_pages/double_l",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双L手势",
+      "confidence": "A",
+      "tag_cn_long": "双手做出字母L形状的手势。"
     },
     {
       "name": "double number four",
@@ -106,9 +106,9 @@
       "wiki_url": "/wiki_pages/double_number_four_%28asl%29",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手比四",
+      "confidence": "A",
+      "tag_cn_long": "双手伸出四根手指做出数字四的手势。"
     },
     {
       "name": "double thumbs down",
@@ -116,9 +116,9 @@
       "wiki_url": "/wiki_pages/double_thumbs_down",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双拇指向下",
+      "confidence": "A",
+      "tag_cn_long": "双手拇指向下表示反对或否定。"
     },
     {
       "name": "double thumbs up",
@@ -126,9 +126,9 @@
       "wiki_url": "/wiki_pages/double_thumbs_up",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双拇指向上",
+      "confidence": "A",
+      "tag_cn_long": "双手拇指向上表示赞同或鼓励。"
     },
     {
       "name": "double v",
@@ -136,9 +136,9 @@
       "wiki_url": "/wiki_pages/double_v",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双V手势",
+      "confidence": "A",
+      "tag_cn_long": "双手做出字母V形的手势。"
     },
     {
       "name": "double \\m/",
@@ -146,9 +146,9 @@
       "wiki_url": "/wiki_pages/double_%5Cm%2F",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双\\m/手势",
+      "confidence": "A",
+      "tag_cn_long": "双手做出\\m/形状的金属礼手势。"
     },
     {
       "name": "double \\n/",
@@ -156,9 +156,9 @@
       "wiki_url": "/wiki_pages/double_%5Cn%2F",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双\\n/手势",
+      "confidence": "A",
+      "tag_cn_long": "双手做出\\n/形状的手势。"
     },
     {
       "name": "fidgeting",
@@ -166,9 +166,9 @@
       "wiki_url": "/wiki_pages/fidgeting",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扭捏不安",
+      "confidence": "A",
+      "tag_cn_long": "因紧张或害羞而不自觉地摆弄手指或身体扭动。"
     },
     {
       "name": "finger counting",
@@ -176,9 +176,9 @@
       "wiki_url": "/wiki_pages/finger_counting",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指数数",
+      "confidence": "A",
+      "tag_cn_long": "用手指出数字表示数量。"
     },
     {
       "name": "finger frame",
@@ -186,9 +186,9 @@
       "wiki_url": "/wiki_pages/finger_frame",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指取景框",
+      "confidence": "A",
+      "tag_cn_long": "用拇指和食指构成矩形框，模拟相机取景。"
     },
     {
       "name": "fist bump",
@@ -196,9 +196,9 @@
       "wiki_url": "/wiki_pages/fist_bump",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "碰拳",
+      "confidence": "A",
+      "tag_cn_long": "两人握拳相碰，表示友好或庆祝。"
     },
     {
       "name": "fist in hand",
@@ -206,9 +206,9 @@
       "wiki_url": "/wiki_pages/fist_in_hand",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拳握掌",
+      "confidence": "A",
+      "tag_cn_long": "一只手的拳头敲进另一只手的掌心，表示挑衅或准备打架。"
     },
     {
       "name": "groping motion",
@@ -216,9 +216,9 @@
       "wiki_url": "/wiki_pages/groping_motion",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "揉抓手势",
+      "confidence": "A",
+      "tag_cn_long": "双手弯曲手指做出揉捏抓取的动作，表示想摸或猥亵。"
     },
     {
       "name": "hand glasses",
@@ -226,9 +226,9 @@
       "wiki_url": "/wiki_pages/hand_glasses",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指眼镜",
+      "confidence": "A",
+      "tag_cn_long": "用拇指和食指在眼前圈出圆圈，模拟眼镜。"
     },
     {
       "name": "hand gesture duo",
@@ -236,9 +236,9 @@
       "wiki_url": "/wiki_pages/hand_gesture_duo",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双人非爱心手势",
+      "confidence": "B",
+      "tag_cn_long": "两人同时做出相同的手势（非爱心形状），如双V等。"
     },
     {
       "name": "heart arms",
@@ -246,9 +246,9 @@
       "wiki_url": "/wiki_pages/heart_arms",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手臂比心",
+      "confidence": "A",
+      "tag_cn_long": "用双臂在胸前形成爱心形状。"
     },
     {
       "name": "heart hands",
@@ -256,9 +256,9 @@
       "wiki_url": "/wiki_pages/heart_hands",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手比心",
+      "confidence": "A",
+      "tag_cn_long": "双手合成爱心形状。"
     },
     {
       "name": "high five",
@@ -266,9 +266,9 @@
       "wiki_url": "/wiki_pages/high_five",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "击掌",
+      "confidence": "A",
+      "tag_cn_long": "两人互相击掌表示庆祝或友好。"
     },
     {
       "name": "horns pose",
@@ -276,9 +276,9 @@
       "wiki_url": "/wiki_pages/horns_pose",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头角手势",
+      "confidence": "A",
+      "tag_cn_long": "双手举在头顶两侧伸出食指，模仿角的形状。"
     },
     {
       "name": "index fingers together",
@@ -286,9 +286,9 @@
       "wiki_url": "/wiki_pages/index_fingers_together",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食指相碰",
+      "confidence": "A",
+      "tag_cn_long": "两只手的食指轻轻碰在一起，表示害羞或紧张。"
     },
     {
       "name": "kitsune no mado",
@@ -296,9 +296,9 @@
       "wiki_url": "/wiki_pages/kitsune_no_mado",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狐狸窗",
+      "confidence": "A",
+      "tag_cn_long": "一种用手势组成窗口来窥视目标真身的做法，常用于辨别伪装成人类的妖怪。"
     },
     {
       "name": "noogie",
@@ -306,9 +306,9 @@
       "wiki_url": "/wiki_pages/noogie",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钻头",
+      "confidence": "B",
+      "tag_cn_long": "一种欺负人的动作，将握紧的拳头按在对方头顶来回转动。"
     },
     {
       "name": "open hands",
@@ -316,9 +316,9 @@
       "wiki_url": "/wiki_pages/open_hands",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "张开双手",
+      "confidence": "A",
+      "tag_cn_long": "双手摊开，手掌向上或向前展示。"
     },
     {
       "name": "own hands clasped",
@@ -326,9 +326,9 @@
       "wiki_url": "/wiki_pages/own_hands_clasped",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手交握",
+      "confidence": "A",
+      "tag_cn_long": "角色将自己的双手交叉握在一起的动作，常表达祈祷、紧张或思考。"
     },
     {
       "name": "palm-fist greeting",
@@ -336,9 +336,9 @@
       "wiki_url": "/wiki_pages/palm-fist_greeting",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱拳礼",
+      "confidence": "A",
+      "tag_cn_long": "中国传统礼节，一手握拳，另一手手掌抱拳致意。"
     },
     {
       "name": "palm-fist tap",
@@ -346,9 +346,9 @@
       "wiki_url": "/wiki_pages/palm-fist_tap",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拳掌相击",
+      "confidence": "B",
+      "tag_cn_long": "当角色突然明白某事时，一手掌心向上，另一手握拳敲击该手掌的动作。"
     },
     {
       "name": "penetration gesture",
@@ -356,9 +356,9 @@
       "wiki_url": "/wiki_pages/penetration_gesture",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿透手势",
+      "confidence": "C",
+      "tag_cn_long": "用食指穿过OK手势模拟性行为的手势。"
     },
     {
       "name": "pinky swear",
@@ -366,9 +366,9 @@
       "wiki_url": "/wiki_pages/pinky_swear",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉勾",
+      "confidence": "A",
+      "tag_cn_long": "两个人用小指勾在一起，表示承诺或亲密。"
     },
     {
       "name": "rabbit pose",
@@ -376,9 +376,9 @@
       "wiki_url": "/wiki_pages/rabbit_pose",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔耳手势",
+      "confidence": "A",
+      "tag_cn_long": "双手举到头顶，手指并拢，模仿兔子耳朵的可爱或性感姿势。"
     },
     {
       "name": "shadow puppet",
@@ -386,9 +386,9 @@
       "wiki_url": "/wiki_pages/shadow_puppet",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手影",
+      "confidence": "A",
+      "tag_cn_long": "利用手部或剪影形成各种形状的影子，如动物、物品等。"
     },
     {
       "name": "steepled fingers",
@@ -396,9 +396,9 @@
       "wiki_url": "/wiki_pages/steepled_fingers",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖塔手势",
+      "confidence": "A",
+      "tag_cn_long": "双手指尖相触，手掌分开，形成尖塔形状，常表示自信或深思。"
     },
     {
       "name": "triangle hands",
@@ -406,9 +406,9 @@
       "wiki_url": "/wiki_pages/triangle_hands",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角手势",
+      "confidence": "C",
+      "tag_cn_long": "双手组成三角形形状的手势。"
     },
     {
       "name": "tsuki ni kawatte oshioki yo",
@@ -416,9 +416,9 @@
       "wiki_url": "/wiki_pages/tsuki_ni_kawatte_oshioki_yo",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "代表月亮消灭你POSE",
+      "confidence": "B",
+      "tag_cn_long": "《美少女战士》中月野兔的经典台词和手势，右手指向天空，左手摆出V形。"
     },
     {
       "name": "x arms",
@@ -426,9 +426,9 @@
       "wiki_url": "/wiki_pages/x_arms",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "X型手臂",
+      "confidence": "A",
+      "tag_cn_long": "双臂在胸前交叉成X形，表示‘不’、‘禁止’或‘坏’。"
     },
     {
       "name": "x fingers",
@@ -436,9 +436,9 @@
       "wiki_url": "/wiki_pages/x_fingers",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉食指",
+      "confidence": "A",
+      "tag_cn_long": "双手食指交叉成X形，在日语中表示‘不行’、‘禁止’或‘结账’。"
     },
     {
       "name": "heart hands",
@@ -446,9 +446,9 @@
       "wiki_url": "/wiki_pages/heart_hands",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手比心",
+      "confidence": "A",
+      "tag_cn_long": "双手合成爱心形状。"
     },
     {
       "name": "heart hands duo",
@@ -456,9 +456,9 @@
       "wiki_url": "/wiki_pages/heart_hands_duo",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双人心形手势",
+      "confidence": "A",
+      "tag_cn_long": "两个人一起用手组成一个心形。"
     },
     {
       "name": "heart hands trio",
@@ -466,9 +466,9 @@
       "wiki_url": "/wiki_pages/heart_hands_trio",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三人心形手势",
+      "confidence": "A",
+      "tag_cn_long": "三个人一起用手组成一个心形。"
     },
     {
       "name": "heart hands quartet",
@@ -476,9 +476,9 @@
       "wiki_url": "/wiki_pages/heart_hands_quartet",
       "category_path": "Gestures encompassing at least two hands",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四人心形手势",
+      "confidence": "A",
+      "tag_cn_long": "四个人一起用手组成一个心形。"
     },
     {
       "name": "akanbe",
@@ -486,9 +486,9 @@
       "wiki_url": "/wiki_pages/akanbe",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿坎贝",
+      "confidence": "B",
+      "tag_cn_long": "一种日本式鬼脸，拉下眼皮并伸出舌头。"
     },
     {
       "name": "beckoning",
@@ -496,9 +496,9 @@
       "wiki_url": "/wiki_pages/beckoning",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "招手",
+      "confidence": "A",
+      "tag_cn_long": "用手势示意别人过来，常见形式有勾手指、手掌向下摆动等。"
     },
     {
       "name": "twirling hair",
@@ -506,9 +506,9 @@
       "wiki_url": "/wiki_pages/twirling_hair",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绕头发",
+      "confidence": "A",
+      "tag_cn_long": "用手指缠绕头发，通常表示紧张或害羞。"
     },
     {
       "name": "index finger raised",
@@ -516,9 +516,9 @@
       "wiki_url": "/wiki_pages/index_finger_raised",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食指抬起",
+      "confidence": "A",
+      "tag_cn_long": "角色竖起食指，其余手指握拳，但不是指向某物。"
     },
     {
       "name": "middle finger",
@@ -526,9 +526,9 @@
       "wiki_url": "/wiki_pages/middle_finger",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竖中指",
+      "confidence": "A",
+      "tag_cn_long": "竖起中指表示侮辱或蔑视的手势。"
     },
     {
       "name": "pinky out",
@@ -536,9 +536,9 @@
       "wiki_url": "/wiki_pages/pinky_out",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翘小指",
+      "confidence": "A",
+      "tag_cn_long": "喝茶时小指翘起，其他手指握杯，一种优雅姿态。"
     },
     {
       "name": "pointing",
@@ -546,9 +546,9 @@
       "wiki_url": "/wiki_pages/pointing",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指向",
+      "confidence": "A",
+      "tag_cn_long": "用食指指示某物或某人的动作。"
     },
     {
       "name": "pointing at another",
@@ -556,9 +556,9 @@
       "wiki_url": "/wiki_pages/pointing_at_another",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指向他人",
+      "confidence": "A",
+      "tag_cn_long": "角色用手指着另一个人。"
     },
     {
       "name": "pointing at self",
@@ -566,9 +566,9 @@
       "wiki_url": "/wiki_pages/pointing_at_self",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指向自己",
+      "confidence": "A",
+      "tag_cn_long": "角色用手指着自己。"
     },
     {
       "name": "pointing at viewer",
@@ -576,9 +576,9 @@
       "wiki_url": "/wiki_pages/pointing_at_viewer",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指向观众",
+      "confidence": "A",
+      "tag_cn_long": "角色用手指着画面外的观众。"
     },
     {
       "name": "pointing spider-man (meme)",
@@ -586,9 +586,9 @@
       "wiki_url": "/wiki_pages/pointing_spider-man_%28meme%29",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蜘蛛侠互指",
+      "confidence": "A",
+      "tag_cn_long": "基于蜘蛛侠动画的梗，两个蜘蛛侠互相指着对方。"
     },
     {
       "name": "pointing down",
@@ -596,9 +596,9 @@
       "wiki_url": "/wiki_pages/pointing_down",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指向下方",
+      "confidence": "A",
+      "tag_cn_long": "角色手指朝下指。"
     },
     {
       "name": "pointing forward",
@@ -606,9 +606,9 @@
       "wiki_url": "/wiki_pages/pointing_forward",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指向前方",
+      "confidence": "A",
+      "tag_cn_long": "角色手指指向自己的正前方。"
     },
     {
       "name": "pointing up",
@@ -616,9 +616,9 @@
       "wiki_url": "/wiki_pages/pointing_up",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指向上方",
+      "confidence": "A",
+      "tag_cn_long": "角色手指朝上指。"
     },
     {
       "name": "kamina pose",
@@ -626,9 +626,9 @@
       "wiki_url": "/wiki_pages/kamina_pose",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡米那姿势",
+      "confidence": "A",
+      "tag_cn_long": "模仿《天元突破》卡米那的经典向上指姿势，充满气势。"
     },
     {
       "name": "saturday night fever",
@@ -636,9 +636,9 @@
       "wiki_url": "/wiki_pages/saturday_night_fever",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "周六夜狂热",
+      "confidence": "A",
+      "tag_cn_long": "模仿约翰·特拉沃尔塔在《周六夜狂热》海报中的指天迪斯科姿势。"
     },
     {
       "name": "shushing",
@@ -646,9 +646,9 @@
       "wiki_url": "/wiki_pages/shushing",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘘声手势",
+      "confidence": "A",
+      "tag_cn_long": "将食指竖在嘴唇前，示意安静。"
     },
     {
       "name": "slit throat (gesture)",
@@ -656,9 +656,9 @@
       "wiki_url": "/wiki_pages/slit_throat_%28gesture%29",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "割喉手势",
+      "confidence": "A",
+      "tag_cn_long": "模拟用刀割喉的动作，通常表示威胁。"
     },
     {
       "name": "thumbs down",
@@ -666,9 +666,9 @@
       "wiki_url": "/wiki_pages/thumbs_down",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拇指向下",
+      "confidence": "A",
+      "tag_cn_long": "拇指朝下，表示反对或糟糕。"
     },
     {
       "name": "thumbs up",
@@ -676,9 +676,9 @@
       "wiki_url": "/wiki_pages/thumbs_up",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竖拇指",
+      "confidence": "A",
+      "tag_cn_long": "拇指朝上，表示赞同或肯定。"
     },
     {
       "name": "\\n/",
@@ -686,9 +686,9 @@
       "wiki_url": "/wiki_pages/%5Cn%2F",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角手势",
+      "confidence": "A",
+      "tag_cn_long": "举起食指和小指，其他手指握拳，象征恶魔之角，多见于摇滚金属文化。"
     },
     {
       "name": "crossed fingers",
@@ -696,9 +696,9 @@
       "wiki_url": "/wiki_pages/crossed_fingers",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉手指",
+      "confidence": "A",
+      "tag_cn_long": "食指和中指交叉，通常表示祈求好运。"
     },
     {
       "name": "finger gun",
@@ -706,9 +706,9 @@
       "wiki_url": "/wiki_pages/finger_gun",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指枪",
+      "confidence": "A",
+      "tag_cn_long": "食指和拇指伸直成枪形，模拟射击手势。"
     },
     {
       "name": "finger heart",
@@ -716,9 +716,9 @@
       "wiki_url": "/wiki_pages/finger_heart",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指爱心",
+      "confidence": "A",
+      "tag_cn_long": "用拇指和食指交叉成心形的手势。"
     },
     {
       "name": "fox shadow puppet",
@@ -726,9 +726,9 @@
       "wiki_url": "/wiki_pages/fox_shadow_puppet",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狐狸手影",
+      "confidence": "A",
+      "tag_cn_long": "将拇指、中指和无名指并拢，食指和小指竖起模拟狐狸形状的手势。"
     },
     {
       "name": "kuji-in",
@@ -736,9 +736,9 @@
       "wiki_url": "/wiki_pages/kuji-in",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "九字印",
+      "confidence": "A",
+      "tag_cn_long": "一组用于施法的手印，常见于忍者、僧侣或巫女。"
     },
     {
       "name": "shaka sign",
@@ -746,9 +746,9 @@
       "wiki_url": "/wiki_pages/shaka_sign",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夏卡手势",
+      "confidence": "A",
+      "tag_cn_long": "拇指和小指竖起，其他手指握拳的手势，象征打电话或代表数字六。"
     },
     {
       "name": "two-finger salute",
@@ -756,9 +756,9 @@
       "wiki_url": "/wiki_pages/two-finger_salute",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "两指敬礼",
+      "confidence": "B",
+      "tag_cn_long": "食指和中指并拢向前伸出的敬礼手势。"
     },
     {
       "name": "l hand",
@@ -766,9 +766,9 @@
       "wiki_url": "/wiki_pages/l_hand",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "L手势",
+      "confidence": "A",
+      "tag_cn_long": "拇指和食指形成L形的手势。"
     },
     {
       "name": "v",
@@ -776,9 +776,9 @@
       "wiki_url": "/wiki_pages/v",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "V手势",
+      "confidence": "A",
+      "tag_cn_long": "用食指和中指比成V形，常表示胜利或拍照姿势。"
     },
     {
       "name": "gyaru v",
@@ -786,9 +786,9 @@
       "wiki_url": "/wiki_pages/gyaru_v",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "辣妹V",
+      "confidence": "A",
+      "tag_cn_long": "倒过来的V字手势，源自日本辣妹文化。"
     },
     {
       "name": "inward v",
@@ -796,9 +796,9 @@
       "wiki_url": "/wiki_pages/inward_v",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内向V",
+      "confidence": "B",
+      "tag_cn_long": "手背朝向对方的V字手势，在英国等同于竖中指。"
     },
     {
       "name": "v over eye",
@@ -806,9 +806,9 @@
       "wiki_url": "/wiki_pages/v_over_eye",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "V遮眼",
+      "confidence": "A",
+      "tag_cn_long": "将V形手势放在一只眼睛上的姿势。"
     },
     {
       "name": "v over mouth",
@@ -816,9 +816,9 @@
       "wiki_url": "/wiki_pages/v_over_mouth",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "V遮嘴",
+      "confidence": "A",
+      "tag_cn_long": "将V形手势放在嘴巴上的姿势。"
     },
     {
       "name": "\\m/",
@@ -826,9 +826,9 @@
       "wiki_url": "/wiki_pages/%5Cm%2F",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "我爱你手势",
+      "confidence": "A",
+      "tag_cn_long": "拇指、食指和小指伸出，其他手指握拳的手势，手语中代表我爱你。"
     },
     {
       "name": "hand of benediction",
@@ -836,9 +836,9 @@
       "wiki_url": "/wiki_pages/hand_of_benediction",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "祝福手势",
+      "confidence": "A",
+      "tag_cn_long": "拇指、食指和中指伸出，无名指和小指弯曲，常用于祝福或赐福。"
     },
     {
       "name": "middle w",
@@ -846,9 +846,9 @@
       "wiki_url": "/wiki_pages/middle_w",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中指W",
+      "confidence": "A",
+      "tag_cn_long": "食指、中指和无名指竖起，形成W形的手势。"
     },
     {
       "name": "money gesture",
@@ -856,9 +856,9 @@
       "wiki_url": "/wiki_pages/money_gesture",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金钱手势",
+      "confidence": "A",
+      "tag_cn_long": "拇指和食指形成圆圈，手水平放置，代表硬币的金钱暗示手势。"
     },
     {
       "name": "ok sign",
@@ -866,9 +866,9 @@
       "wiki_url": "/wiki_pages/ok_sign",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "OK手势",
+      "confidence": "A",
+      "tag_cn_long": "拇指和食指接触形成圆圈，其他手指竖起，表示OK的手势。"
     },
     {
       "name": "pinching gesture",
@@ -876,9 +876,9 @@
       "wiki_url": "/wiki_pages/pinching_gesture",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捏合手势",
+      "confidence": "A",
+      "tag_cn_long": "拇指和食指捏在一起的动作。"
     },
     {
       "name": "w",
@@ -886,9 +886,9 @@
       "wiki_url": "/wiki_pages/w",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "W手势",
+      "confidence": "A",
+      "tag_cn_long": "三个手指（或拇指加两指）伸出形成W形的手势。"
     },
     {
       "name": "number four (ASL)",
@@ -896,9 +896,9 @@
       "wiki_url": "/wiki_pages/number_four_%28asl%29",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手语数字四",
+      "confidence": "B",
+      "tag_cn_long": "美国手语中表示数字4的手势，通常四指竖起拇指弯曲。"
     },
     {
       "name": "\\||/",
@@ -916,9 +916,9 @@
       "wiki_url": "/wiki_pages/claw_pose",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爪形手",
+      "confidence": "A",
+      "tag_cn_long": "手指弯曲模仿爪子的手势，通常手掌朝外、手指张开弯曲。"
     },
     {
       "name": "facepalm",
@@ -926,9 +926,9 @@
       "wiki_url": "/wiki_pages/facepalm",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捂脸",
+      "confidence": "A",
+      "tag_cn_long": "角色用手捂住脸，表示无语、无奈或对某事感到愚蠢。"
     },
     {
       "name": "ohikaenasutte",
@@ -936,9 +936,9 @@
       "wiki_url": "/wiki_pages/ohikaenasutte",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "请止步手势",
+      "confidence": "C",
+      "tag_cn_long": "日本时代剧中黑帮或赌徒使用的旧式正式问候手势，意为“请稍候”或“退下”。"
     },
     {
       "name": "open hand",
@@ -946,9 +946,9 @@
       "wiki_url": "/wiki_pages/open_hand",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "张开手",
+      "confidence": "A",
+      "tag_cn_long": "手掌完全张开、五指伸直的姿态，常用于挥手或伸手等动作。"
     },
     {
       "name": "reaching",
@@ -956,9 +956,9 @@
       "wiki_url": "/wiki_pages/reaching",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伸手够物",
+      "confidence": "A",
+      "tag_cn_long": "角色伸手去够某物的动作。"
     },
     {
       "name": "salute",
@@ -966,9 +966,9 @@
       "wiki_url": "/wiki_pages/salute",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敬礼",
+      "confidence": "A",
+      "tag_cn_long": "将手举至额头或头顶的礼节性手势，表示问候或尊敬。"
     },
     {
       "name": "spread fingers",
@@ -976,9 +976,9 @@
       "wiki_url": "/wiki_pages/spread_fingers",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指张开",
+      "confidence": "A",
+      "tag_cn_long": "五指彼此分开、向外张开的姿态。"
     },
     {
       "name": "stop (gesture)",
@@ -986,9 +986,9 @@
       "wiki_url": "/wiki_pages/stop_%28gesture%29",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "停止手势",
+      "confidence": "A",
+      "tag_cn_long": "手掌朝外、手臂伸直、手腕弯曲约90度，示意对方停下。"
     },
     {
       "name": "straight-arm salute",
@@ -996,9 +996,9 @@
       "wiki_url": "/wiki_pages/straight-arm_salute",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "直臂礼",
+      "confidence": "A",
+      "tag_cn_long": "右臂伸直约135度角的敬礼手势，又称罗马礼或纳粹礼。"
     },
     {
       "name": "vulcan salute",
@@ -1006,9 +1006,9 @@
       "wiki_url": "/wiki_pages/vulcan_salute",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瓦肯礼",
+      "confidence": "A",
+      "tag_cn_long": "手指在中指与无名指之间分叉、拇指伸出的手势，源自《星际迷航》中瓦肯人的问候。"
     },
     {
       "name": "waving",
@@ -1016,9 +1016,9 @@
       "wiki_url": "/wiki_pages/waving",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挥手",
+      "confidence": "A",
+      "tag_cn_long": "手或手臂来回摆动的动作，用于打招呼或告别。"
     },
     {
       "name": "clenched hand",
@@ -1026,9 +1026,9 @@
       "wiki_url": "/wiki_pages/clenched_hand",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "握拳",
+      "confidence": "A",
+      "tag_cn_long": "手指紧握成拳、拇指扣在掌心的姿态。"
     },
     {
       "name": "curled fingers",
@@ -1036,9 +1036,9 @@
       "wiki_url": "/wiki_pages/curled_fingers",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弯指",
+      "confidence": "A",
+      "tag_cn_long": "手指向掌心弯曲，形成卷曲的姿态。"
     },
     {
       "name": "dojikko pose",
@@ -1046,9 +1046,9 @@
       "wiki_url": "/wiki_pages/dojikko_pose",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吐舌敲头",
+      "confidence": "B",
+      "tag_cn_long": "角色闭起一只眼、吐舌并用手轻敲自己头部的卖萌姿势。"
     },
     {
       "name": "fig sign",
@@ -1056,9 +1056,9 @@
       "wiki_url": "/wiki_pages/fig_sign",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无花果手势",
+      "confidence": "A",
+      "tag_cn_long": "拇指从食指与中指间（或中指与无名指间）伸出的拳头手势，在不同文化中有吉祥或侮辱等含义。"
     },
     {
       "name": "paw pose",
@@ -1066,9 +1066,9 @@
       "wiki_url": "/wiki_pages/paw_pose",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫爪手势",
+      "confidence": "A",
+      "tag_cn_long": "双手贴近胸前、手掌朝外、手指微屈模仿动物爪子的可爱姿势。"
     },
     {
       "name": "power fist",
@@ -1076,9 +1076,9 @@
       "wiki_url": "/wiki_pages/power_fist",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动力拳套",
+      "confidence": "C",
+      "tag_cn_long": "科幻作品中巨大的金属拳套形状武器，用于增强打击力。注意：此标签同时指手势时可能为握拳高举。"
     },
     {
       "name": "raised fist",
@@ -1086,9 +1086,9 @@
       "wiki_url": "/wiki_pages/raised_fist",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "举拳",
+      "confidence": "A",
+      "tag_cn_long": "握紧拳头向上举起的手势，常表示力量、抗议或胜利。"
     },
     {
       "name": "che vuoi?",
@@ -1106,9 +1106,9 @@
       "wiki_url": "/wiki_pages/beckoning",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "招手",
+      "confidence": "A",
+      "tag_cn_long": "用手势示意别人过来，常见形式有勾手指、手掌向下摆动等。"
     },
     {
       "name": "cunnilingus gesture",
@@ -1156,9 +1156,9 @@
       "wiki_url": "/wiki_pages/oral_invitation",
       "category_path": "Gestures encompassing only one hand",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口交邀请",
+      "confidence": "A",
+      "tag_cn_long": "故意张开嘴、伸出舌头，示意对方将精液射入口中的动作。"
     },
     {
       "name": "oral simulation",
@@ -1266,9 +1266,9 @@
       "wiki_url": "/wiki_pages/kuji-in",
       "category_path": "Other gestures",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "九字印",
+      "confidence": "A",
+      "tag_cn_long": "一组用于施法的手印，常见于忍者、僧侣或巫女。"
     },
     {
       "name": "no (gesture)",
@@ -1316,9 +1316,9 @@
       "wiki_url": "/wiki_pages/victory_pose",
       "category_path": "Other gestures",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胜利姿势",
+      "confidence": "A",
+      "tag_cn_long": "角色举起手臂庆祝胜利的姿势。"
     }
   ],
   "total_tags": 129,

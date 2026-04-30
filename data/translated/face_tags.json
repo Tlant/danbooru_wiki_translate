@@ -66,9 +66,9 @@
       "wiki_url": "/wiki_pages/multiple_expressions",
       "category_path": "Main",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多表情",
+      "confidence": "A",
+      "tag_cn_long": "同一角色在画面中展示多种表情。"
     },
     {
       "name": "expression chart",
@@ -76,9 +76,9 @@
       "wiki_url": "/wiki_pages/expression_chart",
       "category_path": "Main",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "表情图表",
+      "confidence": "A",
+      "tag_cn_long": "类似表格的多个表情集合，常用于迷因。"
     },
     {
       "name": "angry",
@@ -86,9 +86,9 @@
       "wiki_url": "/wiki_pages/angry",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "愤怒",
+      "confidence": "A",
+      "tag_cn_long": "角色表现出愤怒情绪，常伴有青筋或瞪视。"
     },
     {
       "name": "anger vein",
@@ -106,9 +106,9 @@
       "wiki_url": "/wiki_pages/annoyed",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "恼怒",
+      "confidence": "A",
+      "tag_cn_long": "一种轻微的愤怒，通常因他人的反复麻烦行为而引起，表情显得疲惫或烦躁。"
     },
     {
       "name": "clenched teeth",
@@ -116,9 +116,9 @@
       "wiki_url": "/wiki_pages/clenched_teeth",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咬牙切齿",
+      "confidence": "A",
+      "tag_cn_long": "角色咬紧牙齿的表情。"
     },
     {
       "name": "glaring",
@@ -126,9 +126,9 @@
       "wiki_url": "/wiki_pages/glaring",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "怒视",
+      "confidence": "A",
+      "tag_cn_long": "愤怒或怨恨的眼神，常伴随皱眉，眼睛眯起。"
     },
     {
       "name": "scowl",
@@ -136,9 +136,9 @@
       "wiki_url": "/wiki_pages/scowl",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皱眉怒容",
+      "confidence": "B",
+      "tag_cn_long": "不满、愠怒的表情，表现出“我真的很不喜欢”的样子。"
     },
     {
       "name": "annoyed",
@@ -146,9 +146,9 @@
       "wiki_url": "/wiki_pages/annoyed",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "恼怒",
+      "confidence": "A",
+      "tag_cn_long": "一种轻微的愤怒，通常因他人的反复麻烦行为而引起，表情显得疲惫或烦躁。"
     },
     {
       "name": "blush",
@@ -156,9 +156,9 @@
       "wiki_url": "/wiki_pages/blush",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸红",
+      "confidence": "A",
+      "tag_cn_long": "脸颊泛红，可能表示害羞、尴尬或性兴奋。"
     },
     {
       "name": "blush stickers",
@@ -166,9 +166,9 @@
       "wiki_url": "/wiki_pages/blush_stickers",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸红贴纸",
+      "confidence": "B",
+      "tag_cn_long": "脸颊上出现的二维椭圆形红晕，常带有边框或填充色，多见于Q版角色或搞笑场景。"
     },
     {
       "name": "embarrassed",
@@ -176,9 +176,9 @@
       "wiki_url": "/wiki_pages/embarrassed",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尴尬",
+      "confidence": "A",
+      "tag_cn_long": "感到自我意识过强和不舒服，通常因自身原因引起。"
     },
     {
       "name": "full-face blush",
@@ -186,9 +186,9 @@
       "wiki_url": "/wiki_pages/full-face_blush",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全脸通红",
+      "confidence": "A",
+      "tag_cn_long": "整个脸部都泛红，包括额头和嘴巴周围，表示极度害羞。"
     },
     {
       "name": "nose blush",
@@ -196,9 +196,9 @@
       "wiki_url": "/wiki_pages/nose_blush",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鼻梁泛红",
+      "confidence": "A",
+      "tag_cn_long": "鼻梁部位泛红。"
     },
     {
       "name": "bored",
@@ -206,9 +206,9 @@
       "wiki_url": "/wiki_pages/bored",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无聊",
+      "confidence": "A",
+      "tag_cn_long": "因无事可做或对周围环境不感兴趣而产生的情绪状态。"
     },
     {
       "name": "closed eyes",
@@ -226,9 +226,9 @@
       "wiki_url": "/wiki_pages/confused",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "困惑",
+      "confidence": "A",
+      "tag_cn_long": "感到迷惑或不清醒的状态。"
     },
     {
       "name": "crazy",
@@ -236,9 +236,9 @@
       "wiki_url": "/wiki_pages/crazy",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "疯狂",
+      "confidence": "A",
+      "tag_cn_long": "看起来精神失常的状态。"
     },
     {
       "name": "despair",
@@ -246,9 +246,9 @@
       "wiki_url": "/wiki_pages/despair",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绝望",
+      "confidence": "A",
+      "tag_cn_long": "深深的悲伤，常表现为极端消极情绪。"
     },
     {
       "name": "determined",
@@ -256,9 +256,9 @@
       "wiki_url": "/wiki_pages/determined",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "决心",
+      "confidence": "A",
+      "tag_cn_long": "表现出坚定决心或意志的表情。"
     },
     {
       "name": "disappointed",
@@ -266,9 +266,9 @@
       "wiki_url": "/wiki_pages/disappointed",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "失望",
+      "confidence": "A",
+      "tag_cn_long": "因事情未发生、未成功或未达到预期而感到悲伤。"
     },
     {
       "name": "disdain",
@@ -276,9 +276,9 @@
       "wiki_url": "/wiki_pages/disdain",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "轻蔑",
+      "confidence": "A",
+      "tag_cn_long": "鄙视或蔑视的感觉，角色往往以居高临下的态度看待他人。"
     },
     {
       "name": "disgust",
@@ -286,9 +286,9 @@
       "wiki_url": "/wiki_pages/disgust",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "厌恶",
+      "confidence": "A",
+      "tag_cn_long": "强烈的反感或憎恶。"
     },
     {
       "name": "drunk",
@@ -306,9 +306,9 @@
       "wiki_url": "/wiki_pages/envy",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "羡慕",
+      "confidence": "A",
+      "tag_cn_long": "渴望拥有自己缺乏的东西，与嫉妒（jealous）不同。"
     },
     {
       "name": "excited",
@@ -316,9 +316,9 @@
       "wiki_url": "/wiki_pages/excited",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兴奋",
+      "confidence": "A",
+      "tag_cn_long": "充满热情、渴望或期待的情绪。"
     },
     {
       "name": "exhausted",
@@ -326,9 +326,9 @@
       "wiki_url": "/wiki_pages/exhausted",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "筋疲力尽",
+      "confidence": "A",
+      "tag_cn_long": "角色因剧烈运动或劳累而非常疲惫的状态。"
     },
     {
       "name": "expressionless",
@@ -336,9 +336,9 @@
       "wiki_url": "/wiki_pages/expressionless",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面无表情",
+      "confidence": "A",
+      "tag_cn_long": "角色面部缺乏任何情绪或表情，通常显得冷漠。"
     },
     {
       "name": "facepalm",
@@ -346,9 +346,9 @@
       "wiki_url": "/wiki_pages/facepalm",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捂脸",
+      "confidence": "A",
+      "tag_cn_long": "角色用手捂住脸，表示无语、无奈或对某事感到愚蠢。"
     },
     {
       "name": "flustered",
@@ -356,9 +356,9 @@
       "wiki_url": "/wiki_pages/flustered",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "慌乱",
+      "confidence": "A",
+      "tag_cn_long": "角色因突然情况（尤其浪漫或性相关）而惊慌失措的状态。"
     },
     {
       "name": "frustrated",
@@ -366,9 +366,9 @@
       "wiki_url": "/wiki_pages/frustrated",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "沮丧",
+      "confidence": "A",
+      "tag_cn_long": "角色因无法达成愿望或行动而感到不满、烦躁。"
     },
     {
       "name": "furrowed brow",
@@ -376,9 +376,9 @@
       "wiki_url": "/wiki_pages/furrowed_brow",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皱眉",
+      "confidence": "A",
+      "tag_cn_long": "角色额头皮肤皱起，通常表示专注、焦虑或不悦。"
     },
     {
       "name": "grimace",
@@ -396,9 +396,9 @@
       "wiki_url": "/wiki_pages/guilt",
       "category_path": "Emotions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内疚",
+      "confidence": "A",
+      "tag_cn_long": "角色感到愧疚或自责的情绪表现。"
     },
     {
       "name": "happy",
@@ -406,9 +406,9 @@
       "wiki_url": "/wiki_pages/happy",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开心",
+      "confidence": "A",
+      "tag_cn_long": "角色表现出快乐、满足或愉悦，通常伴有笑容。"
     },
     {
       "name": "kubrick stare",
@@ -416,9 +416,9 @@
       "wiki_url": "/wiki_pages/kubrick_stare",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "库布里克凝视",
+      "confidence": "A",
+      "tag_cn_long": "角色头部微低，眼睛直视观众，带有淡淡微笑或面无表情，营造令人不安的氛围。"
     },
     {
       "name": "lonely",
@@ -426,9 +426,9 @@
       "wiki_url": "/wiki_pages/lonely",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "孤独",
+      "confidence": "A",
+      "tag_cn_long": "角色因孤立或缺乏社交而表现出寂寞感。"
     },
     {
       "name": "nervous",
@@ -436,9 +436,9 @@
       "wiki_url": "/wiki_pages/nervous",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧张",
+      "confidence": "A",
+      "tag_cn_long": "角色表现出不安、颤抖、脸红或出汗等紧张迹象。"
     },
     {
       "name": "nosebleed",
@@ -446,9 +446,9 @@
       "wiki_url": "/wiki_pages/nosebleed",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "流鼻血",
+      "confidence": "A",
+      "tag_cn_long": "角色因兴奋或受伤而鼻子流血，常见于性暗示场景。"
     },
     {
       "name": "one eye closed",
@@ -456,9 +456,9 @@
       "wiki_url": "/wiki_pages/one_eye_closed",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单眼闭合",
+      "confidence": "A",
+      "tag_cn_long": "角色闭上一只眼睛的动作。"
     },
     {
       "name": "round mouth",
@@ -466,9 +466,9 @@
       "wiki_url": "/wiki_pages/%3Ao",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆形嘴",
+      "confidence": "B",
+      "tag_cn_long": "嘴巴张成圆形，通常表示惊讶或某种情绪。"
     },
     {
       "name": "open mouth",
@@ -476,9 +476,9 @@
       "wiki_url": "/wiki_pages/open_mouth",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "张开的嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴张开，大到足以看见口腔内部的程度。"
     },
     {
       "name": "parted lips",
@@ -486,9 +486,9 @@
       "wiki_url": "/wiki_pages/parted_lips",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "微张的嘴唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴微微张开，牙齿不一定可见。"
     },
     {
       "name": "pain",
@@ -496,9 +496,9 @@
       "wiki_url": "/wiki_pages/pain",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "疼痛",
+      "confidence": "A",
+      "tag_cn_long": "身体受伤或受苦的症状，常表现为皱眉、流泪等。"
     },
     {
       "name": "pout",
@@ -506,9 +506,9 @@
       "wiki_url": "/wiki_pages/pout",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "噘嘴",
+      "confidence": "A",
+      "tag_cn_long": "将嘴唇向一侧突出，表示不满或撒娇。"
     },
     {
       "name": "raised eyebrow",
@@ -516,9 +516,9 @@
       "wiki_url": "/wiki_pages/raised_eyebrow",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单挑眉",
+      "confidence": "A",
+      "tag_cn_long": "角色抬起一边眉毛，表示疑惑、得意或挑逗。"
     },
     {
       "name": "raised eyebrows",
@@ -526,9 +526,9 @@
       "wiki_url": "/wiki_pages/raised_eyebrows",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双眉上扬",
+      "confidence": "A",
+      "tag_cn_long": "角色眉毛从正常位置抬高，通常表示惊讶或好奇。"
     },
     {
       "name": "raised inner eyebrows",
@@ -536,9 +536,9 @@
       "wiki_url": "/wiki_pages/raised_inner_eyebrows",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内眉上扬",
+      "confidence": "B",
+      "tag_cn_long": "只有眉毛内侧部分抬起，常表示得意或恐惧。"
     },
     {
       "name": "rape face",
@@ -546,9 +546,9 @@
       "wiki_url": "/wiki_pages/rape_face",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "强奸脸",
+      "confidence": "B",
+      "tag_cn_long": "一种令人毛骨悚然的表情，眯眼、眼神游移，带着掠夺性的微笑，仿佛要强奸或杀人。"
     },
     {
       "name": "rolling eyes",
@@ -556,9 +556,9 @@
       "wiki_url": "/wiki_pages/rolling_eyes",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翻白眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛向上翻转，通常与极度快感或阿黑颜表情相关。"
     },
     {
       "name": "sad",
@@ -576,9 +576,9 @@
       "wiki_url": "/wiki_pages/depressed",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抑郁",
+      "confidence": "A",
+      "tag_cn_long": "指情绪低落或患有抑郁症的状态。"
     },
     {
       "name": "frown",
@@ -586,9 +586,9 @@
       "wiki_url": "/wiki_pages/frown",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皱眉",
+      "confidence": "A",
+      "tag_cn_long": "表示不悦、不满、烦恼等负面情绪的面部表情。"
     },
     {
       "name": "gloom (expression)",
@@ -596,9 +596,9 @@
       "wiki_url": "/wiki_pages/gloom_%28expression%29",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "郁闷",
+      "confidence": "B",
+      "tag_cn_long": "角色因失望而明显抑郁的表情，常带有喜剧效果，伴随黑暗直线或暗气。"
     },
     {
       "name": "tears",
@@ -606,9 +606,9 @@
       "wiki_url": "/wiki_pages/tears",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼泪",
+      "confidence": "A",
+      "tag_cn_long": "眼睛产生的液体，常因哭泣或大笑而出现。"
     },
     {
       "name": "scared",
@@ -626,9 +626,9 @@
       "wiki_url": "/wiki_pages/panicking",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "惊慌",
+      "confidence": "A",
+      "tag_cn_long": "角色处于明显恐慌状态，可为喜剧效果或戏剧性情境。"
     },
     {
       "name": "worried",
@@ -636,9 +636,9 @@
       "wiki_url": "/wiki_pages/worried",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "担心",
+      "confidence": "A",
+      "tag_cn_long": "对真实或想象的问题感到焦虑或关切。"
     },
     {
       "name": "serious",
@@ -646,9 +646,9 @@
       "wiki_url": "/wiki_pages/serious",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "严肃",
+      "confidence": "A",
+      "tag_cn_long": "角色带有严肃或庄重的神情，通常比面无表情更紧张。"
     },
     {
       "name": "shaded face",
@@ -656,9 +656,9 @@
       "wiki_url": "/wiki_pages/shaded_face",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴影脸",
+      "confidence": "A",
+      "tag_cn_long": "面部上半部分或眼睛被阴影遮蔽，用于表达负面情绪或喜剧效果。"
     },
     {
       "name": "shy",
@@ -666,9 +666,9 @@
       "wiki_url": "/wiki_pages/shy",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "害羞",
+      "confidence": "A",
+      "tag_cn_long": "性格或行为上表现出腼腆、不自信或尴尬。"
     },
     {
       "name": "sigh",
@@ -676,9 +676,9 @@
       "wiki_url": "/wiki_pages/sigh",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叹气",
+      "confidence": "A",
+      "tag_cn_long": "呼出空气并发出声音，表示多种情绪，视觉上常表现为脸旁的云状物。"
     },
     {
       "name": "sleepy",
@@ -686,9 +686,9 @@
       "wiki_url": "/wiki_pages/sleepy",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "困倦",
+      "confidence": "A",
+      "tag_cn_long": "感到需要睡眠，常见迹象包括闭一只眼、半闭眼、打哈欠等。"
     },
     {
       "name": "sulking",
@@ -696,9 +696,9 @@
       "wiki_url": "/wiki_pages/sulking",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "生闷气",
+      "confidence": "A",
+      "tag_cn_long": "以沉默和阴郁的方式表达愤怒或不满。"
     },
     {
       "name": "surprised",
@@ -716,9 +716,9 @@
       "wiki_url": "/wiki_pages/thinking",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "思考",
+      "confidence": "A",
+      "tag_cn_long": "脸上露出沉思的表情，或可见角色正在想象的画面。"
     },
     {
       "name": "pensive",
@@ -726,9 +726,9 @@
       "wiki_url": "/wiki_pages/pensive",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "沉思",
+      "confidence": "A",
+      "tag_cn_long": "沉浸在自己的思绪中。"
     },
     {
       "name": "unamused",
@@ -736,9 +736,9 @@
       "wiki_url": "/wiki_pages/unamused",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无趣",
+      "confidence": "A",
+      "tag_cn_long": "角色露出茫然的表情，通常心想“……什么？”"
     },
     {
       "name": "v-shaped eyebrows",
@@ -746,9 +746,9 @@
       "wiki_url": "/wiki_pages/v-shaped_eyebrows",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "V形眉",
+      "confidence": "A",
+      "tag_cn_long": "眉毛向内倾斜形成V形，常用于表示调皮、得意、愤怒或烦恼。"
     },
     {
       "name": "wince",
@@ -766,9 +766,9 @@
       "wiki_url": "/wiki_pages/struggling",
       "category_path": "Emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挣扎",
+      "confidence": "A",
+      "tag_cn_long": "角色正在抵抗抓握、拥抱或束缚等物理限制的动作，如击打、拉扯、推开等。"
     },
     {
       "name": "afterglow",
@@ -776,9 +776,9 @@
       "wiki_url": "/wiki_pages/afterglow",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "余韵",
+      "confidence": "A",
+      "tag_cn_long": "性高潮后温馨愉悦的余韵状态，通常包含拥抱、依偎等亲密举动。"
     },
     {
       "name": "ahegao",
@@ -786,9 +786,9 @@
       "wiki_url": "/wiki_pages/ahegao",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿黑颜",
+      "confidence": "A",
+      "tag_cn_long": "一种夸张的高潮表情，表现为翻白眼、张嘴吐舌，常伴有脸红、流涎等特征。"
     },
     {
       "name": "fucked silly",
@@ -796,9 +796,9 @@
       "wiki_url": "/wiki_pages/fucked_silly",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "干到神志不清",
+      "confidence": "B",
+      "tag_cn_long": "因过度性行为而疲惫恍惚，面容流露出极度愉悦或虚脱的表情。"
     },
     {
       "name": "aroused",
@@ -806,9 +806,9 @@
       "wiki_url": "/wiki_pages/aroused",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "性兴奋",
+      "confidence": "A",
+      "tag_cn_long": "角色处于性兴奋状态，可能通过抚摸、接吻等行为表现。"
     },
     {
       "name": "fucked silly",
@@ -816,9 +816,9 @@
       "wiki_url": "/wiki_pages/fucked_silly",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "干到神志不清",
+      "confidence": "B",
+      "tag_cn_long": "因过度性行为而疲惫恍惚，面容流露出极度愉悦或虚脱的表情。"
     },
     {
       "name": "in heat",
@@ -826,9 +826,9 @@
       "wiki_url": "/wiki_pages/in_heat",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发情",
+      "confidence": "A",
+      "tag_cn_long": "多用于兽娘角色，表示极度性欲旺盛，伴随脸红、流汗、粗重呼吸。"
     },
     {
       "name": "naughty face",
@@ -836,9 +836,9 @@
       "wiki_url": "/wiki_pages/naughty_face",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坏笑脸",
+      "confidence": "A",
+      "tag_cn_long": "一种调皮、挑逗的笑容，暗示色情念头或恶作剧。"
     },
     {
       "name": "ohhoai",
@@ -846,9 +846,9 @@
       "wiki_url": "/wiki_pages/ohhoai",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哦吼哎",
+      "confidence": "D",
+      "tag_cn_long": "一种带有挑逗意味的拟声表情，具体含义不明确。"
     },
     {
       "name": "seductive smile",
@@ -856,9 +856,9 @@
       "wiki_url": "/wiki_pages/seductive_smile",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "诱人微笑",
+      "confidence": "A",
+      "tag_cn_long": "一种半闭着眼、带着邀请意味的性感微笑，类似于“卧室眼”。"
     },
     {
       "name": "torogao",
@@ -866,9 +866,9 @@
       "wiki_url": "/wiki_pages/torogao",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "恍惚脸",
+      "confidence": "B",
+      "tag_cn_long": "一种陶醉失神的表情，脸颊泛红、半闭眼，嘴角微张，常见于极度快感时。"
     },
     {
       "name": "ass-to-mouth",
@@ -876,9 +876,9 @@
       "wiki_url": "/wiki_pages/ass-to-mouth",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肛嘴衔接",
+      "confidence": "B",
+      "tag_cn_long": "性行为中，从肛门抽出后直接放入口中的动作。"
     },
     {
       "name": "condom in mouth",
@@ -886,9 +886,9 @@
       "wiki_url": "/wiki_pages/condom_in_mouth",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴里含套",
+      "confidence": "A",
+      "tag_cn_long": "角色嘴里含着避孕套（未开封或已使用），通常作为性邀请的前兆。"
     },
     {
       "name": "cum in mouth",
@@ -896,9 +896,9 @@
       "wiki_url": "/wiki_pages/cum_in_mouth",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴里含精",
+      "confidence": "A",
+      "tag_cn_long": "精液在嘴里或射入口中的动作或状态。"
     },
     {
       "name": "oral invitation",
@@ -906,9 +906,9 @@
       "wiki_url": "/wiki_pages/oral_invitation",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口交邀请",
+      "confidence": "A",
+      "tag_cn_long": "故意张开嘴、伸出舌头，示意对方将精液射入口中的动作。"
     },
     {
       "name": "pussy juice in mouth",
@@ -916,9 +916,9 @@
       "wiki_url": "/wiki_pages/pussy_juice_in_mouth",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴里含淫液",
+      "confidence": "B",
+      "tag_cn_long": "女性淫液在口中的状态。"
     },
     {
       "name": "unzipping with mouth",
@@ -926,9 +926,9 @@
       "wiki_url": "/wiki_pages/unzipping_with_mouth",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "用嘴拉链",
+      "confidence": "A",
+      "tag_cn_long": "用牙齿咬住拉链头拉开衣物，通常是为了暴露生殖器以便进行口交。"
     },
     {
       "name": "Smile",
@@ -976,9 +976,9 @@
       "wiki_url": "/wiki_pages/fingersmile",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指笑",
+      "confidence": "B",
+      "tag_cn_long": "用手指向上推嘴角形成的微笑表情。"
     },
     {
       "name": "forced smile",
@@ -986,9 +986,9 @@
       "wiki_url": "/wiki_pages/forced_smile",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "强颜欢笑",
+      "confidence": "A",
+      "tag_cn_long": "不情愿或被迫做出的微笑表情。"
     },
     {
       "name": "glasgow smile",
@@ -996,9 +996,9 @@
       "wiki_url": "/wiki_pages/glasgow_smile",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格拉斯哥微笑",
+      "confidence": "A",
+      "tag_cn_long": "嘴角被割裂形成的恐怖微笑，类似裂口女的伤痕。"
     },
     {
       "name": "grin",
@@ -1006,9 +1006,9 @@
       "wiki_url": "/wiki_pages/grin",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咧嘴笑",
+      "confidence": "A",
+      "tag_cn_long": "张大嘴巴露出牙齿的灿烂笑容。"
     },
     {
       "name": "evil grin",
@@ -1016,9 +1016,9 @@
       "wiki_url": "/wiki_pages/evil_grin",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奸笑",
+      "confidence": "A",
+      "tag_cn_long": "带有恶意或残忍意味的咧嘴笑。"
     },
     {
       "name": "light smile",
@@ -1026,9 +1026,9 @@
       "wiki_url": "/wiki_pages/light_smile",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浅笑",
+      "confidence": "A",
+      "tag_cn_long": "轻微、含蓄的微笑，类似蒙娜丽莎。"
     },
     {
       "name": "sad smile",
@@ -1036,9 +1036,9 @@
       "wiki_url": "/wiki_pages/sad_smile",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苦笑",
+      "confidence": "A",
+      "tag_cn_long": "明明在微笑但表情显得悲伤。"
     },
     {
       "name": "seductive smile",
@@ -1046,9 +1046,9 @@
       "wiki_url": "/wiki_pages/seductive_smile",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "诱人微笑",
+      "confidence": "A",
+      "tag_cn_long": "一种半闭着眼、带着邀请意味的性感微笑，类似于“卧室眼”。"
     },
     {
       "name": "smile",
@@ -1056,9 +1056,9 @@
       "wiki_url": "/wiki_pages/smile",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "微笑",
+      "confidence": "A",
+      "tag_cn_long": "表示愉快、欢乐的表情，嘴角上扬。"
     },
     {
       "name": "stifled laugh",
@@ -1066,9 +1066,9 @@
       "wiki_url": "/wiki_pages/stifled_laugh",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "忍笑",
+      "confidence": "A",
+      "tag_cn_long": "用手捂住嘴强忍住不笑出声来。"
     },
     {
       "name": "Smug",
@@ -1086,9 +1086,9 @@
       "wiki_url": "/wiki_pages/doyagao",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "得意脸",
+      "confidence": "A",
+      "tag_cn_long": "一种自满、挑衅的表情，意为“怎么样？我厉害吧？”"
     },
     {
       "name": "smirk",
@@ -1096,9 +1096,9 @@
       "wiki_url": "/wiki_pages/smirk",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假笑",
+      "confidence": "A",
+      "tag_cn_long": "带着得意或傲慢的单侧嘴角上扬的微笑。"
     },
     {
       "name": "smug",
@@ -1106,9 +1106,9 @@
       "wiki_url": "/wiki_pages/smug",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "得意",
+      "confidence": "A",
+      "tag_cn_long": "表现出对自己或情况极度满意的表情。"
     },
     {
       "name": "troll face",
@@ -1116,9 +1116,9 @@
       "wiki_url": "/wiki_pages/troll_face",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘲讽脸",
+      "confidence": "B",
+      "tag_cn_long": "一种带有挑衅和幸灾乐祸意味的夸张表情，源自网络迷因。"
     },
     {
       "name": "Surprised",
@@ -1126,9 +1126,9 @@
       "wiki_url": "/wiki_pages/surprised",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "惊讶",
+      "confidence": "A",
+      "tag_cn_long": "表现出吃惊、意外的表情。"
     },
     {
       "name": "Scared",
@@ -1136,9 +1136,9 @@
       "wiki_url": "/wiki_pages/scared",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "害怕",
+      "confidence": "A",
+      "tag_cn_long": "表现出恐惧、惊慌的表情。"
     },
     {
       "name": "Sad",
@@ -1146,9 +1146,9 @@
       "wiki_url": "/wiki_pages/sad",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "悲伤",
+      "confidence": "A",
+      "tag_cn_long": "表现出忧愁、不开心的表情。"
     },
     {
       "name": "^^^",
@@ -1156,9 +1156,9 @@
       "wiki_url": "/wiki_pages/%5E%5E%5E",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "惊讶角标",
+      "confidence": "C",
+      "tag_cn_long": "画在角色头顶的三个尖角符号，表示惊讶或恍然大悟。"
     },
     {
       "name": "color drain",
@@ -1166,9 +1166,9 @@
       "wiki_url": "/wiki_pages/color_drain",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "失色",
+      "confidence": "A",
+      "tag_cn_long": "因震惊、愤怒等情绪导致画面失去色彩变为单色。"
     },
     {
       "name": "depressed",
@@ -1176,9 +1176,9 @@
       "wiki_url": "/wiki_pages/depressed",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抑郁",
+      "confidence": "A",
+      "tag_cn_long": "指情绪低落或患有抑郁症的状态。"
     },
     {
       "name": "despair",
@@ -1186,9 +1186,9 @@
       "wiki_url": "/wiki_pages/despair",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绝望",
+      "confidence": "A",
+      "tag_cn_long": "深深的悲伤，常表现为极端消极情绪。"
     },
     {
       "name": "gloom (expression)",
@@ -1196,9 +1196,9 @@
       "wiki_url": "/wiki_pages/gloom_%28expression%29",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "郁闷",
+      "confidence": "B",
+      "tag_cn_long": "角色因失望而明显抑郁的表情，常带有喜剧效果，伴随黑暗直线或暗气。"
     },
     {
       "name": "horrified",
@@ -1206,9 +1206,9 @@
       "wiki_url": "/wiki_pages/horrified",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "惊恐",
+      "confidence": "A",
+      "tag_cn_long": "表现出极度恐惧和厌恶的表情。"
     },
     {
       "name": "screaming",
@@ -1216,9 +1216,9 @@
       "wiki_url": "/wiki_pages/screaming",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖叫",
+      "confidence": "A",
+      "tag_cn_long": "张大口发出尖叫，通常因恐惧或兴奋。"
     },
     {
       "name": "sobbing",
@@ -1226,9 +1226,9 @@
       "wiki_url": "/wiki_pages/sobbing",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抽泣",
+      "confidence": "A",
+      "tag_cn_long": "角色因悲伤而大声哭泣、呜咽。"
     },
     {
       "name": "traumatized",
@@ -1236,9 +1236,9 @@
       "wiki_url": "/wiki_pages/traumatized",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "创伤",
+      "confidence": "A",
+      "tag_cn_long": "角色经历创伤事件后表现出震惊、眼神空洞等负面反应。"
     },
     {
       "name": "turn pale",
@@ -1246,9 +1246,9 @@
       "wiki_url": "/wiki_pages/turn_pale",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面色苍白",
+      "confidence": "A",
+      "tag_cn_long": "因惊吓、恐惧等导致脸色发青或发白。"
     },
     {
       "name": "wavy mouth",
@@ -1256,9 +1256,9 @@
       "wiki_url": "/wiki_pages/wavy_mouth",
       "category_path": "Sexual",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波浪嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴呈波浪形，通常表示害怕、悲伤或尴尬。"
     },
     {
       "name": ";)",
@@ -1266,9 +1266,9 @@
       "wiki_url": "/wiki_pages/%3B%29",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眨眼微笑",
+      "confidence": "A",
+      "tag_cn_long": "闭着一只眼睛微笑的表情。"
     },
     {
       "name": ":D",
@@ -1286,9 +1286,9 @@
       "wiki_url": "/wiki_pages/%3Bd",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眨眼大笑",
+      "confidence": "A",
+      "tag_cn_long": "闭着一只眼睛张大嘴笑的表情。"
     },
     {
       "name": "XD",
@@ -1306,9 +1306,9 @@
       "wiki_url": "/wiki_pages/d%3A",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "震惊张嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴张开表示不愉快或震惊的表情。"
     },
     {
       "name": ":3",
@@ -1386,9 +1386,9 @@
       "wiki_url": "/wiki_pages/%3Bp",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闭眼吐舌",
+      "confidence": "A",
+      "tag_cn_long": "闭上一只眼并向下伸出舌头的调皮表情。"
     },
     {
       "name": ":q",
@@ -1516,9 +1516,9 @@
       "wiki_url": "/wiki_pages/%3B%3C",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眯眼微笑",
+      "confidence": "B",
+      "tag_cn_long": "一种眯眼微笑的表情符号，表示闭眼且嘴微张。"
     },
     {
       "name": ":&gt;",
@@ -1696,9 +1696,9 @@
       "wiki_url": "/wiki_pages/%40_%40",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晕眩眼",
+      "confidence": "A",
+      "tag_cn_long": "角色眼睛呈旋涡状表示晕眩或混乱。"
     },
     {
       "name": "&gt;_@",
@@ -1706,9 +1706,9 @@
       "wiki_url": "/wiki_pages/%3E_%40",
       "category_path": "Emotes",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斜眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛呈>_@形状，表示无奈或斜视。"
     },
     {
       "name": "+_+",
@@ -1716,9 +1716,9 @@
       "wiki_url": "/wiki_pages/%2B_%2B",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛中有十字星形闪光，表示兴奋。"
     },
     {
       "name": "+_-",
@@ -1726,9 +1726,9 @@
       "wiki_url": "/wiki_pages/%2B_-",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "正负眼",
+      "confidence": "B",
+      "tag_cn_long": "瞳孔中出现加号和减号符号。"
     },
     {
       "name": "=_=",
@@ -1736,9 +1736,9 @@
       "wiki_url": "/wiki_pages/%3D_%3D",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眯眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛眯成等号形状，表示满意或困倦。"
     },
     {
       "name": "T_T",
@@ -1746,9 +1746,9 @@
       "wiki_url": "/wiki_pages/t_t",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泪眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛呈T_T状，表示哭泣流泪。"
     },
     {
       "name": "&lt;o&gt;_&lt;o&gt;",
@@ -1756,9 +1756,9 @@
       "wiki_url": "/wiki_pages/%3Co%3E_%3Co%3E",
       "category_path": "Emotes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瞪圆眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛呈<o>形状，表示惊讶或呆滞。"
     },
     {
       "name": "&lt;|&gt;_&lt;|&gt;",
@@ -1776,9 +1776,9 @@
       "wiki_url": "/wiki_pages/eyebrows",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眉毛",
+      "confidence": "A",
+      "tag_cn_long": "角色眉毛的描绘，用于强调不寻常的眉毛。"
     },
     {
       "name": "eyebrows hidden by hair",
@@ -1786,9 +1786,9 @@
       "wiki_url": "/wiki_pages/eyebrows_hidden_by_hair",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发遮眉",
+      "confidence": "A",
+      "tag_cn_long": "角色的眉毛部分或完全被刘海等头发遮住。"
     },
     {
       "name": "mismatched eyebrows",
@@ -1796,9 +1796,9 @@
       "wiki_url": "/wiki_pages/mismatched_eyebrows",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "异色眉",
+      "confidence": "A",
+      "tag_cn_long": "眉毛的颜色与头发颜色不同。"
     },
     {
       "name": "constricted pupils",
@@ -1806,9 +1806,9 @@
       "wiki_url": "/wiki_pages/constricted_pupils",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瞳孔收缩",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔明显比正常情况小，常表现恐惧、震惊或强光反应。"
     },
     {
       "name": "cross-eyed",
@@ -1816,9 +1816,9 @@
       "wiki_url": "/wiki_pages/cross-eyed",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斗鸡眼",
+      "confidence": "A",
+      "tag_cn_long": "双眼向内对焦，即斗鸡眼，可能是有意或无意。"
     },
     {
       "name": "wide-eyed",
@@ -1826,9 +1826,9 @@
       "wiki_url": "/wiki_pages/wide-eyed",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大睁眼",
+      "confidence": "A",
+      "tag_cn_long": "完全睁开眼睛，眼白环绕虹膜可见。"
     },
     {
       "name": "nose",
@@ -1836,9 +1836,9 @@
       "wiki_url": "/wiki_pages/nose",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鼻子",
+      "confidence": "A",
+      "tag_cn_long": "被画得比典型动漫风格更突出的鼻子。"
     },
     {
       "name": "dot nose",
@@ -1846,9 +1846,9 @@
       "wiki_url": "/wiki_pages/dot_nose",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "点状鼻",
+      "confidence": "A",
+      "tag_cn_long": "鼻子画成一个小圆点。"
     },
     {
       "name": "no nose",
@@ -1856,9 +1856,9 @@
       "wiki_url": "/wiki_pages/no_nose",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无鼻",
+      "confidence": "A",
+      "tag_cn_long": "角色面部没有画出鼻子。"
     },
     {
       "name": "chestnut mouth",
@@ -1866,9 +1866,9 @@
       "wiki_url": "/wiki_pages/chestnut_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "栗子嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴形状像栗子，上尖下圆或下尖上圆。"
     },
     {
       "name": "diamond mouth",
@@ -1876,9 +1876,9 @@
       "wiki_url": "/wiki_pages/diamond_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菱形嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴呈菱形，上下唇分别像:<和:>。"
     },
     {
       "name": "dot mouth",
@@ -1886,9 +1886,9 @@
       "wiki_url": "/wiki_pages/dot_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "点状嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴画成一个小圆点。"
     },
     {
       "name": "glowing mouth",
@@ -1896,9 +1896,9 @@
       "wiki_url": "/wiki_pages/glowing_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发光嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴内部发出光芒，常见于恶魔或机械角色。"
     },
     {
       "name": "heart in mouth",
@@ -1906,9 +1906,9 @@
       "wiki_url": "/wiki_pages/heart_in_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴含爱心",
+      "confidence": "A",
+      "tag_cn_long": "角色的嘴里画有一个心形图案，通常在舌头上。"
     },
     {
       "name": "heart-shaped mouth",
@@ -1916,9 +1916,9 @@
       "wiki_url": "/wiki_pages/heart-shaped_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴形状像一颗爱心。"
     },
     {
       "name": "hollow mouth",
@@ -1926,9 +1926,9 @@
       "wiki_url": "/wiki_pages/hollow_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "空洞嘴",
+      "confidence": "B",
+      "tag_cn_long": "嘴巴内部看起来是一个空洞，没有舌头等细节。"
     },
     {
       "name": "mouth drool",
@@ -1936,9 +1936,9 @@
       "wiki_url": "/wiki_pages/mouth_drool",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴型流涎",
+      "confidence": "B",
+      "tag_cn_long": "流口水以嘴部轮廓凹陷的方式表现，而非实际唾液溢出。"
     },
     {
       "name": "no mouth",
@@ -1946,9 +1946,9 @@
       "wiki_url": "/wiki_pages/no_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无嘴",
+      "confidence": "A",
+      "tag_cn_long": "角色面部没有画出嘴巴，可能是故意或扫描问题。"
     },
     {
       "name": "peanut mouth",
@@ -1956,9 +1956,9 @@
       "wiki_url": "/wiki_pages/peanut_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花生嘴",
+      "confidence": "B",
+      "tag_cn_long": "一种嘴巴画法，中间窄两边宽，形似花生。"
     },
     {
       "name": "rectangular mouth",
@@ -1966,9 +1966,9 @@
       "wiki_url": "/wiki_pages/rectangular_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "矩形嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴被画成矩形形状。"
     },
     {
       "name": "sideways mouth",
@@ -1976,9 +1976,9 @@
       "wiki_url": "/wiki_pages/sideways_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧向嘴",
+      "confidence": "B",
+      "tag_cn_long": "一种漫画风格，侧面脸部时嘴却画在脸侧面，造成双嘴错觉。"
     },
     {
       "name": "snake mouth",
@@ -1986,9 +1986,9 @@
       "wiki_url": "/wiki_pages/snake_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蛇形嘴",
+      "confidence": "B",
+      "tag_cn_long": "一种画得宽大且通常微张的嘴巴，形似蛇嘴。"
     },
     {
       "name": "split mouth",
@@ -1996,9 +1996,9 @@
       "wiki_url": "/wiki_pages/split_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "断开嘴",
+      "confidence": "B",
+      "tag_cn_long": "一种艺术风格，嘴巴线条不连接，通常是闭合嘴。"
     },
     {
       "name": "stitched mouth",
@@ -2006,9 +2006,9 @@
       "wiki_url": "/wiki_pages/stitched_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缝线嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴上有缝线（通常呈X形）。"
     },
     {
       "name": "text in mouth",
@@ -2016,9 +2016,9 @@
       "wiki_url": "/wiki_pages/text_in_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴中文字",
+      "confidence": "A",
+      "tag_cn_long": "角色嘴里画有文字或标点符号。"
     },
     {
       "name": "triangle mouth",
@@ -2026,9 +2026,9 @@
       "wiki_url": "/wiki_pages/triangle_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角形嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴张成三角形。"
     },
     {
       "name": "Yurie mouth",
@@ -2036,9 +2036,9 @@
       "wiki_url": "/wiki_pages/yurie_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "由利惠嘴",
+      "confidence": "C",
+      "tag_cn_long": "一种嘴巴画法，突出于脸部底部轮廓，形似鸟喙，源自《神是中学生》主角一桥由利惠。"
     },
     {
       "name": "wavy mouth",
@@ -2046,9 +2046,9 @@
       "wiki_url": "/wiki_pages/wavy_mouth",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波浪嘴",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴呈波浪形，通常表示害怕、悲伤或尴尬。"
     },
     {
       "name": "mob face",
@@ -2056,9 +2056,9 @@
       "wiki_url": "/wiki_pages/mob_face",
       "category_path": "Drawing styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "路人脸",
+      "confidence": "A",
+      "tag_cn_long": "角色面部特征被简化得如同背景路人角色。"
     },
     {
       "name": "angry dog noises",
@@ -2066,9 +2066,9 @@
       "wiki_url": "/wiki_pages/angry_dog_noises_%28meme%29",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "愤怒狗叫",
+      "confidence": "B",
+      "tag_cn_long": "一种表情包，角色被夸可爱后做出愤怒反应，配文“愤怒的狗叫声”。"
     },
     {
       "name": "awesome face",
@@ -2076,9 +2076,9 @@
       "wiki_url": "/wiki_pages/awesome_face",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Awesome脸",
+      "confidence": "B",
+      "tag_cn_long": "一种表情，咧嘴大笑同时眼睛翻白，源自Something Awful论坛的:awesome:表情。"
     },
     {
       "name": "essex face",
@@ -2086,9 +2086,9 @@
       "wiki_url": "/wiki_pages/essex_face",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "埃塞克斯脸",
+      "confidence": "B",
+      "tag_cn_long": "模仿碧蓝航线角色埃塞克斯的chibi表情，嘴巴张开。"
     },
     {
       "name": "excalibur face",
@@ -2096,9 +2096,9 @@
       "wiki_url": "/wiki_pages/excalibur_face",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Excalibur脸",
+      "confidence": "B",
+      "tag_cn_long": "一种极度厌烦和不屑的表情，源自《噬魂师》中的Excalibur。"
     },
     {
       "name": "face of the people who sank all their money into the fx",
@@ -2106,9 +2106,9 @@
       "wiki_url": "/wiki_pages/face_of_the_people_who_sank_all_their_money_into_the_fx_%28meme%29",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "外汇爆仓脸",
+      "confidence": "C",
+      "tag_cn_long": "一种夸张的绝望表情，源于把全部钱投入外汇市场亏损的人。"
     },
     {
       "name": "abyaa face",
@@ -2116,9 +2116,9 @@
       "wiki_url": "/wiki_pages/abyaa_face",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "abyaa脸",
+      "confidence": "C",
+      "tag_cn_long": "《爱·妹·关系》中Mai在特定场景下的表情，出现在“外汇爆仓脸”之前。"
     },
     {
       "name": "gyate gyate",
@@ -2126,9 +2126,9 @@
       "wiki_url": "/wiki_pages/gyate_gyate",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "gyate gyate",
+      "confidence": "C",
+      "tag_cn_long": "东方Project中幽谷响子做出的一种特定表情，流行于网络meme。"
     },
     {
       "name": "henohenomoheji",
@@ -2136,9 +2136,9 @@
       "wiki_url": "/wiki_pages/henohenomoheji",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "へのへのもへじ",
+      "confidence": "B",
+      "tag_cn_long": "一种用平假名字符画成的笑脸涂鸦，常见于稻草人。"
     },
     {
       "name": "nonowa",
@@ -2166,9 +2166,9 @@
       "wiki_url": "/wiki_pages/troll_face",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘲讽脸",
+      "confidence": "B",
+      "tag_cn_long": "一种带有挑衅和幸灾乐祸意味的夸张表情，源自网络迷因。"
     },
     {
       "name": "uso da",
@@ -2176,9 +2176,9 @@
       "wiki_url": "/wiki_pages/uso_da",
       "category_path": "Meme faces",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骗人",
+      "confidence": "B",
+      "tag_cn_long": "指《寒蝉鸣泣之时》中龙宫礼奈说出“骗人”时的恐怖表情，常作为Meme使用。"
     },
     {
       "name": "foodgasm",
@@ -2216,9 +2216,9 @@
       "wiki_url": "/wiki_pages/breast_awe",
       "category_path": "Looking at...",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸部敬畏",
+      "confidence": "B",
+      "tag_cn_long": "某人被胸部吸引但未必产生嫉妒。"
     },
     {
       "name": "food awe",
@@ -2226,9 +2226,9 @@
       "wiki_url": "/wiki_pages/food_awe",
       "category_path": "Looking at...",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美食惊叹",
+      "confidence": "B",
+      "tag_cn_long": "角色看到食物时表现出惊叹、着迷的表情。"
     },
     {
       "name": "muscle awe",
@@ -2236,9 +2236,9 @@
       "wiki_url": "/wiki_pages/muscle_awe",
       "category_path": "Looking at...",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肌肉惊叹",
+      "confidence": "B",
+      "tag_cn_long": "角色对他人肌肉表示欣赏或羡慕的表情。"
     },
     {
       "name": "penis awe",
@@ -2246,9 +2246,9 @@
       "wiki_url": "/wiki_pages/penis_awe",
       "category_path": "Looking at...",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎惊叹",
+      "confidence": "D",
+      "tag_cn_long": "看到阴茎或类似物体时表现出敬畏或惊叹的表情。"
     },
     {
       "name": "staring",
@@ -2256,9 +2256,9 @@
       "wiki_url": "/wiki_pages/staring",
       "category_path": "Looking at...",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凝视",
+      "confidence": "A",
+      "tag_cn_long": "长时间直视，眼睛固定不动。"
     },
     {
       "name": "eyebrows",
@@ -2266,9 +2266,9 @@
       "wiki_url": "/wiki_pages/eyebrows",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眉毛",
+      "confidence": "A",
+      "tag_cn_long": "角色眉毛的描绘，用于强调不寻常的眉毛。"
     },
     {
       "name": "makeup",
@@ -2276,9 +2276,9 @@
       "wiki_url": "/wiki_pages/makeup",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆",
+      "confidence": "A",
+      "tag_cn_long": "面部化妆，包括眼影、口红等。"
     },
     {
       "name": "nose",
@@ -2286,9 +2286,9 @@
       "wiki_url": "/wiki_pages/nose",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鼻子",
+      "confidence": "A",
+      "tag_cn_long": "被画得比典型动漫风格更突出的鼻子。"
     },
     {
       "name": "expression 35",
@@ -2296,9 +2296,9 @@
       "wiki_url": "/wiki_pages/expression_35",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "表情35",
+      "confidence": "C",
+      "tag_cn_long": "可能指特定序号的表情，具体含义不明确。"
     },
     {
       "name": "facial expression training",
@@ -2306,9 +2306,9 @@
       "wiki_url": "/wiki_pages/facial_expression_training",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "表情训练",
+      "confidence": "B",
+      "tag_cn_long": "练习或展示各种面部表情的图集或系列。"
     },
     {
       "name": "slightly naughty expressions practice",
@@ -2316,9 +2316,9 @@
       "wiki_url": "/wiki_pages/slightly_naughty_expressions_practice",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "轻微调皮表情练习",
+      "confidence": "B",
+      "tag_cn_long": "练习带有轻微调皮或色气表情的系列。"
     },
     {
       "name": "hurt expressions of your wife practice",
@@ -2326,9 +2326,9 @@
       "wiki_url": "/wiki_pages/hurt_expressions_of_your_wife_practice",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "妻子受伤表情练习",
+      "confidence": "D",
+      "tag_cn_long": "练习描绘妻子受伤或痛苦表情的系列，可能源自特定社区用语。"
     }
   ],
   "total_tags": 227,

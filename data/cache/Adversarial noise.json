@@ -1,0 +1,6 @@
+{
+  "tag": "Adversarial noise",
+  "tag_cn": "对抗噪声",
+  "confidence": "B",
+  "tag_cn_long": "通过Glaze等程序添加到图像上的噪声，用以干扰AI模型训练。"
+}

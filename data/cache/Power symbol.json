@@ -1,0 +1,6 @@
+{
+  "tag": "Power symbol",
+  "tag_cn": "电源符号",
+  "confidence": "A",
+  "tag_cn_long": "表示开关机或待机状态的符号，由圆圈（0）和竖线（1）组成。"
+}

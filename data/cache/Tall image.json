@@ -1,0 +1,6 @@
+{
+  "tag": "Tall image",
+  "tag_cn": "长图",
+  "confidence": "A",
+  "tag_cn_long": "高度至少1024像素且宽度与高度比小于1:4的图像。"
+}

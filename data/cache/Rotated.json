@@ -1,0 +1,6 @@
+{
+  "tag": "Rotated",
+  "tag_cn": "旋转",
+  "confidence": "A",
+  "tag_cn_long": "图像相对于原图进行了角度旋转。"
+}

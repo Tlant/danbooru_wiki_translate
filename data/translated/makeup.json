@@ -48,9 +48,9 @@
       "wiki_url": "/wiki_pages/lipstick",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红",
+      "confidence": "A",
+      "tag_cn_long": "用于给嘴唇上色的化妆品。"
     },
     {
       "name": "lips",
@@ -58,9 +58,9 @@
       "wiki_url": "/wiki_pages/lips",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴部周围的柔软褶皱。"
     },
     {
       "name": "lipgloss",
@@ -68,9 +68,9 @@
       "wiki_url": "/wiki_pages/lipgloss",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "唇彩",
+      "confidence": "A",
+      "tag_cn_long": "给嘴唇带来光泽和轻微色彩的化妆品。"
     },
     {
       "name": "lips",
@@ -78,9 +78,9 @@
       "wiki_url": "/wiki_pages/lips",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴部周围的柔软褶皱。"
     },
     {
       "name": "rouge (makeup)",
@@ -88,9 +88,9 @@
       "wiki_url": "/wiki_pages/rouge_%28makeup%29",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腮红",
+      "confidence": "A",
+      "tag_cn_long": "用于使脸颊泛红以显得年轻和突出颧骨的化妆品。"
     },
     {
       "name": "eyeliner",
@@ -98,9 +98,9 @@
       "wiki_url": "/wiki_pages/eyeliner",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼线",
+      "confidence": "A",
+      "tag_cn_long": "沿眼睑边缘画的细线，用于突出眼部。"
     },
     {
       "name": "eyeshadow",
@@ -108,9 +108,9 @@
       "wiki_url": "/wiki_pages/eyeshadow",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼影",
+      "confidence": "A",
+      "tag_cn_long": "涂在眼睑上的有色粉状化妆品。"
     },
     {
       "name": "eyeshadow under eye",
@@ -118,9 +118,9 @@
       "wiki_url": "/wiki_pages/eyeshadow_under_eye",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼下眼影",
+      "confidence": "A",
+      "tag_cn_long": "明显存在于人物下眼睑的眼影。"
     },
     {
       "name": "smokey eyeshadow",
@@ -128,9 +128,9 @@
       "wiki_url": "/wiki_pages/smokey_eyeshadow",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "烟熏眼影",
+      "confidence": "A",
+      "tag_cn_long": "一种眼影风格，通常颜色较深，营造烟熏效果。"
     },
     {
       "name": "mascara",
@@ -138,9 +138,9 @@
       "wiki_url": "/wiki_pages/mascara",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛膏",
+      "confidence": "A",
+      "tag_cn_long": "用于加厚或拉长睫毛的化妆品。"
     },
     {
       "name": "eyelashes",
@@ -148,9 +148,9 @@
       "wiki_url": "/wiki_pages/eyelashes",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛",
+      "confidence": "A",
+      "tag_cn_long": "角色睫毛被特别关注的描绘。"
     },
     {
       "name": "highlighter",
@@ -158,9 +158,9 @@
       "wiki_url": "/wiki_pages/highlighter_%28makeup%29",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高光",
+      "confidence": "A",
+      "tag_cn_long": "用于提亮面部特定区域（如颧骨、鼻梁）的化妆品。"
     },
     {
       "name": "bronzer",
@@ -168,9 +168,9 @@
       "wiki_url": "/wiki_pages/bronzer",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "古铜粉",
+      "confidence": "A",
+      "tag_cn_long": "给皮肤增加温暖色调和古铜色光泽的化妆品。"
     },
     {
       "name": "tanned",
@@ -178,9 +178,9 @@
       "wiki_url": "/wiki_pages/tan",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "古铜色皮肤",
+      "confidence": "B",
+      "tag_cn_long": "皮肤被晒黑或通过化妆呈现古铜色。"
     },
     {
       "name": "glitter makeup",
@@ -188,9 +188,9 @@
       "wiki_url": "/wiki_pages/glitter_makeup",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪粉妆容",
+      "confidence": "A",
+      "tag_cn_long": "使用闪粉作为化妆品的妆容。"
     },
     {
       "name": "Glitter",
@@ -198,9 +198,9 @@
       "wiki_url": "/wiki_pages/glitter",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪粉",
+      "confidence": "A",
+      "tag_cn_long": "小而闪亮的反光粒子，用于装饰物体或人物。"
     },
     {
       "name": "gyaru makeup",
@@ -208,9 +208,9 @@
       "wiki_url": "/wiki_pages/gyaru_makeup",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "辣妹妆",
+      "confidence": "A",
+      "tag_cn_long": "日本辣妹（Gyaru）风格的化妆，通常包括浓重眼妆、假睫毛等。"
     },
     {
       "name": "gyaru",
@@ -218,9 +218,9 @@
       "wiki_url": "/wiki_pages/gyaru",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "辣妹",
+      "confidence": "A",
+      "tag_cn_long": "日本的一种时尚风格，以染发、性感服饰和浓妆为特点。"
     },
     {
       "name": "Applying Makeup",
@@ -228,9 +228,9 @@
       "wiki_url": "/wiki_pages/applying_makeup",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆",
+      "confidence": "A",
+      "tag_cn_long": "角色正在为自己或他人上妆的动作。"
     },
     {
       "name": "applying own makeup",
@@ -238,9 +238,9 @@
       "wiki_url": "/wiki_pages/applying_own_makeup",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自己化妆",
+      "confidence": "A",
+      "tag_cn_long": "角色正在给自己化妆。"
     },
     {
       "name": "applying another's makeup",
@@ -248,9 +248,9 @@
       "wiki_url": "/wiki_pages/applying_another%27s_makeup",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "给别人化妆",
+      "confidence": "A",
+      "tag_cn_long": "角色正在给另一个人化妆。"
     },
     {
       "name": "lesbians doing makeup (meme)",
@@ -258,9 +258,9 @@
       "wiki_url": "/wiki_pages/lesbians_doing_makeup_%28meme%29",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女同化妆米姆",
+      "confidence": "A",
+      "tag_cn_long": "一种网络迷因，描绘女同性恋互相化妆的场景。"
     },
     {
       "name": "applying lipstick",
@@ -268,9 +268,9 @@
       "wiki_url": "/wiki_pages/applying_lipstick",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "涂口红",
+      "confidence": "A",
+      "tag_cn_long": "角色正在涂抹口红。"
     },
     {
       "name": "lipstick tube",
@@ -278,9 +278,9 @@
       "wiki_url": "/wiki_pages/lipstick_tube",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红管",
+      "confidence": "A",
+      "tag_cn_long": "装口红的细长管状容器。"
     },
     {
       "name": "doe-foot applicator",
@@ -288,9 +288,9 @@
       "wiki_url": "/wiki_pages/doe-foot_applicator",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鹿脚刷",
+      "confidence": "B",
+      "tag_cn_long": "一种头部呈鹿脚形状的海绵涂抹棒，用于涂抹唇彩等液体化妆品。"
     },
     {
       "name": "applying rouge",
@@ -298,9 +298,9 @@
       "wiki_url": "/wiki_pages/applying_rouge",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "涂腮红",
+      "confidence": "A",
+      "tag_cn_long": "将腮红涂抹在脸颊上以增加气色。"
     },
     {
       "name": "powder puff",
@@ -308,9 +308,9 @@
       "wiki_url": "/wiki_pages/powder_puff",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉扑",
+      "confidence": "A",
+      "tag_cn_long": "用于涂抹散粉或蜜粉的柔软垫状工具。"
     },
     {
       "name": "applying lipgloss",
@@ -318,9 +318,9 @@
       "wiki_url": "/wiki_pages/applying_lipgloss",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "涂唇彩",
+      "confidence": "A",
+      "tag_cn_long": "将唇彩涂抹在嘴唇上以增加光泽。"
     },
     {
       "name": "applying eyeliner",
@@ -328,9 +328,9 @@
       "wiki_url": "/wiki_pages/applying_eyeliner",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "画眼线",
+      "confidence": "A",
+      "tag_cn_long": "用眼线笔或眼线液在眼睑边缘画线。"
     },
     {
       "name": "applying eyeshadow",
@@ -338,9 +338,9 @@
       "wiki_url": "/wiki_pages/applying_eyeshadow",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "涂眼影",
+      "confidence": "A",
+      "tag_cn_long": "将眼影粉末涂抹在眼睑上以增强眼部轮廓。"
     },
     {
       "name": "makeup brush",
@@ -348,9 +348,9 @@
       "wiki_url": "/wiki_pages/makeup_brush",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆刷",
+      "confidence": "A",
+      "tag_cn_long": "用于涂抹粉底、腮红、眼影等化妆品的刷子。"
     },
     {
       "name": "applying mascara",
@@ -358,9 +358,9 @@
       "wiki_url": "/wiki_pages/applying_mascara",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "涂睫毛膏",
+      "confidence": "A",
+      "tag_cn_long": "用睫毛刷将睫毛膏涂抹在睫毛上使其浓密卷翘。"
     },
     {
       "name": "mascara wand",
@@ -368,9 +368,9 @@
       "wiki_url": "/wiki_pages/mascara_wand",
       "category_path": "Types of Makeup",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛膏刷",
+      "confidence": "A",
+      "tag_cn_long": "睫毛膏瓶盖附带的螺旋形刷头，用于涂抹睫毛膏。"
     },
     {
       "name": "runny makeup",
@@ -378,9 +378,9 @@
       "wiki_url": "/wiki_pages/runny_makeup",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花妆",
+      "confidence": "A",
+      "tag_cn_long": "因泪水、雨水等导致睫毛膏、眼线、口红等化妆品晕开或脱落的状况。"
     },
     {
       "name": "smeared lipstick",
@@ -388,9 +388,9 @@
       "wiki_url": "/wiki_pages/smeared_lipstick",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蹭花的口红",
+      "confidence": "A",
+      "tag_cn_long": "口红被蹭得到处都是，通常因接吻或吃东西导致。"
     },
     {
       "name": "lipstick mark",
@@ -398,9 +398,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红印",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇接触物体后留下的口红形状痕迹。"
     },
     {
       "name": "too many lipstick marks",
@@ -408,9 +408,9 @@
       "wiki_url": "/wiki_pages/too_many_lipstick_marks",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "过多口红印",
+      "confidence": "A",
+      "tag_cn_long": "身上或物体上有很多个口红印。"
     },
     {
       "name": "lipstick writing",
@@ -418,9 +418,9 @@
       "wiki_url": "/wiki_pages/lipstick_writing",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红字",
+      "confidence": "A",
+      "tag_cn_long": "用口红写下的文字或图案。"
     },
     {
       "name": "lipstick mark on hair",
@@ -428,9 +428,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_hair",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头发上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "留在头发上的口红印记。"
     },
     {
       "name": "lipstick mark on forehead",
@@ -438,9 +438,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_forehead",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "额头上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "留在额头上的口红印记。"
     },
     {
       "name": "lipstick mark on face",
@@ -448,9 +448,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_face",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "留在脸上的口红印记，通常是一个吻痕。"
     },
     {
       "name": "lipstick mark on ear",
@@ -458,9 +458,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_ear",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳朵上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "留在耳朵上的口红印记。"
     },
     {
       "name": "lipstick mark on another's lips",
@@ -468,9 +468,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_another%27s_lips",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "他人唇上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "留在另一个人嘴唇上的口红印记。"
     },
     {
       "name": "lipstick mark on lips",
@@ -478,9 +478,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_lips",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴唇口红印",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇上留下的口红印记。"
     },
     {
       "name": "lipstick mark on mouth",
@@ -488,9 +488,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_mouth",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴上口红印",
+      "confidence": "A",
+      "tag_cn_long": "嘴巴上留下的口红印记。"
     },
     {
       "name": "lipstick mark on neck",
@@ -498,9 +498,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_neck",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脖子口红印",
+      "confidence": "A",
+      "tag_cn_long": "脖子上留下的口红印记，通常由亲吻造成。"
     },
     {
       "name": "lipstick mark on shoulder",
@@ -508,9 +508,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_shoulder",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩膀口红印",
+      "confidence": "A",
+      "tag_cn_long": "肩膀上留下的唇形口红印记，通常由亲吻造成。"
     },
     {
       "name": "lipstick mark on armpit",
@@ -518,9 +518,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_armpit",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腋下口红印",
+      "confidence": "A",
+      "tag_cn_long": "腋下留下的口红印记。"
     },
     {
       "name": "lipstick mark on arm",
@@ -528,9 +528,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_arm",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手臂口红印",
+      "confidence": "A",
+      "tag_cn_long": "手臂上留下的唇形口红印记，通常由亲吻造成。"
     },
     {
       "name": "lipstick mark on hand",
@@ -538,9 +538,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_hand",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手上口红印",
+      "confidence": "A",
+      "tag_cn_long": "手上留下的唇形口红印记，通常由亲吻造成。"
     },
     {
       "name": "lipstick mark on breast",
@@ -548,9 +548,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_breast",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房口红印",
+      "confidence": "A",
+      "tag_cn_long": "乳房上留下的口红印记，通常由亲吻或吮吸造成。"
     },
     {
       "name": "lipstick mark on chest",
@@ -558,9 +558,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_chest",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸口口红印",
+      "confidence": "A",
+      "tag_cn_long": "胸口上留下的口红印记。"
     },
     {
       "name": "lipstick mark on back",
@@ -568,9 +568,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_back",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背部口红印",
+      "confidence": "A",
+      "tag_cn_long": "背部上留下的唇形口红印记，通常由亲吻造成。"
     },
     {
       "name": "lipstick mark on stomach",
@@ -578,9 +578,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_stomach",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹部口红印",
+      "confidence": "A",
+      "tag_cn_long": "腹部上留下的唇形口红印记，通常由亲吻造成。"
     },
     {
       "name": "lipstick mark on penis",
@@ -588,9 +588,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_penis",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎口红印",
+      "confidence": "A",
+      "tag_cn_long": "阴茎上留下的唇形口红印记，通常由亲吻或口交造成，也可能表现为口红圈。"
     },
     {
       "name": "lipstick ring",
@@ -598,9 +598,9 @@
       "wiki_url": "/wiki_pages/lipstick_ring",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红圈",
+      "confidence": "A",
+      "tag_cn_long": "口交后在阴茎上留下的环形口红印记。"
     },
     {
       "name": "lipstick mark on testicles",
@@ -608,9 +608,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_testicles",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睾丸口红印",
+      "confidence": "A",
+      "tag_cn_long": "睾丸上留下的唇形口红印记，通常由亲吻或口交造成。"
     },
     {
       "name": "lipstick mark on pussy",
@@ -618,9 +618,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_pussy",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴部口红印",
+      "confidence": "A",
+      "tag_cn_long": "阴部上留下的唇形口红印记，通常由口交亲吻造成。"
     },
     {
       "name": "lipstick mark on anus",
@@ -628,9 +628,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_anus",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肛门口红印",
+      "confidence": "A",
+      "tag_cn_long": "肛门上留下的口红印记。"
     },
     {
       "name": "lipstick mark on ass",
@@ -638,9 +638,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_ass",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "屁股口红印",
+      "confidence": "A",
+      "tag_cn_long": "屁股上留下的唇形口红印记，通常由亲吻造成。"
     },
     {
       "name": "lipstick mark on leg",
@@ -648,9 +648,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_leg",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿部口红印",
+      "confidence": "A",
+      "tag_cn_long": "腿上留下的唇形口红印记，通常由亲吻造成。"
     },
     {
       "name": "lipstick mark on foot",
@@ -658,9 +658,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_foot",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚上口红印",
+      "confidence": "A",
+      "tag_cn_long": "脚上留下的口红印记。"
     },
     {
       "name": "lipstick mark on photo",
@@ -668,9 +668,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_photo",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "照片口红印",
+      "confidence": "A",
+      "tag_cn_long": "照片上留下的口红印记。"
     },
     {
       "name": "lipstick mark on clothes",
@@ -678,9 +678,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_clothes",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣服上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "口红印留在衣服上。"
     },
     {
       "name": "lipstick mark on cup",
@@ -688,9 +688,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_cup",
       "category_path": "Other Makeup Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "杯子上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "口红印留在杯子上。"
     },
     {
       "name": "lipstick mark on cat",
@@ -698,9 +698,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_cat",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫身上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "口红印留在猫身上。"
     },
     {
       "name": "lipstick mark on condom",
@@ -708,9 +708,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_condom",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "避孕套上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "口红印留在避孕套上。"
     },
     {
       "name": "lipstick mark on dildo",
@@ -718,9 +718,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_dildo",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假阳具上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "口红印留在假阳具上。"
     },
     {
       "name": "lipstick mark on collarbone",
@@ -728,9 +728,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_collarbone",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锁骨上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "口红印留在锁骨上。"
     },
     {
       "name": "lipstick mark on phone",
@@ -738,9 +738,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_phone",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手机上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "口红印留在手机上。"
     },
     {
       "name": "lipstick mark on cigarette",
@@ -748,9 +748,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_cigarette",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "香烟上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "口红印留在香烟上。"
     },
     {
       "name": "lipstick mark on background",
@@ -758,9 +758,9 @@
       "wiki_url": "/wiki_pages/lipstick_mark_on_background",
       "category_path": "Other Makeup Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背景上的口红印",
+      "confidence": "A",
+      "tag_cn_long": "口红印留在背景上。"
     },
     {
       "name": "lipstick tube",
@@ -768,9 +768,9 @@
       "wiki_url": "/wiki_pages/lipstick_tube",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红管",
+      "confidence": "A",
+      "tag_cn_long": "装口红的细长管状容器。"
     },
     {
       "name": "lipstick",
@@ -778,9 +778,9 @@
       "wiki_url": "/wiki_pages/lipstick",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红",
+      "confidence": "A",
+      "tag_cn_long": "用于给嘴唇上色的化妆品。"
     },
     {
       "name": "doe-foot applicator",
@@ -788,9 +788,9 @@
       "wiki_url": "/wiki_pages/doe-foot_applicator",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鹿脚刷",
+      "confidence": "B",
+      "tag_cn_long": "一种头部呈鹿脚形状的海绵涂抹棒，用于涂抹唇彩等液体化妆品。"
     },
     {
       "name": "lipstick",
@@ -798,9 +798,9 @@
       "wiki_url": "/wiki_pages/lipstick",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红",
+      "confidence": "A",
+      "tag_cn_long": "用于给嘴唇上色的化妆品。"
     },
     {
       "name": "lipgloss",
@@ -808,9 +808,9 @@
       "wiki_url": "/wiki_pages/lipgloss",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "唇彩",
+      "confidence": "A",
+      "tag_cn_long": "给嘴唇带来光泽和轻微色彩的化妆品。"
     },
     {
       "name": "makeup brush",
@@ -818,9 +818,9 @@
       "wiki_url": "/wiki_pages/makeup_brush",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆刷",
+      "confidence": "A",
+      "tag_cn_long": "用于涂抹粉底、腮红、眼影等化妆品的刷子。"
     },
     {
       "name": "rouge",
@@ -828,9 +828,9 @@
       "wiki_url": "/wiki_pages/rouge_%28makeup%29",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腮红",
+      "confidence": "A",
+      "tag_cn_long": "用于脸颊的红色化妆品。"
     },
     {
       "name": "eyeshadow",
@@ -838,9 +838,9 @@
       "wiki_url": "/wiki_pages/eyeshadow",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼影",
+      "confidence": "A",
+      "tag_cn_long": "涂在眼睑上的有色粉状化妆品。"
     },
     {
       "name": "lipstick",
@@ -848,9 +848,9 @@
       "wiki_url": "/wiki_pages/lipstick",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红",
+      "confidence": "A",
+      "tag_cn_long": "用于给嘴唇上色的化妆品。"
     },
     {
       "name": "makeup sponge",
@@ -858,9 +858,9 @@
       "wiki_url": "/wiki_pages/makeup_sponge",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆海绵",
+      "confidence": "A",
+      "tag_cn_long": "用于涂抹或晕染化妆品的海绵工具。"
     },
     {
       "name": "powder puff",
@@ -868,9 +868,9 @@
       "wiki_url": "/wiki_pages/powder_puff",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉扑",
+      "confidence": "A",
+      "tag_cn_long": "用于涂抹散粉或蜜粉的柔软垫状工具。"
     },
     {
       "name": "rouge",
@@ -878,9 +878,9 @@
       "wiki_url": "/wiki_pages/rouge_%28makeup%29",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腮红",
+      "confidence": "A",
+      "tag_cn_long": "用于脸颊的红色化妆品。"
     },
     {
       "name": "bronzer",
@@ -888,9 +888,9 @@
       "wiki_url": "/wiki_pages/bronzer",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "古铜粉",
+      "confidence": "A",
+      "tag_cn_long": "给皮肤增加温暖色调和古铜色光泽的化妆品。"
     },
     {
       "name": "mascara wand",
@@ -898,9 +898,9 @@
       "wiki_url": "/wiki_pages/mascara_wand",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛膏刷",
+      "confidence": "A",
+      "tag_cn_long": "睫毛膏瓶盖附带的螺旋形刷头，用于涂抹睫毛膏。"
     },
     {
       "name": "mascara",
@@ -908,9 +908,9 @@
       "wiki_url": "/wiki_pages/mascara",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛膏",
+      "confidence": "A",
+      "tag_cn_long": "用于加厚或拉长睫毛的化妆品。"
     },
     {
       "name": "eyelashes",
@@ -918,9 +918,9 @@
       "wiki_url": "/wiki_pages/eyelashes",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛",
+      "confidence": "A",
+      "tag_cn_long": "角色睫毛被特别关注的描绘。"
     },
     {
       "name": "eyelash curler",
@@ -928,9 +928,9 @@
       "wiki_url": "/wiki_pages/eyelash_curler",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛夹",
+      "confidence": "A",
+      "tag_cn_long": "用于卷翘睫毛的手动工具。"
     },
     {
       "name": "eyelashes",
@@ -938,9 +938,9 @@
       "wiki_url": "/wiki_pages/eyelashes",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛",
+      "confidence": "A",
+      "tag_cn_long": "角色睫毛被特别关注的描绘。"
     },
     {
       "name": "compact (cosmetics)",
@@ -948,9 +948,9 @@
       "wiki_url": "/wiki_pages/compact_%28cosmetics%29",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉饼盒",
+      "confidence": "A",
+      "tag_cn_long": "带有镜子的小圆盒，内装粉饼和粉扑。"
     },
     {
       "name": "mirror",
@@ -958,9 +958,9 @@
       "wiki_url": "/wiki_pages/mirror",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "镜子",
+      "confidence": "A",
+      "tag_cn_long": "用于反射影像的抛光表面。"
     },
     {
       "name": "powder puff",
@@ -968,9 +968,9 @@
       "wiki_url": "/wiki_pages/powder_puff",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉扑",
+      "confidence": "A",
+      "tag_cn_long": "用于涂抹散粉或蜜粉的柔软垫状工具。"
     },
     {
       "name": "hand mirror",
@@ -978,9 +978,9 @@
       "wiki_url": "/wiki_pages/hand_mirror",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手镜",
+      "confidence": "A",
+      "tag_cn_long": "带手柄的小型手持镜子。"
     },
     {
       "name": "mirror",
@@ -988,9 +988,9 @@
       "wiki_url": "/wiki_pages/mirror",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "镜子",
+      "confidence": "A",
+      "tag_cn_long": "用于反射影像的抛光表面。"
     },
     {
       "name": "makeup palette",
@@ -998,9 +998,9 @@
       "wiki_url": "/wiki_pages/makeup_palette",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆盘",
+      "confidence": "A",
+      "tag_cn_long": "包含多种颜色化妆品的调色盘。"
     },
     {
       "name": "rouge",
@@ -1008,9 +1008,9 @@
       "wiki_url": "/wiki_pages/rouge_%28makeup%29",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腮红",
+      "confidence": "A",
+      "tag_cn_long": "用于脸颊的红色化妆品。"
     },
     {
       "name": "eyeshadow",
@@ -1018,9 +1018,9 @@
       "wiki_url": "/wiki_pages/eyeshadow",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼影",
+      "confidence": "A",
+      "tag_cn_long": "涂在眼睑上的有色粉状化妆品。"
     },
     {
       "name": "vanity table",
@@ -1028,9 +1028,9 @@
       "wiki_url": "/wiki_pages/vanity_table",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梳妆台",
+      "confidence": "A",
+      "tag_cn_long": "带有抽屉和镜子的化妆用家具。"
     },
     {
       "name": "table",
@@ -1038,9 +1038,9 @@
       "wiki_url": "/wiki_pages/table",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "桌子",
+      "confidence": "A",
+      "tag_cn_long": "具有平坦水平表面的家具。"
     },
     {
       "name": "mirror",
@@ -1048,9 +1048,9 @@
       "wiki_url": "/wiki_pages/mirror",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "镜子",
+      "confidence": "A",
+      "tag_cn_long": "用于反射影像的抛光表面。"
     },
     {
       "name": "cosmetics",
@@ -1058,9 +1058,9 @@
       "wiki_url": "/wiki_pages/cosmetics",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆品",
+      "confidence": "A",
+      "tag_cn_long": "用于化妆的产品或物品。"
     },
     {
       "name": "dressing room",
@@ -1068,9 +1068,9 @@
       "wiki_url": "/wiki_pages/dressing_room",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆间",
+      "confidence": "A",
+      "tag_cn_long": "演员更换服装和化妆的后台房间。"
     },
     {
       "name": "marquee lights",
@@ -1078,9 +1078,9 @@
       "wiki_url": "/wiki_pages/marquee_lights",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跑马灯",
+      "confidence": "B",
+      "tag_cn_long": "由灯泡组成的线状或网格状装饰灯，常闪烁或追逐式亮起，用于引导视线或作为招牌、剧院、酒店等建筑的装饰。"
     },
     {
       "name": "lamps",
@@ -1088,9 +1088,9 @@
       "wiki_url": "/wiki_pages/lamp",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灯",
+      "confidence": "A",
+      "tag_cn_long": "各种照明灯具，如台灯、落地灯、吊灯等。"
     },
     {
       "name": "mirror",
@@ -1098,9 +1098,9 @@
       "wiki_url": "/wiki_pages/mirror",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "镜子",
+      "confidence": "A",
+      "tag_cn_long": "用于反射影像的抛光表面。"
     },
     {
       "name": "vanity table",
@@ -1108,9 +1108,9 @@
       "wiki_url": "/wiki_pages/vanity_table",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梳妆台",
+      "confidence": "A",
+      "tag_cn_long": "带有抽屉和镜子的化妆用家具。"
     },
     {
       "name": "exploded cosmetics",
@@ -1118,9 +1118,9 @@
       "wiki_url": "/wiki_pages/exploded_cosmetics",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爆开的化妆品",
+      "confidence": "C",
+      "tag_cn_long": "化妆品呈爆炸状散落或飞溅的状态，通常指粉末、膏体等被打翻或爆裂。"
     },
     {
       "name": "cosmetics",
@@ -1128,9 +1128,9 @@
       "wiki_url": "/wiki_pages/cosmetics",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆品",
+      "confidence": "A",
+      "tag_cn_long": "用于化妆的产品或物品。"
     },
     {
       "name": "holding lipstick tube",
@@ -1138,9 +1138,9 @@
       "wiki_url": "/wiki_pages/holding_lipstick_tube",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持口红管",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一支口红管。"
     },
     {
       "name": "holding compact",
@@ -1148,9 +1148,9 @@
       "wiki_url": "/wiki_pages/holding_compact",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持粉饼盒",
+      "confidence": "A",
+      "tag_cn_long": "角色手持一个粉饼盒。"
     },
     {
       "name": "holding makeup brush",
@@ -1158,9 +1158,9 @@
       "wiki_url": "/wiki_pages/holding_makeup_brush",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿着化妆刷",
+      "confidence": "A",
+      "tag_cn_long": "角色手中握着一支化妆刷。"
     },
     {
       "name": "holding makeup palette",
@@ -1168,9 +1168,9 @@
       "wiki_url": "/wiki_pages/holding_makeup_palette",
       "category_path": "Objects and Scenery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿着化妆盘",
+      "confidence": "A",
+      "tag_cn_long": "角色手中托着一个化妆调色盘。"
     },
     {
       "name": "red lips",
@@ -1178,9 +1178,9 @@
       "wiki_url": "/wiki_pages/red_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇涂有红色口红。"
     },
     {
       "name": "orange lips",
@@ -1188,9 +1188,9 @@
       "wiki_url": "/wiki_pages/orange_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇涂有橙色口红。"
     },
     {
       "name": "yellow lips",
@@ -1198,9 +1198,9 @@
       "wiki_url": "/wiki_pages/yellow_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇涂有黄色口红。"
     },
     {
       "name": "green lips",
@@ -1208,9 +1208,9 @@
       "wiki_url": "/wiki_pages/green_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇涂有绿色口红。"
     },
     {
       "name": "aqua lips",
@@ -1218,9 +1218,9 @@
       "wiki_url": "/wiki_pages/aqua_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水蓝唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇涂有水蓝色口红。"
     },
     {
       "name": "blue lips",
@@ -1228,9 +1228,9 @@
       "wiki_url": "/wiki_pages/blue_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇涂有蓝色口红。"
     },
     {
       "name": "purple lips",
@@ -1238,9 +1238,9 @@
       "wiki_url": "/wiki_pages/purple_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇涂有紫色口红。"
     },
     {
       "name": "pink lips",
@@ -1248,9 +1248,9 @@
       "wiki_url": "/wiki_pages/pink_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇涂有粉色口红。"
     },
     {
       "name": "white lips",
@@ -1258,9 +1258,9 @@
       "wiki_url": "/wiki_pages/white_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白唇",
+      "confidence": "B",
+      "tag_cn_long": "嘴唇涂有白色口红，可能与灰色唇重叠。"
     },
     {
       "name": "grey lips",
@@ -1268,9 +1268,9 @@
       "wiki_url": "/wiki_pages/grey_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰唇",
+      "confidence": "B",
+      "tag_cn_long": "嘴唇涂有灰色口红，可能与白色唇、黑色唇重叠。"
     },
     {
       "name": "black lips",
@@ -1278,9 +1278,9 @@
       "wiki_url": "/wiki_pages/black_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇涂有黑色口红。"
     },
     {
       "name": "multicolored lips",
@@ -1288,9 +1288,9 @@
       "wiki_url": "/wiki_pages/multicolored_lips",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇呈现两种或以上不同的颜色。"
     },
     {
       "name": "two-tone lips",
@@ -1298,9 +1298,9 @@
       "wiki_url": "/wiki_pages/two-tone_lips",
       "category_path": "Colors",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴唇呈现两种色调的口红搭配。"
     },
     {
       "name": "red eyeshadow",
@@ -1308,9 +1308,9 @@
       "wiki_url": "/wiki_pages/red_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影颜色为红色。"
     },
     {
       "name": "orange eyeshadow",
@@ -1318,9 +1318,9 @@
       "wiki_url": "/wiki_pages/orange_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影颜色为橙色。"
     },
     {
       "name": "yellow eyeshadow",
@@ -1328,9 +1328,9 @@
       "wiki_url": "/wiki_pages/yellow_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影为黄色的化妆。"
     },
     {
       "name": "green eyeshadow",
@@ -1338,9 +1338,9 @@
       "wiki_url": "/wiki_pages/green_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影为绿色的化妆。"
     },
     {
       "name": "aqua eyeshadow",
@@ -1348,9 +1348,9 @@
       "wiki_url": "/wiki_pages/aqua_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影为水色的化妆。"
     },
     {
       "name": "blue eyeshadow",
@@ -1358,9 +1358,9 @@
       "wiki_url": "/wiki_pages/blue_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影为蓝色的化妆。"
     },
     {
       "name": "purple eyeshadow",
@@ -1368,9 +1368,9 @@
       "wiki_url": "/wiki_pages/purple_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影为紫色的化妆。"
     },
     {
       "name": "pink eyeshadow",
@@ -1378,9 +1378,9 @@
       "wiki_url": "/wiki_pages/pink_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影为粉色的化妆。"
     },
     {
       "name": "white eyeshadow",
@@ -1388,9 +1388,9 @@
       "wiki_url": "/wiki_pages/white_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影为白色的化妆。"
     },
     {
       "name": "grey eyeshadow",
@@ -1398,9 +1398,9 @@
       "wiki_url": "/wiki_pages/grey_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影为灰色的化妆。"
     },
     {
       "name": "black eyeshadow",
@@ -1408,9 +1408,9 @@
       "wiki_url": "/wiki_pages/black_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色眼影",
+      "confidence": "A",
+      "tag_cn_long": "眼影为黑色的化妆。"
     },
     {
       "name": "multicolored eyeshadow",
@@ -1418,9 +1418,9 @@
       "wiki_url": "/wiki_pages/multicolored_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色眼影",
+      "confidence": "A",
+      "tag_cn_long": "包含至少两种不同颜色的眼影。"
     },
     {
       "name": "two-tone eyeshadow",
@@ -1428,9 +1428,9 @@
       "wiki_url": "/wiki_pages/two-tone_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色眼影",
+      "confidence": "A",
+      "tag_cn_long": "由两种颜色构成的眼影。"
     },
     {
       "name": "gradient eyeshadow",
@@ -1438,9 +1438,9 @@
       "wiki_url": "/wiki_pages/gradient_eyeshadow",
       "category_path": "Colors",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变眼影",
+      "confidence": "A",
+      "tag_cn_long": "颜色逐渐过渡的眼影。"
     },
     {
       "name": "colored eyelashes",
@@ -1448,9 +1448,9 @@
       "wiki_url": "/wiki_pages/colored_eyelashes",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩色睫毛",
+      "confidence": "A",
+      "tag_cn_long": "非黑色的眼线或睫毛，通常带有颜色。"
     },
     {
       "name": "mismatched eyeshadow",
@@ -1458,9 +1458,9 @@
       "wiki_url": "/wiki_pages/mismatched_eyeshadow",
       "category_path": "Mismatches",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "异色眼影",
+      "confidence": "B",
+      "tag_cn_long": "两只眼睛使用的眼影颜色不同或不协调。"
     },
     {
       "name": "mismatched eyelashes",
@@ -1468,9 +1468,9 @@
       "wiki_url": "/wiki_pages/mismatched_eyelashes",
       "category_path": "Mismatches",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "异色睫毛",
+      "confidence": "B",
+      "tag_cn_long": "睫毛颜色与发色不同，或左右睫毛颜色不同。"
     },
     {
       "name": "lip balm",
@@ -1478,9 +1478,9 @@
       "wiki_url": "/wiki_pages/lip_balm",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "润唇膏",
+      "confidence": "A",
+      "tag_cn_long": "用于滋润嘴唇的化妆品。"
     },
     {
       "name": "lipstick tube",
@@ -1488,9 +1488,9 @@
       "wiki_url": "/wiki_pages/lipstick_tube",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口红管",
+      "confidence": "A",
+      "tag_cn_long": "装口红的细长管状容器。"
     },
     {
       "name": "sticker on face",
@@ -1498,9 +1498,9 @@
       "wiki_url": "/wiki_pages/sticker_on_face",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸部贴纸",
+      "confidence": "A",
+      "tag_cn_long": "贴在角色脸上的贴纸。"
     },
     {
       "name": "aegyo sal",
@@ -1508,9 +1508,9 @@
       "wiki_url": "/wiki_pages/aegyo_sal",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼下卧蚕",
+      "confidence": "B",
+      "tag_cn_long": "眼睛下方丰满的脂肪垫，显得年轻可爱。"
     },
     {
       "name": "hikimayu",
@@ -1518,9 +1518,9 @@
       "wiki_url": "/wiki_pages/hikimayu",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "引眉",
+      "confidence": "A",
+      "tag_cn_long": "日本传统化妆中剃掉眉毛并画上假眉的做法。"
     },
     {
       "name": "hair rollers",
@@ -1528,9 +1528,9 @@
       "wiki_url": "/wiki_pages/hair_rollers",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发卷",
+      "confidence": "A",
+      "tag_cn_long": "用于卷曲或拉直头发的小管状工具，可加热。"
     },
     {
       "name": "nail polish",
@@ -1538,9 +1538,9 @@
       "wiki_url": "/wiki_pages/nail_polish",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指甲油",
+      "confidence": "A",
+      "tag_cn_long": "涂在指甲上使其色彩鲜艳或光泽的涂料。"
     },
     {
       "name": "female pov",
@@ -1548,9 +1548,9 @@
       "wiki_url": "/wiki_pages/female_pov",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女性视角",
+      "confidence": "A",
+      "tag_cn_long": "以女性角色为主体的第一人称视角。"
     },
     {
       "name": "toenail polish",
@@ -1558,9 +1558,9 @@
       "wiki_url": "/wiki_pages/toenail_polish",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚趾甲油",
+      "confidence": "A",
+      "tag_cn_long": "涂在脚趾甲上的指甲油。"
     },
     {
       "name": "foot focus",
@@ -1568,9 +1568,9 @@
       "wiki_url": "/wiki_pages/foot_focus",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "足部焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以角色的脚部为主要焦点，常为靠近镜头或呈现给观众。"
     },
     {
       "name": "nail polish",
@@ -1578,9 +1578,9 @@
       "wiki_url": "/wiki_pages/nail_polish",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指甲油",
+      "confidence": "A",
+      "tag_cn_long": "涂在指甲上使其色彩鲜艳或光泽的涂料。"
     },
     {
       "name": "long fingernails",
@@ -1588,9 +1588,9 @@
       "wiki_url": "/wiki_pages/long_fingernails",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长指甲",
+      "confidence": "A",
+      "tag_cn_long": "指甲延伸超过指尖1厘米左右的长度。"
     },
     {
       "name": "nail polish bottle",
@@ -1598,9 +1598,9 @@
       "wiki_url": "/wiki_pages/nail_polish_bottle",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指甲油瓶",
+      "confidence": "A",
+      "tag_cn_long": "装有液体化妆品指甲油的小瓶子。"
     },
     {
       "name": "nail polish brush",
@@ -1608,9 +1608,9 @@
       "wiki_url": "/wiki_pages/nail_polish_brush",
       "category_path": "Related tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指甲油刷",
+      "confidence": "A",
+      "tag_cn_long": "涂抹指甲油时使用的小刷子。"
     },
     {
       "name": "applying manicure",
@@ -1618,9 +1618,9 @@
       "wiki_url": "/wiki_pages/applying_manicure",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "做美甲",
+      "confidence": "A",
+      "tag_cn_long": "对手部指甲进行美容护理的行为。"
     },
     {
       "name": "toenail polish",
@@ -1628,9 +1628,9 @@
       "wiki_url": "/wiki_pages/toenail_polish",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚趾甲油",
+      "confidence": "A",
+      "tag_cn_long": "涂在脚趾甲上的指甲油。"
     },
     {
       "name": "applying pedicure",
@@ -1638,9 +1638,9 @@
       "wiki_url": "/wiki_pages/applying_pedicure",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "足部美甲",
+      "confidence": "A",
+      "tag_cn_long": "对脚部指甲进行美容护理的行为。"
     },
     {
       "name": "painting toenails",
@@ -1648,9 +1648,9 @@
       "wiki_url": "/wiki_pages/painting_toenails",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "涂脚指甲",
+      "confidence": "A",
+      "tag_cn_long": "给脚趾甲涂上指甲油的动作。"
     },
     {
       "name": "clipping toenails",
@@ -1658,9 +1658,9 @@
       "wiki_url": "/wiki_pages/clipping_toenails",
       "category_path": "Related tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "剪脚指甲",
+      "confidence": "A",
+      "tag_cn_long": "用指甲钳剪短脚趾甲的动作。"
     },
     {
       "name": "sharp toenails",
@@ -1668,9 +1668,9 @@
       "wiki_url": "/wiki_pages/sharp_toenails",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖锐脚趾甲",
+      "confidence": "A",
+      "tag_cn_long": "描绘角色长有尖锐、锋利的脚趾甲。"
     },
     {
       "name": "facepaint",
@@ -1678,9 +1678,9 @@
       "wiki_url": "/wiki_pages/facepaint",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面部彩绘",
+      "confidence": "A",
+      "tag_cn_long": "在面部绘制图案或符号，常与部落文化相关。"
     },
     {
       "name": "face jewel",
@@ -1688,9 +1688,9 @@
       "wiki_url": "/wiki_pages/face_jewel",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面部珠宝",
+      "confidence": "B",
+      "tag_cn_long": "贴在脸部作为装饰的小型珠宝或宝石。"
     },
     {
       "name": "cosmetics",
@@ -1698,9 +1698,9 @@
       "wiki_url": "/wiki_pages/cosmetics",
       "category_path": "Related tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆品",
+      "confidence": "A",
+      "tag_cn_long": "用于化妆的产品或物品。"
     }
   ],
   "total_tags": 166,

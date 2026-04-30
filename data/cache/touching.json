@@ -1,0 +1,6 @@
+{
+  "tag": "touching",
+  "tag_cn": "触碰",
+  "confidence": "B",
+  "tag_cn_long": "角色正在用手触碰某物或某人，但未指明具体方式。"
+}

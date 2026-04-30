@@ -1,0 +1,6 @@
+{
+  "tag": "JPEG artifacts",
+  "tag_cn": "JPEG伪影",
+  "confidence": "A",
+  "tag_cn_long": "JPEG压缩导致的图像块状噪点或蚊子噪声。"
+}

@@ -1,0 +1,6 @@
+{
+  "tag": "Scan artifacts",
+  "tag_cn": "扫描伪影",
+  "confidence": "A",
+  "tag_cn_long": "由于扫描质量不佳产生的图像缺陷，如装订变色、透页等。"
+}

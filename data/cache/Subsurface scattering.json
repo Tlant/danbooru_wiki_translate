@@ -1,0 +1,6 @@
+{
+  "tag": "Subsurface scattering",
+  "tag_cn": "次表面散射",
+  "confidence": "A",
+  "tag_cn_long": "光线穿透半透明材质内部并散射的视觉效果。"
+}

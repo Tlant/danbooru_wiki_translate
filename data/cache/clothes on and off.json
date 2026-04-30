@@ -1,0 +1,6 @@
+{
+  "tag": "clothes on and off",
+  "tag_cn": "穿脱衣服",
+  "confidence": "A",
+  "tag_cn_long": "角色同时呈现穿着和脱去衣服的状态，通常用于对比。"
+}

@@ -102,9 +102,9 @@
       "wiki_url": "/wiki_pages/kneeling",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跪姿",
+      "confidence": "A",
+      "tag_cn_long": "单膝或双膝着地，臀部离开地面的姿势。"
     },
     {
       "name": "On one knee",
@@ -112,9 +112,9 @@
       "wiki_url": "/wiki_pages/on_one_knee",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单膝跪地",
+      "confidence": "A",
+      "tag_cn_long": "一膝跪地，另一膝抬起，常表示尊敬或求婚。"
     },
     {
       "name": "Lying",
@@ -122,9 +122,9 @@
       "wiki_url": "/wiki_pages/lying",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "躺卧",
+      "confidence": "A",
+      "tag_cn_long": "身体平躺于表面，背部、侧部或腹部支撑。"
     },
     {
       "name": "Crossed legs",
@@ -132,9 +132,9 @@
       "wiki_url": "/wiki_pages/crossed_legs",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉腿",
+      "confidence": "A",
+      "tag_cn_long": "一条腿搭在另一条腿上，可坐、站或躺时做出。"
     },
     {
       "name": "Fetal position",
@@ -142,9 +142,9 @@
       "wiki_url": "/wiki_pages/fetal_position",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胎儿姿势",
+      "confidence": "A",
+      "tag_cn_long": "侧躺并将四肢蜷缩在胸前，类似子宫内胎儿的姿势。"
     },
     {
       "name": "On back",
@@ -152,9 +152,9 @@
       "wiki_url": "/wiki_pages/on_back",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "仰卧",
+      "confidence": "A",
+      "tag_cn_long": "背部朝下平躺的姿势。"
     },
     {
       "name": "On side",
@@ -162,9 +162,9 @@
       "wiki_url": "/wiki_pages/on_side",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧躺",
+      "confidence": "A",
+      "tag_cn_long": "侧身躺着，身体一侧贴地。"
     },
     {
       "name": "On stomach",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/on_stomach",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俯卧",
+      "confidence": "A",
+      "tag_cn_long": "腹部朝下平躺，脸朝下或侧向的姿势。"
     },
     {
       "name": "Sitting",
@@ -182,9 +182,9 @@
       "wiki_url": "/wiki_pages/sitting",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坐",
+      "confidence": "A",
+      "tag_cn_long": "臀部靠在平面上（如椅子、沙发），腿或脚可能也支撑。"
     },
     {
       "name": "Butterfly sitting",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/butterfly_sitting",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶坐",
+      "confidence": "A",
+      "tag_cn_long": "坐姿，双膝向两边打开，脚底相对贴合。"
     },
     {
       "name": "Crossed legs",
@@ -202,9 +202,9 @@
       "wiki_url": "/wiki_pages/crossed_legs",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉腿",
+      "confidence": "A",
+      "tag_cn_long": "一条腿搭在另一条腿上，可坐、站或躺时做出。"
     },
     {
       "name": "Figure four sitting",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/figure_four_sitting",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四字坐姿",
+      "confidence": "B",
+      "tag_cn_long": "坐姿，将一条腿的脚踝或小腿搁在另一条腿的膝盖上，形成数字4的形状。"
     },
     {
       "name": "Indian style",
@@ -222,9 +222,9 @@
       "wiki_url": "/wiki_pages/indian_style",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "盘腿坐",
+      "confidence": "A",
+      "tag_cn_long": "臀部着地，双腿脚踝交叉盘坐的姿势，也称胡坐或土耳其坐姿。"
     },
     {
       "name": "Lotus position",
@@ -232,9 +232,9 @@
       "wiki_url": "/wiki_pages/lotus_position",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莲花坐",
+      "confidence": "A",
+      "tag_cn_long": "一种坐姿，双脚分别放在对侧大腿上，常用于冥想。"
     },
     {
       "name": "Hugging own legs",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/hugging_own_legs",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱膝坐",
+      "confidence": "A",
+      "tag_cn_long": "双臂环抱自己的腿，通常呈坐姿，表达忧郁或沉思。"
     },
     {
       "name": "Reclining",
@@ -252,9 +252,9 @@
       "wiki_url": "/wiki_pages/reclining",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斜靠",
+      "confidence": "A",
+      "tag_cn_long": "比坐更放松，身体向后倾斜但不完全躺下。"
     },
     {
       "name": "Seiza",
@@ -262,9 +262,9 @@
       "wiki_url": "/wiki_pages/seiza",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "正坐",
+      "confidence": "A",
+      "tag_cn_long": "日式正式坐姿，双膝跪地，臀部坐在脚跟上。"
     },
     {
       "name": "Sitting on person",
@@ -272,9 +272,9 @@
       "wiki_url": "/wiki_pages/sitting_on_person",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坐人",
+      "confidence": "A",
+      "tag_cn_long": "角色坐在另一个人身上。"
     },
     {
       "name": "Sitting on head",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/sitting_on_head",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坐头",
+      "confidence": "A",
+      "tag_cn_long": "角色坐在另一个人的头上。"
     },
     {
       "name": "Sitting on lap",
@@ -292,9 +292,9 @@
       "wiki_url": "/wiki_pages/sitting_on_lap",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坐腿",
+      "confidence": "A",
+      "tag_cn_long": "坐在另一个人的大腿上。"
     },
     {
       "name": "Shoulder carry",
@@ -302,9 +302,9 @@
       "wiki_url": "/wiki_pages/shoulder_carry",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骑肩",
+      "confidence": "B",
+      "tag_cn_long": "一人骑在另一人肩上，双腿分别放在肩膀两侧。"
     },
     {
       "name": "Human chair",
@@ -322,9 +322,9 @@
       "wiki_url": "/wiki_pages/straddling",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨坐",
+      "confidence": "A",
+      "tag_cn_long": "双腿分开跨在物体或他人身体两侧的姿势。"
     },
     {
       "name": "Thigh straddling",
@@ -332,9 +332,9 @@
       "wiki_url": "/wiki_pages/thigh_straddling",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿跨坐",
+      "confidence": "B",
+      "tag_cn_long": "一人跨坐在另一人的大腿上，常带有摩擦意味。"
     },
     {
       "name": "Upright straddle",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/upright_straddle",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "直立跨坐",
+      "confidence": "B",
+      "tag_cn_long": "一方跨坐在另一方身上，对方呈直立坐姿，可能双腿锁住对方。"
     },
     {
       "name": "Wariza",
@@ -352,9 +352,9 @@
       "wiki_url": "/wiki_pages/wariza",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "W坐",
+      "confidence": "A",
+      "tag_cn_long": "臀部着地，双腿向两侧弯曲呈W形的坐姿。"
     },
     {
       "name": "Yokozuwari",
@@ -362,9 +362,9 @@
       "wiki_url": "/wiki_pages/yokozuwari",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧坐",
+      "confidence": "B",
+      "tag_cn_long": "日式坐姿，双膝跪地，但双腿向一侧折叠。"
     },
     {
       "name": "Standing",
@@ -372,9 +372,9 @@
       "wiki_url": "/wiki_pages/standing",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "站立",
+      "confidence": "A",
+      "tag_cn_long": "身体由脚支撑且直立。"
     },
     {
       "name": "Balancing",
@@ -382,9 +382,9 @@
       "wiki_url": "/wiki_pages/balancing",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "平衡",
+      "confidence": "A",
+      "tag_cn_long": "角色尝试保持自身或物体的重心稳定。"
     },
     {
       "name": "Crossed legs",
@@ -392,9 +392,9 @@
       "wiki_url": "/wiki_pages/crossed_legs",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉腿",
+      "confidence": "A",
+      "tag_cn_long": "一条腿搭在另一条腿上，可坐、站或躺时做出。"
     },
     {
       "name": "Legs apart",
@@ -402,9 +402,9 @@
       "wiki_url": "/wiki_pages/legs_apart",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分腿",
+      "confidence": "A",
+      "tag_cn_long": "站立时双腿分开。"
     },
     {
       "name": "Standing on one leg",
@@ -412,9 +412,9 @@
       "wiki_url": "/wiki_pages/standing_on_one_leg",
       "category_path": "Basic positions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单腿站",
+      "confidence": "A",
+      "tag_cn_long": "一只脚站立，另一只脚离地。"
     },
     {
       "name": "Balancing",
@@ -422,9 +422,9 @@
       "wiki_url": "/wiki_pages/balancing",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "平衡",
+      "confidence": "A",
+      "tag_cn_long": "角色尝试保持自身或物体的重心稳定。"
     },
     {
       "name": "Crawling",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/crawling",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爬行",
+      "confidence": "A",
+      "tag_cn_long": "四肢着地向前移动。"
     },
     {
       "name": "Idle animation",
@@ -442,9 +442,9 @@
       "wiki_url": "/wiki_pages/idle_animation",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "待机动画",
+      "confidence": "A",
+      "tag_cn_long": "游戏中角色无操作时的循环动作。"
     },
     {
       "name": "Midair",
@@ -452,9 +452,9 @@
       "wiki_url": "/wiki_pages/midair",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "悬空",
+      "confidence": "A",
+      "tag_cn_long": "角色完全离开地面或支撑物，悬浮在空中的姿态。"
     },
     {
       "name": "Falling",
@@ -462,9 +462,9 @@
       "wiki_url": "/wiki_pages/falling",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坠落",
+      "confidence": "A",
+      "tag_cn_long": "因重力从空中下落的过程。"
     },
     {
       "name": "Floating",
@@ -472,9 +472,9 @@
       "wiki_url": "/wiki_pages/floating",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "漂浮",
+      "confidence": "A",
+      "tag_cn_long": "在空中悬浮或移动，无明显推进装置。"
     },
     {
       "name": "Flying",
@@ -482,9 +482,9 @@
       "wiki_url": "/wiki_pages/flying",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞行",
+      "confidence": "A",
+      "tag_cn_long": "借助翅膀、扫帚等推进系统在空中移动。"
     },
     {
       "name": "Jumping",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/jumping",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跳跃",
+      "confidence": "A",
+      "tag_cn_long": "通过腿部蹬踏使身体离开地面。"
     },
     {
       "name": "Hopping",
@@ -502,9 +502,9 @@
       "wiki_url": "/wiki_pages/hopping",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蹦跳",
+      "confidence": "B",
+      "tag_cn_long": "短距离向前跳跃。"
     },
     {
       "name": "Pouncing",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/pouncing",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猛扑",
+      "confidence": "A",
+      "tag_cn_long": "热切地跳向目标物体或角色。"
     },
     {
       "name": "Running",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/running",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跑步",
+      "confidence": "A",
+      "tag_cn_long": "快速奔跑，双脚同时离地，身体前倾。"
     },
     {
       "name": "Walking",
@@ -532,9 +532,9 @@
       "wiki_url": "/wiki_pages/walking",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "走路",
+      "confidence": "A",
+      "tag_cn_long": "双脚交替向前移动，一前一后。"
     },
     {
       "name": "Walk cycle",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/walk_cycle",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "行走循环",
+      "confidence": "A",
+      "tag_cn_long": "角色行走动作的循环动画。"
     },
     {
       "name": "Walking on wall",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/walking_on_wall",
       "category_path": "Movement of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "走墙",
+      "confidence": "A",
+      "tag_cn_long": "一种在垂直墙壁上行走的姿势。"
     },
     {
       "name": "All fours",
@@ -562,9 +562,9 @@
       "wiki_url": "/wiki_pages/all_fours",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四肢着地",
+      "confidence": "A",
+      "tag_cn_long": "角色双手双膝（或双脚）同时着地的姿势。"
     },
     {
       "name": "Top-down bottom-up",
@@ -572,9 +572,9 @@
       "wiki_url": "/wiki_pages/top-down_bottom-up",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翘臀趴",
+      "confidence": "B",
+      "tag_cn_long": "面部朝下贴近地面，臀部向上翘起的姿势。"
     },
     {
       "name": "Prostration",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/prostration",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五体投地",
+      "confidence": "B",
+      "tag_cn_long": "角色四肢和头部贴近地面，表示臣服或深深道歉的姿势。"
     },
     {
       "name": "Bear position",
@@ -592,9 +592,9 @@
       "wiki_url": "/wiki_pages/bear_position",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊姿",
+      "confidence": "C",
+      "tag_cn_long": "角色四肢着地，但双膝离开地面的姿势。"
     },
     {
       "name": "Bowlegged pose",
@@ -602,9 +602,9 @@
       "wiki_url": "/wiki_pages/bowlegged_pose",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弓腿站姿",
+      "confidence": "C",
+      "tag_cn_long": "角色微蹲，膝盖向外，突出胯部的姿势。"
     },
     {
       "name": "Chest stand",
@@ -612,9 +612,9 @@
       "wiki_url": "/wiki_pages/chest_stand",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸倒立",
+      "confidence": "A",
+      "tag_cn_long": "角色胸部贴地，背部弓起，双腿越过头部到前方的姿势。"
     },
     {
       "name": "Chest stand handstand",
@@ -622,9 +622,9 @@
       "wiki_url": "/wiki_pages/chest_stand_handstand",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸倒立手立",
+      "confidence": "C",
+      "tag_cn_long": "角色同时做胸倒立和手倒立，背部弯曲腿过头，用手或肘支撑。"
     },
     {
       "name": "Triplefold",
@@ -632,9 +632,9 @@
       "wiki_url": "/wiki_pages/triplefold",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三重折叠",
+      "confidence": "C",
+      "tag_cn_long": "一种高难度柔术姿势，从胸倒立开始，进一步弯曲背部直至小腿与地面平行。"
     },
     {
       "name": "Ruppelbend",
@@ -642,9 +642,9 @@
       "wiki_url": "/wiki_pages/ruppelbend",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鲁佩尔弯",
+      "confidence": "D",
+      "tag_cn_long": "一种高难度柔术姿势，角色站立后弯背部，直到头从双腿间穿过。"
     },
     {
       "name": "Quadfold",
@@ -652,9 +652,9 @@
       "wiki_url": "/wiki_pages/quadfold",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四折姿",
+      "confidence": "D",
+      "tag_cn_long": "一种极难的柔术姿势，身体弯曲成四折状，双腿几乎平行于地面。"
     },
     {
       "name": "Cowering",
@@ -662,9 +662,9 @@
       "wiki_url": "/wiki_pages/cowering",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "畏缩",
+      "confidence": "A",
+      "tag_cn_long": "蹲下并用手抱头的畏缩姿势。"
     },
     {
       "name": "Crucifixion",
@@ -672,9 +672,9 @@
       "wiki_url": "/wiki_pages/crucifixion",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钉十字架",
+      "confidence": "A",
+      "tag_cn_long": "一种死刑方式，将人绑或钉在十字架上。"
     },
     {
       "name": "Faceplant",
@@ -682,9 +682,9 @@
       "wiki_url": "/wiki_pages/faceplant",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸着地",
+      "confidence": "A",
+      "tag_cn_long": "人物面部直接摔倒在地的姿势。"
     },
     {
       "name": "Full scorpion",
@@ -692,9 +692,9 @@
       "wiki_url": "/wiki_pages/full_scorpion",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全蝎式",
+      "confidence": "B",
+      "tag_cn_long": "脸着地姿势中，双腿弯曲越过头部，形似蝎子尾。"
     },
     {
       "name": "Fighting stance",
@@ -702,9 +702,9 @@
       "wiki_url": "/wiki_pages/fighting_stance",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "战斗姿态",
+      "confidence": "A",
+      "tag_cn_long": "人物准备战斗时的站立姿势。"
     },
     {
       "name": "Battoujutsu stance",
@@ -712,9 +712,9 @@
       "wiki_url": "/wiki_pages/battoujutsu_stance",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拔刀术姿态",
+      "confidence": "A",
+      "tag_cn_long": "剑士准备拔刀向上斩击的姿势，手放在刀柄上或附近。"
     },
     {
       "name": "Spread eagle position",
@@ -722,9 +722,9 @@
       "wiki_url": "/wiki_pages/spread_eagle_position",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大字形",
+      "confidence": "A",
+      "tag_cn_long": "人物平躺，四肢向两侧伸展的姿势。"
     },
     {
       "name": "Squatting",
@@ -732,9 +732,9 @@
       "wiki_url": "/wiki_pages/squatting",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蹲",
+      "confidence": "A",
+      "tag_cn_long": "双脚着地、膝盖弯曲但膝盖不接触地面的蹲姿。"
     },
     {
       "name": "Stretching",
@@ -742,9 +742,9 @@
       "wiki_url": "/wiki_pages/stretching",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伸展",
+      "confidence": "A",
+      "tag_cn_long": "人物伸展四肢或身体，通常为了放松肌肉。"
     },
     {
       "name": "Superhero landing",
@@ -752,9 +752,9 @@
       "wiki_url": "/wiki_pages/superhero_landing",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超级英雄落地",
+      "confidence": "A",
+      "tag_cn_long": "一种跳跃落地姿势，单膝跪地，另一只脚着地，一手撑地。"
     },
     {
       "name": "Upside-down",
@@ -762,9 +762,9 @@
       "wiki_url": "/wiki_pages/upside-down",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "倒置",
+      "confidence": "A",
+      "tag_cn_long": "图像上下颠倒，不是角色仰躺或抬腿的姿态。"
     },
     {
       "name": "Handstand",
@@ -772,9 +772,9 @@
       "wiki_url": "/wiki_pages/handstand",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "倒立",
+      "confidence": "A",
+      "tag_cn_long": "用手臂支撑身体，头部朝下的站立姿势。"
     },
     {
       "name": "Headstand",
@@ -782,9 +782,9 @@
       "wiki_url": "/wiki_pages/headstand",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头倒立",
+      "confidence": "A",
+      "tag_cn_long": "用头顶支撑身体的倒立姿势。"
     },
     {
       "name": "Yoga",
@@ -792,9 +792,9 @@
       "wiki_url": "/wiki_pages/yoga",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瑜伽",
+      "confidence": "A",
+      "tag_cn_long": "一种起源于印度的身心修行体系，此处指瑜伽姿势。"
     },
     {
       "name": "Scorpion pose",
@@ -802,9 +802,9 @@
       "wiki_url": "/wiki_pages/scorpion_pose",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝎子式",
+      "confidence": "A",
+      "tag_cn_long": "瑜伽姿势，身体在手倒立基础上拱背，双腿弯曲如蝎尾。"
     },
     {
       "name": "revolved head-to-knee pose",
@@ -812,9 +812,9 @@
       "wiki_url": "/wiki_pages/revolved_head-to-knee_pose",
       "category_path": "Other postures potentially involving the whole body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头碰膝扭转式",
+      "confidence": "B",
+      "tag_cn_long": "瑜伽姿势，坐姿扭转身体使头触碰膝盖。"
     },
     {
       "name": "Arm support",
@@ -822,9 +822,9 @@
       "wiki_url": "/wiki_pages/arm_support",
       "category_path": "Other rest points of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手臂支撑",
+      "confidence": "A",
+      "tag_cn_long": "人物用手臂支撑身体重量的姿势。"
     },
     {
       "name": "Head rest",
@@ -832,9 +832,9 @@
       "wiki_url": "/wiki_pages/head_rest",
       "category_path": "Other rest points of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头靠",
+      "confidence": "B",
+      "tag_cn_long": "将头或下巴靠在某物上，如手、他人或物体。"
     },
     {
       "name": "looking at viewer",
@@ -842,9 +842,9 @@
       "wiki_url": "/wiki_pages/looking_at_viewer",
       "category_path": "Posture of the head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "注视观众",
+      "confidence": "A",
+      "tag_cn_long": "角色直接看向观众/镜头。"
     },
     {
       "name": "looking to the side",
@@ -852,9 +852,9 @@
       "wiki_url": "/wiki_pages/looking_to_the_side",
       "category_path": "Posture of the head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向旁边",
+      "confidence": "A",
+      "tag_cn_long": "角色视线偏向一侧。"
     },
     {
       "name": "looking afar",
@@ -862,9 +862,9 @@
       "wiki_url": "/wiki_pages/looking_afar",
       "category_path": "Posture of the head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "远眺",
+      "confidence": "A",
+      "tag_cn_long": "角色看向远处，目光不聚焦于近处物体。"
     },
     {
       "name": "Head down",
@@ -872,9 +872,9 @@
       "wiki_url": "/wiki_pages/head_down",
       "category_path": "Posture of the head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低头",
+      "confidence": "A",
+      "tag_cn_long": "人物头部向下倾斜的姿势。"
     },
     {
       "name": "Head tilt",
@@ -882,9 +882,9 @@
       "wiki_url": "/wiki_pages/head_tilt",
       "category_path": "Posture of the head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "歪头",
+      "confidence": "A",
+      "tag_cn_long": "人物头部向一侧倾斜，通常表示疑问或可爱。"
     },
     {
       "name": "Head back",
@@ -892,9 +892,9 @@
       "wiki_url": "/wiki_pages/head_back",
       "category_path": "Posture of the head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头后仰",
+      "confidence": "A",
+      "tag_cn_long": "头部向后倾斜，露出下巴下方的姿势。"
     },
     {
       "name": "Arched back",
@@ -902,9 +902,9 @@
       "wiki_url": "/wiki_pages/arched_back",
       "category_path": "Torso inclination",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "后弓身",
+      "confidence": "B",
+      "tag_cn_long": "背部向后弓起形成反拱，常见于身体后仰时。"
     },
     {
       "name": "Bent back",
@@ -912,9 +912,9 @@
       "wiki_url": "/wiki_pages/bent_back",
       "category_path": "Torso inclination",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前弓身",
+      "confidence": "B",
+      "tag_cn_long": "背部向前弯曲呈C形或弓形，身体前倾的姿势。"
     },
     {
       "name": "Bent over",
@@ -922,9 +922,9 @@
       "wiki_url": "/wiki_pages/bent_over",
       "category_path": "Torso inclination",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弯腰",
+      "confidence": "A",
+      "tag_cn_long": "双腿直立，上半身向前弯曲，臀部突出的姿势。"
     },
     {
       "name": "Leaning back",
@@ -932,9 +932,9 @@
       "wiki_url": "/wiki_pages/leaning_back",
       "category_path": "Torso inclination",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "后仰",
+      "confidence": "A",
+      "tag_cn_long": "站立或坐着时腰部向后倾斜的姿势。"
     },
     {
       "name": "Leaning forward",
@@ -942,9 +942,9 @@
       "wiki_url": "/wiki_pages/leaning_forward",
       "category_path": "Torso inclination",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前倾",
+      "confidence": "A",
+      "tag_cn_long": "躯干略微向前倾斜，但未达到弯腰程度的姿势。"
     },
     {
       "name": "Slouching",
@@ -952,9 +952,9 @@
       "wiki_url": "/wiki_pages/slouching",
       "category_path": "Torso inclination",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "驼背懒坐",
+      "confidence": "B",
+      "tag_cn_long": "肩膀下垂、脊柱弯曲的懒散或沮丧姿势。"
     },
     {
       "name": "Sway back",
@@ -962,9 +962,9 @@
       "wiki_url": "/wiki_pages/sway_back",
       "category_path": "Torso inclination",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挺腰后仰",
+      "confidence": "C",
+      "tag_cn_long": "站立时无支撑地后仰，臀部前挺、背部呈反弓的姿势。"
     },
     {
       "name": "Twisted torso",
@@ -972,9 +972,9 @@
       "wiki_url": "/wiki_pages/twisted_torso",
       "category_path": "Torso inclination",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扭身",
+      "confidence": "A",
+      "tag_cn_long": "躯干大幅扭转，常同时展示臀部和胸部的姿势。"
     },
     {
       "name": "Arm behind back",
@@ -982,9 +982,9 @@
       "wiki_url": "/wiki_pages/arm_behind_back",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单臂背后",
+      "confidence": "A",
+      "tag_cn_long": "一只手放在背后，可能由角色自己或他人保持的姿势。"
     },
     {
       "name": "Arms behind back",
@@ -992,9 +992,9 @@
       "wiki_url": "/wiki_pages/arms_behind_back",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双臂背后",
+      "confidence": "A",
+      "tag_cn_long": "双手放在背后，可表示害羞或被束缚的姿势。"
     },
     {
       "name": "Arm up",
@@ -1002,9 +1002,9 @@
       "wiki_url": "/wiki_pages/arm_up",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单臂举起",
+      "confidence": "A",
+      "tag_cn_long": "一只手臂举到眼睛高度或以上的姿势。"
     },
     {
       "name": "Arm behind head",
@@ -1012,9 +1012,9 @@
       "wiki_url": "/wiki_pages/arm_behind_head",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单臂脑后",
+      "confidence": "A",
+      "tag_cn_long": "一只手放在自己脑后的姿势。"
     },
     {
       "name": "akanbe",
@@ -1022,9 +1022,9 @@
       "wiki_url": "/wiki_pages/akanbe",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿坎贝",
+      "confidence": "B",
+      "tag_cn_long": "一种日本式鬼脸，拉下眼皮并伸出舌头。"
     },
     {
       "name": "salute",
@@ -1032,9 +1032,9 @@
       "wiki_url": "/wiki_pages/salute",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敬礼",
+      "confidence": "A",
+      "tag_cn_long": "将手举至额头或头顶的礼节性手势，表示问候或尊敬。"
     },
     {
       "name": "shushing",
@@ -1042,9 +1042,9 @@
       "wiki_url": "/wiki_pages/shushing",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘘声手势",
+      "confidence": "A",
+      "tag_cn_long": "将食指竖在嘴唇前，示意安静。"
     },
     {
       "name": "v over eye",
@@ -1052,9 +1052,9 @@
       "wiki_url": "/wiki_pages/v_over_eye",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "V遮眼",
+      "confidence": "A",
+      "tag_cn_long": "将V形手势放在一只眼睛上的姿势。"
     },
     {
       "name": "waving",
@@ -1062,9 +1062,9 @@
       "wiki_url": "/wiki_pages/waving",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挥手",
+      "confidence": "A",
+      "tag_cn_long": "手或手臂来回摆动的动作，用于打招呼或告别。"
     },
     {
       "name": "Victory pose",
@@ -1082,9 +1082,9 @@
       "wiki_url": "/wiki_pages/arms_up",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双臂举起",
+      "confidence": "A",
+      "tag_cn_long": "双臂举到眼睛高度或以上的姿势。"
     },
     {
       "name": "\\o/",
@@ -1092,9 +1092,9 @@
       "wiki_url": "/wiki_pages/%5Co%2F",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "举手欢呼",
+      "confidence": "A",
+      "tag_cn_long": "表示开心或庆祝的旗帜符号，双臂举起呈\\o/状。"
     },
     {
       "name": "Arms behind head",
@@ -1102,9 +1102,9 @@
       "wiki_url": "/wiki_pages/arms_behind_head",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双臂脑后",
+      "confidence": "A",
+      "tag_cn_long": "双手放在自己脑后的姿势。"
     },
     {
       "name": "carry me",
@@ -1112,9 +1112,9 @@
       "wiki_url": "/wiki_pages/carry_me",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱我",
+      "confidence": "A",
+      "tag_cn_long": "角色双手向观众伸出，做出求抱抱的姿势。"
     },
     {
       "name": "heart hands",
@@ -1122,9 +1122,9 @@
       "wiki_url": "/wiki_pages/heart_hands",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手比心",
+      "confidence": "A",
+      "tag_cn_long": "双手合成爱心形状。"
     },
     {
       "name": "finger frame",
@@ -1132,9 +1132,9 @@
       "wiki_url": "/wiki_pages/finger_frame",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指取景框",
+      "confidence": "A",
+      "tag_cn_long": "用拇指和食指构成矩形框，模拟相机取景。"
     },
     {
       "name": "horns pose",
@@ -1142,9 +1142,9 @@
       "wiki_url": "/wiki_pages/horns_pose",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头角手势",
+      "confidence": "A",
+      "tag_cn_long": "双手举在头顶两侧伸出食指，模仿角的形状。"
     },
     {
       "name": "Outstretched arm",
@@ -1152,9 +1152,9 @@
       "wiki_url": "/wiki_pages/outstretched_arm",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单臂前伸",
+      "confidence": "A",
+      "tag_cn_long": "一只手臂伸展远离身体的姿势。"
     },
     {
       "name": "Outstretched arms",
@@ -1162,9 +1162,9 @@
       "wiki_url": "/wiki_pages/outstretched_arms",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双臂前伸",
+      "confidence": "A",
+      "tag_cn_long": "双臂伸展远离身体的姿势。"
     },
     {
       "name": "Spread arms",
@@ -1172,9 +1172,9 @@
       "wiki_url": "/wiki_pages/spread_arms",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双臂平伸",
+      "confidence": "A",
+      "tag_cn_long": "双臂向两侧平伸与肩平行的姿势。"
     },
     {
       "name": "Arm at side",
@@ -1182,9 +1182,9 @@
       "wiki_url": "/wiki_pages/arm_at_side",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单臂垂侧",
+      "confidence": "A",
+      "tag_cn_long": "一只手臂自然垂放在身体一侧，另一只手臂做其他动作。"
     },
     {
       "name": "Arms at sides",
@@ -1192,9 +1192,9 @@
       "wiki_url": "/wiki_pages/arms_at_sides",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双臂垂侧",
+      "confidence": "A",
+      "tag_cn_long": "双臂自然垂放在身体两侧。"
     },
     {
       "name": "Airplane arms",
@@ -1202,9 +1202,9 @@
       "wiki_url": "/wiki_pages/airplane_arms",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞机臂",
+      "confidence": "A",
+      "tag_cn_long": "将双臂伸直向两侧展开，模仿飞机飞行姿态，常伴随跑步。"
     },
     {
       "name": "Crossed arms",
@@ -1212,9 +1212,9 @@
       "wiki_url": "/wiki_pages/crossed_arms",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱臂",
+      "confidence": "A",
+      "tag_cn_long": "双臂在胸前交叉，表示高傲、寒冷或遮胸等。"
     },
     {
       "name": "Flexing",
@@ -1222,9 +1222,9 @@
       "wiki_url": "/wiki_pages/flexing",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "秀肌",
+      "confidence": "A",
+      "tag_cn_long": "摆出姿势以展示肌肉的动作。"
     },
     {
       "name": "Praise the sun",
@@ -1232,9 +1232,9 @@
       "wiki_url": "/wiki_pages/praise_the_sun",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "赞美太阳",
+      "confidence": "A",
+      "tag_cn_long": "双手向上伸展，仰望天空，模仿黑暗之魂中太阳战士的姿态。"
     },
     {
       "name": "Reaching",
@@ -1252,9 +1252,9 @@
       "wiki_url": "/wiki_pages/shrugging",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耸肩",
+      "confidence": "A",
+      "tag_cn_long": "抬起肩膀，有时摊手，表示不知道或无所谓。"
     },
     {
       "name": "T-pose",
@@ -1262,9 +1262,9 @@
       "wiki_url": "/wiki_pages/t-pose",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "T姿势",
+      "confidence": "A",
+      "tag_cn_long": "双臂水平伸直，双腿并拢或分开，呈T字形，常见于3D建模默认姿势。"
     },
     {
       "name": "A-pose",
@@ -1272,9 +1272,9 @@
       "wiki_url": "/wiki_pages/a-pose",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "A姿势",
+      "confidence": "A",
+      "tag_cn_long": "双臂向下倾斜伸直，呈A字形，比T-pose更放松。"
     },
     {
       "name": "V arms",
@@ -1282,9 +1282,9 @@
       "wiki_url": "/wiki_pages/v_arms",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "V形臂",
+      "confidence": "A",
+      "tag_cn_long": "双臂在身前合拢，形状像字母V，表示端庄或放松。"
     },
     {
       "name": "W arms",
@@ -1292,9 +1292,9 @@
       "wiki_url": "/wiki_pages/w_arms",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "W形臂",
+      "confidence": "A",
+      "tag_cn_long": "肘部下垂前臂抬起，形成W形，手掌可合可分。"
     },
     {
       "name": "Stroking own chin",
@@ -1302,9 +1302,9 @@
       "wiki_url": "/wiki_pages/stroking_own_chin",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摸下巴",
+      "confidence": "A",
+      "tag_cn_long": "手指抚摸自己的下巴，表示思考或得意。"
     },
     {
       "name": "Outstretched hand",
@@ -1312,9 +1312,9 @@
       "wiki_url": "/wiki_pages/outstretched_hand",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "展手",
+      "confidence": "A",
+      "tag_cn_long": "手掌完全张开伸出，掌心可朝上、朝下或垂直。"
     },
     {
       "name": "hand on own ear",
@@ -1322,9 +1322,9 @@
       "wiki_url": "/wiki_pages/hand_on_own_ear",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手碰耳朵",
+      "confidence": "A",
+      "tag_cn_long": "角色用手触碰自己的耳朵。"
     },
     {
       "name": "hand on own ass",
@@ -1332,9 +1332,9 @@
       "wiki_url": "/wiki_pages/hand_on_own_ass",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手放自臀",
+      "confidence": "A",
+      "tag_cn_long": "一只手放在自己的臀部上。"
     },
     {
       "name": "hand in pocket",
@@ -1342,9 +1342,9 @@
       "wiki_url": "/wiki_pages/hand_in_pocket",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手插兜",
+      "confidence": "A",
+      "tag_cn_long": "一只手插入口袋中。"
     },
     {
       "name": "V",
@@ -1362,9 +1362,9 @@
       "wiki_url": "/wiki_pages/interlocked_fingers",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十指相扣",
+      "confidence": "A",
+      "tag_cn_long": "两只手的手指互相交错紧握。"
     },
     {
       "name": "Own hands clasped",
@@ -1382,9 +1382,9 @@
       "wiki_url": "/wiki_pages/own_hands_together",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手合拢",
+      "confidence": "A",
+      "tag_cn_long": "角色自己的手互相触碰在一起。"
     },
     {
       "name": "Star hands",
@@ -1392,9 +1392,9 @@
       "wiki_url": "/wiki_pages/star_hands",
       "category_path": "Arms",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星形手",
+      "confidence": "C",
+      "tag_cn_long": "五指张开，手掌向外，形状像星星的手势。"
     },
     {
       "name": "Contrapposto",
@@ -1402,9 +1402,9 @@
       "wiki_url": "/wiki_pages/contrapposto",
       "category_path": "Hips",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扭胯站姿",
+      "confidence": "B",
+      "tag_cn_long": "身体重心落在一只脚上，臀部偏向一侧的站姿。"
     },
     {
       "name": "Sway back",
@@ -1412,9 +1412,9 @@
       "wiki_url": "/wiki_pages/sway_back",
       "category_path": "Hips",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挺腰后仰",
+      "confidence": "C",
+      "tag_cn_long": "站立时无支撑地后仰，臀部前挺、背部呈反弓的姿势。"
     },
     {
       "name": "Crossed ankles",
@@ -1422,9 +1422,9 @@
       "wiki_url": "/wiki_pages/crossed_ankles",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉脚踝",
+      "confidence": "A",
+      "tag_cn_long": "双脚脚踝交叉的姿势。"
     },
     {
       "name": "Folded",
@@ -1432,9 +1432,9 @@
       "wiki_url": "/wiki_pages/folded",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "折叠",
+      "confidence": "A",
+      "tag_cn_long": "双腿向后最大限度弯曲，身体如对折般的姿势。"
     },
     {
       "name": "Leg up",
@@ -1442,9 +1442,9 @@
       "wiki_url": "/wiki_pages/leg_up",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单腿高抬",
+      "confidence": "A",
+      "tag_cn_long": "一条腿向上抬起的姿势。"
     },
     {
       "name": "Legs up",
@@ -1452,9 +1452,9 @@
       "wiki_url": "/wiki_pages/legs_up",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "举腿",
+      "confidence": "A",
+      "tag_cn_long": "双腿向上抬起，不接触支撑面的姿势。"
     },
     {
       "name": "Knees to chest",
@@ -1462,9 +1462,9 @@
       "wiki_url": "/wiki_pages/knees_to_chest",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱膝",
+      "confidence": "A",
+      "tag_cn_long": "膝盖拉近到胸前的姿势。"
     },
     {
       "name": "Legs over head",
@@ -1472,9 +1472,9 @@
       "wiki_url": "/wiki_pages/legs_over_head",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿过头",
+      "confidence": "A",
+      "tag_cn_long": "双腿绕过或置于头顶上方的姿势。"
     },
     {
       "name": "Leg lift",
@@ -1482,9 +1482,9 @@
       "wiki_url": "/wiki_pages/leg_lift",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧抬腿",
+      "confidence": "B",
+      "tag_cn_long": "一条腿向侧上方抬起，与另一条腿分开的姿势。"
     },
     {
       "name": "Outstretched leg",
@@ -1492,9 +1492,9 @@
       "wiki_url": "/wiki_pages/outstretched_leg",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单腿伸直",
+      "confidence": "A",
+      "tag_cn_long": "一条腿完全伸直的姿势。"
     },
     {
       "name": "Pin legs",
@@ -1502,9 +1502,9 @@
       "wiki_url": "/wiki_pages/pin_legs",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夹腿",
+      "confidence": "C",
+      "tag_cn_long": "双腿并拢或交叉固定，可能涉及捆绑的姿势。"
     },
     {
       "name": "Split",
@@ -1512,9 +1512,9 @@
       "wiki_url": "/wiki_pages/split",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "劈叉",
+      "confidence": "A",
+      "tag_cn_long": "双腿向相反方向滑开形成一条直线的姿势。"
     },
     {
       "name": "Pigeon pose",
@@ -1522,9 +1522,9 @@
       "wiki_url": "/wiki_pages/pigeon_pose",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸽子式",
+      "confidence": "A",
+      "tag_cn_long": "瑜伽姿势，一腿弯曲在前，另一腿向后伸直贴地。"
     },
     {
       "name": "Standing split",
@@ -1532,9 +1532,9 @@
       "wiki_url": "/wiki_pages/standing_split",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "站立劈叉",
+      "confidence": "A",
+      "tag_cn_long": "单腿站立，另一腿竖直向上抬起的劈叉姿势。"
     },
     {
       "name": "Spread legs",
@@ -1542,9 +1542,9 @@
       "wiki_url": "/wiki_pages/spread_legs",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分腿",
+      "confidence": "A",
+      "tag_cn_long": "双腿向两侧张开的姿势，通常用于坐或卧姿。"
     },
     {
       "name": "Watson cross",
@@ -1552,9 +1552,9 @@
       "wiki_url": "/wiki_pages/watson_cross",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "沃森交叉",
+      "confidence": "B",
+      "tag_cn_long": "以艾玛·沃森命名的站姿，双腿交叉于小腿、膝盖或大腿处。"
     },
     {
       "name": "Uneven footing",
@@ -1562,9 +1562,9 @@
       "wiki_url": "/wiki_pages/uneven_footing",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高低脚",
+      "confidence": "C",
+      "tag_cn_long": "双脚不在同一水平面上，或一只脚踩高处的姿势。"
     },
     {
       "name": "Knees apart feet together",
@@ -1572,9 +1572,9 @@
       "wiki_url": "/wiki_pages/knees_apart_feet_together",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝分脚并",
+      "confidence": "A",
+      "tag_cn_long": "膝盖分开，双脚并拢的姿势。"
     },
     {
       "name": "Knees together feet apart",
@@ -1582,9 +1582,9 @@
       "wiki_url": "/wiki_pages/knees_together_feet_apart",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝并脚分",
+      "confidence": "A",
+      "tag_cn_long": "膝盖并拢，双脚分开的姿势。"
     },
     {
       "name": "Knee up",
@@ -1592,9 +1592,9 @@
       "wiki_url": "/wiki_pages/knee_up",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单膝抬起",
+      "confidence": "A",
+      "tag_cn_long": "一条膝盖向上抬起的姿势。"
     },
     {
       "name": "Knees up",
@@ -1602,9 +1602,9 @@
       "wiki_url": "/wiki_pages/knees_up",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双膝抬起",
+      "confidence": "A",
+      "tag_cn_long": "坐着或躺着时双膝向上抬起的姿势。"
     },
     {
       "name": "Dorsiflexion",
@@ -1612,9 +1612,9 @@
       "wiki_url": "/wiki_pages/dorsiflexion",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "足背屈",
+      "confidence": "B",
+      "tag_cn_long": "脚或脚趾向上弯曲，朝向小腿的动作。"
     },
     {
       "name": "Pigeon-toed",
@@ -1622,9 +1622,9 @@
       "wiki_url": "/wiki_pages/pigeon-toed",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内八字",
+      "confidence": "A",
+      "tag_cn_long": "站立、坐着或走路时脚趾向内。"
     },
     {
       "name": "Plantar flexion",
@@ -1632,9 +1632,9 @@
       "wiki_url": "/wiki_pages/plantar_flexion",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跖屈",
+      "confidence": "B",
+      "tag_cn_long": "脚趾向下弯曲，使小腿与脚趾成一条直线的动作，常见于芭蕾舞者。"
     },
     {
       "name": "Toe scrunch",
@@ -1642,9 +1642,9 @@
       "wiki_url": "/wiki_pages/toe_scrunch",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚趾蜷缩",
+      "confidence": "A",
+      "tag_cn_long": "脚趾向下挤压，呈现卷曲状。"
     },
     {
       "name": "Tiptoes",
@@ -1652,9 +1652,9 @@
       "wiki_url": "/wiki_pages/tiptoes",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "踮脚尖",
+      "confidence": "A",
+      "tag_cn_long": "用脚尖保持平衡，通常站立。"
     },
     {
       "name": "Tiptoe kiss",
@@ -1662,9 +1662,9 @@
       "wiki_url": "/wiki_pages/tiptoe_kiss",
       "category_path": "Legs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "踮脚吻",
+      "confidence": "A",
+      "tag_cn_long": "较矮的角色踮起脚尖亲吻较高的角色。"
     },
     {
       "name": "Ass-to-ass",
@@ -1682,9 +1682,9 @@
       "wiki_url": "/wiki_pages/back-to-back",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背对背",
+      "confidence": "A",
+      "tag_cn_long": "两个角色背靠背。"
     },
     {
       "name": "Belly-to-belly",
@@ -1692,9 +1692,9 @@
       "wiki_url": "/wiki_pages/belly-to-belly",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹对腹",
+      "confidence": "A",
+      "tag_cn_long": "两个角色腹部相贴，通常由于拥抱、亲吻或依偎。"
     },
     {
       "name": "Cheek-to-breast",
@@ -1702,9 +1702,9 @@
       "wiki_url": "/wiki_pages/cheek-to-breast",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸颊贴乳",
+      "confidence": "B",
+      "tag_cn_long": "一个角色的脸颊贴在另一个角色的胸部上。"
     },
     {
       "name": "Cheek-to-cheek",
@@ -1712,9 +1712,9 @@
       "wiki_url": "/wiki_pages/cheek-to-cheek",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸贴脸",
+      "confidence": "A",
+      "tag_cn_long": "两个或多个角色的脸颊相触，代表亲密。"
     },
     {
       "name": "Eye contact",
@@ -1722,9 +1722,9 @@
       "wiki_url": "/wiki_pages/eye_contact",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "对视",
+      "confidence": "A",
+      "tag_cn_long": "两个角色直接注视对方的眼睛。"
     },
     {
       "name": "Face-to-face",
@@ -1732,9 +1732,9 @@
       "wiki_url": "/wiki_pages/face-to-face",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面对面",
+      "confidence": "A",
+      "tag_cn_long": "两个角色近距离面对面。"
     },
     {
       "name": "Forehead-to-forehead",
@@ -1742,9 +1742,9 @@
       "wiki_url": "/wiki_pages/forehead-to-forehead",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "额头相贴",
+      "confidence": "A",
+      "tag_cn_long": "两个角色额头贴在一起。"
     },
     {
       "name": "Head on chest",
@@ -1752,9 +1752,9 @@
       "wiki_url": "/wiki_pages/head_on_chest",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头靠胸",
+      "confidence": "A",
+      "tag_cn_long": "一个角色的头靠在另一个角色的胸部上。"
     },
     {
       "name": "Heads together",
@@ -1762,9 +1762,9 @@
       "wiki_url": "/wiki_pages/heads_together",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头碰头",
+      "confidence": "A",
+      "tag_cn_long": "多个角色将头靠在一起。"
     },
     {
       "name": "Holding hands",
@@ -1782,9 +1782,9 @@
       "wiki_url": "/wiki_pages/leg_lock",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿锁",
+      "confidence": "B",
+      "tag_cn_long": "将双腿缠绕在对方躯干上，通常用于性爱中拉近对方。"
     },
     {
       "name": "Locked arms",
@@ -1792,9 +1792,9 @@
       "wiki_url": "/wiki_pages/locked_arms",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挽臂",
+      "confidence": "A",
+      "tag_cn_long": "一只手臂勾住另一只手臂。"
     },
     {
       "name": "Over the knee",
@@ -1802,9 +1802,9 @@
       "wiki_url": "/wiki_pages/over_the_knee",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝上",
+      "confidence": "A",
+      "tag_cn_long": "一个人坐着，另一个人趴在其膝盖/大腿上的姿势，通常用于打屁股。"
     },
     {
       "name": "Nipple-to-nipple",
@@ -1822,9 +1822,9 @@
       "wiki_url": "/wiki_pages/noses_touching",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "碰鼻",
+      "confidence": "A",
+      "tag_cn_long": "两人鼻尖相互触碰，通常表示友好问候。"
     },
     {
       "name": "Shoulder-to-shoulder",
@@ -1832,9 +1832,9 @@
       "wiki_url": "/wiki_pages/shoulder-to-shoulder",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩并肩",
+      "confidence": "A",
+      "tag_cn_long": "两个角色肩膀直接接触并排站立。"
     },
     {
       "name": "Tail lock",
@@ -1842,9 +1842,9 @@
       "wiki_url": "/wiki_pages/tail_lock",
       "category_path": "Posture of at least two characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尾巴缠绕",
+      "confidence": "B",
+      "tag_cn_long": "角色用尾巴缠绕伴侣的躯干以拉近彼此。"
     },
     {
       "name": "Circle formation",
@@ -1852,9 +1852,9 @@
       "wiki_url": "/wiki_pages/circle_formation",
       "category_path": "Posture of at least three characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆圈阵型",
+      "confidence": "A",
+      "tag_cn_long": "多个角色呈圆形排列，身体朝向圆心。"
     },
     {
       "name": "Group hug",
@@ -1862,9 +1862,9 @@
       "wiki_url": "/wiki_pages/group_hug",
       "category_path": "Posture of at least three characters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "群抱",
+      "confidence": "A",
+      "tag_cn_long": "三个或以上角色互相拥抱。"
     },
     {
       "name": "Hug",
@@ -1872,9 +1872,9 @@
       "wiki_url": "/wiki_pages/hug",
       "category_path": "Hugging",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拥抱",
+      "confidence": "A",
+      "tag_cn_long": "用双臂环抱他人身体。"
     },
     {
       "name": "Hugging own legs",
@@ -1882,9 +1882,9 @@
       "wiki_url": "/wiki_pages/hugging_own_legs",
       "category_path": "Hugging",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱膝坐",
+      "confidence": "A",
+      "tag_cn_long": "双臂环抱自己的腿，通常呈坐姿，表达忧郁或沉思。"
     },
     {
       "name": "Hugging object",
@@ -1892,9 +1892,9 @@
       "wiki_url": "/wiki_pages/hugging_object",
       "category_path": "Hugging",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱物体",
+      "confidence": "A",
+      "tag_cn_long": "角色拥抱无生命物体，如书本、玩偶等。"
     },
     {
       "name": "Hugging tail",
@@ -1902,9 +1902,9 @@
       "wiki_url": "/wiki_pages/hugging_tail",
       "category_path": "Hugging",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱尾巴",
+      "confidence": "A",
+      "tag_cn_long": "角色拥抱自己或他人的尾巴。"
     },
     {
       "name": "Wing hug",
@@ -1912,9 +1912,9 @@
       "wiki_url": "/wiki_pages/wing_hug",
       "category_path": "Hugging",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翅膀拥抱",
+      "confidence": "B",
+      "tag_cn_long": "用翅膀拥抱或被人用翅膀拥抱。"
     },
     {
       "name": "Arm hug",
@@ -1922,9 +1922,9 @@
       "wiki_url": "/wiki_pages/arm_hug",
       "category_path": "Hugging",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱手臂",
+      "confidence": "A",
+      "tag_cn_long": "角色拥抱另一个角色的手臂。"
     },
     {
       "name": "Hug from behind",
@@ -1932,9 +1932,9 @@
       "wiki_url": "/wiki_pages/hug_from_behind",
       "category_path": "Hugging",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背后拥抱",
+      "confidence": "A",
+      "tag_cn_long": "一个角色从背后拥抱另一个角色。"
     },
     {
       "name": "Waist hug",
@@ -1942,9 +1942,9 @@
       "wiki_url": "/wiki_pages/waist_hug",
       "category_path": "Hugging",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰抱",
+      "confidence": "A",
+      "tag_cn_long": "在对方腰部位置进行的拥抱。"
     },
     {
       "name": "Baby carry",
@@ -1952,9 +1952,9 @@
       "wiki_url": "/wiki_pages/baby_carry",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "婴儿抱",
+      "confidence": "A",
+      "tag_cn_long": "像抱婴儿一样用一只手或双手支撑角色背部。"
     },
     {
       "name": "Carrying",
@@ -1962,9 +1962,9 @@
       "wiki_url": "/wiki_pages/carrying",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱持",
+      "confidence": "A",
+      "tag_cn_long": "用手臂支撑物体或他人的动作。"
     },
     {
       "name": "Carried breast rest",
@@ -1982,9 +1982,9 @@
       "wiki_url": "/wiki_pages/carrying_over_shoulder",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扛着",
+      "confidence": "A",
+      "tag_cn_long": "将人或物扛在一侧肩膀上。"
     },
     {
       "name": "Carrying under arm",
@@ -1992,9 +1992,9 @@
       "wiki_url": "/wiki_pages/carrying_under_arm",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腋下夹着",
+      "confidence": "A",
+      "tag_cn_long": "将某物或某人夹在胳膊和身体之间。"
     },
     {
       "name": "Child carry",
@@ -2002,9 +2002,9 @@
       "wiki_url": "/wiki_pages/child_carry",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抱孩子式",
+      "confidence": "B",
+      "tag_cn_long": "像抱孩子一样支撑骨盆部位，让角色坐在手臂上。"
     },
     {
       "name": "Fireman's carry",
@@ -2012,9 +2012,9 @@
       "wiki_url": "/wiki_pages/fireman%27s_carry",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "消防员扛法",
+      "confidence": "A",
+      "tag_cn_long": "将人扛在双肩上，常用于救援或摔跤技巧。"
     },
     {
       "name": "Piggyback",
@@ -2022,9 +2022,9 @@
       "wiki_url": "/wiki_pages/piggyback",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背人",
+      "confidence": "A",
+      "tag_cn_long": "一种背负姿势，背人者托住被背者的腿，被背者搂住背人者的脖子。"
     },
     {
       "name": "Princess carry",
@@ -2032,9 +2032,9 @@
       "wiki_url": "/wiki_pages/princess_carry",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "公主抱",
+      "confidence": "A",
+      "tag_cn_long": "像抱公主一样横抱，一手托上身一手托腿。"
     },
     {
       "name": "Shoulder carry",
@@ -2042,9 +2042,9 @@
       "wiki_url": "/wiki_pages/shoulder_carry",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骑肩",
+      "confidence": "B",
+      "tag_cn_long": "一人骑在另一人肩上，双腿分别放在肩膀两侧。"
     },
     {
       "name": "Sitting on shoulder",
@@ -2052,9 +2052,9 @@
       "wiki_url": "/wiki_pages/sitting_on_shoulder",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坐肩",
+      "confidence": "A",
+      "tag_cn_long": "某人坐在另一人的单肩上。"
     },
     {
       "name": "Standing on shoulder",
@@ -2062,9 +2062,9 @@
       "wiki_url": "/wiki_pages/standing_on_shoulder",
       "category_path": "Carrying someone",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "站肩",
+      "confidence": "A",
+      "tag_cn_long": "某人站在另一人的单肩上。"
     },
     {
       "name": "Charizard pose",
@@ -2072,9 +2072,9 @@
       "wiki_url": "/wiki_pages/charizard_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喷火龙姿势",
+      "confidence": "B",
+      "tag_cn_long": "宝可梦剑盾中奇巴纳的标志性姿势，双臂伸展像喷火龙。"
     },
     {
       "name": "Gendou pose",
@@ -2082,9 +2082,9 @@
       "wiki_url": "/wiki_pages/gendou_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "碇源堂坐姿",
+      "confidence": "A",
+      "tag_cn_long": "双手交叉托下巴，眼镜反光的坐姿。"
     },
     {
       "name": "Henshin pose",
@@ -2092,9 +2092,9 @@
       "wiki_url": "/wiki_pages/henshin_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "变身姿势",
+      "confidence": "A",
+      "tag_cn_long": "角色变身前的标志性姿势，常见于假面骑士和光之美少女。"
     },
     {
       "name": "JoJo pose",
@@ -2102,9 +2102,9 @@
       "wiki_url": "/wiki_pages/jojo_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "JoJo立",
+      "confidence": "A",
+      "tag_cn_long": "荒木飞吕彦漫画中角色摆出的夸张姿势。"
     },
     {
       "name": "Dio Brando's pose",
@@ -2112,9 +2112,9 @@
       "wiki_url": "/wiki_pages/dio_brando%27s_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "DIO立",
+      "confidence": "A",
+      "tag_cn_long": "DIO标志性的姿势，如叉腰或指天等。"
     },
     {
       "name": "Giorno Giovanna's pose",
@@ -2122,9 +2122,9 @@
       "wiki_url": "/wiki_pages/giorno_giovanna%27s_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乔鲁诺姿势",
+      "confidence": "B",
+      "tag_cn_long": "乔鲁诺·乔巴拿的标志性姿势，比如手背叉腰或闭眼等。"
     },
     {
       "name": "Superman exposure",
@@ -2132,9 +2132,9 @@
       "wiki_url": "/wiki_pages/superman_exposure",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "撕衣露胸",
+      "confidence": "A",
+      "tag_cn_long": "像超人那样从中间撕开衬衫露出胸膛。"
     },
     {
       "name": "Jonathan Joestar's pose",
@@ -2142,9 +2142,9 @@
       "wiki_url": "/wiki_pages/jonathan_joestar%27s_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乔纳森姿势",
+      "confidence": "B",
+      "tag_cn_long": "乔纳森·乔斯达的标志性姿势，如握拳或站立。"
     },
     {
       "name": "Kujo Jotaro's pose",
@@ -2152,9 +2152,9 @@
       "wiki_url": "/wiki_pages/kujo_jotaro%27s_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "承太郎姿势",
+      "confidence": "A",
+      "tag_cn_long": "空条承太郎的标志性姿势，如插兜、帽檐压低。"
     },
     {
       "name": "Kongou pose",
@@ -2162,9 +2162,9 @@
       "wiki_url": "/wiki_pages/kongou_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金刚姿势",
+      "confidence": "B",
+      "tag_cn_long": "舰队Collection中金刚的立绘姿势，手臂伸展、双腿分开。"
     },
     {
       "name": "Kujou Karen pose",
@@ -2172,9 +2172,9 @@
       "wiki_url": "/wiki_pages/kujou_karen_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "九条可怜姿势",
+      "confidence": "B",
+      "tag_cn_long": "九条可怜的标志性姿势，双臂举起，食指竖起，一手指向侧面一手指向上。"
     },
     {
       "name": "Z-Move trainer pose",
@@ -2182,9 +2182,9 @@
       "wiki_url": "/wiki_pages/z-move_trainer_pose",
       "category_path": "Poses/Signature poses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Z招式姿势",
+      "confidence": "A",
+      "tag_cn_long": "训练家指挥宝可梦使用Z招式时的身体姿势。"
     },
     {
       "name": "List of poses",
@@ -2192,9 +2192,9 @@
       "wiki_url": "/wiki_pages/list_of_poses",
       "category_path": "See Also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "姿势列表",
+      "confidence": "A",
+      "tag_cn_long": "列出各种姿势的分类索引页。"
     }
   ],
   "total_tags": 210,

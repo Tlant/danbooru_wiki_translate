@@ -60,9 +60,9 @@
       "wiki_url": "/wiki_pages/transgender_flag",
       "category_path": "Symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨性别旗",
+      "confidence": "A",
+      "tag_cn_long": "代表跨性别群体的旗帜，通常有粉、蓝、白条纹。"
     },
     {
       "name": "transgender flag print",
@@ -70,9 +70,9 @@
       "wiki_url": "/wiki_pages/transgender_flag_print",
       "category_path": "Symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨性别旗帜印花",
+      "confidence": "A",
+      "tag_cn_long": "服装或物品上印有跨性别旗帜图案。"
     },
     {
       "name": "transgender symbol",
@@ -80,9 +80,9 @@
       "wiki_url": "/wiki_pages/transgender_symbol",
       "category_path": "Symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨性别符号",
+      "confidence": "A",
+      "tag_cn_long": "由♂、♀和⚨组合而成的符号，代表跨性别。"
     },
     {
       "name": "gender dysphoria",
@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/gender_dysphoria",
       "category_path": "Transitioning",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "性别烦躁",
+      "confidence": "A",
+      "tag_cn_long": "一种因性别认同与出生性别不符而产生的痛苦感受。"
     },
     {
       "name": "gender transitioning",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/gender_transitioning",
       "category_path": "Transitioning",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "性别转换",
+      "confidence": "A",
+      "tag_cn_long": "指一个人改变自己性别表达或身体特征以符合其性别认同的过程。"
     },
     {
       "name": "gender transition timeline",
@@ -110,9 +110,9 @@
       "wiki_url": "/wiki_pages/gender_transition_timeline",
       "category_path": "Transitioning",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "性别转换时间线",
+      "confidence": "A",
+      "tag_cn_long": "描述一个人从出生性别过渡到认同性别的过程的时间线。"
     },
     {
       "name": "hormone replacement therapy",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/hormone_replacement_therapy",
       "category_path": "Transitioning",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "激素替代疗法",
+      "confidence": "A",
+      "tag_cn_long": "通过服用激素改变性征的医学疗法，常用于跨性别者或女性化/男性化。"
     },
     {
       "name": "estrogen",
@@ -130,9 +130,9 @@
       "wiki_url": "/wiki_pages/estrogen",
       "category_path": "Transitioning",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雌激素",
+      "confidence": "A",
+      "tag_cn_long": "一种女性激素，用于女性化治疗。"
     },
     {
       "name": "estradiol",
@@ -140,9 +140,9 @@
       "wiki_url": "/wiki_pages/estradiol",
       "category_path": "Transitioning",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雌二醇",
+      "confidence": "A",
+      "tag_cn_long": "一种雌激素，常用于性别转换相关的激素治疗。"
     },
     {
       "name": "testosterone",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/testosterone",
       "category_path": "Transitioning",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睾酮",
+      "confidence": "A",
+      "tag_cn_long": "一种主要的雄性激素，用于跨性别男性的激素替代疗法。"
     },
     {
       "name": "mastectomy",
@@ -160,9 +160,9 @@
       "wiki_url": "/wiki_pages/mastectomy",
       "category_path": "Surgery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房切除术",
+      "confidence": "A",
+      "tag_cn_long": "通过手术切除乳房，常用于跨性别男性或乳腺癌患者。"
     },
     {
       "name": "mastectomy scar",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/mastectomy_scar",
       "category_path": "Surgery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房切除疤痕",
+      "confidence": "A",
+      "tag_cn_long": "乳房切除术后在胸部留下的对称疤痕，通常位于胸肌下方。"
     },
     {
       "name": "sex reassignment surgery",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/sex_reassignment_surgery",
       "category_path": "Surgery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "性别重置手术",
+      "confidence": "A",
+      "tag_cn_long": "通过手术改变生殖器官以符合个人性别认同的医疗程序。"
     },
     {
       "name": "phalloplasty",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/phalloplasty",
       "category_path": "Surgery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎成形术",
+      "confidence": "A",
+      "tag_cn_long": "为跨性别男性构建阴茎的外科手术。"
     },
     {
       "name": "scrotoplasty",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/scrotoplasty",
       "category_path": "Surgery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴囊成形术",
+      "confidence": "A",
+      "tag_cn_long": "为跨性别男性构建阴囊的外科手术。"
     },
     {
       "name": "glansplasty",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/glansplasty",
       "category_path": "Surgery",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "龟头成形术",
+      "confidence": "A",
+      "tag_cn_long": "塑造阴茎头（龟头）的外科手术，常作为阴茎成形术的一部分。"
     },
     {
       "name": "vaginoplasty",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/vaginoplasty",
       "category_path": "Surgery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴道成形术",
+      "confidence": "A",
+      "tag_cn_long": "为跨性别女性构建阴道的外科手术。"
     },
     {
       "name": "labiaplasty",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/labiaplasty",
       "category_path": "Surgery",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴唇成形术",
+      "confidence": "A",
+      "tag_cn_long": "塑造或减小阴唇的外科手术，可用于跨性别女性。"
     },
     {
       "name": "clitoroplasty",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/clitoroplasty",
       "category_path": "Surgery",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴蒂成形术",
+      "confidence": "A",
+      "tag_cn_long": "塑造阴蒂的外科手术，常涉及增大或构建阴蒂。"
     },
     {
       "name": "transgender flag print",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/transgender_flag_print",
       "category_path": "Attire",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨性别旗帜印花",
+      "confidence": "A",
+      "tag_cn_long": "服装或物品上印有跨性别旗帜图案。"
     },
     {
       "name": "chest binder",
@@ -260,9 +260,9 @@
       "wiki_url": "/wiki_pages/chest_binder",
       "category_path": "Attire",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束胸衣",
+      "confidence": "A",
+      "tag_cn_long": "一种压缩乳房使其显得平坦的内衣。"
     },
     {
       "name": "erect clitoris",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/clitoral_penetration",
       "category_path": "Anatomy",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴蒂插入",
+      "confidence": "A",
+      "tag_cn_long": "用阴蒂（通常巨大）插入他人身体的性行为。"
     },
     {
       "name": "lgbt (4chan)",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/lgbt_%284chan%29",
       "category_path": "Culture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "LGBT（4chan）",
+      "confidence": "B",
+      "tag_cn_long": "4chan网站上关于LGBT话题的标签或讨论。"
     },
     {
       "name": "boymoder",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/boymoder",
       "category_path": "Culture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男装模式",
+      "confidence": "B",
+      "tag_cn_long": "跨性别女性在过渡初期穿着男性服装、模仿男性行为的阶段或人。"
     },
     {
       "name": "ikea shark",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/ikea_shark",
       "category_path": "Culture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宜家鲨鱼",
+      "confidence": "A",
+      "tag_cn_long": "宜家出售的名为BLÅHAJ的蓝色鲨鱼毛绒玩具，在跨性别社区中常被用作象征。"
     },
     {
       "name": "transgender day of visibility",
@@ -340,9 +340,9 @@
       "wiki_url": "/wiki_pages/transgender_day_of_visibility",
       "category_path": "Culture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨性别可见日",
+      "confidence": "A",
+      "tag_cn_long": "每年3月31日举行的国际节日，旨在提高跨性别者的可见度并反对歧视。"
     },
     {
       "name": "trans rights",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/trans_rights",
       "category_path": "Culture",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨性别权利",
+      "confidence": "A",
+      "tag_cn_long": "争取跨性别者在法律和社会中获得平等权利和待遇的运动。"
     },
     {
       "name": "transphobia",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/transphobia",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨性别恐惧症",
+      "confidence": "A",
+      "tag_cn_long": "对跨性别者的恐惧、厌恶或歧视。"
     },
     {
       "name": "troonjak",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/troonjak",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨性别嘲讽图",
+      "confidence": "D",
+      "tag_cn_long": "一种用于嘲讽跨性别者的网络梗图。"
     },
     {
       "name": "non-binary flag",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/non-binary_flag",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非二元性别旗帜",
+      "confidence": "A",
+      "tag_cn_long": "代表非二元性别身份的旗帜，颜色为黄、白、黑、紫。"
     },
     {
       "name": "lgbt pride",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/lgbt_pride",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "LGBT骄傲",
+      "confidence": "A",
+      "tag_cn_long": "以LGBT群体骄傲为主题的作品，常包含旗帜、彩虹元素等。"
     },
     {
       "name": "genderswap",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/genderswap",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "性转",
+      "confidence": "A",
+      "tag_cn_long": "角色从一种性别转变为另一种性别，通常为魔法或虚构方式，不涉及医疗手段。"
     },
     {
       "name": "futanari",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/futanari",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扶她",
+      "confidence": "A",
+      "tag_cn_long": "拥有男性生殖器的女性角色，是一种虚构的双性人形象。"
     },
     {
       "name": "cuntboy",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/cuntboy",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男体女阴",
+      "confidence": "B",
+      "tag_cn_long": "拥有男性身体但只有女性生殖器的角色。"
     },
     {
       "name": "male futanari",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/male_futanari",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男性扶她",
+      "confidence": "A",
+      "tag_cn_long": "拥有男性体型但同时具有男性和女性生殖器的角色。"
     },
     {
       "name": "male with breasts",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/male_with_breasts",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男乳",
+      "confidence": "A",
+      "tag_cn_long": "生理男性但拥有女性般的乳房。"
     },
     {
       "name": "hysterectomy",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/hysterectomy",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "子宫切除术",
+      "confidence": "A",
+      "tag_cn_long": "手术切除子宫，患者将不再有月经且无法怀孕。"
     },
     {
       "name": "hysterectomy scar",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/hysterectomy_scar",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "子宫切除术疤痕",
+      "confidence": "A",
+      "tag_cn_long": "子宫切除术留下的疤痕。"
     },
     {
       "name": "oophorectomy",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/oophorectomy",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卵巢切除术",
+      "confidence": "A",
+      "tag_cn_long": "手术切除卵巢。"
     },
     {
       "name": "salpingectomy",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/salpingectomy",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "输卵管切除术",
+      "confidence": "A",
+      "tag_cn_long": "手术切除输卵管。"
     },
     {
       "name": "orchiectomy",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/orchiectomy",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睾丸切除术",
+      "confidence": "A",
+      "tag_cn_long": "手术切除睾丸。"
     }
   ],
   "total_tags": 44,

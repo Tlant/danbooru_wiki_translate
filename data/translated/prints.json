@@ -52,9 +52,9 @@
       "wiki_url": "/wiki_pages/asa_no_ha_%28pattern%29",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "麻叶纹",
+      "confidence": "A",
+      "tag_cn_long": "一种和服或布料上的麻叶形图案。"
     },
     {
       "name": "Camouflage",
@@ -82,9 +82,9 @@
       "wiki_url": "/wiki_pages/honeycomb_%28pattern%29",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蜂巢纹",
+      "confidence": "B",
+      "tag_cn_long": "六边形蜂窝状的图案，常见于服装或背景。"
     },
     {
       "name": "Houndstooth",
@@ -142,9 +142,9 @@
       "wiki_url": "/wiki_pages/sayagata",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纱绫形",
+      "confidence": "B",
+      "tag_cn_long": "传统日本连续的卍字图案。"
     },
     {
       "name": "Seigaiha",
@@ -152,9 +152,9 @@
       "wiki_url": "/wiki_pages/seigaiha",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "青海波",
+      "confidence": "A",
+      "tag_cn_long": "传统日本波浪图案。"
     },
     {
       "name": "Striped",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/diagonal_stripes",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "对角条纹",
+      "confidence": "B",
+      "tag_cn_long": "呈对角线方向的条纹图案，有歧义，建议使用斜条纹衣物。"
     },
     {
       "name": "Vertical stripes",
@@ -182,9 +182,9 @@
       "wiki_url": "/wiki_pages/vertical_stripes",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "垂直条纹",
+      "confidence": "A",
+      "tag_cn_long": "垂直方向的条纹图案。"
     },
     {
       "name": "Colored stripes",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/colored_stripes",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色条纹",
+      "confidence": "B",
+      "tag_cn_long": "仅由两种彩色（不含白色）组成的条纹图案。"
     },
     {
       "name": "Multicolored stripes",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/tiger_stripes",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "虎纹条纹",
+      "confidence": "A",
+      "tag_cn_long": "模仿老虎皮毛的条纹图案。"
     },
     {
       "name": "Double vertical stripe",
@@ -232,9 +232,9 @@
       "wiki_url": "/wiki_pages/invasion_stripes",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "入侵条纹",
+      "confidence": "A",
+      "tag_cn_long": "二战中盟军飞机涂装的黑白交替条纹，后用于机甲等。"
     },
     {
       "name": "Yagasuri",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/yagasuri",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "箭羽纹",
+      "confidence": "A",
+      "tag_cn_long": "一种传统日本图案，由排列成箭羽形状的三角形组成。"
     },
     {
       "name": "Animal print",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/bird_print",
       "category_path": "Specific prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸟印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上印有鸟类图案的印花。"
     },
     {
       "name": "Cow print",
@@ -332,9 +332,9 @@
       "wiki_url": "/wiki_pages/zebra_print",
       "category_path": "Specific prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斑马纹",
+      "confidence": "A",
+      "tag_cn_long": "印有斑马黑白条纹图案的花纹。"
     },
     {
       "name": "Fireworks print",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/fireworks_print",
       "category_path": "Specific prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "烟花印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上印有烟花绽放图案的印花。"
     },
     {
       "name": "Flag print",
@@ -352,9 +352,9 @@
       "wiki_url": "/wiki_pages/flag_print",
       "category_path": "Specific prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "旗帜印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上印有国旗图案的印花。"
     },
     {
       "name": "Floral print",
@@ -392,9 +392,9 @@
       "wiki_url": "/wiki_pages/game_controller_print",
       "category_path": "Specific prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "游戏手柄印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上印有游戏手柄或按键图案的印花。"
     },
     {
       "name": "Grid print",
@@ -402,9 +402,9 @@
       "wiki_url": "/wiki_pages/grid_print",
       "category_path": "Specific prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网格印花",
+      "confidence": "A",
+      "tag_cn_long": "由均匀细线组成的网格状印花图案。"
     },
     {
       "name": "Moon print",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/handprint",
       "category_path": "Specific prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手印",
+      "confidence": "A",
+      "tag_cn_long": "手接触表面留下的形状印记。"
     },
     {
       "name": "Leaf print",
@@ -482,9 +482,9 @@
       "wiki_url": "/wiki_pages/patterned_hair",
       "category_path": "Patterned things",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图案发",
+      "confidence": "B",
+      "tag_cn_long": "头发上呈现无法在真实头发上复制的图案。"
     },
     {
       "name": "patterned clothing",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/patterned_clothing",
       "category_path": "Patterned things",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图案服装",
+      "confidence": "A",
+      "tag_cn_long": "任何有重复图案的衣物。"
     },
     {
       "name": "patterned",
@@ -502,9 +502,9 @@
       "wiki_url": "/wiki_pages/patterned",
       "category_path": "Patterned things",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有图案的",
+      "confidence": "A",
+      "tag_cn_long": "织物上有明显的图案花纹。"
     },
     {
       "name": "patterned background",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/patterned_background",
       "category_path": "Patterned things",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图案背景",
+      "confidence": "A",
+      "tag_cn_long": "具有重复图案的背景。"
     },
     {
       "name": "Print ascot",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/print_ascot",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有印花的领巾。"
     },
     {
       "name": "Print boots",
@@ -532,9 +532,9 @@
       "wiki_url": "/wiki_pages/print_boots",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花靴子",
+      "confidence": "A",
+      "tag_cn_long": "带有印花的靴子。"
     },
     {
       "name": "Print bow",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/print_bow",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花蝴蝶结",
+      "confidence": "A",
+      "tag_cn_long": "带有印花图案的蝴蝶结。"
     },
     {
       "name": "Print bowtie",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/print_bowtie",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花领结",
+      "confidence": "A",
+      "tag_cn_long": "带有印花的领结。"
     },
     {
       "name": "Print eyepatch",
@@ -562,9 +562,9 @@
       "wiki_url": "/wiki_pages/print_eyepatch",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花眼罩",
+      "confidence": "A",
+      "tag_cn_long": "带有印花的眼罩。"
     },
     {
       "name": "Print gloves",
@@ -572,9 +572,9 @@
       "wiki_url": "/wiki_pages/print_gloves",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花手套",
+      "confidence": "A",
+      "tag_cn_long": "带有印花或图案的手套。"
     },
     {
       "name": "Print hakama",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/print_hakama",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花袴",
+      "confidence": "A",
+      "tag_cn_long": "带有印花图案的日本传统袴。"
     },
     {
       "name": "Print headwear",
@@ -602,9 +602,9 @@
       "wiki_url": "/wiki_pages/print_kimono",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花和服",
+      "confidence": "A",
+      "tag_cn_long": "带有印花图案的和服，包括浴衣、振袖等。"
     },
     {
       "name": "Print leggings",
@@ -612,9 +612,9 @@
       "wiki_url": "/wiki_pages/print_leggings",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花紧身裤",
+      "confidence": "A",
+      "tag_cn_long": "带有独特图案印花的紧身裤。"
     },
     {
       "name": "Print necktie",
@@ -622,9 +622,9 @@
       "wiki_url": "/wiki_pages/print_necktie",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花领带",
+      "confidence": "A",
+      "tag_cn_long": "带有印花的领带。"
     },
     {
       "name": "Print neckerchief",
@@ -632,9 +632,9 @@
       "wiki_url": "/wiki_pages/print_neckerchief",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花领巾",
+      "confidence": "A",
+      "tag_cn_long": "带有印花的小方领巾。"
     },
     {
       "name": "Print panties",
@@ -652,9 +652,9 @@
       "wiki_url": "/wiki_pages/print_pantyhose",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "带有独特图案的连裤袜。"
     },
     {
       "name": "Print ribbon",
@@ -662,9 +662,9 @@
       "wiki_url": "/wiki_pages/print_ribbon",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花丝带",
+      "confidence": "A",
+      "tag_cn_long": "带有印刷图案的丝带。"
     },
     {
       "name": "Print sandals",
@@ -672,9 +672,9 @@
       "wiki_url": "/wiki_pages/print_sandals",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花凉鞋",
+      "confidence": "A",
+      "tag_cn_long": "带有印刷图案的凉鞋。"
     },
     {
       "name": "Print shirt",
@@ -682,9 +682,9 @@
       "wiki_url": "/wiki_pages/print_shirt",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花衬衫",
+      "confidence": "A",
+      "tag_cn_long": "前胸或后背有印刷图案的衬衫。"
     },
     {
       "name": "Print shoes",
@@ -692,9 +692,9 @@
       "wiki_url": "/wiki_pages/print_shoes",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花鞋",
+      "confidence": "A",
+      "tag_cn_long": "带有印刷图案的鞋子。"
     },
     {
       "name": "Print shorts",
@@ -702,9 +702,9 @@
       "wiki_url": "/wiki_pages/print_shorts",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花短裤",
+      "confidence": "A",
+      "tag_cn_long": "带有非常规印刷图案的短裤。"
     },
     {
       "name": "Print slippers",
@@ -712,9 +712,9 @@
       "wiki_url": "/wiki_pages/print_slippers",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花拖鞋",
+      "confidence": "A",
+      "tag_cn_long": "带有印刷图案的拖鞋。"
     },
     {
       "name": "Print socks",
@@ -722,9 +722,9 @@
       "wiki_url": "/wiki_pages/print_socks",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花袜子",
+      "confidence": "A",
+      "tag_cn_long": "印有独特图案的袜子。"
     },
     {
       "name": "Print swimsuit",
@@ -732,9 +732,9 @@
       "wiki_url": "/wiki_pages/print_swimsuit",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花泳衣",
+      "confidence": "A",
+      "tag_cn_long": "具有非常规图案的泳衣。"
     },
     {
       "name": "Print bikini",
@@ -742,9 +742,9 @@
       "wiki_url": "/wiki_pages/print_bikini",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花比基尼",
+      "confidence": "A",
+      "tag_cn_long": "印有图案的比基尼。"
     },
     {
       "name": "Print thighhighs",
@@ -752,9 +752,9 @@
       "wiki_url": "/wiki_pages/print_thighhighs",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花过膝袜",
+      "confidence": "A",
+      "tag_cn_long": "印有独特图案的过膝袜。"
     },
     {
       "name": "Print umbrella",
@@ -762,9 +762,9 @@
       "wiki_url": "/wiki_pages/print_umbrella",
       "category_path": "Print items",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花伞",
+      "confidence": "A",
+      "tag_cn_long": "带有非常规印刷图案的伞。"
     }
   ],
   "total_tags": 73,

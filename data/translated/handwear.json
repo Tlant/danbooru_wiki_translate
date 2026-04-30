@@ -104,9 +104,9 @@
       "wiki_url": "/wiki_pages/partially_fingerless_gloves",
       "category_path": "Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "部分露指手套",
+      "confidence": "A",
+      "tag_cn_long": "一种部分手指缺失的露指手套，有些手指被覆盖而另一些则没有。"
     },
     {
       "name": "Fold-over gloves",
@@ -114,9 +114,9 @@
       "wiki_url": "/wiki_pages/fold-over_gloves",
       "category_path": "Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翻边手套",
+      "confidence": "B",
+      "tag_cn_long": "手套上部可翻折下来形成袖口的手套。"
     },
     {
       "name": "Glove cuffs",
@@ -124,9 +124,9 @@
       "wiki_url": "/wiki_pages/glove_cuffs",
       "category_path": "Gloves",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手套袖口",
+      "confidence": "A",
+      "tag_cn_long": "手套的袖口部分。"
     },
     {
       "name": "Half gloves",
@@ -134,9 +134,9 @@
       "wiki_url": "/wiki_pages/half_gloves",
       "category_path": "Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半指手套",
+      "confidence": "A",
+      "tag_cn_long": "一种只覆盖手指或长度不到手腕的手套。"
     },
     {
       "name": "Paw gloves",
@@ -144,9 +144,9 @@
       "wiki_url": "/wiki_pages/paw_gloves",
       "category_path": "Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兽掌手套",
+      "confidence": "A",
+      "tag_cn_long": "模仿动物爪子的手套，常与兽耳或动物服装搭配。"
     },
     {
       "name": "Cat paws",
@@ -154,9 +154,9 @@
       "wiki_url": "/wiki_pages/cat_paws",
       "category_path": "Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫爪手",
+      "confidence": "B",
+      "tag_cn_long": "人类或人形角色具有猫爪代替手，或佩戴猫主题的爪套。"
     },
     {
       "name": "Torn gloves",
@@ -164,9 +164,9 @@
       "wiki_url": "/wiki_pages/torn_gloves",
       "category_path": "Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破损手套",
+      "confidence": "A",
+      "tag_cn_long": "被撕裂的手套。"
     },
     {
       "name": "Layered gloves",
@@ -174,9 +174,9 @@
       "wiki_url": "/wiki_pages/layered_gloves",
       "category_path": "Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叠穿手套",
+      "confidence": "A",
+      "tag_cn_long": "多层手套叠穿在一起。"
     },
     {
       "name": "Cross-laced gloves",
@@ -184,9 +184,9 @@
       "wiki_url": "/wiki_pages/cross-laced_gloves",
       "category_path": "Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉系带手套",
+      "confidence": "A",
+      "tag_cn_long": "手套上有交叉的系带、绳子或丝带装饰。"
     },
     {
       "name": "Glove cutout",
@@ -194,9 +194,9 @@
       "wiki_url": "/wiki_pages/glove_cutout",
       "category_path": "Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手套镂空",
+      "confidence": "B",
+      "tag_cn_long": "手套上带有镂空设计，通常在手背部位。"
     },
     {
       "name": "Print gloves",
@@ -204,9 +204,9 @@
       "wiki_url": "/wiki_pages/print_gloves",
       "category_path": "Glove prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花手套",
+      "confidence": "A",
+      "tag_cn_long": "带有印花或图案的手套。"
     },
     {
       "name": "Striped gloves",
@@ -214,9 +214,9 @@
       "wiki_url": "/wiki_pages/striped_gloves",
       "category_path": "Glove prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹手套",
+      "confidence": "A",
+      "tag_cn_long": "带有条纹图案的手套。"
     },
     {
       "name": "Paw print palms",
@@ -224,9 +224,9 @@
       "wiki_url": "/wiki_pages/paw_print_palms",
       "category_path": "Glove prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爪印掌心",
+      "confidence": "A",
+      "tag_cn_long": "手套掌心部位有爪印设计，通常每只手一个爪印。"
     },
     {
       "name": "cow print gloves",
@@ -234,9 +234,9 @@
       "wiki_url": "/wiki_pages/cow_print_gloves",
       "category_path": "Glove prints",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奶牛花纹手套",
+      "confidence": "A",
+      "tag_cn_long": "带有奶牛花纹图案的手套。"
     },
     {
       "name": "Glove bow",
@@ -244,9 +244,9 @@
       "wiki_url": "/wiki_pages/glove_bow",
       "category_path": "Glove accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手套蝴蝶结",
+      "confidence": "A",
+      "tag_cn_long": "戴在手套上的小蝴蝶结装饰。"
     },
     {
       "name": "Spiked gloves",
@@ -264,9 +264,9 @@
       "wiki_url": "/wiki_pages/fur-trimmed_gloves",
       "category_path": "Glove trims",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛边手套",
+      "confidence": "A",
+      "tag_cn_long": "手套边缘带有毛皮镶边。"
     },
     {
       "name": "Frilled gloves",
@@ -274,9 +274,9 @@
       "wiki_url": "/wiki_pages/frilled_gloves",
       "category_path": "Glove trims",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边手套",
+      "confidence": "A",
+      "tag_cn_long": "手套上带有荷叶边装饰。"
     },
     {
       "name": "Lace-trimmed gloves",
@@ -284,9 +284,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_gloves",
       "category_path": "Glove trims",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝边手套",
+      "confidence": "A",
+      "tag_cn_long": "手套边缘带有蕾丝花边装饰。"
     },
     {
       "name": "Ribbon-trimmed gloves",
@@ -294,9 +294,9 @@
       "wiki_url": "/wiki_pages/ribbon-trimmed_gloves",
       "category_path": "Glove trims",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缎带镶边手套",
+      "confidence": "A",
+      "tag_cn_long": "手套末端带有细长缎带装饰的款式。"
     },
     {
       "name": "Single glove",
@@ -304,9 +304,9 @@
       "wiki_url": "/wiki_pages/single_glove",
       "category_path": "Asymmetrical Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单只手套",
+      "confidence": "A",
+      "tag_cn_long": "角色只在一只手上戴手套。"
     },
     {
       "name": "Mismatched gloves",
@@ -314,9 +314,9 @@
       "wiki_url": "/wiki_pages/mismatched_gloves",
       "category_path": "Asymmetrical Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不对称手套",
+      "confidence": "A",
+      "tag_cn_long": "两只手套颜色或图案不相同。"
     },
     {
       "name": "Single elbow glove",
@@ -324,9 +324,9 @@
       "wiki_url": "/wiki_pages/single_elbow_glove",
       "category_path": "Asymmetrical Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单只长手套",
+      "confidence": "A",
+      "tag_cn_long": "角色只在一只手上戴及肘的长手套。"
     },
     {
       "name": "Single fingerless glove",
@@ -334,9 +334,9 @@
       "wiki_url": "/wiki_pages/single_fingerless_glove",
       "category_path": "Asymmetrical Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单只露指手套",
+      "confidence": "A",
+      "tag_cn_long": "角色只在一只手上戴没有手指部分的手套。"
     },
     {
       "name": "Uneven gloves",
@@ -344,9 +344,9 @@
       "wiki_url": "/wiki_pages/uneven_gloves",
       "category_path": "Asymmetrical Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不等长手套",
+      "confidence": "A",
+      "tag_cn_long": "两只手套长度不一致。"
     },
     {
       "name": "Yugake",
@@ -364,9 +364,9 @@
       "wiki_url": "/wiki_pages/unworn_gloves",
       "category_path": "Asymmetrical Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未穿戴的手套",
+      "confidence": "A",
+      "tag_cn_long": "手套出现在图中但未被角色穿着。"
     },
     {
       "name": "Archery shooting glove",
@@ -374,9 +374,9 @@
       "wiki_url": "/wiki_pages/archery_shooting_glove",
       "category_path": "Asymmetrical Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "射箭手套",
+      "confidence": "A",
+      "tag_cn_long": "西方射箭用的三指手套，保护拉弦的手指。"
     },
     {
       "name": "Artist glove",
@@ -384,9 +384,9 @@
       "wiki_url": "/wiki_pages/artist_glove",
       "category_path": "Asymmetrical Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绘画手套",
+      "confidence": "A",
+      "tag_cn_long": "画家使用的露两指手套，防止手汗弄脏画面或减少数位板摩擦。"
     },
     {
       "name": "Falconry glove",
@@ -394,9 +394,9 @@
       "wiki_url": "/wiki_pages/falconry_glove",
       "category_path": "Asymmetrical Gloves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猎鹰手套",
+      "confidence": "A",
+      "tag_cn_long": "用于猎鹰的大型加厚手套，可保护手臂免受鹰爪伤害。"
     },
     {
       "name": "Fishnet gloves",
@@ -404,9 +404,9 @@
       "wiki_url": "/wiki_pages/fishnet_gloves",
       "category_path": "Glove Materials",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渔网手套",
+      "confidence": "A",
+      "tag_cn_long": "由网状材料制成的手套。"
     },
     {
       "name": "Lace gloves",
@@ -414,9 +414,9 @@
       "wiki_url": "/wiki_pages/lace_gloves",
       "category_path": "Glove Materials",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝手套",
+      "confidence": "A",
+      "tag_cn_long": "完全由蕾丝制成的手套。"
     },
     {
       "name": "Latex gloves",
@@ -424,9 +424,9 @@
       "wiki_url": "/wiki_pages/latex_gloves",
       "category_path": "Glove Materials",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳胶手套",
+      "confidence": "A",
+      "tag_cn_long": "由乳胶制成的手套。"
     },
     {
       "name": "Leather gloves",
@@ -434,9 +434,9 @@
       "wiki_url": "/wiki_pages/leather_gloves",
       "category_path": "Glove Materials",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皮手套",
+      "confidence": "A",
+      "tag_cn_long": "由皮革制成的手套。"
     },
     {
       "name": "Rubber gloves",
@@ -444,9 +444,9 @@
       "wiki_url": "/wiki_pages/rubber_gloves",
       "category_path": "Glove Materials",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橡胶手套",
+      "confidence": "A",
+      "tag_cn_long": "用于清洁或处理化学品的橡胶一次性手套。"
     },
     {
       "name": "See-through gloves",
@@ -454,9 +454,9 @@
       "wiki_url": "/wiki_pages/see-through_gloves",
       "category_path": "Glove Materials",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透明手套",
+      "confidence": "A",
+      "tag_cn_long": "透明材质制成的手套，属于透视服装。"
     },
     {
       "name": "adjusting gloves",
@@ -464,9 +464,9 @@
       "wiki_url": "/wiki_pages/adjusting_gloves",
       "category_path": "Glove interactions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调整手套",
+      "confidence": "A",
+      "tag_cn_long": "角色正在调整手套的动作，通常是为拉紧或调整位置。"
     },
     {
       "name": "blood on gloves",
@@ -474,9 +474,9 @@
       "wiki_url": "/wiki_pages/blood_on_gloves",
       "category_path": "Glove interactions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "血迹手套",
+      "confidence": "A",
+      "tag_cn_long": "手套上沾有鲜血。"
     },
     {
       "name": "biting glove",
@@ -484,9 +484,9 @@
       "wiki_url": "/wiki_pages/biting_glove",
       "category_path": "Glove interactions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咬手套",
+      "confidence": "A",
+      "tag_cn_long": "角色用嘴咬住手套以穿上或摘下。"
     },
     {
       "name": "glove in mouth",
@@ -494,9 +494,9 @@
       "wiki_url": "/wiki_pages/glove_in_mouth",
       "category_path": "Glove interactions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衔手套",
+      "confidence": "A",
+      "tag_cn_long": "角色将手套含在嘴里的动作。"
     },
     {
       "name": "glove pull",
@@ -504,9 +504,9 @@
       "wiki_url": "/wiki_pages/glove_pull",
       "category_path": "Glove interactions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉手套",
+      "confidence": "B",
+      "tag_cn_long": "角色正在拉扯手套，可能是戴上或脱下。"
     },
     {
       "name": "holding gloves",
@@ -514,9 +514,9 @@
       "wiki_url": "/wiki_pages/holding_gloves",
       "category_path": "Glove interactions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "持手套",
+      "confidence": "A",
+      "tag_cn_long": "角色用手握着一只或一双手套。"
     },
     {
       "name": "putting on gloves",
@@ -524,9 +524,9 @@
       "wiki_url": "/wiki_pages/putting_on_gloves",
       "category_path": "Glove interactions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戴手套",
+      "confidence": "A",
+      "tag_cn_long": "角色正在将手套戴在手上。"
     },
     {
       "name": "removing glove",
@@ -534,9 +534,9 @@
       "wiki_url": "/wiki_pages/removing_glove",
       "category_path": "Glove interactions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脱手套",
+      "confidence": "A",
+      "tag_cn_long": "角色正在将手套从手上脱下。"
     },
     {
       "name": "aqua gloves",
@@ -544,9 +544,9 @@
       "wiki_url": "/wiki_pages/aqua_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水蓝手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为水蓝色。"
     },
     {
       "name": "black gloves",
@@ -554,9 +554,9 @@
       "wiki_url": "/wiki_pages/black_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为黑色。"
     },
     {
       "name": "blue gloves",
@@ -564,9 +564,9 @@
       "wiki_url": "/wiki_pages/blue_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为蓝色。"
     },
     {
       "name": "brown gloves",
@@ -574,9 +574,9 @@
       "wiki_url": "/wiki_pages/brown_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为棕色。"
     },
     {
       "name": "green gloves",
@@ -584,9 +584,9 @@
       "wiki_url": "/wiki_pages/green_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为绿色。"
     },
     {
       "name": "grey gloves",
@@ -594,9 +594,9 @@
       "wiki_url": "/wiki_pages/grey_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为灰色。"
     },
     {
       "name": "multicolored gloves",
@@ -604,9 +604,9 @@
       "wiki_url": "/wiki_pages/multicolored_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色手套",
+      "confidence": "A",
+      "tag_cn_long": "单只手套上有多种颜色。"
     },
     {
       "name": "orange gloves",
@@ -614,9 +614,9 @@
       "wiki_url": "/wiki_pages/orange_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为橙色。"
     },
     {
       "name": "pink gloves",
@@ -624,9 +624,9 @@
       "wiki_url": "/wiki_pages/pink_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为粉色。"
     },
     {
       "name": "purple gloves",
@@ -634,9 +634,9 @@
       "wiki_url": "/wiki_pages/purple_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为紫色。"
     },
     {
       "name": "red gloves",
@@ -644,9 +644,9 @@
       "wiki_url": "/wiki_pages/red_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为红色。"
     },
     {
       "name": "white gloves",
@@ -654,9 +654,9 @@
       "wiki_url": "/wiki_pages/white_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为白色。"
     },
     {
       "name": "yellow gloves",
@@ -664,9 +664,9 @@
       "wiki_url": "/wiki_pages/yellow_gloves",
       "category_path": "Glove colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄手套",
+      "confidence": "A",
+      "tag_cn_long": "手套颜色为黄色。"
     },
     {
       "name": "gloves",
@@ -674,9 +674,9 @@
       "wiki_url": "/wiki_pages/gloves",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手套",
+      "confidence": "A",
+      "tag_cn_long": "覆盖手掌和手指的穿戴品，每根手指有独立套鞘。"
     },
     {
       "name": "mechanical hands",
@@ -684,9 +684,9 @@
       "wiki_url": "/wiki_pages/mechanical_hands",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "机械手",
+      "confidence": "A",
+      "tag_cn_long": "角色拥有机械结构的手部。"
     },
     {
       "name": "doll joints",
@@ -694,9 +694,9 @@
       "wiki_url": "/wiki_pages/doll_joints",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "娃娃关节",
+      "confidence": "A",
+      "tag_cn_long": "角色的身体关节类似人偶，连接处有明显缝隙，常见于蔷薇少女风格。"
     },
     {
       "name": "baseball mitt",
@@ -704,9 +704,9 @@
       "wiki_url": "/wiki_pages/baseball_mitt",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棒球手套",
+      "confidence": "A",
+      "tag_cn_long": "用于接棒球的连指手套。"
     },
     {
       "name": "boxing gloves",
@@ -714,9 +714,9 @@
       "wiki_url": "/wiki_pages/boxing_gloves",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拳击手套",
+      "confidence": "A",
+      "tag_cn_long": "拳击运动中使用的厚垫手套，用于保护手部。"
     },
     {
       "name": "bridal gauntlets",
@@ -724,9 +724,9 @@
       "wiki_url": "/wiki_pages/bridal_gauntlets",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新娘长手套",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身长手套，通常到肘部，用指环固定，常见于婚纱。"
     },
     {
       "name": "finger cots",
@@ -734,9 +734,9 @@
       "wiki_url": "/wiki_pages/finger_cots",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指套",
+      "confidence": "A",
+      "tag_cn_long": "单独覆盖手指的护套，像倒过来的露指手套。"
     },
     {
       "name": "gauntlets",
@@ -744,9 +744,9 @@
       "wiki_url": "/wiki_pages/gauntlets",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金属手套",
+      "confidence": "A",
+      "tag_cn_long": "一种金属或硬质材料制成的手部护甲，通常有延伸至前臂的袖口。"
     },
     {
       "name": "kote",
@@ -754,9 +754,9 @@
       "wiki_url": "/wiki_pages/kote",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "笼手",
+      "confidence": "A",
+      "tag_cn_long": "日本甲胄中覆盖手臂和肩部的装甲袖套，常由小铁片缝制而成。"
     },
     {
       "name": "kurokote",
@@ -764,9 +764,9 @@
       "wiki_url": "/wiki_pages/kurokote",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑笼手",
+      "confidence": "A",
+      "tag_cn_long": "一种黑色铁片制成的笼手（日式臂甲）。"
     },
     {
       "name": "mittens",
@@ -774,9 +774,9 @@
       "wiki_url": "/wiki_pages/mittens",
       "category_path": "Other handwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连指手套",
+      "confidence": "A",
+      "tag_cn_long": "除拇指外其他四指相连的手套。"
     },
     {
       "name": "oven mitts",
@@ -794,9 +794,9 @@
       "wiki_url": "/wiki_pages/hand_puppets",
       "category_path": "Other handwear",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手偶",
+      "confidence": "A",
+      "tag_cn_long": "套在手上操纵的玩偶，如布偶戏中使用。"
     },
     {
       "name": "Bandaged hand",
@@ -804,9 +804,9 @@
       "wiki_url": "/wiki_pages/bandaged_hand",
       "category_path": "Hand Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缠绷带的手",
+      "confidence": "A",
+      "tag_cn_long": "角色的手被绷带缠绕的状态。"
     },
     {
       "name": "Bandaid on hand",
@@ -814,9 +814,9 @@
       "wiki_url": "/wiki_pages/bandaid_on_hand",
       "category_path": "Hand Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手部创可贴",
+      "confidence": "A",
+      "tag_cn_long": "贴在手上的创可贴。"
     },
     {
       "name": "Claw ring",
@@ -834,9 +834,9 @@
       "wiki_url": "/wiki_pages/finger_puppet",
       "category_path": "Hand Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指偶",
+      "confidence": "A",
+      "tag_cn_long": "套在手指上的小型玩偶。"
     },
     {
       "name": "Hand chains",
@@ -854,9 +854,9 @@
       "wiki_url": "/wiki_pages/string_around_finger",
       "category_path": "Hand Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指上的线",
+      "confidence": "A",
+      "tag_cn_long": "缠绕在手指上的线绳。"
     },
     {
       "name": "string of fate",
@@ -864,9 +864,9 @@
       "wiki_url": "/wiki_pages/string_of_fate",
       "category_path": "Hand Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "命运红线",
+      "confidence": "A",
+      "tag_cn_long": "东亚传说中连接有缘人小指的红色线绳，象征宿命姻缘。"
     },
     {
       "name": "Thimble",
@@ -874,9 +874,9 @@
       "wiki_url": "/wiki_pages/thimble",
       "category_path": "Hand Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "顶针",
+      "confidence": "A",
+      "tag_cn_long": "缝纫时戴在手指上用于推针的金属或塑料小帽。"
     },
     {
       "name": "Rings",
@@ -884,9 +884,9 @@
       "wiki_url": "/wiki_pages/ring",
       "category_path": "Hand Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戒指",
+      "confidence": "A",
+      "tag_cn_long": "佩戴在手指上的环形饰品。"
     },
     {
       "name": "Butterfly ring",
@@ -894,9 +894,9 @@
       "wiki_url": "/wiki_pages/butterfly_ring",
       "category_path": "Hand Accessories",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶戒指",
+      "confidence": "A",
+      "tag_cn_long": "带有蝴蝶造型的戒指。"
     },
     {
       "name": "Ornate ring",
@@ -914,9 +914,9 @@
       "wiki_url": "/wiki_pages/finger_bow",
       "category_path": "Hand Accessories",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指蝴蝶结",
+      "confidence": "C",
+      "tag_cn_long": "系在手指上的蝴蝶结状装饰。"
     },
     {
       "name": "Wedding ring",
@@ -934,9 +934,9 @@
       "wiki_url": "/wiki_pages/body_horror",
       "category_path": "Hand markings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "身体恐怖",
+      "confidence": "A",
+      "tag_cn_long": "一种恐怖题材，通过展现人体变异、残害等令人不安的画面来制造恐怖。"
     },
     {
       "name": "Finger tattoo",
@@ -944,9 +944,9 @@
       "wiki_url": "/wiki_pages/finger_tattoo",
       "category_path": "Hand markings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手指纹身",
+      "confidence": "A",
+      "tag_cn_long": "位于手指上的纹身图案。"
     },
     {
       "name": "Hand eye",
@@ -954,9 +954,9 @@
       "wiki_url": "/wiki_pages/hand_eye",
       "category_path": "Hand markings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手眼",
+      "confidence": "A",
+      "tag_cn_long": "一只眼睛生长在手掌上的现象。"
     },
     {
       "name": "Hand jewel",
@@ -974,9 +974,9 @@
       "wiki_url": "/wiki_pages/material_growth",
       "category_path": "Hand markings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "物质增生",
+      "confidence": "A",
+      "tag_cn_long": "角色皮肤上出现水晶、石头、骨头等异物生长的现象。"
     },
     {
       "name": "Hand mouth",
@@ -984,9 +984,9 @@
       "wiki_url": "/wiki_pages/hand_mouth",
       "category_path": "Hand markings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手嘴",
+      "confidence": "A",
+      "tag_cn_long": "手掌上长出嘴巴的现象。"
     },
     {
       "name": "Hand tattoo",
@@ -994,9 +994,9 @@
       "wiki_url": "/wiki_pages/hand_tattoo",
       "category_path": "Hand markings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手部纹身",
+      "confidence": "A",
+      "tag_cn_long": "角色手上的纹身图案。"
     },
     {
       "name": "henna",
@@ -1004,9 +1004,9 @@
       "wiki_url": "/wiki_pages/henna",
       "category_path": "Hand markings",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海娜",
+      "confidence": "A",
+      "tag_cn_long": "用海娜植物颜料在皮肤上绘制的装饰图案。"
     },
     {
       "name": "no gloves",
@@ -1014,9 +1014,9 @@
       "wiki_url": "/wiki_pages/no_gloves",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无手套",
+      "confidence": "A",
+      "tag_cn_long": "角色通常戴手套但此时没有佩戴。"
     },
     {
       "name": "Armbinder",
@@ -1024,9 +1024,9 @@
       "wiki_url": "/wiki_pages/armbinder",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂缚",
+      "confidence": "B",
+      "tag_cn_long": "一种束缚手臂的服饰或道具。"
     },
     {
       "name": "Hand hair",
@@ -1034,9 +1034,9 @@
       "wiki_url": "/wiki_pages/hand_hair",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手毛",
+      "confidence": "A",
+      "tag_cn_long": "手部生长的体毛。"
     },
     {
       "name": "Knuckle hair",
@@ -1044,9 +1044,9 @@
       "wiki_url": "/wiki_pages/knuckle_hair",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指节毛",
+      "confidence": "A",
+      "tag_cn_long": "手指指关节上生长的体毛。"
     }
   ],
   "total_tags": 97,

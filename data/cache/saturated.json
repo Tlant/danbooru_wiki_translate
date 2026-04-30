@@ -1,0 +1,6 @@
+{
+  "tag": "saturated",
+  "tag_cn": "高饱和",
+  "confidence": "A",
+  "tag_cn_long": "颜色饱和度极高的图像，可能引起视觉疲劳。"
+}

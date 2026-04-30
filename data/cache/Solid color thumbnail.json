@@ -1,0 +1,6 @@
+{
+  "tag": "Solid color thumbnail",
+  "tag_cn": "纯色缩略图",
+  "confidence": "A",
+  "tag_cn_long": "图像的缩略图仅显示为单一颜色矩形，通常由于动画或透明背景导致。"
+}

@@ -54,9 +54,9 @@
       "wiki_url": "/wiki_pages/backlighting",
       "category_path": "Directional",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "逆光",
+      "confidence": "A",
+      "tag_cn_long": "光源位于被摄主体后方，使边缘发光。"
     },
     {
       "name": "overlighting",
@@ -104,9 +104,9 @@
       "wiki_url": "/wiki_pages/spotlight",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "聚光灯",
+      "confidence": "A",
+      "tag_cn_long": "一束聚焦的光线照射到某人或某物上，常用于舞台表演等场合。"
     },
     {
       "name": "spotlight",
@@ -114,9 +114,9 @@
       "wiki_url": "/wiki_pages/spotlight",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "聚光灯",
+      "confidence": "A",
+      "tag_cn_long": "一束聚焦的光线照射到某人或某物上，常用于舞台表演等场合。"
     },
     {
       "name": "light rays",
@@ -124,9 +124,9 @@
       "wiki_url": "/wiki_pages/light_rays",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "光线",
+      "confidence": "A",
+      "tag_cn_long": "从光源发出的可见光束，常穿过物体间隙。"
     },
     {
       "name": "sunbeam",
@@ -134,9 +134,9 @@
       "wiki_url": "/wiki_pages/sunbeam",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阳光光束",
+      "confidence": "A",
+      "tag_cn_long": "从云层或物体缝隙中透出的阳光光束，常呈放射状。"
     },
     {
       "name": "light rays",
@@ -144,9 +144,9 @@
       "wiki_url": "/wiki_pages/light_rays",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "光线",
+      "confidence": "A",
+      "tag_cn_long": "从光源发出的可见光束，常穿过物体间隙。"
     },
     {
       "name": "moonbeam",
@@ -154,9 +154,9 @@
       "wiki_url": "/wiki_pages/moonbeam",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月光光束",
+      "confidence": "A",
+      "tag_cn_long": "月光形成的清晰光柱。"
     },
     {
       "name": "light rays",
@@ -164,9 +164,9 @@
       "wiki_url": "/wiki_pages/light_rays",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "光线",
+      "confidence": "A",
+      "tag_cn_long": "从光源发出的可见光束，常穿过物体间隙。"
     },
     {
       "name": "underwater",
@@ -174,9 +174,9 @@
       "wiki_url": "/wiki_pages/underwater",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水下",
+      "confidence": "A",
+      "tag_cn_long": "画面在水下拍摄或完全发生在水下的场景。"
     },
     {
       "name": "dim lighting",
@@ -184,9 +184,9 @@
       "wiki_url": "/wiki_pages/dim_lighting",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "昏暗光线",
+      "confidence": "A",
+      "tag_cn_long": "光线微弱、亮度较低的环境照明。"
     },
     {
       "name": "sunlight",
@@ -194,9 +194,9 @@
       "wiki_url": "/wiki_pages/sunlight",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阳光",
+      "confidence": "A",
+      "tag_cn_long": "太阳的光线。"
     },
     {
       "name": "moonlight",
@@ -204,9 +204,9 @@
       "wiki_url": "/wiki_pages/moonlight",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月光",
+      "confidence": "A",
+      "tag_cn_long": "月亮反射的淡白色或蓝色光线。"
     },
     {
       "name": "crack of light",
@@ -214,9 +214,9 @@
       "wiki_url": "/wiki_pages/crack_of_light",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缝隙光",
+      "confidence": "A",
+      "tag_cn_long": "黑暗场景中从门缝等狭小缝隙透入的一线光亮。"
     },
     {
       "name": "dappled sunlight",
@@ -224,9 +224,9 @@
       "wiki_url": "/wiki_pages/dappled_sunlight",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斑驳阳光",
+      "confidence": "A",
+      "tag_cn_long": "阳光透过树叶等遮挡物在地面或物体上形成的光影斑驳效果。"
     },
     {
       "name": "Sunlight",
@@ -244,9 +244,9 @@
       "wiki_url": "/wiki_pages/shadow",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴影",
+      "confidence": "A",
+      "tag_cn_long": "物体遮挡光线产生的暗部。"
     },
     {
       "name": "tree",
@@ -254,9 +254,9 @@
       "wiki_url": "/wiki_pages/tree",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "树",
+      "confidence": "A",
+      "tag_cn_long": "多年生木本植物，通常有主干和枝叶。"
     },
     {
       "name": "dappled moonlight",
@@ -264,9 +264,9 @@
       "wiki_url": "/wiki_pages/dappled_moonlight",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斑驳月光",
+      "confidence": "A",
+      "tag_cn_long": "月光被遮挡物阻挡后在表面形成的斑驳光影效果。"
     },
     {
       "name": "window shadow",
@@ -274,9 +274,9 @@
       "wiki_url": "/wiki_pages/window_shadow",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "窗影",
+      "confidence": "A",
+      "tag_cn_long": "由窗户框架、百叶窗等投下的阴影。"
     },
     {
       "name": "Shadow",
@@ -294,9 +294,9 @@
       "wiki_url": "/wiki_pages/window",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "窗户",
+      "confidence": "A",
+      "tag_cn_long": "建筑中用于采光、通风和观察外部的玻璃结构。"
     },
     {
       "name": "caustics",
@@ -344,9 +344,9 @@
       "wiki_url": "/wiki_pages/underwater",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水下",
+      "confidence": "A",
+      "tag_cn_long": "画面在水下拍摄或完全发生在水下的场景。"
     },
     {
       "name": "dispersion (optics)",
@@ -354,9 +354,9 @@
       "wiki_url": "/wiki_pages/dispersion_%28optics%29",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "色散",
+      "confidence": "A",
+      "tag_cn_long": "光线通过介质时因波长不同而分离成不同颜色的现象。"
     },
     {
       "name": "Rainbow",
@@ -364,9 +364,9 @@
       "wiki_url": "/wiki_pages/rainbow",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩虹",
+      "confidence": "A",
+      "tag_cn_long": "天空中由阳光折射形成的彩色圆弧，颜色为红橙黄绿蓝靛紫。"
     },
     {
       "name": "prism",
@@ -374,9 +374,9 @@
       "wiki_url": "/wiki_pages/prism",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棱镜",
+      "confidence": "A",
+      "tag_cn_long": "一种几何体，具有平行的底面，常用于产生彩虹效果。"
     },
     {
       "name": "refraction",
@@ -384,9 +384,9 @@
       "wiki_url": "/wiki_pages/refraction",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "折射",
+      "confidence": "A",
+      "tag_cn_long": "光线通过透明或半透明介质（如水、玻璃）时发生弯曲的光学现象。"
     },
     {
       "name": "refraction",
@@ -394,9 +394,9 @@
       "wiki_url": "/wiki_pages/refraction",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "折射",
+      "confidence": "A",
+      "tag_cn_long": "光线通过透明或半透明介质（如水、玻璃）时发生弯曲的光学现象。"
     },
     {
       "name": "glass",
@@ -404,9 +404,9 @@
       "wiki_url": "/wiki_pages/glass",
       "category_path": "Types",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玻璃",
+      "confidence": "A",
+      "tag_cn_long": "由硅石和氧化钠熔炼而成的透明固体材料。"
     },
     {
       "name": "water",
@@ -434,9 +434,9 @@
       "wiki_url": "/wiki_pages/morning",
       "category_path": "Time of day lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "早晨",
+      "confidence": "A",
+      "tag_cn_long": "一天中日出后到中午前的时间段，光线明亮温暖。"
     },
     {
       "name": "dawn",
@@ -444,9 +444,9 @@
       "wiki_url": "/wiki_pages/dawn",
       "category_path": "Time of day lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黎明",
+      "confidence": "A",
+      "tag_cn_long": "日出前天空微亮时，太阳尚未露出地平线，光线偏白、蓝或黄。"
     },
     {
       "name": "twilight",
@@ -454,9 +454,9 @@
       "wiki_url": "/wiki_pages/twilight",
       "category_path": "Time of day lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晨昏",
+      "confidence": "A",
+      "tag_cn_long": "日出前或日落后天空仍有余光的时间段，光线柔和偏紫或红。"
     },
     {
       "name": "sunrise",
@@ -474,9 +474,9 @@
       "wiki_url": "/wiki_pages/day",
       "category_path": "Time of day lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白天",
+      "confidence": "A",
+      "tag_cn_long": "太阳升起后到日落前的时段，光线充足明亮。"
     },
     {
       "name": "evening",
@@ -484,9 +484,9 @@
       "wiki_url": "/wiki_pages/evening",
       "category_path": "Time of day lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "傍晚",
+      "confidence": "A",
+      "tag_cn_long": "太阳即将落山到完全落下的时段，光线渐暗。"
     },
     {
       "name": "sunset",
@@ -494,9 +494,9 @@
       "wiki_url": "/wiki_pages/sunset",
       "category_path": "Time of day lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日落",
+      "confidence": "A",
+      "tag_cn_long": "太阳向地平线下沉的过程，天空呈橙色或红色调。"
     },
     {
       "name": "twilight",
@@ -504,9 +504,9 @@
       "wiki_url": "/wiki_pages/twilight",
       "category_path": "Time of day lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晨昏",
+      "confidence": "A",
+      "tag_cn_long": "日出前或日落后天空仍有余光的时间段，光线柔和偏紫或红。"
     },
     {
       "name": "dusk",
@@ -514,9 +514,9 @@
       "wiki_url": "/wiki_pages/dusk",
       "category_path": "Time of day lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄昏",
+      "confidence": "A",
+      "tag_cn_long": "日落后天空仍有微光时，太阳已完全隐没，光线偏橙、红、紫色。"
     },
     {
       "name": "night",
@@ -524,9 +524,9 @@
       "wiki_url": "/wiki_pages/night",
       "category_path": "Time of day lighting",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夜晚",
+      "confidence": "A",
+      "tag_cn_long": "太阳完全落下后的黑暗时段，天空通常呈黑色或深蓝色。"
     },
     {
       "name": "stage lights",
@@ -534,9 +534,9 @@
       "wiki_url": "/wiki_pages/stage_lights",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "舞台灯光",
+      "confidence": "A",
+      "tag_cn_long": "演出时舞台上使用的明亮照明灯具。"
     },
     {
       "name": "stage",
@@ -544,9 +544,9 @@
       "wiki_url": "/wiki_pages/stage",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "舞台",
+      "confidence": "A",
+      "tag_cn_long": "用于表演、演讲等的平台或区域。"
     },
     {
       "name": "sun",
@@ -554,9 +554,9 @@
       "wiki_url": "/wiki_pages/sun",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太阳",
+      "confidence": "A",
+      "tag_cn_long": "太阳系中心的恒星，是白天的自然光源。"
     },
     {
       "name": "moon",
@@ -564,9 +564,9 @@
       "wiki_url": "/wiki_pages/moon",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月亮",
+      "confidence": "A",
+      "tag_cn_long": "地球的天然卫星，反射太阳光，在夜晚可见。"
     },
     {
       "name": "glowstick",
@@ -574,9 +574,9 @@
       "wiki_url": "/wiki_pages/glowstick",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荧光棒",
+      "confidence": "A",
+      "tag_cn_long": "一种化学发光棒，常用于演唱会等场合挥舞。"
     },
     {
       "name": "lamp",
@@ -584,9 +584,9 @@
       "wiki_url": "/wiki_pages/lamp",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灯具",
+      "confidence": "A",
+      "tag_cn_long": "放在桌子或地板上的可移动照明设备，如台灯、落地灯等。"
     },
     {
       "name": "desk lamp",
@@ -594,9 +594,9 @@
       "wiki_url": "/wiki_pages/desk_lamp",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "台灯",
+      "confidence": "A",
+      "tag_cn_long": "放置在书桌或工作台上的便携式人工光源。"
     },
     {
       "name": "lamppost",
@@ -604,9 +604,9 @@
       "wiki_url": "/wiki_pages/lamppost",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "路灯",
+      "confidence": "A",
+      "tag_cn_long": "固定在室外的路灯，用于照亮街道。"
     },
     {
       "name": "wall lamp",
@@ -614,9 +614,9 @@
       "wiki_url": "/wiki_pages/wall_lamp",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "壁灯",
+      "confidence": "A",
+      "tag_cn_long": "安装在墙壁上的灯具。"
     },
     {
       "name": "torch",
@@ -624,9 +624,9 @@
       "wiki_url": "/wiki_pages/torch",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火把",
+      "confidence": "A",
+      "tag_cn_long": "手持的燃烧火把，用于照明。"
     },
     {
       "name": "fire",
@@ -634,9 +634,9 @@
       "wiki_url": "/wiki_pages/fire",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火焰",
+      "confidence": "A",
+      "tag_cn_long": "燃烧现象，发出光和热。"
     },
     {
       "name": "embers",
@@ -644,9 +644,9 @@
       "wiki_url": "/wiki_pages/embers",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "余烬",
+      "confidence": "A",
+      "tag_cn_long": "火焰中或漂浮的发光余烬。"
     },
     {
       "name": "flashlight",
@@ -654,9 +654,9 @@
       "wiki_url": "/wiki_pages/flashlight",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手电筒",
+      "confidence": "A",
+      "tag_cn_long": "手持式电子照明设备，依靠电池供电。"
     },
     {
       "name": "lantern",
@@ -664,9 +664,9 @@
       "wiki_url": "/wiki_pages/lantern",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灯笼",
+      "confidence": "A",
+      "tag_cn_long": "便携式照明器具，通常有罩子保护火焰或灯泡。"
     },
     {
       "name": "oil lamp",
@@ -674,9 +674,9 @@
       "wiki_url": "/wiki_pages/oil_lamp",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "油灯",
+      "confidence": "A",
+      "tag_cn_long": "使用油作为燃料的灯具，有灯芯。"
     },
     {
       "name": "wooden lantern",
@@ -684,9 +684,9 @@
       "wiki_url": "/wiki_pages/wooden_lantern",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "木灯笼",
+      "confidence": "A",
+      "tag_cn_long": "由木头制成的灯笼。"
     },
     {
       "name": "ceiling light",
@@ -694,9 +694,9 @@
       "wiki_url": "/wiki_pages/ceiling_light",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "顶灯",
+      "confidence": "A",
+      "tag_cn_long": "安装在天花板上的灯具。"
     },
     {
       "name": "chandelier",
@@ -704,9 +704,9 @@
       "wiki_url": "/wiki_pages/chandelier",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊灯",
+      "confidence": "A",
+      "tag_cn_long": "悬挂在天花板上的装饰性灯具，通常有多盏灯。"
     },
     {
       "name": "candlelight",
@@ -714,9 +714,9 @@
       "wiki_url": "/wiki_pages/candlelight",
       "category_path": "Light sources",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "烛光",
+      "confidence": "A",
+      "tag_cn_long": "以蜡烛为主要光源的昏暗场景，光线呈琥珀色。"
     },
     {
       "name": "muzzle flash",
@@ -724,9 +724,9 @@
       "wiki_url": "/wiki_pages/muzzle_flash",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "枪口闪光",
+      "confidence": "A",
+      "tag_cn_long": "枪支开火时从枪口发出的闪光。"
     },
     {
       "name": "headlight",
@@ -734,9 +734,9 @@
       "wiki_url": "/wiki_pages/headlight",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前灯",
+      "confidence": "A",
+      "tag_cn_long": "车辆或火车前部的强光灯。"
     },
     {
       "name": "floodlights",
@@ -744,9 +744,9 @@
       "wiki_url": "/wiki_pages/floodlights",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泛光灯",
+      "confidence": "A",
+      "tag_cn_long": "用于照亮运动场、舞台或建筑物外墙的大型强光灯。"
     },
     {
       "name": "flare",
@@ -754,9 +754,9 @@
       "wiki_url": "/wiki_pages/flare",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "信号弹",
+      "confidence": "B",
+      "tag_cn_long": "一种产生明亮光线的烟火装置，用于信号或照明。"
     },
     {
       "name": "ultraviolet light",
@@ -764,9 +764,9 @@
       "wiki_url": "/wiki_pages/ultraviolet_light",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫外光",
+      "confidence": "A",
+      "tag_cn_long": "一种电磁辐射，能使黑光海报发光。"
     },
     {
       "name": "glowing headgear",
@@ -774,9 +774,9 @@
       "wiki_url": "/wiki_pages/glowing_headgear",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发光头饰",
+      "confidence": "A",
+      "tag_cn_long": "本身会发光的头部佩戴物。"
     },
     {
       "name": "shade",
@@ -784,9 +784,9 @@
       "wiki_url": "/wiki_pages/shade",
       "category_path": "Absence of light",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荫蔽",
+      "confidence": "B",
+      "tag_cn_long": "被遮蔽的区域，包括帽子在眼睛上投下的阴影。"
     },
     {
       "name": "tree shade",
@@ -794,9 +794,9 @@
       "wiki_url": "/wiki_pages/tree_shade",
       "category_path": "Absence of light",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "树荫",
+      "confidence": "A",
+      "tag_cn_long": "树木投下的阴影，常用于遮挡阳光。"
     },
     {
       "name": "shadow",
@@ -804,9 +804,9 @@
       "wiki_url": "/wiki_pages/shadow",
       "category_path": "Absence of light",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴影",
+      "confidence": "A",
+      "tag_cn_long": "物体遮挡光线产生的暗部。"
     },
     {
       "name": "colored shadow",
@@ -814,9 +814,9 @@
       "wiki_url": "/wiki_pages/colored_shadow",
       "category_path": "Absence of light",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩色阴影",
+      "confidence": "A",
+      "tag_cn_long": "非黑色的彩色阴影。"
     },
     {
       "name": "window shadow",
@@ -824,9 +824,9 @@
       "wiki_url": "/wiki_pages/window_shadow",
       "category_path": "Absence of light",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "窗影",
+      "confidence": "A",
+      "tag_cn_long": "由窗户框架、百叶窗等投下的阴影。"
     },
     {
       "name": "dark",
@@ -834,9 +834,9 @@
       "wiki_url": "/wiki_pages/dark",
       "category_path": "Absence of light",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "昏暗",
+      "confidence": "A",
+      "tag_cn_long": "环境光线不足，细节被掩盖的情况。"
     },
     {
       "name": "darkness",
@@ -844,9 +844,9 @@
       "wiki_url": "/wiki_pages/darkness",
       "category_path": "Absence of light",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑暗",
+      "confidence": "A",
+      "tag_cn_long": "一种缺乏光线的黑暗现象，通常表现为黑色云雾或墨色触手。"
     },
     {
       "name": "silhouette",
@@ -864,9 +864,9 @@
       "wiki_url": "/wiki_pages/see-through_silhouette",
       "category_path": "Absence of light",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透视剪影",
+      "confidence": "A",
+      "tag_cn_long": "透过半透明物体（如衣服或窗帘）可见的人体剪影。"
     }
   ],
   "total_tags": 82,

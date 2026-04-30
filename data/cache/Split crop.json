@@ -1,0 +1,6 @@
+{
+  "tag": "Split crop",
+  "tag_cn": "半侧裁切",
+  "confidence": "B",
+  "tag_cn_long": "画面仅展示角色身体的一侧（左右分割）。"
+}

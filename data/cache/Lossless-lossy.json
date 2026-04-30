@@ -1,0 +1,6 @@
+{
+  "tag": "Lossless-lossy",
+  "tag_cn": "无损转有损",
+  "confidence": "B",
+  "tag_cn_long": "将原本无损格式（如PNG）的图像转换为有损格式（如JPEG），导致质量下降。"
+}

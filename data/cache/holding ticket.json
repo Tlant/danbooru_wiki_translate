@@ -1,0 +1,6 @@
+{
+  "tag": "holding ticket",
+  "tag_cn": "拿票",
+  "confidence": "A",
+  "tag_cn_long": "角色手中拿着一张票（如门票、车票）。"
+}

@@ -60,9 +60,9 @@
       "wiki_url": "/wiki_pages/aqua_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "青色背景",
+      "confidence": "A",
+      "tag_cn_long": "纯色或主色调为青色/水蓝色的背景。"
     },
     {
       "name": "black background",
@@ -70,9 +70,9 @@
       "wiki_url": "/wiki_pages/black_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色背景",
+      "confidence": "A",
+      "tag_cn_long": "纯色或主色调为黑色的背景。"
     },
     {
       "name": "blue background",
@@ -80,9 +80,9 @@
       "wiki_url": "/wiki_pages/blue_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色背景",
+      "confidence": "A",
+      "tag_cn_long": "纯色或主色调为蓝色的背景。"
     },
     {
       "name": "brown background",
@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/brown_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色背景",
+      "confidence": "A",
+      "tag_cn_long": "纯色或主色调为棕色的背景。"
     },
     {
       "name": "green background",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/green_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色背景",
+      "confidence": "A",
+      "tag_cn_long": "纯色或主色调为绿色的背景。"
     },
     {
       "name": "grey background",
@@ -110,9 +110,9 @@
       "wiki_url": "/wiki_pages/grey_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色背景",
+      "confidence": "A",
+      "tag_cn_long": "纯色或主色调为灰色的背景。"
     },
     {
       "name": "orange background",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/orange_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色背景",
+      "confidence": "A",
+      "tag_cn_long": "纯色或主色调为橙色的背景。"
     },
     {
       "name": "pink background",
@@ -130,9 +130,9 @@
       "wiki_url": "/wiki_pages/pink_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色背景",
+      "confidence": "A",
+      "tag_cn_long": "背景以粉色为主或纯粉色。"
     },
     {
       "name": "purple background",
@@ -140,9 +140,9 @@
       "wiki_url": "/wiki_pages/purple_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫色背景",
+      "confidence": "A",
+      "tag_cn_long": "背景以紫色或淡紫色为主或纯色。"
     },
     {
       "name": "red background",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/red_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色背景",
+      "confidence": "A",
+      "tag_cn_long": "背景以红色为主或纯红色。"
     },
     {
       "name": "simple background",
@@ -160,9 +160,9 @@
       "wiki_url": "/wiki_pages/simple_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "简单背景",
+      "confidence": "A",
+      "tag_cn_long": "背景空白或没有特征，易于抠图。"
     },
     {
       "name": "transparent background",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/transparent_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透明背景",
+      "confidence": "A",
+      "tag_cn_long": "图片背景为透明，常用于图标或素材。"
     },
     {
       "name": "white background",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/white_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色背景",
+      "confidence": "A",
+      "tag_cn_long": "背景以白色为主或纯白色。"
     },
     {
       "name": "yellow background",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/yellow_background",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色背景",
+      "confidence": "A",
+      "tag_cn_long": "背景以黄色为主或纯黄色。"
     },
     {
       "name": "colorful background",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/colorful_background",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多彩背景",
+      "confidence": "A",
+      "tag_cn_long": "背景包含多种颜色。"
     },
     {
       "name": "gradient background",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/gradient_background",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变背景",
+      "confidence": "A",
+      "tag_cn_long": "背景颜色呈渐变效果。"
     },
     {
       "name": "greyscale with colored background",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/greyscale_with_colored_background",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰阶主体彩色背景",
+      "confidence": "A",
+      "tag_cn_long": "作品中主体为灰度而背景为彩色。"
     },
     {
       "name": "halftone background",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/halftone_background",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网纹背景",
+      "confidence": "A",
+      "tag_cn_long": "背景完全或主要由网点图案构成。"
     },
     {
       "name": "monochrome background",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/monochrome_background",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单色背景",
+      "confidence": "B",
+      "tag_cn_long": "背景为单一颜色（通常为灰度），而主体有色彩。"
     },
     {
       "name": "multicolored background",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/multicolored_background",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色背景",
+      "confidence": "A",
+      "tag_cn_long": "背景包含多种颜色。"
     },
     {
       "name": "rainbow background",
@@ -260,9 +260,9 @@
       "wiki_url": "/wiki_pages/rainbow_background",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩虹背景",
+      "confidence": "A",
+      "tag_cn_long": "背景呈彩虹渐变效果。"
     },
     {
       "name": "heaven condition",
@@ -270,9 +270,9 @@
       "wiki_url": "/wiki_pages/heaven_condition",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天堂状态背景",
+      "confidence": "B",
+      "tag_cn_long": "一种闪耀彩虹背景，表示极度幸福，源自游戏《Duel Love》。"
     },
     {
       "name": "three-toned background",
@@ -280,9 +280,9 @@
       "wiki_url": "/wiki_pages/three-toned_background",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三色调背景",
+      "confidence": "A",
+      "tag_cn_long": "背景由三种颜色构成。"
     },
     {
       "name": "two-tone background",
@@ -290,9 +290,9 @@
       "wiki_url": "/wiki_pages/two-tone_background",
       "category_path": "Multiple Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色调背景",
+      "confidence": "A",
+      "tag_cn_long": "背景由两种颜色构成，可能带有渐变过渡。"
     },
     {
       "name": "argyle background",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/argyle_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菱形格纹背景",
+      "confidence": "A",
+      "tag_cn_long": "背景完全或主要由菱形图案构成。"
     },
     {
       "name": "checkered background",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/checkered_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棋盘格背景",
+      "confidence": "A",
+      "tag_cn_long": "背景由两种颜色交替的方格图案构成。"
     },
     {
       "name": "cross background",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/cross_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十字背景",
+      "confidence": "A",
+      "tag_cn_long": "背景以十字形图案为主。"
     },
     {
       "name": "dithered background",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/dithered_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抖动背景",
+      "confidence": "B",
+      "tag_cn_long": "使用抖动技术形成的点状背景图案。"
     },
     {
       "name": "dotted background",
@@ -340,9 +340,9 @@
       "wiki_url": "/wiki_pages/dotted_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "点状背景",
+      "confidence": "A",
+      "tag_cn_long": "由大小不一的圆点组成的背景图案。"
     },
     {
       "name": "gingham background",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/gingham_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格纹背景",
+      "confidence": "A",
+      "tag_cn_long": "类似格子布花纹的背景。"
     },
     {
       "name": "grid background",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/grid_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网格背景",
+      "confidence": "A",
+      "tag_cn_long": "由细线构成的方形网格背景。"
     },
     {
       "name": "honeycomb background",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/honeycomb_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蜂巢背景",
+      "confidence": "A",
+      "tag_cn_long": "由六边形排列成蜂巢状的背景。"
     },
     {
       "name": "lace background",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/lace_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝背景",
+      "confidence": "A",
+      "tag_cn_long": "含有蕾丝花边元素的背景。"
     },
     {
       "name": "marble background",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/marble_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大理石背景",
+      "confidence": "A",
+      "tag_cn_long": "模仿大理石纹理的背景。"
     },
     {
       "name": "mosaic background",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/mosaic_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马赛克背景",
+      "confidence": "A",
+      "tag_cn_long": "由不规则排列的瓷砖（马赛克）构成的背景。"
     },
     {
       "name": "patterned background",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/patterned_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图案背景",
+      "confidence": "A",
+      "tag_cn_long": "具有重复图案的背景。"
     },
     {
       "name": "plaid background",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/plaid_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子呢背景",
+      "confidence": "A",
+      "tag_cn_long": "类似苏格兰格子呢图案的背景。"
     },
     {
       "name": "polka dot background",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/polka_dot_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点背景",
+      "confidence": "A",
+      "tag_cn_long": "由均匀排列的圆点构成的背景。"
     },
     {
       "name": "spiral background",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/spiral_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "螺旋背景",
+      "confidence": "A",
+      "tag_cn_long": "由螺旋图案构成的背景。"
     },
     {
       "name": "splatter background",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/splatter_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泼溅背景",
+      "confidence": "A",
+      "tag_cn_long": "有溅射状图案（如血迹、墨水、颜料）的背景。"
     },
     {
       "name": "striped background",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/striped_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹背景",
+      "confidence": "A",
+      "tag_cn_long": "由条纹构成的背景。"
     },
     {
       "name": "diagonal-striped background",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/diagonal-striped_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斜条纹背景",
+      "confidence": "A",
+      "tag_cn_long": "由斜向条纹构成的背景。"
     },
     {
       "name": "vertical-striped background",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/vertical-striped_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竖条纹背景",
+      "confidence": "A",
+      "tag_cn_long": "由竖向条纹构成的背景。"
     },
     {
       "name": "sunburst background",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/sunburst_background",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "光芒背景",
+      "confidence": "B",
+      "tag_cn_long": "由中心向外辐射的条纹图案背景，常见红黄色。"
     },
     {
       "name": "triangle background",
@@ -500,9 +500,9 @@
       "wiki_url": "/wiki_pages/triangle_background",
       "category_path": "Patterns",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角形背景",
+      "confidence": "A",
+      "tag_cn_long": "由三角形图案构成的背景。"
     },
     {
       "name": "abstract background",
@@ -510,9 +510,9 @@
       "wiki_url": "/wiki_pages/abstract_background",
       "category_path": "Descriptive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抽象背景",
+      "confidence": "A",
+      "tag_cn_long": "由不寻常色彩或形状构成的抽象图案背景。"
     },
     {
       "name": "blurry background",
@@ -520,9 +520,9 @@
       "wiki_url": "/wiki_pages/blurry_background",
       "category_path": "Descriptive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "模糊背景",
+      "confidence": "A",
+      "tag_cn_long": "背景失焦、模糊的效果。"
     },
     {
       "name": "bright background",
@@ -530,9 +530,9 @@
       "wiki_url": "/wiki_pages/bright_background",
       "category_path": "Descriptive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "明亮背景",
+      "confidence": "A",
+      "tag_cn_long": "背景由特别明亮或刺眼的颜色组成。"
     },
     {
       "name": "dark background",
@@ -540,9 +540,9 @@
       "wiki_url": "/wiki_pages/dark_background",
       "category_path": "Descriptive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "深色背景",
+      "confidence": "A",
+      "tag_cn_long": "通常不是纯黑，但整体偏暗的背景。"
     },
     {
       "name": "drama layer",
@@ -550,9 +550,9 @@
       "wiki_url": "/wiki_pages/drama_layer",
       "category_path": "Descriptive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戏剧背景",
+      "confidence": "B",
+      "tag_cn_long": "某种戏剧化的背景表现手法。"
     },
     {
       "name": "animal background",
@@ -560,9 +560,9 @@
       "wiki_url": "/wiki_pages/animal_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中包含一种或多种动物。"
     },
     {
       "name": "animal",
@@ -570,9 +570,9 @@
       "wiki_url": "/wiki_pages/animal",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物",
+      "confidence": "A",
+      "tag_cn_long": "指现实世界存在或曾经存在的动物。虚构或神话生物请用怪物或生物。"
     },
     {
       "name": "bow background",
@@ -580,9 +580,9 @@
       "wiki_url": "/wiki_pages/bow_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶结背景",
+      "confidence": "B",
+      "tag_cn_long": "背景中包含一个或多个蝴蝶结。"
     },
     {
       "name": "bow",
@@ -590,9 +590,9 @@
       "wiki_url": "/wiki_pages/bow",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶结",
+      "confidence": "A",
+      "tag_cn_long": "一种通常有两个环和两个尾端的结，常用于服装、头发或礼物包装。"
     },
     {
       "name": "bubble background",
@@ -600,9 +600,9 @@
       "wiki_url": "/wiki_pages/bubble_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "气泡背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中包含气泡（通常是肥皂泡或类似物）。"
     },
     {
       "name": "bubble",
@@ -610,9 +610,9 @@
       "wiki_url": "/wiki_pages/bubble",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "气泡",
+      "confidence": "A",
+      "tag_cn_long": "通常指肥皂泡，也可指其他类型的气泡。"
     },
     {
       "name": "butterfly background",
@@ -620,9 +620,9 @@
       "wiki_url": "/wiki_pages/butterfly_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中包含蝴蝶。"
     },
     {
       "name": "butterfly",
@@ -630,9 +630,9 @@
       "wiki_url": "/wiki_pages/butterfly",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶",
+      "confidence": "A",
+      "tag_cn_long": "鳞翅目昆虫，通常有彩色翅膀。"
     },
     {
       "name": "card background",
@@ -640,9 +640,9 @@
       "wiki_url": "/wiki_pages/card_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡片背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中包含一张或多张卡片。"
     },
     {
       "name": "playing card",
@@ -650,9 +650,9 @@
       "wiki_url": "/wiki_pages/playing_card",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扑克牌",
+      "confidence": "A",
+      "tag_cn_long": "一副标准扑克牌共有52张，分为四种花色。"
     },
     {
       "name": "cloud background",
@@ -660,9 +660,9 @@
       "wiki_url": "/wiki_pages/cloud_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "云背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中布满或包含云朵。"
     },
     {
       "name": "cloud",
@@ -670,9 +670,9 @@
       "wiki_url": "/wiki_pages/cloud",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "云",
+      "confidence": "A",
+      "tag_cn_long": "漂浮在天空中的水蒸气团。"
     },
     {
       "name": "fiery background",
@@ -680,9 +680,9 @@
       "wiki_url": "/wiki_pages/fiery_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火焰背景",
+      "confidence": "A",
+      "tag_cn_long": "背景主要由火焰构成。"
     },
     {
       "name": "fire",
@@ -690,9 +690,9 @@
       "wiki_url": "/wiki_pages/fire",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火焰",
+      "confidence": "A",
+      "tag_cn_long": "燃烧现象，发出光和热。"
     },
     {
       "name": "flag background",
@@ -700,9 +700,9 @@
       "wiki_url": "/wiki_pages/flag_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "旗帜背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中使用旗帜的颜色或设计，或实际旗帜占据背景。"
     },
     {
       "name": "flag",
@@ -710,9 +710,9 @@
       "wiki_url": "/wiki_pages/flag",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "旗帜",
+      "confidence": "A",
+      "tag_cn_long": "一块布料，通常挂在旗杆上，代表国家或事件。水平悬挂。"
     },
     {
       "name": "floral background",
@@ -720,9 +720,9 @@
       "wiki_url": "/wiki_pages/floral_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花卉背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中包含花朵，可以是图案或真实花朵。"
     },
     {
       "name": "flower",
@@ -730,9 +730,9 @@
       "wiki_url": "/wiki_pages/flower",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花",
+      "confidence": "A",
+      "tag_cn_long": "植物的繁殖器官，常具有鲜艳色彩和花瓣。"
     },
     {
       "name": "rose background",
@@ -740,9 +740,9 @@
       "wiki_url": "/wiki_pages/rose_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玫瑰背景",
+      "confidence": "A",
+      "tag_cn_long": "背景由玫瑰花组成的花卉背景。"
     },
     {
       "name": "rose",
@@ -750,9 +750,9 @@
       "wiki_url": "/wiki_pages/rose",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玫瑰",
+      "confidence": "A",
+      "tag_cn_long": "一种象征爱情的花卉，常见于浪漫场景。"
     },
     {
       "name": "food-themed background",
@@ -760,9 +760,9 @@
       "wiki_url": "/wiki_pages/food-themed_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食物主题背景",
+      "confidence": "A",
+      "tag_cn_long": "背景以食物为主题，可表现为重复图案、食物散落或大型食物。"
     },
     {
       "name": "food",
@@ -770,9 +770,9 @@
       "wiki_url": "/wiki_pages/food",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食物",
+      "confidence": "A",
+      "tag_cn_long": "可供人类或动物食用的物质。"
     },
     {
       "name": "fruit background",
@@ -780,9 +780,9 @@
       "wiki_url": "/wiki_pages/fruit_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水果背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中包含水果元素。"
     },
     {
       "name": "fruit",
@@ -790,9 +790,9 @@
       "wiki_url": "/wiki_pages/fruit",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水果",
+      "confidence": "A",
+      "tag_cn_long": "植物中甜美的可食用部分，如苹果。"
     },
     {
       "name": "strawberry background",
@@ -800,9 +800,9 @@
       "wiki_url": "/wiki_pages/strawberry_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草莓背景",
+      "confidence": "A",
+      "tag_cn_long": "背景由单个草莓或草莓重复图案构成。"
     },
     {
       "name": "strawberry",
@@ -810,9 +810,9 @@
       "wiki_url": "/wiki_pages/strawberry",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草莓",
+      "confidence": "A",
+      "tag_cn_long": "一种红色的多汁水果，表面有细小种子。"
     },
     {
       "name": "heart background",
@@ -820,9 +820,9 @@
       "wiki_url": "/wiki_pages/heart_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱心背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中包含一个或多个爱心图案。"
     },
     {
       "name": "heart",
@@ -830,9 +830,9 @@
       "wiki_url": "/wiki_pages/heart",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱心",
+      "confidence": "A",
+      "tag_cn_long": "心形符号♥，代表爱情或喜爱。"
     },
     {
       "name": "leaf background",
@@ -840,9 +840,9 @@
       "wiki_url": "/wiki_pages/leaf_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叶子背景",
+      "confidence": "A",
+      "tag_cn_long": "背景以叶子为主题。"
     },
     {
       "name": "leaf",
@@ -850,9 +850,9 @@
       "wiki_url": "/wiki_pages/leaf",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叶子",
+      "confidence": "A",
+      "tag_cn_long": "植物或树上扁平绿色的附属器官。"
     },
     {
       "name": "lightning background",
@@ -860,9 +860,9 @@
       "wiki_url": "/wiki_pages/lightning_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪电背景",
+      "confidence": "A",
+      "tag_cn_long": "背景中使用闪电图案，常用于表现突然的领悟或震惊。"
     },
     {
       "name": "lightning",
@@ -870,9 +870,9 @@
       "wiki_url": "/wiki_pages/lightning",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪电",
+      "confidence": "A",
+      "tag_cn_long": "大气中伴随雷声的放电现象，通常出现在雷暴中。"
     },
     {
       "name": "paw print background",
@@ -880,9 +880,9 @@
       "wiki_url": "/wiki_pages/paw_print_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爪印背景",
+      "confidence": "A",
+      "tag_cn_long": "背景由爪印图案组成。"
     },
     {
       "name": "paw print",
@@ -890,9 +890,9 @@
       "wiki_url": "/wiki_pages/paw_print",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爪印印花",
+      "confidence": "A",
+      "tag_cn_long": "表示动物足迹的印记图案。"
     },
     {
       "name": "poke ball background",
@@ -900,9 +900,9 @@
       "wiki_url": "/wiki_pages/poke_ball_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "精灵球背景",
+      "confidence": "A",
+      "tag_cn_long": "背景以精灵球为主题。"
     },
     {
       "name": "poke ball",
@@ -910,9 +910,9 @@
       "wiki_url": "/wiki_pages/poke_ball",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "精灵球",
+      "confidence": "A",
+      "tag_cn_long": "用于捕捉和储存宝可梦的球形胶囊，最常见的是红白配色。"
     },
     {
       "name": "rabbit background",
@@ -920,9 +920,9 @@
       "wiki_url": "/wiki_pages/rabbit_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔子背景",
+      "confidence": "A",
+      "tag_cn_long": "以兔子为主题的背景。"
     },
     {
       "name": "rabbit",
@@ -930,9 +930,9 @@
       "wiki_url": "/wiki_pages/rabbit",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔子",
+      "confidence": "A",
+      "tag_cn_long": "一种长耳、后腿长、尾巴短的小动物。"
     },
     {
       "name": "snowflake background",
@@ -940,9 +940,9 @@
       "wiki_url": "/wiki_pages/snowflake_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪花背景",
+      "confidence": "A",
+      "tag_cn_long": "背景由单个雪花或雪花图案构成，是抽象设计元素。"
     },
     {
       "name": "snowflakes",
@@ -950,9 +950,9 @@
       "wiki_url": "/wiki_pages/snowflakes",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪花",
+      "confidence": "A",
+      "tag_cn_long": "雪的一片，通常呈六角对称晶体。"
     },
     {
       "name": "Sofmap background",
@@ -960,9 +960,9 @@
       "wiki_url": "/wiki_pages/sofmap_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Sofmap背景",
+      "confidence": "A",
+      "tag_cn_long": "带有Sofmap公司标志的蓝白格子背景，源自2013年日本写真偶像的发布会背景板。"
     },
     {
       "name": "Sofmap",
@@ -970,9 +970,9 @@
       "wiki_url": "/wiki_pages/sofmap",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Sofmap",
+      "confidence": "A",
+      "tag_cn_long": "日本一家销售新旧电子产品的零售商，Bic Camera旗下子公司。"
     },
     {
       "name": "sparkle background",
@@ -980,9 +980,9 @@
       "wiki_url": "/wiki_pages/sparkle_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪光背景",
+      "confidence": "A",
+      "tag_cn_long": "由大量闪光点构成的背景，闪光点可大可小。"
     },
     {
       "name": "sparkle",
@@ -990,9 +990,9 @@
       "wiki_url": "/wiki_pages/sparkle",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪光",
+      "confidence": "A",
+      "tag_cn_long": "短暂明亮的闪光，通常呈菱形或星形，常有四条射线。"
     },
     {
       "name": "spider web background",
@@ -1000,9 +1000,9 @@
       "wiki_url": "/wiki_pages/spider_web_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蜘蛛网背景",
+      "confidence": "A",
+      "tag_cn_long": "以蜘蛛网为图案的背景。"
     },
     {
       "name": "spider web",
@@ -1010,9 +1010,9 @@
       "wiki_url": "/wiki_pages/spider_web",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蜘蛛网",
+      "confidence": "A",
+      "tag_cn_long": "蜘蛛用黏性丝线编织的网状结构，用于捕食。"
     },
     {
       "name": "star symbol background",
@@ -1020,9 +1020,9 @@
       "wiki_url": "/wiki_pages/star_symbol_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星符号背景",
+      "confidence": "A",
+      "tag_cn_long": "由星星符号（如五角星★）重复排列构成的背景。"
     },
     {
       "name": "star (symbol)",
@@ -1030,9 +1030,9 @@
       "wiki_url": "/wiki_pages/star_%28symbol%29",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星符号",
+      "confidence": "A",
+      "tag_cn_long": "代表星星的图形符号，最常见的是五角星，但不限于此形状。"
     },
     {
       "name": "starry sky background",
@@ -1040,9 +1040,9 @@
       "wiki_url": "/wiki_pages/starry_sky_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星空背景",
+      "confidence": "A",
+      "tag_cn_long": "以真实夜空中的星星为背景的图像。"
     },
     {
       "name": "star (sky)",
@@ -1050,9 +1050,9 @@
       "wiki_url": "/wiki_pages/star_%28sky%29",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星（天空）",
+      "confidence": "A",
+      "tag_cn_long": "夜空中可见的宇宙天体，区别于星星符号。"
     },
     {
       "name": "text background",
@@ -1060,9 +1060,9 @@
       "wiki_url": "/wiki_pages/text_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "文字背景",
+      "confidence": "A",
+      "tag_cn_long": "由大量文字构成的背景，文字可以是英文、日文或其他语言。"
     },
     {
       "name": "text focus",
@@ -1070,9 +1070,9 @@
       "wiki_url": "/wiki_pages/text_focus",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "文字焦点",
+      "confidence": "A",
+      "tag_cn_long": "该标签表示文字是图像的主要组成部分。"
     },
     {
       "name": "weapon background",
@@ -1080,9 +1080,9 @@
       "wiki_url": "/wiki_pages/weapon_background",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "武器背景",
+      "confidence": "A",
+      "tag_cn_long": "以各种武器作为背景图案。"
     },
     {
       "name": "weapon",
@@ -1090,9 +1090,9 @@
       "wiki_url": "/wiki_pages/weapon",
       "category_path": "Objects and Nouns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "武器",
+      "confidence": "A",
+      "tag_cn_long": "用于伤害、致残或杀死人的工具或物体，通常指手持武器。"
     },
     {
       "name": "3D background",
@@ -1100,9 +1100,9 @@
       "wiki_url": "/wiki_pages/3d_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "3D背景",
+      "confidence": "A",
+      "tag_cn_long": "结合手绘角色与三维渲染背景的图像。"
     },
     {
       "name": "AI-generated background",
@@ -1110,9 +1110,9 @@
       "wiki_url": "/wiki_pages/ai-generated_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "AI生成背景",
+      "confidence": "A",
+      "tag_cn_long": "背景由人工智能生成，而图像其他部分由人工绘制。"
     },
     {
       "name": "collage background",
@@ -1120,9 +1120,9 @@
       "wiki_url": "/wiki_pages/collage_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拼贴背景",
+      "confidence": "A",
+      "tag_cn_long": "由多张图片拼贴而成的背景，不同于漫画风格的分格背景。"
     },
     {
       "name": "paneled background",
@@ -1130,9 +1130,9 @@
       "wiki_url": "/wiki_pages/paneled_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分格背景",
+      "confidence": "A",
+      "tag_cn_long": "背景被设计成漫画分格的形式。"
     },
     {
       "name": "photo background",
@@ -1140,9 +1140,9 @@
       "wiki_url": "/wiki_pages/photo_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "照片背景",
+      "confidence": "A",
+      "tag_cn_long": "使用真实照片作为绘画背景。"
     },
     {
       "name": "game screenshot background",
@@ -1150,9 +1150,9 @@
       "wiki_url": "/wiki_pages/game_screenshot_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "游戏截图背景",
+      "confidence": "A",
+      "tag_cn_long": "图像背景中包含了视频游戏的截图，并在其上进行了绘制。"
     },
     {
       "name": "paper background",
@@ -1160,9 +1160,9 @@
       "wiki_url": "/wiki_pages/paper_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纸背景",
+      "confidence": "A",
+      "tag_cn_long": "使用纸张纹理或图片作为背景。"
     },
     {
       "name": "screenshot background",
@@ -1170,9 +1170,9 @@
       "wiki_url": "/wiki_pages/screenshot_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "截图背景",
+      "confidence": "A",
+      "tag_cn_long": "在各类截图（包括网页截屏）上绘制背景的艺术作品。"
     },
     {
       "name": "sketch background",
@@ -1180,9 +1180,9 @@
       "wiki_url": "/wiki_pages/sketch_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草图背景",
+      "confidence": "A",
+      "tag_cn_long": "背景仅为未完成的草稿线条，主体已完成。"
     },
     {
       "name": "watercolor background",
@@ -1190,9 +1190,9 @@
       "wiki_url": "/wiki_pages/watercolor_background",
       "category_path": "Mediums",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水彩背景",
+      "confidence": "A",
+      "tag_cn_long": "用水彩画风格绘制的背景。"
     },
     {
       "name": "backlighting",
@@ -1200,9 +1200,9 @@
       "wiki_url": "/wiki_pages/backlighting",
       "category_path": "Background Related",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "逆光",
+      "confidence": "A",
+      "tag_cn_long": "光源位于被摄主体后方，使边缘发光。"
     },
     {
       "name": "blending",
@@ -1210,9 +1210,9 @@
       "wiki_url": "/wiki_pages/blending",
       "category_path": "Background Related",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "融合",
+      "confidence": "A",
+      "tag_cn_long": "前景与背景因颜色相同而无明显分界。"
     },
     {
       "name": "border",
@@ -1220,9 +1220,9 @@
       "wiki_url": "/wiki_pages/border",
       "category_path": "Background Related",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "边框",
+      "confidence": "A",
+      "tag_cn_long": "图片边缘的装饰线条或色块。"
     },
     {
       "name": "chibi inset",
@@ -1230,9 +1230,9 @@
       "wiki_url": "/wiki_pages/chibi_inset",
       "category_path": "Background Related",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嵌入Q版",
+      "confidence": "A",
+      "tag_cn_long": "在背景中嵌入Q版角色以增加趣味，不直接与前景角色互动。"
     },
     {
       "name": "horizon",
@@ -1240,9 +1240,9 @@
       "wiki_url": "/wiki_pages/horizon",
       "category_path": "Background Related",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "地平线",
+      "confidence": "A",
+      "tag_cn_long": "天空与地面的交界线，常被景物遮挡。"
     },
     {
       "name": "imageboard colors",
@@ -1250,9 +1250,9 @@
       "wiki_url": "/wiki_pages/imageboard_colors",
       "category_path": "Background Related",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "论坛配色",
+      "confidence": "A",
+      "tag_cn_long": "使用类似4chan论坛的配色作为背景，以模拟透明效果。"
     },
     {
       "name": "projected inset",
@@ -1260,9 +1260,9 @@
       "wiki_url": "/wiki_pages/projected_inset",
       "category_path": "Background Related",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "投影插画",
+      "confidence": "B",
+      "tag_cn_long": "背景中有一个投影画面，展示人物或场景。"
     },
     {
       "name": "step and repeat",
@@ -1270,9 +1270,9 @@
       "wiki_url": "/wiki_pages/step_and_repeat",
       "category_path": "Background Related",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "重复图案背景",
+      "confidence": "A",
+      "tag_cn_long": "由重复的徽标或图案组成的背景，常见于活动宣传。"
     },
     {
       "name": "zoom layer",
@@ -1280,9 +1280,9 @@
       "wiki_url": "/wiki_pages/zoom_layer",
       "category_path": "Background Related",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缩放图层",
+      "confidence": "B",
+      "tag_cn_long": "在插画中添加一个放大局部区域的图层。"
     }
   ],
   "total_tags": 123,

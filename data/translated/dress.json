@@ -46,9 +46,9 @@
       "wiki_url": "/wiki_pages/dress_flip",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙翻",
+      "confidence": "A",
+      "tag_cn_long": "裙子意外翻折露出内部。"
     },
     {
       "name": "grabbing another's dress",
@@ -56,9 +56,9 @@
       "wiki_url": "/wiki_pages/grabbing_another%27s_dress",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓裙",
+      "confidence": "A",
+      "tag_cn_long": "抓住别人裙子的动作。"
     },
     {
       "name": "dress lift",
@@ -66,9 +66,9 @@
       "wiki_url": "/wiki_pages/dress_lift",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "掀裙",
+      "confidence": "A",
+      "tag_cn_long": "主动或被动地掀起裙子。"
     },
     {
       "name": "dress pull",
@@ -76,9 +76,9 @@
       "wiki_url": "/wiki_pages/dress_pull",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉裙（露肤）",
+      "confidence": "A",
+      "tag_cn_long": "向下拉裙子以露出皮肤或内衣。"
     },
     {
       "name": "dress tug",
@@ -86,9 +86,9 @@
       "wiki_url": "/wiki_pages/dress_tug",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙摆拉扯",
+      "confidence": "A",
+      "tag_cn_long": "向下拉扯裙摆以遮盖身体。"
     },
     {
       "name": "open dress",
@@ -96,9 +96,9 @@
       "wiki_url": "/wiki_pages/open_dress",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开裙",
+      "confidence": "A",
+      "tag_cn_long": "裙子敞开未扣的状态。"
     },
     {
       "name": "skirt basket",
@@ -106,9 +106,9 @@
       "wiki_url": "/wiki_pages/skirt_basket",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙篮",
+      "confidence": "A",
+      "tag_cn_long": "用掀起的裙子兜物品。"
     },
     {
       "name": "tied dress",
@@ -116,9 +116,9 @@
       "wiki_url": "/wiki_pages/tied_dress",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "系裙",
+      "confidence": "A",
+      "tag_cn_long": "裙子被系住以改变形状。"
     },
     {
       "name": "torn dress",
@@ -126,9 +126,9 @@
       "wiki_url": "/wiki_pages/torn_dress",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裂裙",
+      "confidence": "A",
+      "tag_cn_long": "裙子有撕裂痕迹。"
     },
     {
       "name": "wet dress",
@@ -136,9 +136,9 @@
       "wiki_url": "/wiki_pages/wet_dress",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "湿衣",
+      "confidence": "A",
+      "tag_cn_long": "角色穿着被水浸湿的连衣裙，可能变得透明。"
     },
     {
       "name": "aqua dress",
@@ -146,9 +146,9 @@
       "wiki_url": "/wiki_pages/aqua_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色裙",
+      "confidence": "A",
+      "tag_cn_long": "以水蓝色为主色调的连衣裙。"
     },
     {
       "name": "black dress",
@@ -156,9 +156,9 @@
       "wiki_url": "/wiki_pages/black_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为黑色的连衣裙。"
     },
     {
       "name": "blue dress",
@@ -166,9 +166,9 @@
       "wiki_url": "/wiki_pages/blue_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为蓝色的连衣裙。"
     },
     {
       "name": "brown dress",
@@ -176,9 +176,9 @@
       "wiki_url": "/wiki_pages/brown_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为棕色的连衣裙。"
     },
     {
       "name": "green dress",
@@ -186,9 +186,9 @@
       "wiki_url": "/wiki_pages/green_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为绿色的连衣裙。"
     },
     {
       "name": "grey dress",
@@ -196,9 +196,9 @@
       "wiki_url": "/wiki_pages/grey_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为灰色的连衣裙。"
     },
     {
       "name": "orange dress",
@@ -206,9 +206,9 @@
       "wiki_url": "/wiki_pages/orange_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为橙色的连衣裙。"
     },
     {
       "name": "pink dress",
@@ -216,9 +216,9 @@
       "wiki_url": "/wiki_pages/pink_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为粉色的连衣裙。"
     },
     {
       "name": "purple dress",
@@ -226,9 +226,9 @@
       "wiki_url": "/wiki_pages/purple_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为紫色的连衣裙。"
     },
     {
       "name": "red dress",
@@ -236,9 +236,9 @@
       "wiki_url": "/wiki_pages/red_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为红色的连衣裙。"
     },
     {
       "name": "white dress",
@@ -246,9 +246,9 @@
       "wiki_url": "/wiki_pages/white_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为白色的连衣裙。"
     },
     {
       "name": "yellow dress",
@@ -256,9 +256,9 @@
       "wiki_url": "/wiki_pages/yellow_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要颜色为黄色的连衣裙。"
     },
     {
       "name": "multicolored dress",
@@ -266,9 +266,9 @@
       "wiki_url": "/wiki_pages/multicolored_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "拥有至少两种颜色的连衣裙。"
     },
     {
       "name": "two-tone dress",
@@ -276,9 +276,9 @@
       "wiki_url": "/wiki_pages/two-tone_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "恰好有两种颜色的多色连衣裙。"
     },
     {
       "name": "two-sided dress",
@@ -286,9 +286,9 @@
       "wiki_url": "/wiki_pages/two-sided_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双面连衣裙",
+      "confidence": "B",
+      "tag_cn_long": "内外表面颜色或图案不同的连衣裙。"
     },
     {
       "name": "argyle dress",
@@ -296,9 +296,9 @@
       "wiki_url": "/wiki_pages/argyle_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菱格连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有菱形图案的连衣裙。"
     },
     {
       "name": "checkered dress",
@@ -306,9 +306,9 @@
       "wiki_url": "/wiki_pages/checkered_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "方格连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有方格图案的连衣裙。"
     },
     {
       "name": "flag dress",
@@ -316,9 +316,9 @@
       "wiki_url": "/wiki_pages/flag_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "国旗连衣裙",
+      "confidence": "B",
+      "tag_cn_long": "印有国旗图案的连衣裙。"
     },
     {
       "name": "plaid dress",
@@ -326,9 +326,9 @@
       "wiki_url": "/wiki_pages/plaid_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "由不同颜色纱线交织成格子图案的连衣裙。"
     },
     {
       "name": "polka dot dress",
@@ -336,9 +336,9 @@
       "wiki_url": "/wiki_pages/polka_dot_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有波点图案的连衣裙。"
     },
     {
       "name": "print dress",
@@ -346,9 +346,9 @@
       "wiki_url": "/wiki_pages/print_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "印有图案、形状或图像的连衣裙。"
     },
     {
       "name": "striped dress",
@@ -356,9 +356,9 @@
       "wiki_url": "/wiki_pages/striped_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有条纹图案的连衣裙。"
     },
     {
       "name": "vertical-striped dress",
@@ -366,9 +366,9 @@
       "wiki_url": "/wiki_pages/vertical-striped_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竖条纹连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有竖条纹图案的连衣裙。"
     },
     {
       "name": "pinstripe dress",
@@ -376,9 +376,9 @@
       "wiki_url": "/wiki_pages/pinstripe_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "细条纹连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有细条纹图案的连衣裙。"
     },
     {
       "name": "long dress",
@@ -386,9 +386,9 @@
       "wiki_url": "/wiki_pages/long_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长裙",
+      "confidence": "A",
+      "tag_cn_long": "裙摆超过膝盖的连衣裙。"
     },
     {
       "name": "medium dress",
@@ -396,9 +396,9 @@
       "wiki_url": "/wiki_pages/medium_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中裙",
+      "confidence": "A",
+      "tag_cn_long": "裙长约及膝盖的连衣裙。"
     },
     {
       "name": "short dress",
@@ -406,9 +406,9 @@
       "wiki_url": "/wiki_pages/short_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "裙摆在大腿中部的短款连衣裙。"
     },
     {
       "name": "microdress",
@@ -416,9 +416,9 @@
       "wiki_url": "/wiki_pages/microdress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超短连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "极短的连衣裙，暴露大腿和臀部。"
     },
     {
       "name": "armored dress",
@@ -426,9 +426,9 @@
       "wiki_url": "/wiki_pages/armored_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "装甲连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "融合了铠甲元素和连衣裙设计的服装。"
     },
     {
       "name": "backless dress",
@@ -436,9 +436,9 @@
       "wiki_url": "/wiki_pages/backless_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露背连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "后背部分裸露的连衣裙。"
     },
     {
       "name": "crinoline",
@@ -446,9 +446,9 @@
       "wiki_url": "/wiki_pages/crinoline",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙撑",
+      "confidence": "A",
+      "tag_cn_long": "用于支撑裙形的笼状衬架。"
     },
     {
       "name": "collared dress",
@@ -456,9 +456,9 @@
       "wiki_url": "/wiki_pages/collared_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有翻领的连衣裙。"
     },
     {
       "name": "frilled dress",
@@ -466,9 +466,9 @@
       "wiki_url": "/wiki_pages/frilled_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有荷叶边装饰的连衣裙。"
     },
     {
       "name": "fur-trimmed dress",
@@ -476,9 +476,9 @@
       "wiki_url": "/wiki_pages/fur-trimmed_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛边连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "边缘饰有毛皮的连衣裙。"
     },
     {
       "name": "glitter dress",
@@ -486,9 +486,9 @@
       "wiki_url": "/wiki_pages/glitter_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪亮连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有亮片或闪光装饰的连衣裙。"
     },
     {
       "name": "half-dress",
@@ -496,9 +496,9 @@
       "wiki_url": "/wiki_pages/half-dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半穿连衣裙",
+      "confidence": "C",
+      "tag_cn_long": "一种只穿一半的连衣裙，例如仅覆盖身体一侧。"
     },
     {
       "name": "halter dress",
@@ -506,9 +506,9 @@
       "wiki_url": "/wiki_pages/halter_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绕颈连衣裙",
+      "confidence": "B",
+      "tag_cn_long": "通过颈后系带固定的连衣裙。"
     },
     {
       "name": "highleg dress",
@@ -516,9 +516,9 @@
       "wiki_url": "/wiki_pages/highleg_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高衩连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "开衩高至髋部的连衣裙。"
     },
     {
       "name": "high-low skirt",
@@ -526,9 +526,9 @@
       "wiki_url": "/wiki_pages/high-low_skirt",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前短后长裙",
+      "confidence": "A",
+      "tag_cn_long": "前侧较短、后侧较长的裙子或连衣裙。"
     },
     {
       "name": "hobble dress",
@@ -536,9 +536,9 @@
       "wiki_url": "/wiki_pages/hobble_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "窄摆连衣裙",
+      "confidence": "B",
+      "tag_cn_long": "裙摆狭窄、限制步幅的长紧身连衣裙。"
     },
     {
       "name": "impossible dress",
@@ -546,9 +546,9 @@
       "wiki_url": "/wiki_pages/impossible_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不科学连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "紧贴身体、不符合物理规律的连衣裙。"
     },
     {
       "name": "lace-trimmed dress",
@@ -556,9 +556,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝边连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "边缘装饰蕾丝的连衣裙。"
     },
     {
       "name": "latex dress",
@@ -566,9 +566,9 @@
       "wiki_url": "/wiki_pages/latex_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳胶连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "由乳胶材质制成的连衣裙。"
     },
     {
       "name": "layered dress",
@@ -576,9 +576,9 @@
       "wiki_url": "/wiki_pages/layered_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "层叠连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "由多层布料构成的连衣裙。"
     },
     {
       "name": "off-shoulder dress",
@@ -586,9 +586,9 @@
       "wiki_url": "/wiki_pages/off-shoulder_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露肩连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "领口宽大、露出肩膀和上胸的连衣裙。"
     },
     {
       "name": "pleated dress",
@@ -596,9 +596,9 @@
       "wiki_url": "/wiki_pages/pleated_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百褶连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "带有垂直褶皱的连衣裙。"
     },
     {
       "name": "plunging neckline",
@@ -606,9 +606,9 @@
       "wiki_url": "/wiki_pages/plunging_neckline",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "深V领",
+      "confidence": "A",
+      "tag_cn_long": "领口呈V字形向下深开至胸部的服装款式。"
     },
     {
       "name": "ribbed dress",
@@ -616,9 +616,9 @@
       "wiki_url": "/wiki_pages/ribbed_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗纹连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "由罗纹面料制成的连衣裙，表面有凸起的竖条纹纹理。"
     },
     {
       "name": "ribbon-trimmed dress",
@@ -626,9 +626,9 @@
       "wiki_url": "/wiki_pages/ribbon-trimmed_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缎带镶边连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "下摆或袖口处有缎带穿梭镂空形成的虚线装饰的连衣裙。"
     },
     {
       "name": "side slit",
@@ -636,9 +636,9 @@
       "wiki_url": "/wiki_pages/side_slit",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧开衩",
+      "confidence": "A",
+      "tag_cn_long": "连衣裙或裙子侧面的一道开衩，常见于旗袍等款式。"
     },
     {
       "name": "taut dress",
@@ -646,9 +646,9 @@
       "wiki_url": "/wiki_pages/taut_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧绷连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "非常紧身的连衣裙，布料紧绷并在胸部、臀部或大腿间形成褶皱。"
     },
     {
       "name": "see-through dress",
@@ -656,9 +656,9 @@
       "wiki_url": "/wiki_pages/see-through_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透视连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "使用透明或半透明面料制成的连衣裙，能隐约看到身体曲线。"
     },
     {
       "name": "sleeveless dress",
@@ -666,9 +666,9 @@
       "wiki_url": "/wiki_pages/sleeveless_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "没有袖子的连衣裙。"
     },
     {
       "name": "strapless dress",
@@ -676,9 +676,9 @@
       "wiki_url": "/wiki_pages/strapless_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无肩带连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "没有肩带或绕颈带，依靠紧身固定的连衣裙。"
     },
     {
       "name": "cake dress",
@@ -686,9 +686,9 @@
       "wiki_url": "/wiki_pages/cake_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蛋糕连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "用蛋糕制作而成的连衣裙，属于食物服装的一种。"
     },
     {
       "name": "china dress",
@@ -696,9 +696,9 @@
       "wiki_url": "/wiki_pages/china_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "旗袍",
+      "confidence": "A",
+      "tag_cn_long": "一种贴身剪裁、两侧开衩的中式连衣裙，即旗袍。"
     },
     {
       "name": "coat dress",
@@ -706,9 +706,9 @@
       "wiki_url": "/wiki_pages/coat_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "外套式连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "一种剪裁合体、前开襟、外形类似外套的连衣裙。"
     },
     {
       "name": "cocktail dress",
@@ -716,9 +716,9 @@
       "wiki_url": "/wiki_pages/cocktail_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸡尾酒会礼服",
+      "confidence": "A",
+      "tag_cn_long": "适合半正式场合（如鸡尾酒会）穿着的短款礼服裙。"
     },
     {
       "name": "denim dress",
@@ -726,9 +726,9 @@
       "wiki_url": "/wiki_pages/denim_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牛仔连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "主要由牛仔布制成的连衣裙，常见为蓝色，质地较硬挺。"
     },
     {
       "name": "dirndl",
@@ -736,9 +736,9 @@
       "wiki_url": "/wiki_pages/dirndl",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德式传统连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "巴伐利亚等地女性传统服装，包括紧身胸衣、裙子和围裙。"
     },
     {
       "name": "evening gown",
@@ -746,9 +746,9 @@
       "wiki_url": "/wiki_pages/evening_gown",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晚礼服",
+      "confidence": "A",
+      "tag_cn_long": "长及脚踝的正式女性连衣裙，常用雪纺、天鹅绒、丝绸等奢华面料制成。"
     },
     {
       "name": "flowing dress",
@@ -756,9 +756,9 @@
       "wiki_url": "/wiki_pages/flowing_dress_%28dq%29",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飘逸连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "面料轻盈、垂感好、穿着时随风摆动的连衣裙。"
     },
     {
       "name": "funeral dress",
@@ -766,9 +766,9 @@
       "wiki_url": "/wiki_pages/funeral_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "葬礼连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "在葬礼上穿着的连衣裙，通常为黑色，款式庄重。"
     },
     {
       "name": "gown",
@@ -776,9 +776,9 @@
       "wiki_url": "/wiki_pages/gown",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长礼服",
+      "confidence": "A",
+      "tag_cn_long": "女性穿着的长而精致的连衣裙，通常长及脚踝或地面，两侧向外展开。"
     },
     {
       "name": "mermaid dress",
@@ -786,9 +786,9 @@
       "wiki_url": "/wiki_pages/mermaid_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鱼尾连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "紧贴身体至膝盖或小腿处，然后像鱼尾般向外散开的长裙。"
     },
     {
       "name": "negligee",
@@ -796,9 +796,9 @@
       "wiki_url": "/wiki_pages/negligee",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "薄纱睡袍",
+      "confidence": "A",
+      "tag_cn_long": "女性穿着的轻薄透明睡袍，常带有蕾丝边饰，属于情趣内衣。"
     },
     {
       "name": "nightgown",
@@ -806,9 +806,9 @@
       "wiki_url": "/wiki_pages/nightgown",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睡裙",
+      "confidence": "A",
+      "tag_cn_long": "女性穿的宽松睡衣，长度从臀部到地板不等。"
     },
     {
       "name": "pencil dress",
@@ -816,9 +816,9 @@
       "wiki_url": "/wiki_pages/pencil_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铅笔连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "紧身直筒剪裁的连衣裙，裙摆通常在膝上或迷你长度，强调身体曲线。"
     },
     {
       "name": "pinafore dress",
@@ -826,9 +826,9 @@
       "wiki_url": "/wiki_pages/pinafore_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背心裙",
+      "confidence": "A",
+      "tag_cn_long": "一种无袖无领的连衣裙，通常穿在衬衫或上衣外面。"
     },
     {
       "name": "sailor dress",
@@ -836,9 +836,9 @@
       "wiki_url": "/wiki_pages/sailor_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手连衣裙",
+      "confidence": "B",
+      "tag_cn_long": "具有水手领或领巾等水手服元素的一件式连衣裙。"
     },
     {
       "name": "santa dress",
@@ -846,9 +846,9 @@
       "wiki_url": "/wiki_pages/santa_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣诞裙",
+      "confidence": "A",
+      "tag_cn_long": "圣诞节主题的连衣裙，带有毛边装饰，有时配毛边短斗篷。"
     },
     {
       "name": "sundress",
@@ -856,9 +856,9 @@
       "wiki_url": "/wiki_pages/sundress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太阳裙",
+      "confidence": "A",
+      "tag_cn_long": "一种轻便的无袖夏季连衣裙，常用轻薄面料制成。"
     },
     {
       "name": "sweater dress",
@@ -866,9 +866,9 @@
       "wiki_url": "/wiki_pages/sweater_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛衣连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "加长至臀部以下的毛衣，作为连衣裙穿着。"
     },
     {
       "name": "tennis dress",
@@ -876,9 +876,9 @@
       "wiki_url": "/wiki_pages/tennis_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网球裙",
+      "confidence": "A",
+      "tag_cn_long": "一种运动风格的连衣裙，常与网球运动相关。"
     },
     {
       "name": "tent dress",
@@ -886,9 +886,9 @@
       "wiki_url": "/wiki_pages/tent_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帐篷裙",
+      "confidence": "A",
+      "tag_cn_long": "没有收腰设计、从肩膀处直垂下来的宽松连衣裙。"
     },
     {
       "name": "trapeze dress",
@@ -896,9 +896,9 @@
       "wiki_url": "/wiki_pages/trapeze_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梯形裙",
+      "confidence": "A",
+      "tag_cn_long": "肩部窄而裙摆宽大、呈梯形轮廓的无腰连衣裙。"
     },
     {
       "name": "tube dress",
@@ -906,9 +906,9 @@
       "wiki_url": "/wiki_pages/tube_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "筒裙",
+      "confidence": "A",
+      "tag_cn_long": "一种无肩带、紧身贴合的短款连衣裙，形似加长的抹胸。"
     },
     {
       "name": "ao dai",
@@ -916,9 +916,9 @@
       "wiki_url": "/wiki_pages/ao_dai",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥黛",
+      "confidence": "A",
+      "tag_cn_long": "越南传统服饰，长衫配长裤。"
     },
     {
       "name": "wedding dress",
@@ -926,9 +926,9 @@
       "wiki_url": "/wiki_pages/wedding_dress",
       "category_path": "Appearance and models of dresses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "婚纱",
+      "confidence": "A",
+      "tag_cn_long": "结婚时穿的白色礼服，常带有褶边和头纱。"
     }
   ],
   "total_tags": 90,

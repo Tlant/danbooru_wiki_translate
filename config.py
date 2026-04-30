@@ -17,8 +17,8 @@ HTTP_PROXY = "http://127.0.0.1:10801"  # HTTP 代理，不需要则设为 None
 # ---------------------------------------------------------------------------
 # Translation strategy
 # ---------------------------------------------------------------------------
-BATCH_SIZE = 10                  # tags per LLM request (1 = quality-first, 10-20 = balanced)
-MAX_CONCURRENCY = 1              # concurrent LLM call threads
+BATCH_SIZE = 20                  # tags per LLM request (1 = quality-first, 10-20 = balanced)
+MAX_CONCURRENCY = 10              # concurrent LLM call threads
 REQUEST_INTERVAL = 0.5           # seconds between submitting batches
 
 # ---------------------------------------------------------------------------
@@ -45,8 +45,8 @@ PROGRESS_FILE = CACHE_DIR / "progress.json"
 # ---------------------------------------------------------------------------
 # Logging
 # ---------------------------------------------------------------------------
-LOG_REQUEST = True              # 控制台打印完整请求报文（调试时开启）
-LOG_RESPONSE = True              # 控制台打印完整返回报文
+LOG_REQUEST = False              # 控制台打印完整请求报文（调试时开启）
+LOG_RESPONSE = False              # 控制台打印完整返回报文
 
 # ---------------------------------------------------------------------------
 # Dry run  — set True to preview prompts without calling LLM

@@ -54,7 +54,7 @@
       "wiki_exists": true,
       "tag_cn": "护目镜",
       "confidence": "A",
-      "tag_cn_long": "用于防尘、防水、防眩光等的护目眼镜。"
+      "tag_cn_long": "一种用于保护眼睛免受灰尘、水花等伤害的眼镜。"
     },
     {
       "name": "monocle",
@@ -62,9 +62,9 @@
       "wiki_url": "/wiki_pages/monocle",
       "category_path": "Main",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单眼镜",
+      "confidence": "A",
+      "tag_cn_long": "一种用于单个眼睛的矫正镜片，通常有链子连接衣服。"
     },
     {
       "name": "sunglasses",
@@ -72,9 +72,9 @@
       "wiki_url": "/wiki_pages/sunglasses",
       "category_path": "Main",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太阳镜",
+      "confidence": "A",
+      "tag_cn_long": "用于遮挡强光的眼镜，也可用于遮掩眼睛。"
     },
     {
       "name": "aqua-framed eyewear",
@@ -82,9 +82,9 @@
       "wiki_url": "/wiki_pages/aqua-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "带有水色（浅蓝绿色）镜框的眼镜。"
     },
     {
       "name": "black-framed eyewear",
@@ -92,9 +92,9 @@
       "wiki_url": "/wiki_pages/black-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "黑色边框的眼镜。"
     },
     {
       "name": "blue-framed eyewear",
@@ -102,9 +102,9 @@
       "wiki_url": "/wiki_pages/blue-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "蓝色边框的眼镜、单片镜或太阳镜。"
     },
     {
       "name": "brown-framed eyewear",
@@ -112,9 +112,9 @@
       "wiki_url": "/wiki_pages/brown-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "棕色边框的眼镜。"
     },
     {
       "name": "green-framed eyewear",
@@ -122,9 +122,9 @@
       "wiki_url": "/wiki_pages/green-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "绿色边框的眼镜。"
     },
     {
       "name": "grey-framed eyewear",
@@ -132,9 +132,9 @@
       "wiki_url": "/wiki_pages/grey-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "灰色或银色边框的眼镜或太阳镜。"
     },
     {
       "name": "orange-framed eyewear",
@@ -142,9 +142,9 @@
       "wiki_url": "/wiki_pages/orange-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "橙色边框的眼镜。"
     },
     {
       "name": "pink-framed eyewear",
@@ -152,9 +152,9 @@
       "wiki_url": "/wiki_pages/pink-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "粉色边框的眼镜。"
     },
     {
       "name": "purple-framed eyewear",
@@ -162,9 +162,9 @@
       "wiki_url": "/wiki_pages/purple-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜框为紫色的眼镜或太阳镜。"
     },
     {
       "name": "red-framed eyewear",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/red-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜框为红色的眼镜、单片眼镜或太阳镜。"
     },
     {
       "name": "white-framed eyewear",
@@ -182,9 +182,9 @@
       "wiki_url": "/wiki_pages/white-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜框为白色的眼镜。"
     },
     {
       "name": "two-tone eyewear",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/two-tone_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜框和镜腿有两种颜色的眼镜。"
     },
     {
       "name": "yellow-framed eyewear",
@@ -202,9 +202,9 @@
       "wiki_url": "/wiki_pages/yellow-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜框为黄色的眼镜。"
     },
     {
       "name": "aqua-tinted eyewear",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/aqua-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "青镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为青色调的有色眼镜。"
     },
     {
       "name": "blue-tinted eyewear",
@@ -222,9 +222,9 @@
       "wiki_url": "/wiki_pages/blue-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为蓝色调的有色眼镜。"
     },
     {
       "name": "brown-tinted eyewear",
@@ -232,9 +232,9 @@
       "wiki_url": "/wiki_pages/brown-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为棕色调的有色眼镜。"
     },
     {
       "name": "gradient-tinted eyewear",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/gradient-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片呈现平滑渐变颜色的眼镜。"
     },
     {
       "name": "green-tinted eyewear",
@@ -252,9 +252,9 @@
       "wiki_url": "/wiki_pages/green-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为绿色调的有色眼镜。"
     },
     {
       "name": "grey-tinted eyewear",
@@ -262,9 +262,9 @@
       "wiki_url": "/wiki_pages/grey-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为灰色调的有色眼镜，颜色比深色太阳镜浅。"
     },
     {
       "name": "multicolor-tinted eyewear",
@@ -272,9 +272,9 @@
       "wiki_url": "/wiki_pages/multicolor-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多彩镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指每片镜片上有多重颜色调的有色眼镜。"
     },
     {
       "name": "rainbow-tinted eyewear",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/rainbow-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩虹镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片呈现彩虹色相的有色眼镜。"
     },
     {
       "name": "orange-tinted eyewear",
@@ -292,9 +292,9 @@
       "wiki_url": "/wiki_pages/orange-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为橙色调的有色眼镜。"
     },
     {
       "name": "pink-tinted eyewear",
@@ -302,9 +302,9 @@
       "wiki_url": "/wiki_pages/pink-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为粉色调的有色眼镜。"
     },
     {
       "name": "purple-tinted eyewear",
@@ -312,9 +312,9 @@
       "wiki_url": "/wiki_pages/purple-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为紫色调的有色眼镜。"
     },
     {
       "name": "red-tinted eyewear",
@@ -322,9 +322,9 @@
       "wiki_url": "/wiki_pages/red-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为红色调的有色眼镜。"
     },
     {
       "name": "yellow-tinted eyewear",
@@ -332,9 +332,9 @@
       "wiki_url": "/wiki_pages/yellow-tinted_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄镜片眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜片为黄色调的有色眼镜。"
     },
     {
       "name": "animal-themed eyewear",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/animal-themed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物主题眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指带有动物主题设计装饰的眼镜，如镜框上有猫耳。"
     },
     {
       "name": "cat eye-framed eyewear",
@@ -352,9 +352,9 @@
       "wiki_url": "/wiki_pages/cat_eye-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫眼框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "指镜框形状为猫眼式的眼镜，外缘上翘，流行于20世纪50-60年代女性。"
     },
     {
       "name": "food-themed eyewear",
@@ -362,9 +362,9 @@
       "wiki_url": "/wiki_pages/food-themed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食物眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框或镜片造型像食物的眼镜。"
     },
     {
       "name": "heart-shaped eyewear",
@@ -372,9 +372,9 @@
       "wiki_url": "/wiki_pages/heart-shaped_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框呈心形的眼镜。"
     },
     {
       "name": "rectangular eyewear",
@@ -382,9 +382,9 @@
       "wiki_url": "/wiki_pages/rectangular_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "矩形眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框呈矩形的眼镜。"
     },
     {
       "name": "rimless eyewear",
@@ -392,9 +392,9 @@
       "wiki_url": "/wiki_pages/rimless_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "没有镜框的眼镜。"
     },
     {
       "name": "round eyewear",
@@ -402,9 +402,9 @@
       "wiki_url": "/wiki_pages/round_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆形眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框呈圆形或椭圆形的眼镜。"
     },
     {
       "name": "semi-circular eyewear",
@@ -412,9 +412,9 @@
       "wiki_url": "/wiki_pages/semi-circular_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半圆眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框呈半圆形的眼镜。"
     },
     {
       "name": "semi-rimless eyewear",
@@ -422,9 +422,9 @@
       "wiki_url": "/wiki_pages/semi-rimless_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "只有部分边缘有镜框的眼镜（上框或下框）。"
     },
     {
       "name": "over-rim eyewear",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/over-rim_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "上框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框只有上沿的眼镜。"
     },
     {
       "name": "under-rim eyewear",
@@ -442,9 +442,9 @@
       "wiki_url": "/wiki_pages/under-rim_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下框眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框只有下沿的眼镜。"
     },
     {
       "name": "teardrop-framed glasses",
@@ -452,9 +452,9 @@
       "wiki_url": "/wiki_pages/teardrop-framed_glasses",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泪滴框眼镜",
+      "confidence": "B",
+      "tag_cn_long": "一侧镜框带有泪滴形状装饰的眼镜。"
     },
     {
       "name": "triangular eyewear",
@@ -462,9 +462,9 @@
       "wiki_url": "/wiki_pages/triangular_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框呈三角形的眼镜。"
     },
     {
       "name": "tortoiseshell-framed eyewear",
@@ -472,9 +472,9 @@
       "wiki_url": "/wiki_pages/tortoiseshell-framed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玳瑁眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框带有玳瑁花纹的眼镜。"
     },
     {
       "name": "alternate eyewear",
@@ -482,9 +482,9 @@
       "wiki_url": "/wiki_pages/alternate_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "替换眼镜",
+      "confidence": "B",
+      "tag_cn_long": "角色戴上了不同于默认款式的眼镜。"
     },
     {
       "name": "adjusting eyewear",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/adjusting_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调整眼镜",
+      "confidence": "A",
+      "tag_cn_long": "用手指推或调整眼镜位置的动作。"
     },
     {
       "name": "bespectacled",
@@ -502,9 +502,9 @@
       "wiki_url": "/wiki_pages/bespectacled",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戴眼镜",
+      "confidence": "B",
+      "tag_cn_long": "角色平时不戴眼镜，但在图中戴上了眼镜。"
     },
     {
       "name": "broken eyewear",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/broken_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜片碎裂或镜架损坏的眼镜。"
     },
     {
       "name": "cleaning eyewear",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/cleaning_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "擦眼镜",
+      "confidence": "A",
+      "tag_cn_long": "角色在擦拭或清洁眼镜。"
     },
     {
       "name": "crooked eyewear",
@@ -532,9 +532,9 @@
       "wiki_url": "/wiki_pages/crooked_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "歪眼镜",
+      "confidence": "A",
+      "tag_cn_long": "眼镜在脸上歪斜，没有戴正。"
     },
     {
       "name": "cum on eyewear",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/cum_on_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "精液眼镜",
+      "confidence": "A",
+      "tag_cn_long": "眼镜上沾有精液。"
     },
     {
       "name": "eyewear on head",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/eyewear_on_head",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头顶眼镜",
+      "confidence": "A",
+      "tag_cn_long": "眼镜戴在头顶上而不是眼睛上。"
     },
     {
       "name": "eyewear on headwear",
@@ -562,9 +562,9 @@
       "wiki_url": "/wiki_pages/eyewear_on_headwear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头饰眼镜",
+      "confidence": "B",
+      "tag_cn_long": "眼镜戴在帽子或头饰上，而不是眼睛上。"
     },
     {
       "name": "eyewear strap",
@@ -572,9 +572,9 @@
       "wiki_url": "/wiki_pages/eyewear_strap",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼镜挂绳",
+      "confidence": "A",
+      "tag_cn_long": "连接在眼镜上的带子，防止眼镜在运动中掉落。"
     },
     {
       "name": "eyewear switch",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/eyewear_switch",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交换眼镜",
+      "confidence": "A",
+      "tag_cn_long": "角色互相试戴对方眼镜或交换眼镜佩戴。"
     },
     {
       "name": "eyewear view",
@@ -592,9 +592,9 @@
       "wiki_url": "/wiki_pages/eyewear_view",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼镜视角",
+      "confidence": "A",
+      "tag_cn_long": "画面以角色透过眼镜或护目镜看到的视角呈现。"
     },
     {
       "name": "fogged glasses",
@@ -602,9 +602,9 @@
       "wiki_url": "/wiki_pages/fogged_glasses",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼镜起雾",
+      "confidence": "A",
+      "tag_cn_long": "眼镜镜片因温差或呼气而蒙上雾气。"
     },
     {
       "name": "hand on eyewear",
@@ -612,9 +612,9 @@
       "wiki_url": "/wiki_pages/hand_on_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手扶眼镜",
+      "confidence": "A",
+      "tag_cn_long": "角色用手（两根手指或整只手）触碰或扶着自己的眼镜。"
     },
     {
       "name": "looking over eyewear",
@@ -622,9 +622,9 @@
       "wiki_url": "/wiki_pages/looking_over_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "从眼镜上方看",
+      "confidence": "A",
+      "tag_cn_long": "角色从眼镜或墨镜上方看出去。"
     },
     {
       "name": "no eyewear",
@@ -632,9 +632,9 @@
       "wiki_url": "/wiki_pages/no_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴眼镜",
+      "confidence": "A",
+      "tag_cn_long": "角色没有佩戴平时常戴的眼镜。"
     },
     {
       "name": "removing eyewear",
@@ -642,9 +642,9 @@
       "wiki_url": "/wiki_pages/removing_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摘下眼镜",
+      "confidence": "A",
+      "tag_cn_long": "角色正在从脸上摘下眼镜，眼镜应明显可见且靠近脸部。"
     },
     {
       "name": "unworn eyewear",
@@ -652,9 +652,9 @@
       "wiki_url": "/wiki_pages/unworn_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未戴的眼镜",
+      "confidence": "A",
+      "tag_cn_long": "眼镜出现在画面中但角色没有佩戴。"
     },
     {
       "name": "eyewear hang",
@@ -662,9 +662,9 @@
       "wiki_url": "/wiki_pages/eyewear_hang",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼镜挂衣",
+      "confidence": "A",
+      "tag_cn_long": "眼镜挂在衬衫等衣物上，方便在不佩戴时携带。"
     },
     {
       "name": "eyewear in mouth",
@@ -672,9 +672,9 @@
       "wiki_url": "/wiki_pages/eyewear_in_mouth",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴叼眼镜",
+      "confidence": "A",
+      "tag_cn_long": "角色用嘴衔着眼镜。"
     },
     {
       "name": "holding removed eyewear",
@@ -682,9 +682,9 @@
       "wiki_url": "/wiki_pages/holding_removed_eyewear",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持摘下的眼镜",
+      "confidence": "A",
+      "tag_cn_long": "角色用手拿着已从脸上摘下的眼镜。"
     },
     {
       "name": "looking for glasses",
@@ -692,9 +692,9 @@
       "wiki_url": "/wiki_pages/looking_for_glasses",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "找眼镜",
+      "confidence": "A",
+      "tag_cn_long": "角色正在寻找自己的眼镜，常带有喜剧效果。"
     },
     {
       "name": "eyewear strap",
@@ -702,9 +702,9 @@
       "wiki_url": "/wiki_pages/eyewear_strap",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼镜挂绳",
+      "confidence": "A",
+      "tag_cn_long": "连接在眼镜上的带子，防止眼镜在运动中掉落。"
     },
     {
       "name": "glasses case",
@@ -712,9 +712,9 @@
       "wiki_url": "/wiki_pages/glasses_case",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼镜盒",
+      "confidence": "A",
+      "tag_cn_long": "用于存放眼镜或墨镜的保护盒。"
     },
     {
       "name": "nose pads",
@@ -722,9 +722,9 @@
       "wiki_url": "/wiki_pages/nose_pads",
       "category_path": "Eyewear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鼻托",
+      "confidence": "A",
+      "tag_cn_long": "眼镜架上靠近鼻梁的小椭圆形垫片，使佩戴更舒适。"
     },
     {
       "name": "3D glasses",
@@ -732,9 +732,9 @@
       "wiki_url": "/wiki_pages/3d_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "3D眼镜",
+      "confidence": "A",
+      "tag_cn_long": "观看3D电影时使用的特殊眼镜，传统为红蓝镜片，现代为灰色镜片。"
     },
     {
       "name": "aviator glasses",
@@ -742,9 +742,9 @@
       "wiki_url": "/wiki_pages/aviator_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞行员眼镜",
+      "confidence": "A",
+      "tag_cn_long": "一种眼镜款式，特征为双鼻梁和大泪滴形镜片，源自航空太阳镜。"
     },
     {
       "name": "coke-bottle glasses",
@@ -752,9 +752,9 @@
       "wiki_url": "/wiki_pages/coke-bottle_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瓶底眼镜",
+      "confidence": "A",
+      "tag_cn_long": "非常厚的圆形眼镜，镜片有漩涡纹路，常用来表现宅男或书呆子角色。"
     },
     {
       "name": "diving mask",
@@ -762,9 +762,9 @@
       "wiki_url": "/wiki_pages/diving_mask",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "潜水镜",
+      "confidence": "A",
+      "tag_cn_long": "用于水下潜水的护目镜，覆盖眼睛和鼻子。"
     },
     {
       "name": "novelty glasses",
@@ -772,9 +772,9 @@
       "wiki_url": "/wiki_pages/novelty_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "趣味眼镜",
+      "confidence": "B",
+      "tag_cn_long": "装饰性强的眼镜或太阳镜，具有特殊造型如心形、星形等。"
     },
     {
       "name": "heart-shaped eyewear",
@@ -782,9 +782,9 @@
       "wiki_url": "/wiki_pages/heart-shaped_eyewear",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框呈心形的眼镜。"
     },
     {
       "name": "star-shaped eyewear",
@@ -792,9 +792,9 @@
       "wiki_url": "/wiki_pages/star-shaped_eyewear",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星形眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜片呈星星形状的眼镜。"
     },
     {
       "name": "teardrop-framed glasses",
@@ -802,9 +802,9 @@
       "wiki_url": "/wiki_pages/teardrop-framed_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泪滴框眼镜",
+      "confidence": "B",
+      "tag_cn_long": "一侧镜框带有泪滴形状装饰的眼镜。"
     },
     {
       "name": "aviator goggles",
@@ -812,9 +812,9 @@
       "wiki_url": "/wiki_pages/aviator_goggles",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞行员护目镜",
+      "confidence": "A",
+      "tag_cn_long": "复古风格的飞行员或摩托车手使用的护目镜。"
     },
     {
       "name": "groucho glasses",
@@ -822,9 +822,9 @@
       "wiki_url": "/wiki_pages/groucho_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格劳乔眼镜",
+      "confidence": "B",
+      "tag_cn_long": "模仿格劳乔·马克思的搞笑眼镜，通常包括黑框眼镜、假鼻子和胡子。"
     },
     {
       "name": "lorgnette",
@@ -832,9 +832,9 @@
       "wiki_url": "/wiki_pages/lorgnette",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长柄眼镜",
+      "confidence": "A",
+      "tag_cn_long": "带手柄的眼镜，不用挂耳朵上，常见于歌剧等场合。"
     },
     {
       "name": "opaque glasses",
@@ -842,9 +842,9 @@
       "wiki_url": "/wiki_pages/opaque_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不透明眼镜",
+      "confidence": "A",
+      "tag_cn_long": "镜片反光或遮挡，看不见眼睛的眼镜，通常用于表现书呆子或反派。"
     },
     {
       "name": "opera glasses",
@@ -852,9 +852,9 @@
       "wiki_url": "/wiki_pages/opera_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "歌剧望远镜",
+      "confidence": "A",
+      "tag_cn_long": "用于歌剧或表演的双筒小型望远镜。"
     },
     {
       "name": "pince-nez",
@@ -862,9 +862,9 @@
       "wiki_url": "/wiki_pages/pince-nez",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夹鼻眼镜",
+      "confidence": "A",
+      "tag_cn_long": "没有镜腿，靠夹住鼻梁固定的眼镜。"
     },
     {
       "name": "safety glasses",
@@ -872,9 +872,9 @@
       "wiki_url": "/wiki_pages/safety_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "安全眼镜",
+      "confidence": "A",
+      "tag_cn_long": "一种特殊防护眼镜，用于保护眼睛。"
     },
     {
       "name": "scouter",
@@ -882,9 +882,9 @@
       "wiki_url": "/wiki_pages/scouter",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "战斗力探测器",
+      "confidence": "A",
+      "tag_cn_long": "源自《龙珠》的单眼探测器，可显示战斗力数值。"
     },
     {
       "name": "ski goggles",
@@ -892,9 +892,9 @@
       "wiki_url": "/wiki_pages/ski_goggles",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "滑雪护目镜",
+      "confidence": "A",
+      "tag_cn_long": "滑雪时使用的护目镜，通常单一大镜片覆盖双眼。"
     },
     {
       "name": "X-ray glasses",
@@ -902,9 +902,9 @@
       "wiki_url": "/wiki_pages/x-ray_glasses",
       "category_path": "Glasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "X光眼镜",
+      "confidence": "A",
+      "tag_cn_long": "能产生X光透视效果的眼镜，常用于搞笑或科幻。"
     },
     {
       "name": "aviator sunglasses",
@@ -912,9 +912,9 @@
       "wiki_url": "/wiki_pages/aviator_sunglasses",
       "category_path": "Sunglasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞行员太阳镜",
+      "confidence": "A",
+      "tag_cn_long": "大镜片、金属细框的太阳镜，飞行员风格。"
     },
     {
       "name": "Kamina shades",
@@ -922,9 +922,9 @@
       "wiki_url": "/wiki_pages/kamina_shades",
       "category_path": "Sunglasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡米那墨镜",
+      "confidence": "A",
+      "tag_cn_long": "《天元突破》中卡米那标志性的大墨镜，形状独特。"
     },
     {
       "name": "shutter shades",
@@ -932,9 +932,9 @@
       "wiki_url": "/wiki_pages/shutter_shades",
       "category_path": "Sunglasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百叶窗太阳镜",
+      "confidence": "A",
+      "tag_cn_long": "镜框上有横向条状设计的太阳镜，类似百叶窗。"
     },
     {
       "name": "Simon shades",
@@ -942,9 +942,9 @@
       "wiki_url": "/wiki_pages/simon_shades",
       "category_path": "Sunglasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西蒙墨镜",
+      "confidence": "A",
+      "tag_cn_long": "《天元突破》中成年西蒙戴的星形墨镜，注意与星形眼镜区分。"
     },
     {
       "name": "deal with it (meme)",
@@ -952,9 +952,9 @@
       "wiki_url": "/wiki_pages/deal_with_it_%28meme%29",
       "category_path": "Sunglasses",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戴墨镜meme",
+      "confidence": "B",
+      "tag_cn_long": "一种网络迷因，角色戴上像素化太阳镜并配字“Deal with it”。"
     },
     {
       "name": "contact lens",
@@ -962,9 +962,9 @@
       "wiki_url": "/wiki_pages/contact_lens",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "隐形眼镜",
+      "confidence": "A",
+      "tag_cn_long": "图片中明显可见或提及的隐形眼镜。"
     }
   ],
   "total_tags": 93,

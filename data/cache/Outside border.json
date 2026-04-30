@@ -1,0 +1,6 @@
+{
+  "tag": "Outside border",
+  "tag_cn": "出框",
+  "confidence": "A",
+  "tag_cn_long": "角色或物体绘制在边框之外，突出于图像边界。"
+}

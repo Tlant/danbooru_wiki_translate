@@ -186,9 +186,9 @@
       "wiki_url": "/wiki_pages/circle",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆形",
+      "confidence": "A",
+      "tag_cn_long": "一种所有点到中心距离相等的二维曲线形状。"
     },
     {
       "name": "Crescent",
@@ -196,9 +196,9 @@
       "wiki_url": "/wiki_pages/crescent",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新月形",
+      "confidence": "A",
+      "tag_cn_long": "类似新月形状的符号或图案，非指月亮本身。"
     },
     {
       "name": "Arrow",
@@ -206,9 +206,9 @@
       "wiki_url": "/wiki_pages/arrow_%28symbol%29",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "箭头符号",
+      "confidence": "C",
+      "tag_cn_long": "表示方向或指向的箭头形状符号，区别于箭矢。"
     },
     {
       "name": "Heptagon",
@@ -216,9 +216,9 @@
       "wiki_url": "/wiki_pages/heptagon",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "七边形",
+      "confidence": "A",
+      "tag_cn_long": "具有七条边和七个角的几何多边形。"
     },
     {
       "name": "Hexagon",
@@ -226,9 +226,9 @@
       "wiki_url": "/wiki_pages/hexagon",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "六边形",
+      "confidence": "A",
+      "tag_cn_long": "具有六条边和六个角的几何多边形。"
     },
     {
       "name": "Octagon",
@@ -236,9 +236,9 @@
       "wiki_url": "/wiki_pages/octagon",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "八边形",
+      "confidence": "A",
+      "tag_cn_long": "具有八条边和八个角的几何多边形。"
     },
     {
       "name": "Pentagon",
@@ -246,9 +246,9 @@
       "wiki_url": "/wiki_pages/pentagon_%28shape%29",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五边形",
+      "confidence": "A",
+      "tag_cn_long": "具有五条边和五个角的几何多边形。"
     },
     {
       "name": "Rectangle",
@@ -256,9 +256,9 @@
       "wiki_url": "/wiki_pages/rectangle",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "矩形",
+      "confidence": "A",
+      "tag_cn_long": "四个角均为直角的四边形，对边平行且等长，但相邻边长度不同。"
     },
     {
       "name": "Diamond",
@@ -266,9 +266,9 @@
       "wiki_url": "/wiki_pages/diamond_%28shape%29",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菱形",
+      "confidence": "B",
+      "tag_cn_long": "一种四边相等的几何形状，通常指旋转45度的正方形。"
     },
     {
       "name": "Triangle",
@@ -276,9 +276,9 @@
       "wiki_url": "/wiki_pages/triangle",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角形",
+      "confidence": "A",
+      "tag_cn_long": "由三条直线段围成的二维形状。"
     },
     {
       "name": "Square",
@@ -286,9 +286,9 @@
       "wiki_url": "/wiki_pages/square",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "正方形",
+      "confidence": "A",
+      "tag_cn_long": "四条边等长、四个角均为直角的四边形。"
     },
     {
       "name": "Star",
@@ -296,9 +296,9 @@
       "wiki_url": "/wiki_pages/star_%28symbol%29",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星形符号",
+      "confidence": "C",
+      "tag_cn_long": "一种多角星形状的符号，区别于天空中的星星。"
     },
     {
       "name": "asterisk",
@@ -306,9 +306,9 @@
       "wiki_url": "/wiki_pages/asterisk_%28symbol%29",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星号",
+      "confidence": "A",
+      "tag_cn_long": "一种星形符号，常用于表示脚注或乘法。"
     },
     {
       "name": "red star",
@@ -316,9 +316,9 @@
       "wiki_url": "/wiki_pages/red_star",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红星",
+      "confidence": "A",
+      "tag_cn_long": "红色的五角星，常作为社会主义或共产主义象征。"
     },
     {
       "name": "spoken star",
@@ -326,9 +326,9 @@
       "wiki_url": "/wiki_pages/spoken_star",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "话泡星",
+      "confidence": "B",
+      "tag_cn_long": "放置在对话气泡中的星星符号，常用于表示惊讶或强调。"
     },
     {
       "name": "Pentagram",
@@ -336,9 +336,9 @@
       "wiki_url": "/wiki_pages/pentagram",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五芒星",
+      "confidence": "A",
+      "tag_cn_long": "由五条直线组成的星形符号，常用于魔法或宗教象征。"
     },
     {
       "name": "Druze star",
@@ -346,9 +346,9 @@
       "wiki_url": "/wiki_pages/druze_star",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德鲁兹星",
+      "confidence": "B",
+      "tag_cn_long": "德鲁兹教派的象征，由五种颜色的五角星组成。"
     },
     {
       "name": "inverted pentagram",
@@ -356,9 +356,9 @@
       "wiki_url": "/wiki_pages/inverted_pentagram",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "倒五芒星",
+      "confidence": "A",
+      "tag_cn_long": "尖端朝下的五芒星，常与撒旦教相关联。"
     },
     {
       "name": "Hexagram",
@@ -366,9 +366,9 @@
       "wiki_url": "/wiki_pages/hexagram",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "六芒星",
+      "confidence": "A",
+      "tag_cn_long": "由两个等边三角形交错形成的六角星形。"
     },
     {
       "name": "Star of David",
@@ -376,9 +376,9 @@
       "wiki_url": "/wiki_pages/star_of_david",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大卫之星",
+      "confidence": "A",
+      "tag_cn_long": "犹太教的象征，由两个重叠的三角形组成的六角星。"
     },
     {
       "name": "Heptagram",
@@ -386,9 +386,9 @@
       "wiki_url": "/wiki_pages/heptagram",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "七角星",
+      "confidence": "A",
+      "tag_cn_long": "有七条边的星形多边形。"
     },
     {
       "name": "Octagram",
@@ -396,9 +396,9 @@
       "wiki_url": "/wiki_pages/octagram",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "八角星",
+      "confidence": "A",
+      "tag_cn_long": "有八条边的星形多边形。"
     },
     {
       "name": "Star of Lakshmi",
@@ -406,9 +406,9 @@
       "wiki_url": "/wiki_pages/star_of_lakshmi",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉克什米之星",
+      "confidence": "B",
+      "tag_cn_long": "印度教财富女神拉克什米的象征，由两个重叠正方形形成的八角星。"
     },
     {
       "name": "Enneagram",
@@ -416,9 +416,9 @@
       "wiki_url": "/wiki_pages/enneagram",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "九角星",
+      "confidence": "A",
+      "tag_cn_long": "有九条边的星形多边形，也用于人格类型学图形。"
     },
     {
       "name": "Decagram",
@@ -426,9 +426,9 @@
       "wiki_url": "/wiki_pages/decagram",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十角星",
+      "confidence": "A",
+      "tag_cn_long": "有十条边的星形多边形。"
     },
     {
       "name": "Dodecagram",
@@ -436,9 +436,9 @@
       "wiki_url": "/wiki_pages/dodecagram",
       "category_path": "Geometric shapes/Two-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十二角星",
+      "confidence": "A",
+      "tag_cn_long": "有十二条边的星形多边形。"
     },
     {
       "name": "Cone",
@@ -446,9 +446,9 @@
       "wiki_url": "/wiki_pages/cone_%28geometry%29",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆锥",
+      "confidence": "A",
+      "tag_cn_long": "一种三维几何体，底面为圆形，顶点在底面中心上方。"
     },
     {
       "name": "Tetrahedron",
@@ -456,9 +456,9 @@
       "wiki_url": "/wiki_pages/tetrahedron",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四面体",
+      "confidence": "A",
+      "tag_cn_long": "由四个三角形面构成的多面体，如金字塔形状。"
     },
     {
       "name": "Cube",
@@ -466,9 +466,9 @@
       "wiki_url": "/wiki_pages/cube",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立方体",
+      "confidence": "A",
+      "tag_cn_long": "具有六个正方形面的正多面体。"
     },
     {
       "name": "Octahedron",
@@ -476,9 +476,9 @@
       "wiki_url": "/wiki_pages/octahedron",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "八面体",
+      "confidence": "A",
+      "tag_cn_long": "有八个三角形面的多面体，类似两个金字塔底对底。"
     },
     {
       "name": "Dodecahedron",
@@ -486,9 +486,9 @@
       "wiki_url": "/wiki_pages/dodecahedron",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十二面体",
+      "confidence": "A",
+      "tag_cn_long": "由十二个正五边形面构成的正多面体。"
     },
     {
       "name": "Icosahedron",
@@ -496,9 +496,9 @@
       "wiki_url": "/wiki_pages/icosahedron",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "二十面体",
+      "confidence": "A",
+      "tag_cn_long": "有二十个三角形面的正多面体。"
     },
     {
       "name": "Prism",
@@ -516,9 +516,9 @@
       "wiki_url": "/wiki_pages/pyramid_%28geometry%29",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棱锥",
+      "confidence": "A",
+      "tag_cn_long": "一种底面为多边形、侧面为三角形的立体图形。"
     },
     {
       "name": "Orb",
@@ -526,9 +526,9 @@
       "wiki_url": "/wiki_pages/orb",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "球体",
+      "confidence": "A",
+      "tag_cn_long": "一个圆球形的物体，常用于装饰或魔法表现，大小通常如水晶球。"
     },
     {
       "name": "Great dodecahedron",
@@ -536,9 +536,9 @@
       "wiki_url": "/wiki_pages/great_dodecahedron",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大十二面体",
+      "confidence": "B",
+      "tag_cn_long": "一种非凸的星形多面体，由十二个正五边形面组成。"
     },
     {
       "name": "Small stellated dodecahedron",
@@ -546,9 +546,9 @@
       "wiki_url": "/wiki_pages/small_stellated_dodecahedron",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小星形十二面体",
+      "confidence": "B",
+      "tag_cn_long": "一种非凸多面体，有十二个五角星形面，是十二面体的星形之一。"
     },
     {
       "name": "Stellated octahedron",
@@ -556,9 +556,9 @@
       "wiki_url": "/wiki_pages/stellated_octahedron",
       "category_path": "Geometric shapes/Three-dimensional shapes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星形八面体",
+      "confidence": "B",
+      "tag_cn_long": "八面体的星形化，可看作两个正四面体的复合。"
     },
     {
       "name": "Mobius strip",
@@ -566,9 +566,9 @@
       "wiki_url": "/wiki_pages/mobius_strip",
       "category_path": "Geometric shapes/Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莫比乌斯带",
+      "confidence": "A",
+      "tag_cn_long": "一种只有一个面和一条边界的拓扑曲面。"
     },
     {
       "name": "Klein bottle",
@@ -576,9 +576,9 @@
       "wiki_url": "/wiki_pages/klein_bottle",
       "category_path": "Geometric shapes/Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "克莱因瓶",
+      "confidence": "A",
+      "tag_cn_long": "一种不可定向的拓扑曲面，类似于封闭的瓶子但内外相通。"
     },
     {
       "name": "^^^",
@@ -586,9 +586,9 @@
       "wiki_url": "/wiki_pages/%5E%5E%5E",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "惊讶角标",
+      "confidence": "C",
+      "tag_cn_long": "画在角色头顶的三个尖角符号，表示惊讶或恍然大悟。"
     },
     {
       "name": "+++",
@@ -596,9 +596,9 @@
       "wiki_url": "/wiki_pages/%2B%2B%2B",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "笑声符号",
+      "confidence": "B",
+      "tag_cn_long": "角色头部旁绘制的符号，代表笑声或嘈杂的聊天声。"
     },
     {
       "name": "puff of air",
@@ -606,9 +606,9 @@
       "wiki_url": "/wiki_pages/puff_of_air",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "气团",
+      "confidence": "B",
+      "tag_cn_long": "角色头部冒出的一团气，表示愤怒、叹气等情绪。"
     },
     {
       "name": "Anger vein",
@@ -616,9 +616,9 @@
       "wiki_url": "/wiki_pages/anger_vein",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "愤怒青筋",
+      "confidence": "A",
+      "tag_cn_long": "额头或拳头旁的十字形曲线，表示愤怒或烦躁。"
     },
     {
       "name": "Spoken anger vein",
@@ -626,9 +626,9 @@
       "wiki_url": "/wiki_pages/spoken_anger_vein",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "话语青筋",
+      "confidence": "B",
+      "tag_cn_long": "出现在对话气泡中的愤怒青筋符号。"
     },
     {
       "name": "Spoken blush",
@@ -636,9 +636,9 @@
       "wiki_url": "/wiki_pages/spoken_blush",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "话语脸红",
+      "confidence": "B",
+      "tag_cn_long": "出现在对话气泡中的脸红符号，通常为几条斜线。"
     },
     {
       "name": "Heart",
@@ -656,9 +656,9 @@
       "wiki_url": "/wiki_pages/arrow_through_heart",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿心箭",
+      "confidence": "A",
+      "tag_cn_long": "一支箭穿过心形，象征恋爱。"
     },
     {
       "name": "Broken heart",
@@ -666,9 +666,9 @@
       "wiki_url": "/wiki_pages/broken_heart",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破碎的心",
+      "confidence": "A",
+      "tag_cn_long": "分成两半的心形，代表心碎或失望。"
     },
     {
       "name": "Spoken heart",
@@ -676,9 +676,9 @@
       "wiki_url": "/wiki_pages/spoken_heart",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "话语心形",
+      "confidence": "B",
+      "tag_cn_long": "出现在对话气泡中的心形符号。"
     },
     {
       "name": "Notice lines",
@@ -686,9 +686,9 @@
       "wiki_url": "/wiki_pages/notice_lines",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "注意线",
+      "confidence": "B",
+      "tag_cn_long": "角色头部周围出现的线条，表示注意到某事物。"
     },
     {
       "name": "Shout lines",
@@ -696,9 +696,9 @@
       "wiki_url": "/wiki_pages/shout_lines",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喊叫线",
+      "confidence": "B",
+      "tag_cn_long": "角色头部发出的锯齿状线条，表示大声喊叫。"
     },
     {
       "name": "Smiley face",
@@ -706,9 +706,9 @@
       "wiki_url": "/wiki_pages/smiley_face",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "笑脸符号",
+      "confidence": "A",
+      "tag_cn_long": "黄色圆形笑脸，代表快乐。"
     },
     {
       "name": "Squiggle",
@@ -716,9 +716,9 @@
       "wiki_url": "/wiki_pages/squiggle",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "烦躁线",
+      "confidence": "A",
+      "tag_cn_long": "一种弯曲的涂鸦线条，表示角色不满、烦躁或尴尬等情绪。"
     },
     {
       "name": "Spoken squiggle",
@@ -726,9 +726,9 @@
       "wiki_url": "/wiki_pages/spoken_squiggle",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "对话烦躁线",
+      "confidence": "A",
+      "tag_cn_long": "出现在对话框内的烦躁线，表示角色通过说话表达不耐烦或困惑。"
     },
     {
       "name": "Symbol BA-90",
@@ -736,9 +736,9 @@
       "wiki_url": "/wiki_pages/symbol_ba-90",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "写植符号BA-90",
+      "confidence": "C",
+      "tag_cn_long": "日本写研公司的摄影排版符号，是一个带人脸的新月形标记。"
     },
     {
       "name": "Sweatdrop",
@@ -746,9 +746,9 @@
       "wiki_url": "/wiki_pages/sweatdrop",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "汗滴",
+      "confidence": "A",
+      "tag_cn_long": "一个单独的大汗滴符号，常用于表示角色紧张或尴尬。"
     },
     {
       "name": "Comedic sweatdrop",
@@ -756,9 +756,9 @@
       "wiki_url": "/wiki_pages/comedic_sweatdrop",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喜剧汗滴",
+      "confidence": "A",
+      "tag_cn_long": "一个用于喜剧效果的大汗滴符号，表示角色紧张或尴尬。"
     },
     {
       "name": "Flying sweatdrops",
@@ -766,9 +766,9 @@
       "wiki_url": "/wiki_pages/flying_sweatdrops",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞溅汗滴",
+      "confidence": "A",
+      "tag_cn_long": "汗滴从角色身上飞散出去的符号，违反物理定律。"
     },
     {
       "name": "Spoken sweatdrop",
@@ -776,9 +776,9 @@
       "wiki_url": "/wiki_pages/spoken_sweatdrop",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "对话汗滴",
+      "confidence": "A",
+      "tag_cn_long": "出现在对话框内的大汗滴符号，表示文字本身在“出汗”，暗示紧张或尴尬。"
     },
     {
       "name": "Squeans",
@@ -786,9 +786,9 @@
       "wiki_url": "/wiki_pages/squeans",
       "category_path": "Symbols of emotions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晕眩圈",
+      "confidence": "B",
+      "tag_cn_long": "角色头部旁边的符号，通常由虚线或圆圈组成，表示困倦、醉酒或神志不清。"
     },
     {
       "name": "Bass clef",
@@ -796,9 +796,9 @@
       "wiki_url": "/wiki_pages/bass_clef",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低音谱号",
+      "confidence": "A",
+      "tag_cn_long": "音乐符号（𝄢），用于表示低音区的谱号，常见于低音乐器。"
     },
     {
       "name": "Flat sign",
@@ -806,9 +806,9 @@
       "wiki_url": "/wiki_pages/flat_sign",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "降号",
+      "confidence": "A",
+      "tag_cn_long": "音乐符号（♭），表示音符降低半音。"
     },
     {
       "name": "Musical note",
@@ -816,9 +816,9 @@
       "wiki_url": "/wiki_pages/musical_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "音符",
+      "confidence": "A",
+      "tag_cn_long": "音乐记谱符号，用于表示角色唱歌或轻松愉快，或背景中的音符。"
     },
     {
       "name": "whole note",
@@ -826,9 +826,9 @@
       "wiki_url": "/wiki_pages/whole_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全音符",
+      "confidence": "A",
+      "tag_cn_long": "一个空心椭圆形的音符，没有符干，时值等于两个二分音符。"
     },
     {
       "name": "whole rest",
@@ -836,9 +836,9 @@
       "wiki_url": "/wiki_pages/whole_rest",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全休止符",
+      "confidence": "A",
+      "tag_cn_long": "一个位于五线谱第四线下方的黑色矩形，表示休止全音符时值。"
     },
     {
       "name": "half note",
@@ -846,9 +846,9 @@
       "wiki_url": "/wiki_pages/half_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "二分音符",
+      "confidence": "A",
+      "tag_cn_long": "一个空心椭圆加符干的音符，时值为全音符的一半。"
     },
     {
       "name": "half rest",
@@ -856,9 +856,9 @@
       "wiki_url": "/wiki_pages/half_rest",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "二分休止符",
+      "confidence": "A",
+      "tag_cn_long": "一个位于五线谱第三线上方的黑色矩形，表示休止半音符时值。"
     },
     {
       "name": "dotted half note",
@@ -866,9 +866,9 @@
       "wiki_url": "/wiki_pages/dotted_half_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "附点二分音符",
+      "confidence": "A",
+      "tag_cn_long": "一个二分音符右侧带点，时值增加一半。"
     },
     {
       "name": "quarter note",
@@ -876,9 +876,9 @@
       "wiki_url": "/wiki_pages/quarter_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四分音符",
+      "confidence": "A",
+      "tag_cn_long": "一个实心椭圆加符干的音符（♩），时值为全音符的四分之一。"
     },
     {
       "name": "quarter rest",
@@ -886,9 +886,9 @@
       "wiki_url": "/wiki_pages/quarter_rest",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四分休止符",
+      "confidence": "A",
+      "tag_cn_long": "一个类似闪电状的符号表示休止四分音符时值。"
     },
     {
       "name": "dotted quarter note",
@@ -896,9 +896,9 @@
       "wiki_url": "/wiki_pages/dotted_quarter_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "附点四分音符",
+      "confidence": "A",
+      "tag_cn_long": "一个四分音符右侧带点，时值增加一半。"
     },
     {
       "name": "eighth note",
@@ -906,9 +906,9 @@
       "wiki_url": "/wiki_pages/eighth_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "八分音符",
+      "confidence": "A",
+      "tag_cn_long": "一个实心椭圆加符干和一条符尾的符号（♪），时值为全音符的八分之一。"
     },
     {
       "name": "beamed eighth notes",
@@ -916,9 +916,9 @@
       "wiki_url": "/wiki_pages/beamed_eighth_notes",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连八分音符",
+      "confidence": "A",
+      "tag_cn_long": "一组八分音符用横杠连写，如♫。"
     },
     {
       "name": "eighth rest",
@@ -926,9 +926,9 @@
       "wiki_url": "/wiki_pages/eighth_rest",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "八分休止符",
+      "confidence": "A",
+      "tag_cn_long": "表示休止八分之一全音符时长的符号，形似带一个钩的竖线。"
     },
     {
       "name": "dotted eighth note",
@@ -936,9 +936,9 @@
       "wiki_url": "/wiki_pages/dotted_eighth_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "附点八分音符",
+      "confidence": "A",
+      "tag_cn_long": "在八分音符右边加一个附点，表示时值增加原长度的一半。"
     },
     {
       "name": "sixteenth note",
@@ -946,9 +946,9 @@
       "wiki_url": "/wiki_pages/sixteenth_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十六分音符",
+      "confidence": "A",
+      "tag_cn_long": "表示时值为全音符十六分之一的音符，符头实心黑色，符杆带两条旗形符尾。"
     },
     {
       "name": "beamed sixteenth notes",
@@ -956,9 +956,9 @@
       "wiki_url": "/wiki_pages/beamed_sixteenth_notes",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连十六分音符",
+      "confidence": "A",
+      "tag_cn_long": "多个十六分音符用双横杠连接，如♬。"
     },
     {
       "name": "sixteenth rest",
@@ -966,9 +966,9 @@
       "wiki_url": "/wiki_pages/sixteenth_rest",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十六分休止符",
+      "confidence": "A",
+      "tag_cn_long": "表示休止十六分之一全音符时长的符号，形似八分休止符但带两个钩。"
     },
     {
       "name": "dotted sixteenth note",
@@ -976,9 +976,9 @@
       "wiki_url": "/wiki_pages/dotted_sixteenth_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "附点十六分音符",
+      "confidence": "A",
+      "tag_cn_long": "在十六分音符右边加一个附点，时值增加原长度的一半。"
     },
     {
       "name": "thirty-second note",
@@ -986,9 +986,9 @@
       "wiki_url": "/wiki_pages/thirty-second_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三十二分音符",
+      "confidence": "A",
+      "tag_cn_long": "表示时值为全音符三十二分之一的音符，符头实心黑色，符杆带三条旗形符尾。"
     },
     {
       "name": "beamed thirty-second notes",
@@ -996,9 +996,9 @@
       "wiki_url": "/wiki_pages/beamed_thirty-second_notes",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连三十二分音符",
+      "confidence": "A",
+      "tag_cn_long": "多个三十二分音符用三根横杠连接。"
     },
     {
       "name": "thirty-second rest",
@@ -1006,9 +1006,9 @@
       "wiki_url": "/wiki_pages/thirty-second_rest",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三十二分休止符",
+      "confidence": "A",
+      "tag_cn_long": "表示休止三十二分之一全音符时长的符号，形似八分休止符但带三个钩。"
     },
     {
       "name": "dotted thirty-second note",
@@ -1016,9 +1016,9 @@
       "wiki_url": "/wiki_pages/dotted_thirty-second_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "附点三十二分音符",
+      "confidence": "A",
+      "tag_cn_long": "在三十二分音符右边加一个附点，时值增加原长度的一半。"
     },
     {
       "name": "sixty-fourth note",
@@ -1026,9 +1026,9 @@
       "wiki_url": "/wiki_pages/sixty-fourth_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "六十四分音符",
+      "confidence": "A",
+      "tag_cn_long": "表示时值为全音符六十四分之一的音符，符头实心黑色，符杆带四条旗形符尾。"
     },
     {
       "name": "beamed sixty-fourth notes",
@@ -1036,9 +1036,9 @@
       "wiki_url": "/wiki_pages/beamed_sixty-fourth_notes",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连六十四分音符",
+      "confidence": "A",
+      "tag_cn_long": "多个六十四分音符用四根横杠连接。"
     },
     {
       "name": "ghost note",
@@ -1046,9 +1046,9 @@
       "wiki_url": "/wiki_pages/ghost_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "幽灵音符",
+      "confidence": "B",
+      "tag_cn_long": "音符头用X代替的符号，用于表示无明确音高的音，常见于打击乐。"
     },
     {
       "name": "grace note",
@@ -1056,9 +1056,9 @@
       "wiki_url": "/wiki_pages/grace_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "装饰音",
+      "confidence": "A",
+      "tag_cn_long": "比普通音符小一号的音符，有时符杆带斜线，表示短促的倚音。"
     },
     {
       "name": "spoken musical note",
@@ -1066,9 +1066,9 @@
       "wiki_url": "/wiki_pages/spoken_musical_note",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "说话音符",
+      "confidence": "B",
+      "tag_cn_long": "位于对话框内或从说话角色口中发出的音符，表示愉快情绪。"
     },
     {
       "name": "Natural sign",
@@ -1076,9 +1076,9 @@
       "wiki_url": "/wiki_pages/natural_sign",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "还原记号",
+      "confidence": "A",
+      "tag_cn_long": "♮符号用于取消升降记号，表示还原为自然音高。"
     },
     {
       "name": "Sharp sign",
@@ -1086,9 +1086,9 @@
       "wiki_url": "/wiki_pages/sharp_sign",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "升记号",
+      "confidence": "A",
+      "tag_cn_long": "♯符号表示将音符升高半音。"
     },
     {
       "name": "Musical staff",
@@ -1096,9 +1096,9 @@
       "wiki_url": "/wiki_pages/musical_staff",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五线谱",
+      "confidence": "A",
+      "tag_cn_long": "由五条平行横线组成的乐谱记谱方式。"
     },
     {
       "name": "Time signature",
@@ -1106,9 +1106,9 @@
       "wiki_url": "/wiki_pages/time_signature",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拍号",
+      "confidence": "A",
+      "tag_cn_long": "写在乐谱开头或拍子变化处的数字，标明每小节拍数。"
     },
     {
       "name": "Treble clef",
@@ -1116,9 +1116,9 @@
       "wiki_url": "/wiki_pages/treble_clef",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高音谱号",
+      "confidence": "A",
+      "tag_cn_long": "音乐符号，用于表示高音谱表的音高。"
     },
     {
       "name": "Playing Card",
@@ -1136,9 +1136,9 @@
       "wiki_url": "/wiki_pages/club_%28shape%29",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梅花",
+      "confidence": "B",
+      "tag_cn_long": "扑克牌中的一种花色，形状为三叶草状。"
     },
     {
       "name": "Diamonds",
@@ -1146,9 +1146,9 @@
       "wiki_url": "/wiki_pages/diamond_%28shape%29",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "方块",
+      "confidence": "A",
+      "tag_cn_long": "扑克牌中的一种花色，形状为菱形。"
     },
     {
       "name": "Hearts",
@@ -1156,9 +1156,9 @@
       "wiki_url": "/wiki_pages/heart",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红心",
+      "confidence": "A",
+      "tag_cn_long": "扑克牌中的一种花色，形状为心形。"
     },
     {
       "name": "Spades",
@@ -1166,9 +1166,9 @@
       "wiki_url": "/wiki_pages/spade_%28shape%29",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑桃",
+      "confidence": "A",
+      "tag_cn_long": "扑克牌中的一种花色，形状为铲形。"
     },
     {
       "name": "Playing card theme",
@@ -1176,9 +1176,9 @@
       "wiki_url": "/wiki_pages/playing_card_theme",
       "category_path": "Musical symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扑克牌主题",
+      "confidence": "A",
+      "tag_cn_long": "以扑克牌为元素的艺术主题。"
     },
     {
       "name": "!",
@@ -1186,9 +1186,9 @@
       "wiki_url": "/wiki_pages/%21",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "感叹号",
+      "confidence": "A",
+      "tag_cn_long": "标点符号，表示惊讶或强调。"
     },
     {
       "name": "spoken exclamation mark",
@@ -1196,9 +1196,9 @@
       "wiki_url": "/wiki_pages/spoken_exclamation_mark",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "说出感叹号",
+      "confidence": "A",
+      "tag_cn_long": "角色在说话中单独说出感叹号符号。"
     },
     {
       "name": "!?",
@@ -1306,9 +1306,9 @@
       "wiki_url": "/wiki_pages/double_happiness",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双喜",
+      "confidence": "A",
+      "tag_cn_long": "中国吉祥符号“囍”，由两个“喜”字组成，常用于婚礼。"
     },
     {
       "name": "shou",
@@ -1326,9 +1326,9 @@
       "wiki_url": "/wiki_pages/good_fortune_symbol",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福字",
+      "confidence": "A",
+      "tag_cn_long": "代表好运和福气的汉字“福”。"
     },
     {
       "name": "Dao Fu",
@@ -1336,9 +1336,9 @@
       "wiki_url": "/wiki_pages/dao_fu",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "倒福",
+      "confidence": "A",
+      "tag_cn_long": "将“福”字倒置的吉祥符，寓意“福到”。"
     },
     {
       "name": "Heaven kanji",
@@ -1346,9 +1346,9 @@
       "wiki_url": "/wiki_pages/heaven_%28kanji%29",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天字",
+      "confidence": "A",
+      "tag_cn_long": "汉字“天”。"
     },
     {
       "name": "Two-legged horse kanji",
@@ -1356,9 +1356,9 @@
       "wiki_url": "/wiki_pages/two-legged_horse_%28kanji%29",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "两腿马汉字",
+      "confidence": "D",
+      "tag_cn_long": "一种特殊写法的汉字“马”，可能指简化或变体。"
     },
     {
       "name": "Minus sign",
@@ -1366,9 +1366,9 @@
       "wiki_url": "/wiki_pages/minus_sign",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "减号",
+      "confidence": "A",
+      "tag_cn_long": "数学中表示减法运算的横线符号“-”。"
     },
     {
       "name": "Omega symbol",
@@ -1376,9 +1376,9 @@
       "wiki_url": "/wiki_pages/omega_symbol",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Ω符号",
+      "confidence": "A",
+      "tag_cn_long": "希腊字母表的最后一个字母，大写为Ω。"
     },
     {
       "name": "Pi (math)",
@@ -1386,9 +1386,9 @@
       "wiki_url": "/wiki_pages/pi_%28math%29",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "π符号",
+      "confidence": "A",
+      "tag_cn_long": "数学常数圆周率，约等于3.14159。"
     },
     {
       "name": "Plus sign",
@@ -1406,9 +1406,9 @@
       "wiki_url": "/wiki_pages/runes",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "符文",
+      "confidence": "A",
+      "tag_cn_long": "古代日耳曼语族使用的字母体系，也指类似的神秘符号。"
     },
     {
       "name": "Siegrunen",
@@ -1416,9 +1416,9 @@
       "wiki_url": "/wiki_pages/siegrunen",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胜利符文",
+      "confidence": "A",
+      "tag_cn_long": "由两个Sowilō符文组成的SS标志，二战中为纳粹德国党卫军使用。"
     },
     {
       "name": "Segment display",
@@ -1426,9 +1426,9 @@
       "wiki_url": "/wiki_pages/segment_display",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "段式显示屏",
+      "confidence": "A",
+      "tag_cn_long": "由多个条状段组成的电子显示装置，用于数字和字母。"
     },
     {
       "name": "Seven-segment display",
@@ -1436,9 +1436,9 @@
       "wiki_url": "/wiki_pages/seven-segment_display",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "七段数码管",
+      "confidence": "A",
+      "tag_cn_long": "由七个段组成的最常见数码显示，常用于计算器和时钟。"
     },
     {
       "name": "Z (Russian symbol)",
@@ -1446,9 +1446,9 @@
       "wiki_url": "/wiki_pages/z_%28russian_symbol%29",
       "category_path": "Text, languages, letters, numbers, punctuation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Z符号",
+      "confidence": "A",
+      "tag_cn_long": "俄乌战争中俄罗斯军车上使用的拉丁字母Z，作为军事识别的符号。"
     },
     {
       "name": "Dollar sign",
@@ -1456,9 +1456,9 @@
       "wiki_url": "/wiki_pages/dollar_sign",
       "category_path": "Currency symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美元符号",
+      "confidence": "A",
+      "tag_cn_long": "货币符号“$”，代表美元等多种以“元”为单位的货币。"
     },
     {
       "name": "Euro sign",
@@ -1466,9 +1466,9 @@
       "wiki_url": "/wiki_pages/euro_sign",
       "category_path": "Currency symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "欧元符号",
+      "confidence": "A",
+      "tag_cn_long": "货币符号“€”，代表欧元。"
     },
     {
       "name": "Franc sign",
@@ -1476,9 +1476,9 @@
       "wiki_url": "/wiki_pages/franc_sign",
       "category_path": "Currency symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法郎符号",
+      "confidence": "A",
+      "tag_cn_long": "货币符号“₣”，代表法国法郎等旧货币。"
     },
     {
       "name": "Indian rupee sign",
@@ -1486,9 +1486,9 @@
       "wiki_url": "/wiki_pages/indian_rupee_sign",
       "category_path": "Currency symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卢比符号",
+      "confidence": "A",
+      "tag_cn_long": "货币符号“₹”，代表印度卢比。"
     },
     {
       "name": "Pound sign",
@@ -1496,9 +1496,9 @@
       "wiki_url": "/wiki_pages/pound_sign",
       "category_path": "Currency symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "英镑符号",
+      "confidence": "A",
+      "tag_cn_long": "货币符号“£”，代表英镑。"
     },
     {
       "name": "Ruble sign",
@@ -1506,9 +1506,9 @@
       "wiki_url": "/wiki_pages/ruble_sign",
       "category_path": "Currency symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卢布符号",
+      "confidence": "A",
+      "tag_cn_long": "货币符号“₽”，代表俄罗斯卢布。"
     },
     {
       "name": "Won sign",
@@ -1516,9 +1516,9 @@
       "wiki_url": "/wiki_pages/won_sign",
       "category_path": "Currency symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "韩元符号",
+      "confidence": "A",
+      "tag_cn_long": "货币符号“₩”，代表韩元。"
     },
     {
       "name": "Yen sign",
@@ -1526,9 +1526,9 @@
       "wiki_url": "/wiki_pages/yen_sign",
       "category_path": "Currency symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日元符号",
+      "confidence": "A",
+      "tag_cn_long": "代表日元货币的¥符号。"
     },
     {
       "name": "Barcode",
@@ -1536,9 +1536,9 @@
       "wiki_url": "/wiki_pages/barcode",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条形码",
+      "confidence": "A",
+      "tag_cn_long": "由平行线条组成的机器可读数据编码，用于标识商品。"
     },
     {
       "name": "QR code",
@@ -1546,9 +1546,9 @@
       "wiki_url": "/wiki_pages/qr_code",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "二维码",
+      "confidence": "A",
+      "tag_cn_long": "一种矩阵条形码，通常用于快速链接网址。"
     },
     {
       "name": "Cross",
@@ -1556,9 +1556,9 @@
       "wiki_url": "/wiki_pages/cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十字",
+      "confidence": "A",
+      "tag_cn_long": "两条垂直相交直线组成的符号，常用于宗教或装饰。"
     },
     {
       "name": "arrow cross",
@@ -1566,9 +1566,9 @@
       "wiki_url": "/wiki_pages/arrow_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "箭十字",
+      "confidence": "B",
+      "tag_cn_long": "臂端呈箭头形状的十字。"
     },
     {
       "name": "Balkenkreuz",
@@ -1576,9 +1576,9 @@
       "wiki_url": "/wiki_pages/balkenkreuz",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德式十字",
+      "confidence": "B",
+      "tag_cn_long": "二战德军使用的直臂十字标志，通常带有白色边框。"
     },
     {
       "name": "Celtic cross",
@@ -1586,9 +1586,9 @@
       "wiki_url": "/wiki_pages/celtic_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凯尔特十字",
+      "confidence": "A",
+      "tag_cn_long": "带有圆环的十字，源于凯尔特文化。"
     },
     {
       "name": "cross bottony",
@@ -1596,9 +1596,9 @@
       "wiki_url": "/wiki_pages/cross_bottony",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "球端十字",
+      "confidence": "C",
+      "tag_cn_long": "臂端呈三叶形或球形的十字。"
     },
     {
       "name": "cross crosslet",
@@ -1606,9 +1606,9 @@
       "wiki_url": "/wiki_pages/cross_crosslet",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十字端十字",
+      "confidence": "C",
+      "tag_cn_long": "每个臂端又有一个小十字的十字形。"
     },
     {
       "name": "cross fitchy",
@@ -1616,9 +1616,9 @@
       "wiki_url": "/wiki_pages/cross_fitchy",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖底十字",
+      "confidence": "B",
+      "tag_cn_long": "下端臂端呈尖刺状的十字。"
     },
     {
       "name": "cross fleury",
@@ -1626,9 +1626,9 @@
       "wiki_url": "/wiki_pages/cross_fleury",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸢尾十字",
+      "confidence": "B",
+      "tag_cn_long": "臂端呈鸢尾花形状的十字。"
     },
     {
       "name": "cross moline",
@@ -1636,9 +1636,9 @@
       "wiki_url": "/wiki_pages/cross_moline",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分叉卷曲十字",
+      "confidence": "C",
+      "tag_cn_long": "臂端分成两叉并向内卷曲的十字。"
     },
     {
       "name": "cross patonce",
@@ -1646,9 +1646,9 @@
       "wiki_url": "/wiki_pages/cross_patonce",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帕顿斯十字",
+      "confidence": "C",
+      "tag_cn_long": "臂端呈三叶宽端形状，介于十字帕蒂和鸢尾十字之间的十字。"
     },
     {
       "name": "cross patty",
@@ -1656,9 +1656,9 @@
       "wiki_url": "/wiki_pages/cross_patty",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帕蒂十字",
+      "confidence": "B",
+      "tag_cn_long": "四端宽大、中间窄的十字，铁十字勋章即为此样式。"
     },
     {
       "name": "cross potent",
@@ -1666,9 +1666,9 @@
       "wiki_url": "/wiki_pages/cross_potent",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "T形十字",
+      "confidence": "B",
+      "tag_cn_long": "四个末端呈T形的十字，也称十字强力。"
     },
     {
       "name": "crucifix",
@@ -1676,9 +1676,9 @@
       "wiki_url": "/wiki_pages/crucifix",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苦像",
+      "confidence": "A",
+      "tag_cn_long": "带有耶稣受难像的十字架。"
     },
     {
       "name": "Greek cross",
@@ -1686,9 +1686,9 @@
       "wiki_url": "/wiki_pages/greek_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "希腊十字",
+      "confidence": "A",
+      "tag_cn_long": "四臂等长的十字形（+形）。"
     },
     {
       "name": "red cross",
@@ -1696,9 +1696,9 @@
       "wiki_url": "/wiki_pages/red_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红十字",
+      "confidence": "A",
+      "tag_cn_long": "红色的加号符号，常作为医疗或急救标志。"
     },
     {
       "name": "inverted cross",
@@ -1706,9 +1706,9 @@
       "wiki_url": "/wiki_pages/inverted_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "倒十字",
+      "confidence": "A",
+      "tag_cn_long": "上下颠倒的十字，常象征反基督教。"
     },
     {
       "name": "Iron Cross",
@@ -1716,9 +1716,9 @@
       "wiki_url": "/wiki_pages/iron_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铁十字",
+      "confidence": "A",
+      "tag_cn_long": "一种黑色宽端十字勋章，带有白色边框，源自德国。"
     },
     {
       "name": "Latin cross",
@@ -1726,9 +1726,9 @@
       "wiki_url": "/wiki_pages/latin_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉丁十字",
+      "confidence": "A",
+      "tag_cn_long": "一种基督教十字架，下方横臂比上方三条臂长。"
     },
     {
       "name": "Maltese cross",
@@ -1736,9 +1736,9 @@
       "wiki_url": "/wiki_pages/maltese_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马耳他十字",
+      "confidence": "A",
+      "tag_cn_long": "一种由四个V形凹四边形在中点交汇的十字符号，常用于骑士团标识。"
     },
     {
       "name": "Orthodox cross",
@@ -1746,9 +1746,9 @@
       "wiki_url": "/wiki_pages/orthodox_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东正教十字",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯东正教使用的三横杠十字，下方横杠倾斜。"
     },
     {
       "name": "plus sign",
@@ -1756,9 +1756,9 @@
       "wiki_url": "/wiki_pages/plus_sign",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "加号",
+      "confidence": "A",
+      "tag_cn_long": "符号“+”，表示加法或正号。"
     },
     {
       "name": "Sun cross",
@@ -1766,9 +1766,9 @@
       "wiki_url": "/wiki_pages/sun_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太阳十字",
+      "confidence": "A",
+      "tag_cn_long": "一个等臂十字嵌入圆内的符号，也称轮十字。"
     },
     {
       "name": "two-barred cross",
@@ -1776,9 +1776,9 @@
       "wiki_url": "/wiki_pages/two-barred_cross",
       "category_path": "Encodings",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双杠十字",
+      "confidence": "B",
+      "tag_cn_long": "带有两条横杠的十字，上方横杠较短，也称宗主教十字。"
     },
     {
       "name": "Anarchy symbol",
@@ -1786,9 +1786,9 @@
       "wiki_url": "/wiki_pages/anarchy_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无政府主义符号",
+      "confidence": "A",
+      "tag_cn_long": "圆圈内包含字母A的符号，代表无政府主义，常与摇滚朋克文化关联。"
     },
     {
       "name": "Ankh",
@@ -1796,9 +1796,9 @@
       "wiki_url": "/wiki_pages/ankh",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "安卡",
+      "confidence": "A",
+      "tag_cn_long": "古埃及象征生命的十字架形符号，顶部有环。"
     },
     {
       "name": "Ars Goetia",
@@ -1806,9 +1806,9 @@
       "wiki_url": "/wiki_pages/ars_goetia",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "所罗门的小钥匙",
+      "confidence": "A",
+      "tag_cn_long": "17世纪的魔法书，记载了72位恶魔及其召唤方法。"
     },
     {
       "name": "Battery indicator",
@@ -1816,9 +1816,9 @@
       "wiki_url": "/wiki_pages/battery_indicator",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "电池图标",
+      "confidence": "A",
+      "tag_cn_long": "显示电子设备剩余电量的电池形状图标。"
     },
     {
       "name": "Biohazard symbol",
@@ -1826,9 +1826,9 @@
       "wiki_url": "/wiki_pages/biohazard_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "生物危害符号",
+      "confidence": "A",
+      "tag_cn_long": "警告生物危险物质的标志，由三个重叠的圆形组成。"
     },
     {
       "name": "Black Sun",
@@ -1836,9 +1836,9 @@
       "wiki_url": "/wiki_pages/black_sun_%28symbol%29",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑日",
+      "confidence": "B",
+      "tag_cn_long": "黑色太阳的图案，常与灵乌路空等相关，注意与纳粹符号区分。"
     },
     {
       "name": "Caduceus",
@@ -1846,9 +1846,9 @@
       "wiki_url": "/wiki_pages/caduceus",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双蛇杖",
+      "confidence": "A",
+      "tag_cn_long": "赫尔墨斯的神杖，上有两条蛇缠绕，常被误认为是医学标志。"
     },
     {
       "name": "Compass rose",
@@ -1856,9 +1856,9 @@
       "wiki_url": "/wiki_pages/compass_rose",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗盘玫瑰",
+      "confidence": "A",
+      "tag_cn_long": "地图上指示方向的星形图案，标有北、南、东、西。"
     },
     {
       "name": "Digital rain",
@@ -1866,9 +1866,9 @@
       "wiki_url": "/wiki_pages/digital_rain",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "数字雨",
+      "confidence": "A",
+      "tag_cn_long": "《黑客帝国》中的视觉效果，绿色数字字符如雨般落下。"
     },
     {
       "name": "Fasces",
@@ -1876,9 +1876,9 @@
       "wiki_url": "/wiki_pages/fasces_%28object%29",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法西斯束棒",
+      "confidence": "A",
+      "tag_cn_long": "古罗马的权标，由一束棍棒和斧头组成，象征权威，后被法西斯主义采用。"
     },
     {
       "name": "Flammable symbol",
@@ -1886,9 +1886,9 @@
       "wiki_url": "/wiki_pages/flammable_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "易燃标志",
+      "confidence": "A",
+      "tag_cn_long": "表示易燃物质或化学品的警告标志，通常包含火焰图案。"
     },
     {
       "name": "Fleur-de-lis",
@@ -1896,9 +1896,9 @@
       "wiki_url": "/wiki_pages/fleur-de-lis",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸢尾花纹",
+      "confidence": "A",
+      "tag_cn_long": "一种风格化的百合或鸢尾花装饰图案，常用于纹章。"
     },
     {
       "name": "Fragile Symbol",
@@ -1906,9 +1906,9 @@
       "wiki_url": "/wiki_pages/fragile_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "易碎品标志",
+      "confidence": "A",
+      "tag_cn_long": "画有破裂酒杯的符号，提示包装内物品易碎，需小心搬运。"
     },
     {
       "name": "Hammer and sickle",
@@ -1916,9 +1916,9 @@
       "wiki_url": "/wiki_pages/hammer_and_sickle",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锤子与镰刀",
+      "confidence": "A",
+      "tag_cn_long": "共产主义标志，象征工农联盟。"
     },
     {
       "name": "Kolovrat",
@@ -1926,9 +1926,9 @@
       "wiki_url": "/wiki_pages/kolovrat_%28symbol%29",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科洛夫拉特",
+      "confidence": "B",
+      "tag_cn_long": "斯拉夫文化中的太阳符号，由八条弯曲的射线组成，形似旋转的十字。"
     },
     {
       "name": "Lightning bolt symbol",
@@ -1936,9 +1936,9 @@
       "wiki_url": "/wiki_pages/lightning_bolt_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪电符号",
+      "confidence": "A",
+      "tag_cn_long": "一种形似闪电的符号，常用于表示电力或速度。"
     },
     {
       "name": "No symbol",
@@ -1946,9 +1946,9 @@
       "wiki_url": "/wiki_pages/no_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "禁止符号",
+      "confidence": "A",
+      "tag_cn_long": "表示禁止的通用符号，通常是一个红色圆圈加斜线。"
     },
     {
       "name": "No entry sign",
@@ -1956,9 +1956,9 @@
       "wiki_url": "/wiki_pages/no_entry_sign",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "禁止进入标志",
+      "confidence": "A",
+      "tag_cn_long": "圆形红色交通标志，指示车辆不得驶入，常见于单行道出口。"
     },
     {
       "name": "No smoking",
@@ -1966,9 +1966,9 @@
       "wiki_url": "/wiki_pages/no_smoking",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "禁止吸烟",
+      "confidence": "A",
+      "tag_cn_long": "国际通用的禁止吸烟标志，通常是一个香烟图案加红色斜线。"
     },
     {
       "name": "Onsen symbol",
@@ -1976,9 +1976,9 @@
       "wiki_url": "/wiki_pages/onsen_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "温泉符号",
+      "confidence": "A",
+      "tag_cn_long": "日本地图上表示温泉的符号，一个蒸汽腾腾的碗状图案。"
     },
     {
       "name": "Om",
@@ -1986,9 +1986,9 @@
       "wiki_url": "/wiki_pages/om_%28symbol%29",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "唵",
+      "confidence": "B",
+      "tag_cn_long": "印度教和佛教中的神圣音节，常以符号形式出现。"
     },
     {
       "name": "Ouroboros",
@@ -1996,9 +1996,9 @@
       "wiki_url": "/wiki_pages/ouroboros",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衔尾蛇",
+      "confidence": "A",
+      "tag_cn_long": "古老符号，一条蛇或龙正在吞噬自己的尾巴，象征循环或永恒。"
     },
     {
       "name": "Parental Advisory",
@@ -2006,9 +2006,9 @@
       "wiki_url": "/wiki_pages/parental_advisory",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "家长指引",
+      "confidence": "B",
+      "tag_cn_long": "印在音乐专辑上的警告标签，提示包含露骨歌词。"
     },
     {
       "name": "Peace symbol",
@@ -2016,9 +2016,9 @@
       "wiki_url": "/wiki_pages/peace_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和平符号",
+      "confidence": "A",
+      "tag_cn_long": "一个圆圈内有三条线组成的符号，代表和平与反核运动。"
     },
     {
       "name": "Power symbol",
@@ -2026,9 +2026,9 @@
       "wiki_url": "/wiki_pages/power_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "电源符号",
+      "confidence": "A",
+      "tag_cn_long": "表示开关机或待机状态的符号，由圆圈（0）和竖线（1）组成。"
     },
     {
       "name": "Radiation symbol",
@@ -2036,9 +2036,9 @@
       "wiki_url": "/wiki_pages/radiation_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "辐射符号",
+      "confidence": "A",
+      "tag_cn_long": "警示放射性的标志，黄色背景上的黑色三叶形图案。"
     },
     {
       "name": "Recycling symbol",
@@ -2046,9 +2046,9 @@
       "wiki_url": "/wiki_pages/recycling_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "回收符号",
+      "confidence": "A",
+      "tag_cn_long": "由三个箭头组成的三角形循环符号，代表减少、再利用、回收。"
     },
     {
       "name": "Reichsadler",
@@ -2056,9 +2056,9 @@
       "wiki_url": "/wiki_pages/reichsadler",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帝国之鹰",
+      "confidence": "B",
+      "tag_cn_long": "德国历史上使用的帝国鹰徽，代表国家权威。"
     },
     {
       "name": "Restroom symbol",
@@ -2066,9 +2066,9 @@
       "wiki_url": "/wiki_pages/restroom_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卫生间标志",
+      "confidence": "A",
+      "tag_cn_long": "表示厕所的通用符号，通常为男女人形图标。"
     },
     {
       "name": "Rod of Asclepius",
@@ -2076,9 +2076,9 @@
       "wiki_url": "/wiki_pages/rod_of_asclepius",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿斯克勒庇俄斯之杖",
+      "confidence": "B",
+      "tag_cn_long": "一根缠绕着蛇的权杖，是医学和医疗行业的标志。"
     },
     {
       "name": "Star of life",
@@ -2086,9 +2086,9 @@
       "wiki_url": "/wiki_pages/star_of_life",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "生命之星",
+      "confidence": "A",
+      "tag_cn_long": "蓝色六角星中心有阿斯克勒庇俄斯之杖，代表紧急医疗服务。"
     },
     {
       "name": "Sigil of Lucifer",
@@ -2096,9 +2096,9 @@
       "wiki_url": "/wiki_pages/sigil_of_lucifer",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "路西法印记",
+      "confidence": "B",
+      "tag_cn_long": "一个与路西法相关的神秘符号，通常为倒五角星或其他图案。"
     },
     {
       "name": "Signal bar",
@@ -2106,9 +2106,9 @@
       "wiki_url": "/wiki_pages/signal_bar",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "信号格",
+      "confidence": "A",
+      "tag_cn_long": "手机上显示信号强度的图标，由若干竖条组成。"
     },
     {
       "name": "Skull and crossbones",
@@ -2116,9 +2116,9 @@
       "wiki_url": "/wiki_pages/skull_and_crossbones",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骷髅与交叉骨",
+      "confidence": "A",
+      "tag_cn_long": "由人类骷髅和两根交叉的长骨组成的符号，常代表毒药或海盗。"
     },
     {
       "name": "Jolly Roger",
@@ -2126,9 +2126,9 @@
       "wiki_url": "/wiki_pages/jolly_roger",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海盗旗",
+      "confidence": "A",
+      "tag_cn_long": "海盗使用的旗帜，通常绘有骷髅与交叉骨或交叉剑图案。"
     },
     {
       "name": "Totenkopf",
@@ -2136,9 +2136,9 @@
       "wiki_url": "/wiki_pages/totenkopf",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骷髅头",
+      "confidence": "A",
+      "tag_cn_long": "一种由骷髅和交叉骨头组成的标志，通常与纳粹德国有关。"
     },
     {
       "name": "Star and crescent",
@@ -2146,9 +2146,9 @@
       "wiki_url": "/wiki_pages/star_and_crescent",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星月标志",
+      "confidence": "A",
+      "tag_cn_long": "由一颗星星和新月组成的符号，常与伊斯兰教和奥斯曼帝国相关。"
     },
     {
       "name": "Swastika",
@@ -2156,9 +2156,9 @@
       "wiki_url": "/wiki_pages/swastika",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卐字",
+      "confidence": "A",
+      "tag_cn_long": "一个古老的宗教符号，后被纳粹党用作标志，通常与法西斯主义相关联。"
     },
     {
       "name": "Trigram",
@@ -2166,9 +2166,9 @@
       "wiki_url": "/wiki_pages/trigram",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卦象",
+      "confidence": "A",
+      "tag_cn_long": "道教宇宙观中由三条线组成的符号，代表八种基本概念之一。"
     },
     {
       "name": "Bagua",
@@ -2176,9 +2176,9 @@
       "wiki_url": "/wiki_pages/bagua",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "八卦",
+      "confidence": "A",
+      "tag_cn_long": "道教中八个卦象的集合，用于代表宇宙的八种基本现象。"
     },
     {
       "name": "Tryzub",
@@ -2186,9 +2186,9 @@
       "wiki_url": "/wiki_pages/tryzub",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三叉戟国徽",
+      "confidence": "A",
+      "tag_cn_long": "乌克兰国徽，由金色三叉戟和蓝色盾牌组成。"
     },
     {
       "name": "Tomoe",
@@ -2196,9 +2196,9 @@
       "wiki_url": "/wiki_pages/tomoe_%28symbol%29",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴纹",
+      "confidence": "A",
+      "tag_cn_long": "一种日本传统漩涡形纹样，常出现在神社和江户时代的物品上。"
     },
     {
       "name": "Mitsudomoe",
@@ -2206,9 +2206,9 @@
       "wiki_url": "/wiki_pages/mitsudomoe_%28shape%29",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三巴纹",
+      "confidence": "A",
+      "tag_cn_long": "由三个巴纹组成的图案，常见于日本神道及纹章中。"
     },
     {
       "name": "Warning sign",
@@ -2216,9 +2216,9 @@
       "wiki_url": "/wiki_pages/warning_sign",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "警告标志",
+      "confidence": "A",
+      "tag_cn_long": "通常为黄色三角形，中间有感叹号或其他符号，用于提示危险。"
     },
     {
       "name": "Wheelchair sign",
@@ -2226,9 +2226,9 @@
       "wiki_url": "/wiki_pages/wheelchair_sign",
       "category_path": "Misc symbols",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "轮椅标志",
+      "confidence": "A",
+      "tag_cn_long": "一个坐在轮椅上的小人形图标，用于指示无障碍设施。"
     },
     {
       "name": "Wheel of Dharma",
@@ -2236,9 +2236,9 @@
       "wiki_url": "/wiki_pages/wheel_of_dharma",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法轮",
+      "confidence": "A",
+      "tag_cn_long": "佛教、印度教等宗教中使用的八辐车轮形符号，代表佛陀的教法。"
     },
     {
       "name": "Wi-Fi symbol",
@@ -2246,9 +2246,9 @@
       "wiki_url": "/wiki_pages/wi-fi_symbol",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Wi-Fi符号",
+      "confidence": "A",
+      "tag_cn_long": "由一点和向外扩散的弧形线条构成的图标，代表无线网络信号。"
     },
     {
       "name": "Wolfsangel",
@@ -2256,9 +2256,9 @@
       "wiki_url": "/wiki_pages/wolfsangel",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狼之钩",
+      "confidence": "A",
+      "tag_cn_long": "一种形似狼夹子的古代德国符号，后被纳粹党卫军用作徽章。"
     },
     {
       "name": "X mark",
@@ -2266,9 +2266,9 @@
       "wiki_url": "/wiki_pages/x_%28symbol%29",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叉号",
+      "confidence": "A",
+      "tag_cn_long": "一个由两条交叉线组成的符号，通常表示否定、错误或标记位置。"
     },
     {
       "name": "Spoken X",
@@ -2276,9 +2276,9 @@
       "wiki_url": "/wiki_pages/spoken_x",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "口中叉号",
+      "confidence": "B",
+      "tag_cn_long": "出现在对话气泡中的叉号，表示角色拒绝或否定某事物。"
     },
     {
       "name": "Yin Yang",
@@ -2286,9 +2286,9 @@
       "wiki_url": "/wiki_pages/yin_yang",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴阳",
+      "confidence": "A",
+      "tag_cn_long": "一个由黑白两色组成、相互旋转的圆形符号，代表对立统一的哲学概念。"
     },
     {
       "name": "Zodiac",
@@ -2296,9 +2296,9 @@
       "wiki_url": "/wiki_pages/zodiac",
       "category_path": "Misc symbols",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄道十二宫",
+      "confidence": "A",
+      "tag_cn_long": "黄道带上的十二个星座符号，用于占星学和天象标识。"
     },
     {
       "name": "Sun symbol",
@@ -2306,9 +2306,9 @@
       "wiki_url": "/wiki_pages/sun_symbol",
       "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太阳符号",
+      "confidence": "A",
+      "tag_cn_long": "由中心圆点和放射性线条组成的图形，代表太阳的设计图案。"
     },
     {
       "name": "Mercury symbol",
@@ -2316,9 +2316,9 @@
       "wiki_url": "/wiki_pages/mercury_symbol",
       "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水星符号",
+      "confidence": "A",
+      "tag_cn_long": "代表水星、水银以及雌雄同体概念的符号，由圆点、十字和弧线组成。"
     },
     {
       "name": "Venus symbol",
@@ -2326,9 +2326,9 @@
       "wiki_url": "/wiki_pages/venus_symbol",
       "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金星符号",
+      "confidence": "A",
+      "tag_cn_long": "代表金星、铜以及女性性别的符号，由圆点和十字组成。"
     },
     {
       "name": "Mars symbol",
@@ -2336,9 +2336,9 @@
       "wiki_url": "/wiki_pages/mars_symbol",
       "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火星符号",
+      "confidence": "A",
+      "tag_cn_long": "代表男性、火星或铁的符号，形状为圆圈加箭头。"
     },
     {
       "name": "Jupiter symbol",
@@ -2346,9 +2346,9 @@
       "wiki_url": "/wiki_pages/jupiter_symbol",
       "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "木星符号",
+      "confidence": "A",
+      "tag_cn_long": "代表木星或锡的符号，形状类似数字4加横线。"
     },
     {
       "name": "Saturn symbol",
@@ -2356,9 +2356,9 @@
       "wiki_url": "/wiki_pages/saturn_symbol",
       "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "土星符号",
+      "confidence": "A",
+      "tag_cn_long": "代表土星或铅的符号，形状类似十字加弯钩。"
     },
     {
       "name": "Uranus symbol",
@@ -2366,9 +2366,9 @@
       "wiki_url": "/wiki_pages/uranus_symbol",
       "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天王星符号",
+      "confidence": "A",
+      "tag_cn_long": "代表天王星或铂的符号，有♅和⛢两种形式。"
     },
     {
       "name": "Neptune symbol",
@@ -2376,9 +2376,9 @@
       "wiki_url": "/wiki_pages/neptune_symbol",
       "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海王星符号",
+      "confidence": "A",
+      "tag_cn_long": "代表海王星的符号，形状类似三叉戟。"
     },
     {
       "name": "Pluto symbol",
@@ -2386,9 +2386,9 @@
       "wiki_url": "/wiki_pages/pluto_symbol",
       "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冥王星符号",
+      "confidence": "A",
+      "tag_cn_long": "代表冥王星的符号，有♇和⯓两种形式。"
     },
     {
       "name": "Androgyne symbol",
@@ -2406,9 +2406,9 @@
       "wiki_url": "/wiki_pages/interlocked_mars_symbols",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叠火星符号",
+      "confidence": "A",
+      "tag_cn_long": "两个♂符号交叠，通常代表BL/yaoi。"
     },
     {
       "name": "Interlocked Mars and Venus symbols",
@@ -2416,9 +2416,9 @@
       "wiki_url": "/wiki_pages/interlocked_mars_and_venus_symbols",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叠男女符号",
+      "confidence": "A",
+      "tag_cn_long": "♂和♀符号交叠，代表异性恋或性行为。"
     },
     {
       "name": "Interlocked Venus symbols",
@@ -2426,9 +2426,9 @@
       "wiki_url": "/wiki_pages/interlocked_venus_symbols",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叠金星符号",
+      "confidence": "A",
+      "tag_cn_long": "两个♀符号交叠，通常代表百合/yuri。"
     },
     {
       "name": "Male-Female symbol",
@@ -2446,9 +2446,9 @@
       "wiki_url": "/wiki_pages/neutered_symbol",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "去势符号",
+      "confidence": "B",
+      "tag_cn_long": "表示绝育或中性化的符号。"
     },
     {
       "name": "Transgender symbol",
@@ -2466,9 +2466,9 @@
       "wiki_url": "/wiki_pages/road_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "路标",
+      "confidence": "A",
+      "tag_cn_long": "道路上指示交通信息的标志。"
     },
     {
       "name": "Bicycles only sign",
@@ -2476,9 +2476,9 @@
       "wiki_url": "/wiki_pages/bicycles_only_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自行车专用标志",
+      "confidence": "A",
+      "tag_cn_long": "指示仅允许自行车通行的路标。"
     },
     {
       "name": "Bus stop",
@@ -2486,9 +2486,9 @@
       "wiki_url": "/wiki_pages/bus_stop",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "公交车站",
+      "confidence": "A",
+      "tag_cn_long": "公交车上下乘客的固定站点，通常有路标指示。"
     },
     {
       "name": "Falling rocks sign",
@@ -2496,9 +2496,9 @@
       "wiki_url": "/wiki_pages/falling_rocks_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "落石标志",
+      "confidence": "A",
+      "tag_cn_long": "警告前方有落石危险的路标。"
     },
     {
       "name": "Motor vehicles only sign",
@@ -2506,9 +2506,9 @@
       "wiki_url": "/wiki_pages/motor_vehicles_only_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "机动车专用标志",
+      "confidence": "A",
+      "tag_cn_long": "指示仅允许机动车通行的路标。"
     },
     {
       "name": "No parking sign",
@@ -2516,9 +2516,9 @@
       "wiki_url": "/wiki_pages/no_parking_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "禁止停车标志",
+      "confidence": "A",
+      "tag_cn_long": "指示禁止停放车辆的路标，常见红圈蓝底或红圈黑P。"
     },
     {
       "name": "No pedestrian crossing sign",
@@ -2526,9 +2526,9 @@
       "wiki_url": "/wiki_pages/no_pedestrian_crossing_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "禁止行人穿越标志",
+      "confidence": "A",
+      "tag_cn_long": "指示禁止行人过马路的路标。"
     },
     {
       "name": "No stopping sign",
@@ -2536,9 +2536,9 @@
       "wiki_url": "/wiki_pages/no_stopping_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "禁止停车",
+      "confidence": "A",
+      "tag_cn_long": "表示禁止车辆停放的交通标志。"
     },
     {
       "name": "No U-turn sign",
@@ -2546,9 +2546,9 @@
       "wiki_url": "/wiki_pages/no_u-turn_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "禁止掉头",
+      "confidence": "A",
+      "tag_cn_long": "表示禁止车辆掉头的圆形标志，通常有一个U形箭头被斜线划掉。"
     },
     {
       "name": "One way sign",
@@ -2556,9 +2556,9 @@
       "wiki_url": "/wiki_pages/one_way_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单行道",
+      "confidence": "A",
+      "tag_cn_long": "指示单向行驶的道路标志。"
     },
     {
       "name": "Parking permissive sign",
@@ -2566,9 +2566,9 @@
       "wiki_url": "/wiki_pages/parking_permissive_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "允许停车",
+      "confidence": "A",
+      "tag_cn_long": "表示允许车辆停放的标志。"
     },
     {
       "name": "Pedestrian crossing sign",
@@ -2576,9 +2576,9 @@
       "wiki_url": "/wiki_pages/pedestrian_crossing_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "人行横道",
+      "confidence": "A",
+      "tag_cn_long": "警示驾驶员前方有行人过街的交通标志，通常显示行人行走的轮廓。"
     },
     {
       "name": "Pedestrians only sign",
@@ -2586,9 +2586,9 @@
       "wiki_url": "/wiki_pages/pedestrians_only_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "行人专用",
+      "confidence": "A",
+      "tag_cn_long": "表示只允许行人通行的标志。"
     },
     {
       "name": "Railroad crossing ahead sign",
@@ -2596,9 +2596,9 @@
       "wiki_url": "/wiki_pages/railroad_crossing_ahead_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前方铁路道口",
+      "confidence": "A",
+      "tag_cn_long": "警示前方有铁路道口的交通标志。"
     },
     {
       "name": "Road closed to Vehicles sign",
@@ -2606,9 +2606,9 @@
       "wiki_url": "/wiki_pages/road_closed_to_vehicles_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "禁止车辆通行",
+      "confidence": "A",
+      "tag_cn_long": "表示禁止车辆进入的道路封闭标志。"
     },
     {
       "name": "Road narrows sign",
@@ -2616,9 +2616,9 @@
       "wiki_url": "/wiki_pages/road_narrows_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "道路变窄",
+      "confidence": "A",
+      "tag_cn_long": "警示前方道路变窄的交通标志。"
     },
     {
       "name": "School crossing sign",
@@ -2626,9 +2626,9 @@
       "wiki_url": "/wiki_pages/school_crossing_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "学校路口",
+      "confidence": "A",
+      "tag_cn_long": "警示驾驶员前方有学校区域，儿童可能穿越道路的标志，通常显示儿童形象。"
     },
     {
       "name": "Speed limit sign",
@@ -2636,9 +2636,9 @@
       "wiki_url": "/wiki_pages/speed_limit_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "限速标志",
+      "confidence": "A",
+      "tag_cn_long": "标示允许最大速度的交通标志。"
     },
     {
       "name": "Stop sign",
@@ -2646,9 +2646,9 @@
       "wiki_url": "/wiki_pages/stop_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "停止标志",
+      "confidence": "A",
+      "tag_cn_long": "红色的八角形标志，要求车辆停车让行。"
     },
     {
       "name": "Straight or left turn sign",
@@ -2656,9 +2656,9 @@
       "wiki_url": "/wiki_pages/straight_or_left_turn_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "直行或左转",
+      "confidence": "A",
+      "tag_cn_long": "指示车辆可以直行或左转的标志。"
     },
     {
       "name": "Straight or right turn sign",
@@ -2666,9 +2666,9 @@
       "wiki_url": "/wiki_pages/straight_or_right_turn_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "直行或右转",
+      "confidence": "A",
+      "tag_cn_long": "指示车辆可以直行或右转的标志。"
     },
     {
       "name": "Turn left sign",
@@ -2676,9 +2676,9 @@
       "wiki_url": "/wiki_pages/turn_left_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "左转",
+      "confidence": "A",
+      "tag_cn_long": "指示车辆只能左转的标志。"
     },
     {
       "name": "Turn right sign",
@@ -2686,9 +2686,9 @@
       "wiki_url": "/wiki_pages/turn_right_sign",
       "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "右转",
+      "confidence": "A",
+      "tag_cn_long": "指示车辆只能右转的标志。"
     },
     {
       "name": "Fleur-de-lis",
@@ -2696,9 +2696,9 @@
       "wiki_url": "/wiki_pages/fleur-de-lis",
       "category_path": "Symbols from the real world/France",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸢尾花纹",
+      "confidence": "A",
+      "tag_cn_long": "一种风格化的百合或鸢尾花装饰图案，常用于纹章。"
     },
     {
       "name": "Kikumon",
@@ -2706,9 +2706,9 @@
       "wiki_url": "/wiki_pages/kikumon",
       "category_path": "Symbols from the real world/Japan",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菊纹",
+      "confidence": "A",
+      "tag_cn_long": "日本皇室十六瓣菊花纹章。"
     },
     {
       "name": "Mitsuba Aoi",
@@ -2716,9 +2716,9 @@
       "wiki_url": "/wiki_pages/mitsuba_aoi_%28tokugawa_mon%29",
       "category_path": "Symbols from the real world/Japan",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三叶葵",
+      "confidence": "A",
+      "tag_cn_long": "德川家族的家纹，三片葵叶图案。"
     },
     {
       "name": "Oda Uri",
@@ -2726,9 +2726,9 @@
       "wiki_url": "/wiki_pages/oda_uri",
       "category_path": "Symbols from the real world/Japan",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "织田瓜",
+      "confidence": "A",
+      "tag_cn_long": "织田家族的家纹，图案为木瓜（瓜形）。"
     },
     {
       "name": "Sanada Clan (emblem)",
@@ -2736,9 +2736,9 @@
       "wiki_url": "/wiki_pages/sanada_clan_%28emblem%29",
       "category_path": "Symbols from the real world/Japan",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "真田家纹",
+      "confidence": "A",
+      "tag_cn_long": "真田家族的家纹，图案为两行三枚的六文钱（六连钱）。"
     },
     {
       "name": "Sakamoto Clan (emblem)",
@@ -2746,9 +2746,9 @@
       "wiki_url": "/wiki_pages/sakamoto_clan_%28emblem%29",
       "category_path": "Symbols from the real world/Japan",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坂本家纹",
+      "confidence": "A",
+      "tag_cn_long": "坂本家族的家纹，图案为两个交织正方形中间一朵樱花。"
     },
     {
       "name": "Lungmen logo",
@@ -2756,9 +2756,9 @@
       "wiki_url": "/wiki_pages/lungmen_logo",
       "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "龙门标志",
+      "confidence": "A",
+      "tag_cn_long": "《明日方舟》中龙门势力的标志。"
     },
     {
       "name": "Penguin Logistics logo",
@@ -2766,9 +2766,9 @@
       "wiki_url": "/wiki_pages/penguin_logistics_logo",
       "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "企鹅物流标志",
+      "confidence": "A",
+      "tag_cn_long": "《明日方舟》中企鹅物流公司的标志，出现在能天使和可颂的服装上。"
     },
     {
       "name": "Rhine Lab logo",
@@ -2776,9 +2776,9 @@
       "wiki_url": "/wiki_pages/rhine_lab_logo",
       "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莱茵生命标志",
+      "confidence": "A",
+      "tag_cn_long": "《明日方舟》中莱茵生命组织的标志，为带有正负号的无穷符号。"
     },
     {
       "name": "Rhodes Island logo",
@@ -2786,9 +2786,9 @@
       "wiki_url": "/wiki_pages/rhodes_island_logo_%28arknights%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗德岛标志",
+      "confidence": "A",
+      "tag_cn_long": "《明日方舟》中罗德岛制药公司的标志。"
     },
     {
       "name": "Ursus logo",
@@ -2796,9 +2796,9 @@
       "wiki_url": "/wiki_pages/ursus_logo",
       "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌萨斯标志",
+      "confidence": "A",
+      "tag_cn_long": "《明日方舟》中乌萨斯帝国的标志。"
     },
     {
       "name": "Dragon Empery (emblem)",
@@ -2806,9 +2806,9 @@
       "wiki_url": "/wiki_pages/dragon_empery_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东煌徽章",
+      "confidence": "A",
+      "tag_cn_long": "《碧蓝航线》中东煌阵营的徽章，图案为龙形圆环，底部有汉字“东煌”。"
     },
     {
       "name": "Eagle Union (emblem)",
@@ -2816,9 +2816,9 @@
       "wiki_url": "/wiki_pages/eagle_union_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白鹰徽章",
+      "confidence": "A",
+      "tag_cn_long": "《碧蓝航线》中白鹰阵营的徽章，图案为鹰衔锚与盾牌，底部有“白鹰”字样。"
     },
     {
       "name": "Iris Libre (emblem)",
@@ -2826,9 +2826,9 @@
       "wiki_url": "/wiki_pages/iris_libre_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自由鸢尾徽章",
+      "confidence": "A",
+      "tag_cn_long": "《碧蓝航线》中自由鸢尾阵营的徽章，图案为带有洛林十字的鸢尾花。"
     },
     {
       "name": "Iron Blood (emblem)",
@@ -2836,9 +2836,9 @@
       "wiki_url": "/wiki_pages/iron_blood_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铁血徽章",
+      "confidence": "A",
+      "tag_cn_long": "《碧蓝航线》中铁血阵营的徽章，图案为十字形，底部有“铁血”字样。"
     },
     {
       "name": "Northern Parliament (emblem)",
@@ -2846,9 +2846,9 @@
       "wiki_url": "/wiki_pages/northern_parliament_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "北方联合徽章",
+      "confidence": "A",
+      "tag_cn_long": "《碧蓝航线》中北方联合阵营的徽章，图案为熊、锚和星星。"
     },
     {
       "name": "Sakura Empire (emblem)",
@@ -2856,9 +2856,9 @@
       "wiki_url": "/wiki_pages/sakura_empire_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "重樱徽章",
+      "confidence": "A",
+      "tag_cn_long": "《碧蓝航线》中重樱阵营的徽章，图案为扇子背景、三巴纹和樱花。"
     },
     {
       "name": "Royal Navy Emblem",
@@ -2866,9 +2866,9 @@
       "wiki_url": "/wiki_pages/royal_navy_emblem_%28azur_lane%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皇家海军徽章",
+      "confidence": "A",
+      "tag_cn_long": "《碧蓝航线》中皇家阵营的徽章。"
     },
     {
       "name": "Sardegna Empire (emblem)",
@@ -2876,9 +2876,9 @@
       "wiki_url": "/wiki_pages/sardegna_empire_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "撒丁帝国徽章",
+      "confidence": "A",
+      "tag_cn_long": "《碧蓝航线》中撒丁帝国阵营的徽章，图案为盾牌上的白色十字，环绕常春藤。"
     },
     {
       "name": "Vichya Dominion (emblem)",
@@ -2886,9 +2886,9 @@
       "wiki_url": "/wiki_pages/vichya_dominion_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "维希教廷徽章",
+      "confidence": "A",
+      "tag_cn_long": "《碧蓝航线》中维希教廷阵营的徽章，图案为战斧。"
     },
     {
       "name": "Blazblue insignia",
@@ -2896,9 +2896,9 @@
       "wiki_url": "/wiki_pages/blazblue_insignia",
       "category_path": "Symbols of specific series/mangas/games/etc./Blazblue",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苍翼默示录徽章",
+      "confidence": "A",
+      "tag_cn_long": "《苍翼默示录》系列中每个角色的独特符号。"
     },
     {
       "name": "Shihouin symbol",
@@ -2906,9 +2906,9 @@
       "wiki_url": "/wiki_pages/shihouin_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Bleach",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四枫院家纹",
+      "confidence": "A",
+      "tag_cn_long": "《死神》中四枫院夜一所属家族的家纹。"
     },
     {
       "name": "Shinigami daikou symbol",
@@ -2916,9 +2916,9 @@
       "wiki_url": "/wiki_pages/shinigami_daikou_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Bleach",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "死神代理徽章",
+      "confidence": "A",
+      "tag_cn_long": "《死神》中黑崎一护的死神代理徽章，图案为黑色骷髅头。"
     },
     {
       "name": "Command spell",
@@ -2926,9 +2926,9 @@
       "wiki_url": "/wiki_pages/command_spell",
       "category_path": "Symbols of specific series/mangas/games/etc./Fate (series)",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "令咒",
+      "confidence": "A",
+      "tag_cn_long": "《Fate》系列中御主用以控制从者的红色印记，通常出现在手上。"
     },
     {
       "name": "Amestris symbol",
@@ -2936,9 +2936,9 @@
       "wiki_url": "/wiki_pages/amestris_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Fullmetal Alchemist",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "亚美斯多利斯标志",
+      "confidence": "A",
+      "tag_cn_long": "《钢之炼金术师》中亚美斯多利斯军部的龙/狮形标志。"
     },
     {
       "name": "Flamel symbol",
@@ -2946,9 +2946,9 @@
       "wiki_url": "/wiki_pages/flamel_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Fullmetal Alchemist",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弗拉梅尔符号",
+      "confidence": "A",
+      "tag_cn_long": "《钢之炼金术师》中出现的炼金术符号，为带有蛇的拉丁十字，顶部有王冠和翅膀。"
     },
     {
       "name": "True Rune",
@@ -2956,9 +2956,9 @@
       "wiki_url": "/wiki_pages/true_rune",
       "category_path": "Symbols of specific series/mangas/games/etc./Gensou Suikoden",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "真纹章",
+      "confidence": "A",
+      "tag_cn_long": "幻想水浒传系列中27枚拥有强大力量且具有自我意识的世界创造之纹章，通常以纹身形式出现在宿主手上或额头。"
     },
     {
       "name": "Ooarai (emblem)",
@@ -2966,9 +2966,9 @@
       "wiki_url": "/wiki_pages/ooarai_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大洗徽章",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》中大洗女子学园的徽章，由汉字“大洗”构成外框和内部。"
     },
     {
       "name": "St. Gloriana's (emblem)",
@@ -2976,9 +2976,9 @@
       "wiki_url": "/wiki_pages/st._gloriana%27s_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣格洛丽安娜徽章",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》中圣格洛丽安娜学院的徽章，以茶壶、茶杯和花朵等元素体现英国茶文化。"
     },
     {
       "name": "Saunders (emblem)",
@@ -2986,9 +2986,9 @@
       "wiki_url": "/wiki_pages/saunders_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "桑德斯徽章",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》中桑德斯大学附属高中的徽章，基于美国军事纹章，包含五角星和闪电符号。"
     },
     {
       "name": "Anzio (emblem)",
@@ -2996,9 +2996,9 @@
       "wiki_url": "/wiki_pages/anzio_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "安齐奥徽章",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》中安齐奥高中的徽章，以披萨、橄榄和芦笋等意大利元素构成。"
     },
     {
       "name": "Pravda (emblem)",
@@ -3006,9 +3006,9 @@
       "wiki_url": "/wiki_pages/pravda_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "真理徽章",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》中真理高中的徽章，基于苏联的镰刀锤子符号，并加入尺子、剪刀等工具元素。"
     },
     {
       "name": "Kuromorimine (emblem)",
@@ -3016,9 +3016,9 @@
       "wiki_url": "/wiki_pages/kuromorimine_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑森峰徽章",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》中黑森峰女子学园的徽章，基于铁十字勋章，中间写有汉字“黒森峯”。"
     },
     {
       "name": "Chi-Hatan (emblem)",
@@ -3026,9 +3026,9 @@
       "wiki_url": "/wiki_pages/chi-hatan_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "知波单徽章",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》中知波单学园的徽章，以汉字“知”和日军二战迷彩背景构成。"
     },
     {
       "name": "Keizoku (emblem)",
@@ -3036,9 +3036,9 @@
       "wiki_url": "/wiki_pages/keizoku_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "继续徽章",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》中继续高中的徽章，以汉字“継”和蓝色盾牌为元素，象征芬兰风格。"
     },
     {
       "name": "Selection University (emblem)",
@@ -3046,9 +3046,9 @@
       "wiki_url": "/wiki_pages/selection_university_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "选拔大学徽章",
+      "confidence": "B",
+      "tag_cn_long": "《少女与战车》中全明星大学队的徽章，由同心圆和中心子弹图案组成。"
     },
     {
       "name": "Japanese Tankery League (emblem)",
@@ -3056,9 +3056,9 @@
       "wiki_url": "/wiki_pages/japanese_tankery_league_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本战车道联盟徽章",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》中日本战车道联盟的徽章，可视为富士山或坦克正面的剪影。"
     },
     {
       "name": "Muse Mark",
@@ -3066,9 +3066,9 @@
       "wiki_url": "/wiki_pages/muse_mark_%28identity_v%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Identity V",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缪斯印记",
+      "confidence": "A",
+      "tag_cn_long": "游戏《第五人格》中的一种特殊符号印记。"
     },
     {
       "name": "Japari symbol",
@@ -3076,9 +3076,9 @@
       "wiki_url": "/wiki_pages/japari_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Kemono Friends",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "加帕里符号",
+      "confidence": "A",
+      "tag_cn_long": "《兽娘动物园》中加帕里公园的标志，形似带角的假名“の”。"
     },
     {
       "name": "Amegakure symbol",
@@ -3086,9 +3086,9 @@
       "wiki_url": "/wiki_pages/amegakure_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雨隐村标志",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中雨隐村的代表符号。"
     },
     {
       "name": "Iwagakure symbol",
@@ -3096,9 +3096,9 @@
       "wiki_url": "/wiki_pages/iwagakure_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "岩隐村标志",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中岩隐村的代表符号。"
     },
     {
       "name": "Konohagakure symbol",
@@ -3106,9 +3106,9 @@
       "wiki_url": "/wiki_pages/konohagakure_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "木叶隐村标志",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中木叶隐村的代表符号。"
     },
     {
       "name": "Kirigakure symbol",
@@ -3116,9 +3116,9 @@
       "wiki_url": "/wiki_pages/kirigakure_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雾隐村标志",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中雾隐村的代表符号。"
     },
     {
       "name": "Otogakure symbol",
@@ -3126,9 +3126,9 @@
       "wiki_url": "/wiki_pages/otogakure_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "音隐村标志",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中音隐村的代表符号。"
     },
     {
       "name": "Sunagakure symbol",
@@ -3136,9 +3136,9 @@
       "wiki_url": "/wiki_pages/sunagakure_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "砂隐村标志",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中砂隐村的代表符号。"
     },
     {
       "name": "Uchiha symbol",
@@ -3146,9 +3146,9 @@
       "wiki_url": "/wiki_pages/uchiha_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宇智波标志",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中宇智波家族的标志，形状像团扇（uchiwa）。"
     },
     {
       "name": "Straw Hats Jolly Roger",
@@ -3156,9 +3156,9 @@
       "wiki_url": "/wiki_pages/straw_hats_jolly_roger",
       "category_path": "Symbols of specific series/mangas/games/etc./One Piece",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草帽海贼旗",
+      "confidence": "A",
+      "tag_cn_long": "草帽海贼团的旗帜，骷髅头戴草帽。"
     },
     {
       "name": "Survey Corps (Emblem)",
@@ -3166,9 +3166,9 @@
       "wiki_url": "/wiki_pages/survey_corps_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调查兵团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《进击的巨人》中调查兵团的徽章，盾牌上有一对翅膀。"
     },
     {
       "name": "Garrison Regiment (Emblem)",
@@ -3176,9 +3176,9 @@
       "wiki_url": "/wiki_pages/garrison_regiment_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "驻屯兵团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《进击的巨人》中驻屯兵团的徽章。"
     },
     {
       "name": "Military Police Brigade (Emblem)",
@@ -3186,9 +3186,9 @@
       "wiki_url": "/wiki_pages/military_police_brigade_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宪兵团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《进击的巨人》中宪兵团的徽章。"
     },
     {
       "name": "Training Corps (Emblem)",
@@ -3196,9 +3196,9 @@
       "wiki_url": "/wiki_pages/training_corps_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "训练兵团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《进击的巨人》中训练兵团的徽章，交叉的双剑与盾牌。"
     },
     {
       "name": "G-clef",
@@ -3206,9 +3206,9 @@
       "wiki_url": "/wiki_pages/g-clef_%28precure%29",
       "category_path": "Symbols of specific series/mangas/games/etc./Suite Precure",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高音谱号",
+      "confidence": "A",
+      "tag_cn_long": "音乐中的高音谱号，也出现在《Suite Precure》中。"
     },
     {
       "name": "Xillia Symbol",
@@ -3216,9 +3216,9 @@
       "wiki_url": "/wiki_pages/xillia_symbol",
       "category_path": "Symbols of specific series/mangas/games/etc./Tales of Xillia",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无尽传说星标",
+      "confidence": "B",
+      "tag_cn_long": "《无尽传说》中的六角星或花朵状符号，代表连接角色升级的莉莉亚宝珠。"
     },
     {
       "name": "501st Joint Fighter Wing (emblem)",
@@ -3226,9 +3226,9 @@
       "wiki_url": "/wiki_pages/501st_joint_fighter_wing_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第501统合战斗航空团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《强袭魔女》中第501统合战斗航空团的徽章。"
     },
     {
       "name": "502nd Joint Fighter Wing (emblem)",
@@ -3236,9 +3236,9 @@
       "wiki_url": "/wiki_pages/502nd_joint_fighter_wing_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第502统合战斗航空团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《强袭魔女》中第502统合战斗航空团的徽章。"
     },
     {
       "name": "503rd Joint Fighter Wing (emblem)",
@@ -3246,9 +3246,9 @@
       "wiki_url": "/wiki_pages/503rd_joint_fighter_wing_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第503统合战斗航空团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《强袭魔女》中第503统合战斗航空团的徽章。"
     },
     {
       "name": "504th Joint Fighter Wing (emblem)",
@@ -3256,9 +3256,9 @@
       "wiki_url": "/wiki_pages/504th_joint_fighter_wing_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第504统合战斗航空团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《强袭魔女》中第504统合战斗航空团的徽章。"
     },
     {
       "name": "505th Joint Fighter Wing (emblem)",
@@ -3266,9 +3266,9 @@
       "wiki_url": "/wiki_pages/505th_joint_fighter_wing_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第505统合战斗航空团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《强袭魔女》中第505统合战斗航空团的徽章。"
     },
     {
       "name": "506th Joint Fighter Wing (emblem)",
@@ -3276,9 +3276,9 @@
       "wiki_url": "/wiki_pages/506th_joint_fighter_wing_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第506统合战斗航空团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《强袭魔女》中第506统合战斗航空团的徽章。"
     },
     {
       "name": "507th Joint Fighter Wing (emblem)",
@@ -3286,9 +3286,9 @@
       "wiki_url": "/wiki_pages/507th_joint_fighter_wing_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第507统合战斗航空团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《强袭魔女》中第507统合战斗航空团的徽章。"
     },
     {
       "name": "508th Joint Fighter Wing (emblem)",
@@ -3296,9 +3296,9 @@
       "wiki_url": "/wiki_pages/508th_joint_fighter_wing_%28emblem%29",
       "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第508统合战斗航空团徽章",
+      "confidence": "A",
+      "tag_cn_long": "《强袭魔女》中第508统合战斗航空团的徽章。"
     }
   ],
   "total_tags": 312,

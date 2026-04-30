@@ -1,0 +1,6 @@
+{
+  "tag": "Wide image",
+  "tag_cn": "宽幅图像",
+  "confidence": "A",
+  "tag_cn_long": "宽度至少1024像素且宽高比达到4:1或更宽的图像。"
+}

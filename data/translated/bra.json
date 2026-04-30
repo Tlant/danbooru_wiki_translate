@@ -54,9 +54,9 @@
       "wiki_url": "/wiki_pages/bra",
       "category_path": "Main",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩",
+      "confidence": "A",
+      "tag_cn_long": "女性用于支撑胸部的内衣。"
     },
     {
       "name": "aqua bra",
@@ -64,9 +64,9 @@
       "wiki_url": "/wiki_pages/aqua_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "颜色为水蓝色的胸罩或上身内衣。"
     },
     {
       "name": "black bra",
@@ -74,9 +74,9 @@
       "wiki_url": "/wiki_pages/black_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "颜色为黑色的胸罩或上身内衣。"
     },
     {
       "name": "blue bra",
@@ -84,9 +84,9 @@
       "wiki_url": "/wiki_pages/blue_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "颜色为蓝色的胸罩或上身内衣。"
     },
     {
       "name": "brown bra",
@@ -94,9 +94,9 @@
       "wiki_url": "/wiki_pages/brown_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "颜色为棕色的胸罩。"
     },
     {
       "name": "green bra",
@@ -104,9 +104,9 @@
       "wiki_url": "/wiki_pages/green_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "颜色为绿色的胸罩或上身内衣。"
     },
     {
       "name": "grey bra",
@@ -114,9 +114,9 @@
       "wiki_url": "/wiki_pages/grey_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "颜色为灰色的胸罩。"
     },
     {
       "name": "orange bra",
@@ -124,9 +124,9 @@
       "wiki_url": "/wiki_pages/orange_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "颜色为橙色的胸罩或上身内衣。"
     },
     {
       "name": "pink bra",
@@ -134,9 +134,9 @@
       "wiki_url": "/wiki_pages/pink_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "粉红色的胸罩或上身内衣。"
     },
     {
       "name": "purple bra",
@@ -144,9 +144,9 @@
       "wiki_url": "/wiki_pages/purple_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "紫色的胸罩。"
     },
     {
       "name": "red bra",
@@ -154,9 +154,9 @@
       "wiki_url": "/wiki_pages/red_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "红色胸罩或类似上身内衣。"
     },
     {
       "name": "white bra",
@@ -164,9 +164,9 @@
       "wiki_url": "/wiki_pages/white_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "白色的胸罩。"
     },
     {
       "name": "yellow bra",
@@ -174,9 +174,9 @@
       "wiki_url": "/wiki_pages/yellow_bra",
       "category_path": "Specific colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "黄色的胸罩。"
     },
     {
       "name": "multicolored bra",
@@ -184,9 +184,9 @@
       "wiki_url": "/wiki_pages/multicolored_bra",
       "category_path": "Multiple colors of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色胸罩",
+      "confidence": "A",
+      "tag_cn_long": "至少有两种颜色的胸罩。"
     },
     {
       "name": "checkered bra",
@@ -194,9 +194,9 @@
       "wiki_url": "/wiki_pages/checkered_bra",
       "category_path": "Patterns and prints of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棋盘格胸罩",
+      "confidence": "A",
+      "tag_cn_long": "带有棋盘格（方格）图案的胸罩。"
     },
     {
       "name": "lace bra",
@@ -204,9 +204,9 @@
       "wiki_url": "/wiki_pages/lace_bra",
       "category_path": "Patterns and prints of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝胸罩",
+      "confidence": "A",
+      "tag_cn_long": "完全由蕾丝制成的胸罩。"
     },
     {
       "name": "lace-trimmed bra",
@@ -214,9 +214,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_bra",
       "category_path": "Patterns and prints of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝边胸罩",
+      "confidence": "A",
+      "tag_cn_long": "边缘带有蕾丝装饰的胸罩，区别于全蕾丝胸罩。"
     },
     {
       "name": "plaid bra",
@@ -224,9 +224,9 @@
       "wiki_url": "/wiki_pages/plaid_bra",
       "category_path": "Patterns and prints of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格纹胸罩",
+      "confidence": "B",
+      "tag_cn_long": "带有苏格兰格纹图案的胸罩。"
     },
     {
       "name": "polka dot bra",
@@ -234,9 +234,9 @@
       "wiki_url": "/wiki_pages/polka_dot_bra",
       "category_path": "Patterns and prints of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点胸罩",
+      "confidence": "A",
+      "tag_cn_long": "带有波点图案的胸罩。"
     },
     {
       "name": "print bra",
@@ -244,9 +244,9 @@
       "wiki_url": "/wiki_pages/print_bra",
       "category_path": "Patterns and prints of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花胸罩",
+      "confidence": "A",
+      "tag_cn_long": "印有各种图案的胸罩。"
     },
     {
       "name": "strawberry bra",
@@ -254,9 +254,9 @@
       "wiki_url": "/wiki_pages/strawberry_bra",
       "category_path": "Patterns and prints of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草莓胸罩",
+      "confidence": "A",
+      "tag_cn_long": "带有草莓图案的胸罩。"
     },
     {
       "name": "striped bra",
@@ -264,9 +264,9 @@
       "wiki_url": "/wiki_pages/striped_bra",
       "category_path": "Patterns and prints of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹胸罩",
+      "confidence": "A",
+      "tag_cn_long": "有条纹图案的胸罩。"
     },
     {
       "name": "vertical-striped bra",
@@ -274,9 +274,9 @@
       "wiki_url": "/wiki_pages/vertical-striped_bra",
       "category_path": "Patterns and prints of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竖条纹胸罩",
+      "confidence": "A",
+      "tag_cn_long": "带有竖条纹图案的胸罩。"
     },
     {
       "name": "adhesive bra",
@@ -284,9 +284,9 @@
       "wiki_url": "/wiki_pages/adhesive_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黏胶胸罩",
+      "confidence": "B",
+      "tag_cn_long": "无肩带无侧边、靠黏胶固定的胸罩，也称隐形胸罩。"
     },
     {
       "name": "belt bra",
@@ -294,9 +294,9 @@
       "wiki_url": "/wiki_pages/belt_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皮带胸罩",
+      "confidence": "A",
+      "tag_cn_long": "用皮带制作的胸罩，可能带有扣环。"
     },
     {
       "name": "bow bra",
@@ -304,9 +304,9 @@
       "wiki_url": "/wiki_pages/bow_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶结胸罩",
+      "confidence": "A",
+      "tag_cn_long": "前面以蝴蝶结系带或装饰的胸罩。"
     },
     {
       "name": "bridgeless bra",
@@ -314,9 +314,9 @@
       "wiki_url": "/wiki_pages/bridgeless_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无桥胸罩",
+      "confidence": "C",
+      "tag_cn_long": "两罩杯之间无任何连接的硬质胸罩，胸前中间裸露皮肤。"
     },
     {
       "name": "cupless bra",
@@ -324,9 +324,9 @@
       "wiki_url": "/wiki_pages/cupless_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无罩杯胸罩",
+      "confidence": "A",
+      "tag_cn_long": "无罩杯包裹的胸罩，设计为托起并露出乳房，可能遮挡或不遮挡乳头。"
     },
     {
       "name": "frilled bra",
@@ -334,9 +334,9 @@
       "wiki_url": "/wiki_pages/frilled_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "褶边胸罩",
+      "confidence": "A",
+      "tag_cn_long": "带有褶边装饰的胸罩。"
     },
     {
       "name": "front-hook bra",
@@ -344,9 +344,9 @@
       "wiki_url": "/wiki_pages/front-hook_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前扣胸罩",
+      "confidence": "A",
+      "tag_cn_long": "前部有挂钩的胸罩。"
     },
     {
       "name": "front-tie bra",
@@ -354,9 +354,9 @@
       "wiki_url": "/wiki_pages/front-tie_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前系带胸罩",
+      "confidence": "A",
+      "tag_cn_long": "在胸前系带的胸罩。"
     },
     {
       "name": "nursing bra",
@@ -364,9 +364,9 @@
       "wiki_url": "/wiki_pages/nursing_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哺乳胸罩",
+      "confidence": "A",
+      "tag_cn_long": "方便哺乳时露出乳头的胸罩。"
     },
     {
       "name": "shelf bra",
@@ -374,9 +374,9 @@
       "wiki_url": "/wiki_pages/shelf_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "搁架胸罩",
+      "confidence": "B",
+      "tag_cn_long": "一种仅支撑乳房下部的胸罩，露出上半部分和乳头。"
     },
     {
       "name": "sports bra",
@@ -384,9 +384,9 @@
       "wiki_url": "/wiki_pages/sports_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动胸罩",
+      "confidence": "A",
+      "tag_cn_long": "用于运动时提供支撑的紧身胸罩。"
     },
     {
       "name": "strapless bra",
@@ -394,9 +394,9 @@
       "wiki_url": "/wiki_pages/strapless_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无肩带胸罩",
+      "confidence": "A",
+      "tag_cn_long": "没有肩带的胸罩，依靠加宽下围支撑。"
     },
     {
       "name": "training bra",
@@ -404,9 +404,9 @@
       "wiki_url": "/wiki_pages/training_bra",
       "category_path": "Models of bras",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "训练胸罩",
+      "confidence": "A",
+      "tag_cn_long": "适合发育初期少女穿戴的胸罩。"
     },
     {
       "name": "adjusting bra",
@@ -414,9 +414,9 @@
       "wiki_url": "/wiki_pages/adjusting_bra",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "调整胸罩",
+      "confidence": "A",
+      "tag_cn_long": "描绘角色调整胸罩时动作的画面。"
     },
     {
       "name": "bra lift",
@@ -424,9 +424,9 @@
       "wiki_url": "/wiki_pages/bra_lift",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩上提",
+      "confidence": "A",
+      "tag_cn_long": "胸罩被向上提起并高于乳房的状态。"
     },
     {
       "name": "bra on ass",
@@ -434,9 +434,9 @@
       "wiki_url": "/wiki_pages/bra_on_ass",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩在臀",
+      "confidence": "B",
+      "tag_cn_long": "将胸罩穿在臀部上的滑稽场景。"
     },
     {
       "name": "bra on head",
@@ -444,9 +444,9 @@
       "wiki_url": "/wiki_pages/bra_on_head",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩在头",
+      "confidence": "A",
+      "tag_cn_long": "将胸罩戴在头上或脸上的滑稽场景。"
     },
     {
       "name": "bra peek",
@@ -454,9 +454,9 @@
       "wiki_url": "/wiki_pages/bra_peek",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩微露",
+      "confidence": "A",
+      "tag_cn_long": "从衣物缝隙中隐约看到胸罩的状态。"
     },
     {
       "name": "bra pull",
@@ -464,9 +464,9 @@
       "wiki_url": "/wiki_pages/bra_pull",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩下拉",
+      "confidence": "A",
+      "tag_cn_long": "将胸罩向下拉至乳房以下露出乳头的动作。"
     },
     {
       "name": "bra strap",
@@ -474,9 +474,9 @@
       "wiki_url": "/wiki_pages/bra_strap",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩肩带",
+      "confidence": "A",
+      "tag_cn_long": "仅露出或可见的胸罩肩带。"
     },
     {
       "name": "hand in bra",
@@ -484,9 +484,9 @@
       "wiki_url": "/wiki_pages/hand_in_bra",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手入胸罩",
+      "confidence": "A",
+      "tag_cn_long": "手伸入某人胸罩内部的场景。"
     },
     {
       "name": "holding bra",
@@ -494,9 +494,9 @@
       "wiki_url": "/wiki_pages/holding_bra",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持胸罩",
+      "confidence": "A",
+      "tag_cn_long": "手中握着一件已脱下的胸罩。"
     },
     {
       "name": "no bra",
@@ -504,9 +504,9 @@
       "wiki_url": "/wiki_pages/no_bra",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无胸罩",
+      "confidence": "A",
+      "tag_cn_long": "角色穿着上衣但未穿胸罩的状态。"
     },
     {
       "name": "open bra",
@@ -514,9 +514,9 @@
       "wiki_url": "/wiki_pages/open_bra",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞开胸罩",
+      "confidence": "A",
+      "tag_cn_long": "胸罩已被解开或打开的状态。"
     },
     {
       "name": "presenting bra",
@@ -524,9 +524,9 @@
       "wiki_url": "/wiki_pages/presenting_bra",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "展示胸罩",
+      "confidence": "C",
+      "tag_cn_long": "角色展示或呈上胸罩的画面。"
     },
     {
       "name": "torn bra",
@@ -534,9 +534,9 @@
       "wiki_url": "/wiki_pages/torn_bra",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破胸罩",
+      "confidence": "A",
+      "tag_cn_long": "胸罩有撕裂或破损。"
     },
     {
       "name": "unworn bra",
@@ -544,9 +544,9 @@
       "wiki_url": "/wiki_pages/unworn_bra",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未穿胸罩",
+      "confidence": "A",
+      "tag_cn_long": "图片中出现胸罩但无人穿着。"
     },
     {
       "name": "bustier",
@@ -554,9 +554,9 @@
       "wiki_url": "/wiki_pages/bustier",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身胸衣",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身内衣，从胸部延伸至腰部以上，用于支撑和塑造胸部。"
     }
   ],
   "total_tags": 51,

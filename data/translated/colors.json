@@ -60,9 +60,9 @@
       "wiki_url": "/wiki_pages/monochrome",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单色",
+      "confidence": "A",
+      "tag_cn_long": "整体以单一颜色为主的图像，不限于黑白。"
     },
     {
       "name": "greyscale",
@@ -70,9 +70,9 @@
       "wiki_url": "/wiki_pages/greyscale",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰度",
+      "confidence": "A",
+      "tag_cn_long": "完全无彩色的黑白图像，仅含黑、白、灰色调。"
     },
     {
       "name": "aqua theme",
@@ -80,9 +80,9 @@
       "wiki_url": "/wiki_pages/aqua_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以水蓝色（蓝绿色）为主色调的情况。"
     },
     {
       "name": "black theme",
@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/black_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以黑色为主色调的情况。"
     },
     {
       "name": "blue theme",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/blue_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以蓝色为主色调的情况。"
     },
     {
       "name": "brown theme",
@@ -110,9 +110,9 @@
       "wiki_url": "/wiki_pages/brown_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以棕色为主色调的情况。"
     },
     {
       "name": "green theme",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/green_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以绿色为主色调的情况。"
     },
     {
       "name": "grey theme",
@@ -130,9 +130,9 @@
       "wiki_url": "/wiki_pages/grey_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以灰色为主色调的情况，不包括黑白灰度图像。"
     },
     {
       "name": "orange theme",
@@ -140,9 +140,9 @@
       "wiki_url": "/wiki_pages/orange_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以橙色为主色调的情况。"
     },
     {
       "name": "pink theme",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/pink_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以粉色为主色调的情况。"
     },
     {
       "name": "purple theme",
@@ -160,9 +160,9 @@
       "wiki_url": "/wiki_pages/purple_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以紫色为主色调的情况。"
     },
     {
       "name": "red theme",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/red_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以红色为主色调的情况。"
     },
     {
       "name": "white theme",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/white_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以白色为主色调的情况。"
     },
     {
       "name": "yellow theme",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/yellow_theme",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色主题",
+      "confidence": "A",
+      "tag_cn_long": "图像以黄色为主色调的情况。"
     },
     {
       "name": "monochrome",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/monochrome",
       "category_path": "Single color themes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单色",
+      "confidence": "A",
+      "tag_cn_long": "整体以单一颜色为主的图像，不限于黑白。"
     },
     {
       "name": "dark",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/dark",
       "category_path": "Neutral Palettes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "昏暗",
+      "confidence": "A",
+      "tag_cn_long": "环境光线不足，细节被掩盖的情况。"
     },
     {
       "name": "muted color",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/muted_color",
       "category_path": "Neutral Palettes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "暗淡色调",
+      "confidence": "A",
+      "tag_cn_long": "颜色因混入灰色而变得暗淡、饱和度低的情况。"
     },
     {
       "name": "pale color",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/pale_color",
       "category_path": "Neutral Palettes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "淡色",
+      "confidence": "A",
+      "tag_cn_long": "颜色因混入白色而变得很淡、柔和的情况。"
     },
     {
       "name": "partially colored",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/partially_colored",
       "category_path": "Partial Coloring",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "部分上色",
+      "confidence": "A",
+      "tag_cn_long": "图像中部分区域有颜色，其余部分保持线稿或素描状态。"
     },
     {
       "name": "greyscale with colored background",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/greyscale_with_colored_background",
       "category_path": "Partial Coloring",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰阶主体彩色背景",
+      "confidence": "A",
+      "tag_cn_long": "作品中主体为灰度而背景为彩色。"
     },
     {
       "name": "spot color",
@@ -260,9 +260,9 @@
       "wiki_url": "/wiki_pages/spot_color",
       "category_path": "Partial Coloring",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "局部点缀色",
+      "confidence": "A",
+      "tag_cn_long": "整体较暗或单色，仅用少数颜色突出重点部分以吸引注意。"
     },
     {
       "name": "monochrome",
@@ -270,9 +270,9 @@
       "wiki_url": "/wiki_pages/monochrome",
       "category_path": "No Color",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单色",
+      "confidence": "A",
+      "tag_cn_long": "整体以单一颜色为主的图像，不限于黑白。"
     },
     {
       "name": "greyscale",
@@ -280,9 +280,9 @@
       "wiki_url": "/wiki_pages/greyscale",
       "category_path": "No Color",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰度",
+      "confidence": "A",
+      "tag_cn_long": "完全无彩色的黑白图像，仅含黑、白、灰色调。"
     },
     {
       "name": "high contrast",
@@ -290,9 +290,9 @@
       "wiki_url": "/wiki_pages/high_contrast",
       "category_path": "No Color",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高对比",
+      "confidence": "A",
+      "tag_cn_long": "画面中明暗差异极大的色彩风格。"
     },
     {
       "name": "lineart",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/lineart",
       "category_path": "No Color",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "线稿",
+      "confidence": "A",
+      "tag_cn_long": "只有清晰线条、无色彩无阴影的绘画。"
     },
     {
       "name": "negative",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/negative",
       "category_path": "No Color",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "负片效果",
+      "confidence": "A",
+      "tag_cn_long": "一种将黑白颜色反转的调色模式，用于表现意外事件。"
     },
     {
       "name": "sepia",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/sepia",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色调",
+      "confidence": "A",
+      "tag_cn_long": "图像被着色或呈现棕褐色调，模仿老旧照片的效果。"
     },
     {
       "name": "high contrast",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/high_contrast",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高对比",
+      "confidence": "A",
+      "tag_cn_long": "画面中明暗差异极大的色彩风格。"
     },
     {
       "name": "limited palette",
@@ -340,9 +340,9 @@
       "wiki_url": "/wiki_pages/limited_palette",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有限调色板",
+      "confidence": "A",
+      "tag_cn_long": "使用少量不同颜色的图像。"
     },
     {
       "name": "multiple monochrome",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/multiple_monochrome",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色单色",
+      "confidence": "C",
+      "tag_cn_long": "由多个不同颜色的单色区域组成的图像。"
     },
     {
       "name": "pastel colors",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/pastel_colors",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "柔和色调",
+      "confidence": "A",
+      "tag_cn_long": "使用低对比度和高饱和度的淡色调为主要色彩的图像。"
     },
     {
       "name": "double exposure",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/double_exposure",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双重曝光",
+      "confidence": "A",
+      "tag_cn_long": "将两个或多个图像叠加在一起的效果。"
     },
     {
       "name": "vignetting",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/vignetting",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "暗角",
+      "confidence": "A",
+      "tag_cn_long": "图像边缘亮度或饱和度低于中心区域的效果。"
     },
     {
       "name": "inverted colors",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/inverted_colors",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "反转颜色",
+      "confidence": "A",
+      "tag_cn_long": "颜色被反转，类似底片效果。"
     },
     {
       "name": "neon palette",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/neon_palette",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "霓虹色调",
+      "confidence": "A",
+      "tag_cn_long": "使用明亮、饱和、闪亮甚至发光的冷色调为主的调色板。"
     },
     {
       "name": "saturated",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/saturated",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高饱和",
+      "confidence": "A",
+      "tag_cn_long": "颜色饱和度极高的图像，可能引起视觉疲劳。"
     },
     {
       "name": "traditional media",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/traditional_media",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "传统媒介",
+      "confidence": "A",
+      "tag_cn_long": "使用传统工具（非电脑）绘制的图像。"
     },
     {
       "name": "faux traditional media",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/faux_traditional_media",
       "category_path": "Filters",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "仿传统媒介",
+      "confidence": "A",
+      "tag_cn_long": "数字创作的模仿传统媒介风格的图像。"
     },
     {
       "name": "cool colored",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/cool_colored",
       "category_path": "Color Theory",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冷色调",
+      "confidence": "A",
+      "tag_cn_long": "以冷色（如蓝、绿、紫）为主的图像。"
     },
     {
       "name": "colorful",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/colorful",
       "category_path": "Color Theory",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "色彩丰富",
+      "confidence": "A",
+      "tag_cn_long": "充满各种颜色的图像，艺术家强调颜色突出。"
     },
     {
       "name": "analogous colors",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/analogous_colors",
       "category_path": "Color Theory",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "类似色",
+      "confidence": "A",
+      "tag_cn_long": "使用色轮上相邻的一组相似颜色，但范围较广。"
     },
     {
       "name": "color contrast",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/color_contrast",
       "category_path": "Color Theory",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颜色对比",
+      "confidence": "A",
+      "tag_cn_long": "具有强烈对比或互补色的图像。"
     },
     {
       "name": "color coordination",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/color_coordination",
       "category_path": "Color Theory",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颜色协调",
+      "confidence": "A",
+      "tag_cn_long": "角色或物体在颜色上相互匹配或形成对称感。"
     },
     {
       "name": "triadic colors",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/triadic_colors",
       "category_path": "Color Theory",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角色",
+      "confidence": "A",
+      "tag_cn_long": "使用色轮上等间距的三种颜色进行配色。"
     },
     {
       "name": "warm colored",
@@ -500,9 +500,9 @@
       "wiki_url": "/wiki_pages/warm_colored",
       "category_path": "Color Theory",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "暖色",
+      "confidence": "A",
+      "tag_cn_long": "指图像中偏向红色、橙色、黄色等温暖的色调。"
     },
     {
       "name": "shadow",
@@ -510,9 +510,9 @@
       "wiki_url": "/wiki_pages/shadow",
       "category_path": "Coloring Styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴影",
+      "confidence": "A",
+      "tag_cn_long": "物体遮挡光线产生的暗部。"
     },
     {
       "name": "color guide",
@@ -520,9 +520,9 @@
       "wiki_url": "/wiki_pages/color_guide",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "色卡",
+      "confidence": "A",
+      "tag_cn_long": "图像中展示自身所用颜色的调色板。"
     },
     {
       "name": "color drain",
@@ -530,9 +530,9 @@
       "wiki_url": "/wiki_pages/color_drain",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "失色",
+      "confidence": "A",
+      "tag_cn_long": "因震惊、愤怒等情绪导致画面失去色彩变为单色。"
     },
     {
       "name": "color connection",
@@ -540,9 +540,9 @@
       "wiki_url": "/wiki_pages/color_connection",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颜色关联",
+      "confidence": "B",
+      "tag_cn_long": "角色或物体根据主题色归类，或角色与拥有相同主题色的其他角色产生联系。"
     },
     {
       "name": "rainbow order",
@@ -550,9 +550,9 @@
       "wiki_url": "/wiki_pages/rainbow_order",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩虹顺序",
+      "confidence": "A",
+      "tag_cn_long": "角色或物体按照红橙黄绿蓝靛紫的彩虹光谱顺序排列。"
     },
     {
       "name": "gradient",
@@ -560,9 +560,9 @@
       "wiki_url": "/wiki_pages/gradient",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变",
+      "confidence": "A",
+      "tag_cn_long": "颜色逐渐平滑过渡的效果。"
     }
   ],
   "total_tags": 51,

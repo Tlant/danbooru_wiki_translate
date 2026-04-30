@@ -1,0 +1,6 @@
+{
+  "tag": "Third-party extraction",
+  "tag_cn": "第三方提取",
+  "confidence": "C",
+  "tag_cn_long": "由第三方从原始图像中提取部分元素（如角色）形成的独立图片。"
+}

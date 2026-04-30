@@ -18,9 +18,9 @@
       "wiki_url": "/wiki_pages/actor",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "演员",
+      "confidence": "A",
+      "tag_cn_long": "描绘角色从事演员职业或现实中的演员。"
     },
     {
       "name": "actress",
@@ -28,9 +28,9 @@
       "wiki_url": "/wiki_pages/actress",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女演员",
+      "confidence": "A",
+      "tag_cn_long": "在舞台或电影中表演的女性。"
     },
     {
       "name": "alchemist",
@@ -38,9 +38,9 @@
       "wiki_url": "/wiki_pages/alchemist",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "炼金术师",
+      "confidence": "A",
+      "tag_cn_long": "从事炼金术的人，中世纪试图将贱金属变为黄金等。"
     },
     {
       "name": "artist painter",
@@ -48,9 +48,9 @@
       "wiki_url": "/wiki_pages/artist_painter",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "画家",
+      "confidence": "A",
+      "tag_cn_long": "从事绘画或素描艺术创作的人。"
     },
     {
       "name": "astronaut",
@@ -58,9 +58,9 @@
       "wiki_url": "/wiki_pages/astronaut",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宇航员",
+      "confidence": "A",
+      "tag_cn_long": "经过训练进入太空执行任务的航天员。"
     },
     {
       "name": "bartender",
@@ -78,9 +78,9 @@
       "wiki_url": "/wiki_pages/bodyguard",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "保镖",
+      "confidence": "A",
+      "tag_cn_long": "受雇保护重要人物安全的人，通常穿黑西装戴墨镜。"
     },
     {
       "name": "burglar",
@@ -88,9 +88,9 @@
       "wiki_url": "/wiki_pages/burglar",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "盗贼",
+      "confidence": "A",
+      "tag_cn_long": "穿着典型盗贼服装（如深色衣服、眼罩、背包）的角色。"
     },
     {
       "name": "butler",
@@ -108,9 +108,9 @@
       "wiki_url": "/wiki_pages/cashier",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "收银员",
+      "confidence": "A",
+      "tag_cn_long": "在商店或便利店负责收银的员工。"
     },
     {
       "name": "chauffeur",
@@ -118,9 +118,9 @@
       "wiki_url": "/wiki_pages/chauffeur",
       "category_path": "Jobs",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "私人司机",
+      "confidence": "A",
+      "tag_cn_long": "受雇为他人驾驶汽车的专业司机。"
     },
     {
       "name": "chef",
@@ -138,9 +138,9 @@
       "wiki_url": "/wiki_pages/chemist",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化学家",
+      "confidence": "A",
+      "tag_cn_long": "从事化学研究的科学家或学生。"
     },
     {
       "name": "conductor",
@@ -148,9 +148,9 @@
       "wiki_url": "/wiki_pages/conductor",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指挥家",
+      "confidence": "A",
+      "tag_cn_long": "指挥乐队或合唱团的音乐指导，通常手持指挥棒。"
     },
     {
       "name": "construction worker",
@@ -158,9 +158,9 @@
       "wiki_url": "/wiki_pages/construction_worker",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "建筑工人",
+      "confidence": "A",
+      "tag_cn_long": "参与建筑建造的工人，常戴安全帽和穿工作靴。"
     },
     {
       "name": "croupier",
@@ -168,9 +168,9 @@
       "wiki_url": "/wiki_pages/croupier",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷官",
+      "confidence": "A",
+      "tag_cn_long": "在赌场赌桌上负责发牌和处理筹码的工作人员。"
     },
     {
       "name": "cyclist",
@@ -178,9 +178,9 @@
       "wiki_url": "/wiki_pages/cyclist",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自行车骑手",
+      "confidence": "A",
+      "tag_cn_long": "骑自行车的人，尤指专业或竞技自行车运动员。"
     },
     {
       "name": "dentist",
@@ -188,9 +188,9 @@
       "wiki_url": "/wiki_pages/dentist",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牙医",
+      "confidence": "A",
+      "tag_cn_long": "专门治疗牙齿问题的医生，如清洁、补牙等。"
     },
     {
       "name": "dj",
@@ -198,9 +198,9 @@
       "wiki_url": "/wiki_pages/dj",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "DJ",
+      "confidence": "A",
+      "tag_cn_long": "在夜店或迪斯科舞厅播放和混音唱片的音乐工作者。"
     },
     {
       "name": "doctor",
@@ -208,9 +208,9 @@
       "wiki_url": "/wiki_pages/doctor",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "医生",
+      "confidence": "A",
+      "tag_cn_long": "持有执照的医疗专业人员，负责诊治伤病、进行手术等。"
     },
     {
       "name": "dominatrix",
@@ -218,9 +218,9 @@
       "wiki_url": "/wiki_pages/dominatrix",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女支配者",
+      "confidence": "A",
+      "tag_cn_long": "从事BDSM中支配角色的女性，常穿皮革或乳胶束缚装并携带鞭子。"
     },
     {
       "name": "engineer",
@@ -228,9 +228,9 @@
       "wiki_url": "/wiki_pages/engineer",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "工程师",
+      "confidence": "A",
+      "tag_cn_long": "在电子、机械维修和机械开发方面具有专长的人。"
     },
     {
       "name": "farmer",
@@ -238,9 +238,9 @@
       "wiki_url": "/wiki_pages/farmer",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "农民",
+      "confidence": "A",
+      "tag_cn_long": "在农场从事农业，种植作物或饲养牲畜的人。"
     },
     {
       "name": "firefighter",
@@ -248,9 +248,9 @@
       "wiki_url": "/wiki_pages/firefighter",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "消防员",
+      "confidence": "A",
+      "tag_cn_long": "经过专门训练从事灭火和救援工作的人员。"
     },
     {
       "name": "flight attendant",
@@ -258,9 +258,9 @@
       "wiki_url": "/wiki_pages/flight_attendant",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "空乘",
+      "confidence": "A",
+      "tag_cn_long": "在飞机上负责乘客安全和舒适度的机组人员。"
     },
     {
       "name": "florist",
@@ -268,9 +268,9 @@
       "wiki_url": "/wiki_pages/florist",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花店店主",
+      "confidence": "A",
+      "tag_cn_long": "经营花店或从事花卉销售和花艺设计的人。"
     },
     {
       "name": "geisha",
@@ -278,9 +278,9 @@
       "wiki_url": "/wiki_pages/geisha",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "艺伎",
+      "confidence": "A",
+      "tag_cn_long": "日本传统女性表演者，穿着华丽和服，表演音乐、舞蹈等娱乐男性顾客。"
     },
     {
       "name": "guard",
@@ -288,9 +288,9 @@
       "wiki_url": "/wiki_pages/guard",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "守卫",
+      "confidence": "A",
+      "tag_cn_long": "负责看守某个地点的人员，通常穿制服，可能装备武器。"
     },
     {
       "name": "hacker",
@@ -298,9 +298,9 @@
       "wiki_url": "/wiki_pages/hacker",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑客",
+      "confidence": "A",
+      "tag_cn_long": "能够入侵电子或计算机系统的技术专家。"
     },
     {
       "name": "hikikomori",
@@ -308,9 +308,9 @@
       "wiki_url": "/wiki_pages/hikikomori",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蛰居族",
+      "confidence": "A",
+      "tag_cn_long": "指长期待在家里、极少出门、与社会隔离的日本年轻人。"
     },
     {
       "name": "idol",
@@ -318,9 +318,9 @@
       "wiki_url": "/wiki_pages/idol",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "偶像",
+      "confidence": "A",
+      "tag_cn_long": "日本概念中的年轻艺人，通常唱歌跳舞，穿着华丽服装。"
     },
     {
       "name": "janitor",
@@ -328,9 +328,9 @@
       "wiki_url": "/wiki_pages/janitor",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "清洁工",
+      "confidence": "A",
+      "tag_cn_long": "负责建筑物清洁、维护和保安的专业人员。"
     },
     {
       "name": "judge",
@@ -338,9 +338,9 @@
       "wiki_url": "/wiki_pages/judge",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法官",
+      "confidence": "A",
+      "tag_cn_long": "在法庭上主持审判并作出判决的司法官员。"
     },
     {
       "name": "librarian",
@@ -348,9 +348,9 @@
       "wiki_url": "/wiki_pages/librarian",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图书管理员",
+      "confidence": "A",
+      "tag_cn_long": "在图书馆工作，为用户提供信息或指导的人。"
     },
     {
       "name": "lifeguard",
@@ -358,9 +358,9 @@
       "wiki_url": "/wiki_pages/lifeguard",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "救生员",
+      "confidence": "A",
+      "tag_cn_long": "在海滩、游泳池等场所负责监督安全、救援溺水者的人员。"
     },
     {
       "name": "lumberjack",
@@ -368,9 +368,9 @@
       "wiki_url": "/wiki_pages/lumberjack",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伐木工",
+      "confidence": "A",
+      "tag_cn_long": "砍伐和搬运树木的工人，通常穿着格子衬衫等标志性服装。"
     },
     {
       "name": "maid",
@@ -378,9 +378,9 @@
       "wiki_url": "/wiki_pages/maid",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女仆",
+      "confidence": "A",
+      "tag_cn_long": "穿着西式女仆制服的人物形象。"
     },
     {
       "name": "mechanic",
@@ -388,9 +388,9 @@
       "wiki_url": "/wiki_pages/mechanic",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "机械师",
+      "confidence": "A",
+      "tag_cn_long": "使用工具建造、维护或修理机器、车辆或军事装备的熟练技工。"
     },
     {
       "name": "merchant",
@@ -398,9 +398,9 @@
       "wiki_url": "/wiki_pages/merchant",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "商人",
+      "confidence": "A",
+      "tag_cn_long": "从事批发贸易或向特定行业供应商品的人或公司。"
     },
     {
       "name": "miko",
@@ -408,9 +408,9 @@
       "wiki_url": "/wiki_pages/miko",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巫女",
+      "confidence": "A",
+      "tag_cn_long": "神道教神社中负责清扫、舞蹈、祭祀等职务的女性。"
     },
     {
       "name": "miner",
@@ -418,9 +418,9 @@
       "wiki_url": "/wiki_pages/miner",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "矿工",
+      "confidence": "A",
+      "tag_cn_long": "从地下开采矿石、煤炭或其他矿物的人。"
     },
     {
       "name": "monk",
@@ -428,9 +428,9 @@
       "wiki_url": "/wiki_pages/monk",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和尚",
+      "confidence": "A",
+      "tag_cn_long": "佛教中的出家修行者。"
     },
     {
       "name": "ninja",
@@ -438,9 +438,9 @@
       "wiki_url": "/wiki_pages/ninja",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "忍者",
+      "confidence": "A",
+      "tag_cn_long": "日本古代从事秘密任务的特工或雇佣兵。"
     },
     {
       "name": "nun",
@@ -448,9 +448,9 @@
       "wiki_url": "/wiki_pages/nun",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "修女",
+      "confidence": "A",
+      "tag_cn_long": "发宗教誓言、过着虔诚生活的女性，通常穿着修女服。"
     },
     {
       "name": "nurse",
@@ -458,9 +458,9 @@
       "wiki_url": "/wiki_pages/nurse",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护士",
+      "confidence": "A",
+      "tag_cn_long": "医疗护理专业人员，通常穿白色连衣裙或护士服。"
     },
     {
       "name": "school nurse",
@@ -468,9 +468,9 @@
       "wiki_url": "/wiki_pages/school_nurse",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "校医",
+      "confidence": "A",
+      "tag_cn_long": "学校医务室的工作人员，照顾学生健康。"
     },
     {
       "name": "office lady",
@@ -478,9 +478,9 @@
       "wiki_url": "/wiki_pages/office_lady",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "办公室女职员",
+      "confidence": "A",
+      "tag_cn_long": "在办公室工作的女性，常穿西装裙、衬衫等。"
     },
     {
       "name": "pilot",
@@ -488,9 +488,9 @@
       "wiki_url": "/wiki_pages/pilot",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞行员",
+      "confidence": "A",
+      "tag_cn_long": "操控飞机或航天器的人员。"
     },
     {
       "name": "police",
@@ -498,9 +498,9 @@
       "wiki_url": "/wiki_pages/police",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "警察",
+      "confidence": "A",
+      "tag_cn_long": "执法人员，负责维护公共安全和打击犯罪。"
     },
     {
       "name": "politician",
@@ -508,9 +508,9 @@
       "wiki_url": "/wiki_pages/politician",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "政治家",
+      "confidence": "A",
+      "tag_cn_long": "从事政治活动的人物，通常指现实中的政治家。"
     },
     {
       "name": "priest",
@@ -518,9 +518,9 @@
       "wiki_url": "/wiki_pages/priest",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "神父",
+      "confidence": "A",
+      "tag_cn_long": "担任宗教仪式职务的神职人员，通常穿着长袍等法衣。"
     },
     {
       "name": "prisoner",
@@ -528,9 +528,9 @@
       "wiki_url": "/wiki_pages/prisoner",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "囚犯",
+      "confidence": "A",
+      "tag_cn_long": "被关押在监狱中的人，常穿橙色连体服或条纹囚服。"
     },
     {
       "name": "prostitution",
@@ -538,9 +538,9 @@
       "wiki_url": "/wiki_pages/prostitution",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卖淫",
+      "confidence": "A",
+      "tag_cn_long": "以金钱为目的的性行为。"
     },
     {
       "name": "sailor",
@@ -548,9 +548,9 @@
       "wiki_url": "/wiki_pages/sailor",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手制服",
+      "confidence": "A",
+      "tag_cn_long": "船员或海员穿着的正式制服，通常有海军领和条纹。"
     },
     {
       "name": "salaryman",
@@ -558,9 +558,9 @@
       "wiki_url": "/wiki_pages/salaryman",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "工薪族",
+      "confidence": "A",
+      "tag_cn_long": "日本公司里的白领职员，常穿西装打领带。"
     },
     {
       "name": "samurai",
@@ -568,9 +568,9 @@
       "wiki_url": "/wiki_pages/samurai",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "武士",
+      "confidence": "A",
+      "tag_cn_long": "日本封建时代的武士，身穿甲胄，佩刀。"
     },
     {
       "name": "scientist",
@@ -578,9 +578,9 @@
       "wiki_url": "/wiki_pages/scientist",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科学家",
+      "confidence": "A",
+      "tag_cn_long": "专注于科学研究和实验的专业人士。"
     },
     {
       "name": "shepherd",
@@ -588,9 +588,9 @@
       "wiki_url": "/wiki_pages/shepherd",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牧羊人",
+      "confidence": "A",
+      "tag_cn_long": "放牧并照料羊群的人。"
     },
     {
       "name": "slave",
@@ -598,9 +598,9 @@
       "wiki_url": "/wiki_pages/slave",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奴隶",
+      "confidence": "A",
+      "tag_cn_long": "被当作奴隶对待的角色，常戴锁链或项圈。"
     },
     {
       "name": "soldier",
@@ -608,9 +608,9 @@
       "wiki_url": "/wiki_pages/soldier",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "士兵",
+      "confidence": "A",
+      "tag_cn_long": "军队成员，通常穿军装，携带武器。"
     },
     {
       "name": "standard-bearer",
@@ -618,9 +618,9 @@
       "wiki_url": "/wiki_pages/standard_bearer",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "旗手",
+      "confidence": "A",
+      "tag_cn_long": "持旗的人，常出现在军队或游行中。"
     },
     {
       "name": "spy",
@@ -628,9 +628,9 @@
       "wiki_url": "/wiki_pages/spy",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "间谍",
+      "confidence": "A",
+      "tag_cn_long": "从事间谍活动以获取机密信息的人。"
     },
     {
       "name": "stripper",
@@ -638,9 +638,9 @@
       "wiki_url": "/wiki_pages/stripper",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脱衣舞者",
+      "confidence": "A",
+      "tag_cn_long": "在观众面前脱衣表演以赚取金钱的人。"
     },
     {
       "name": "teacher",
@@ -648,9 +648,9 @@
       "wiki_url": "/wiki_pages/teacher",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "教师",
+      "confidence": "A",
+      "tag_cn_long": "负责教育学生传授知识的人。"
     },
     {
       "name": "terrorist",
@@ -658,9 +658,9 @@
       "wiki_url": "/wiki_pages/terrorist",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "恐怖分子",
+      "confidence": "A",
+      "tag_cn_long": "实施恐怖主义行为的人。"
     },
     {
       "name": "trucker",
@@ -668,9 +668,9 @@
       "wiki_url": "/wiki_pages/trucker",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡车司机",
+      "confidence": "A",
+      "tag_cn_long": "以驾驶卡车为生的人。"
     },
     {
       "name": "train attendant",
@@ -678,9 +678,9 @@
       "wiki_url": "/wiki_pages/train_attendant",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "列车乘务员",
+      "confidence": "A",
+      "tag_cn_long": "在长途列车上负责乘客安全和舒适的乘务人员。"
     },
     {
       "name": "train conductor",
@@ -688,9 +688,9 @@
       "wiki_url": "/wiki_pages/train_conductor",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "列车长",
+      "confidence": "A",
+      "tag_cn_long": "火车上负责运营和安全职责的乘务人员，不包括实际驾驶。"
     },
     {
       "name": "waiter",
@@ -708,9 +708,9 @@
       "wiki_url": "/wiki_pages/waitress",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女服务生",
+      "confidence": "A",
+      "tag_cn_long": "穿着餐厅或咖啡馆服务员制服的人，通常为女性。"
     },
     {
       "name": "warrior",
@@ -718,9 +718,9 @@
       "wiki_url": "/wiki_pages/warrior",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "战士",
+      "confidence": "A",
+      "tag_cn_long": "参与战斗或战争的人，通常穿着盔甲并持有近战武器。"
     },
     {
       "name": "wizard",
@@ -728,9 +728,9 @@
       "wiki_url": "/wiki_pages/wizard",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巫师",
+      "confidence": "A",
+      "tag_cn_long": "使用超自然或神秘力量施展魔法的人，通常戴大帽子、穿长袍并持法杖。"
     },
     {
       "name": "witch",
@@ -738,9 +738,9 @@
       "wiki_url": "/wiki_pages/witch",
       "category_path": "Jobs",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女巫",
+      "confidence": "A",
+      "tag_cn_long": "使用魔法的人，通常是女性，经典形象戴尖帽、穿黑长袍、骑扫帚。"
     }
   ],
   "total_tags": 73,

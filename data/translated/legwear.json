@@ -30,9 +30,9 @@
       "wiki_url": "/wiki_pages/socks",
       "category_path": "Main tags / Legwear by height",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袜子",
+      "confidence": "A",
+      "tag_cn_long": "穿在脚上的衣物，长度从脚踝到膝盖不等。"
     },
     {
       "name": "kneehighs",
@@ -40,9 +40,9 @@
       "wiki_url": "/wiki_pages/kneehighs",
       "category_path": "Main tags / Legwear by height",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "及膝袜",
+      "confidence": "A",
+      "tag_cn_long": "长度到膝盖或略低于膝盖的袜子。"
     },
     {
       "name": "over-kneehighs",
@@ -50,9 +50,9 @@
       "wiki_url": "/wiki_pages/over-kneehighs",
       "category_path": "Main tags / Legwear by height",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝上袜",
+      "confidence": "A",
+      "tag_cn_long": "长度刚好超过膝盖的袜子或长袜，比大腿袜短。"
     },
     {
       "name": "thighhighs",
@@ -60,9 +60,9 @@
       "wiki_url": "/wiki_pages/thighhighs",
       "category_path": "Main tags / Legwear by height",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿袜",
+      "confidence": "A",
+      "tag_cn_long": "覆盖从脚到大腿的袜子或长袜，通常由弹性大腿带或吊袜带固定。"
     },
     {
       "name": "hiphighs",
@@ -70,9 +70,9 @@
       "wiki_url": "/wiki_pages/hiphighs",
       "category_path": "Main tags / Legwear by height",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "及臀袜",
+      "confidence": "B",
+      "tag_cn_long": "长度延伸到臀部的长袜。"
     },
     {
       "name": "pantyhose",
@@ -80,9 +80,9 @@
       "wiki_url": "/wiki_pages/pantyhose",
       "category_path": "Main tags / Legwear by height",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "一种从腰部到脚趾的透明材质袜类。"
     },
     {
       "name": "leggings",
@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/leggings",
       "category_path": "Main tags / Legwear by height",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身裤",
+      "confidence": "A",
+      "tag_cn_long": "一种不覆盖脚的腿部覆盖物，类似连裤袜但露出脚。"
     },
     {
       "name": "detached leggings",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/detached_leggings",
       "category_path": "Main tags / Legwear by height",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无脚紧身裤",
+      "confidence": "B",
+      "tag_cn_long": "不覆盖脚部的紧身裤，类似分离式打底裤。"
     },
     {
       "name": "gradient legwear",
@@ -110,9 +110,9 @@
       "wiki_url": "/wiki_pages/gradient_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变腿袜",
+      "confidence": "A",
+      "tag_cn_long": "带有渐变颜色的腿饰或袜子。"
     },
     {
       "name": "multicolored leggings",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/multicolored_leggings",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色紧身裤",
+      "confidence": "A",
+      "tag_cn_long": "设计中有多种颜色的紧身裤。"
     },
     {
       "name": "multicolored leg warmers",
@@ -130,9 +130,9 @@
       "wiki_url": "/wiki_pages/multicolored_leg_warmers",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色腿套",
+      "confidence": "A",
+      "tag_cn_long": "具有多种颜色的暖腿套。"
     },
     {
       "name": "multicolored pantyhose",
@@ -140,9 +140,9 @@
       "wiki_url": "/wiki_pages/multicolored_pantyhose",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "包含不止一种颜色的连裤袜。"
     },
     {
       "name": "multicolored socks",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/multicolored_socks",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色袜子",
+      "confidence": "A",
+      "tag_cn_long": "具有多种颜色的袜子。"
     },
     {
       "name": "multicolored thighhighs",
@@ -160,9 +160,9 @@
       "wiki_url": "/wiki_pages/multicolored_thighhighs",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色过膝袜",
+      "confidence": "A",
+      "tag_cn_long": "具有两种或更多明显颜色的过膝袜，双腿设计相同。"
     },
     {
       "name": "two-tone legwear",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/two-tone_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色腿袜",
+      "confidence": "A",
+      "tag_cn_long": "恰好由两种颜色构成的多色腿饰。"
     },
     {
       "name": "american flag legwear",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/american_flag_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美国国旗腿袜",
+      "confidence": "A",
+      "tag_cn_long": "带有美国国旗颜色（蓝底白星和红白条纹）的腿饰。"
     },
     {
       "name": "camouflage legwear",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/camouflage_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷彩腿袜",
+      "confidence": "A",
+      "tag_cn_long": "带有迷彩图案的腿饰。"
     },
     {
       "name": "checkered legwear",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/checkered_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子腿袜",
+      "confidence": "A",
+      "tag_cn_long": "带有棋盘格图案的腿饰。"
     },
     {
       "name": "diagonal-striped legwear",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/diagonal-striped_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斜条纹腿袜",
+      "confidence": "A",
+      "tag_cn_long": "带有斜条纹图案的腿饰。"
     },
     {
       "name": "gingham legwear",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/gingham_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "方格纹袜",
+      "confidence": "A",
+      "tag_cn_long": "带有格子图案的袜子或腿饰。"
     },
     {
       "name": "polka dot leggings",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/polka_dot_leggings",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点打底裤",
+      "confidence": "A",
+      "tag_cn_long": "印有波点图案的紧身裤。"
     },
     {
       "name": "polka dot pantyhose",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/polka_dot_pantyhose",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "印有波点图案的连裤袜。"
     },
     {
       "name": "polka dot socks",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/polka_dot_socks",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点短袜",
+      "confidence": "A",
+      "tag_cn_long": "印有波点图案的短袜。"
     },
     {
       "name": "polka dot thighhighs",
@@ -260,9 +260,9 @@
       "wiki_url": "/wiki_pages/polka_dot_thighhighs",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点大腿袜",
+      "confidence": "A",
+      "tag_cn_long": "印有波点图案的大腿袜。"
     },
     {
       "name": "rainbow legwear",
@@ -270,9 +270,9 @@
       "wiki_url": "/wiki_pages/rainbow_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩虹袜",
+      "confidence": "A",
+      "tag_cn_long": "带有彩虹图案的袜子。"
     },
     {
       "name": "animal ear legwear",
@@ -280,9 +280,9 @@
       "wiki_url": "/wiki_pages/animal_ear_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兽耳袜",
+      "confidence": "A",
+      "tag_cn_long": "袜口有动物耳朵造型装饰的腿袜。"
     },
     {
       "name": "bat legwear",
@@ -290,9 +290,9 @@
       "wiki_url": "/wiki_pages/bat_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝙蝠耳袜",
+      "confidence": "A",
+      "tag_cn_long": "袜口有蝙蝠翅膀或耳朵造型的腿袜。"
     },
     {
       "name": "bear band legwear",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/bear_band_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊耳袜",
+      "confidence": "A",
+      "tag_cn_long": "袜口有小熊耳朵造型的腿袜。"
     },
     {
       "name": "rabbit ear legwear",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/rabbit_ear_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔耳袜",
+      "confidence": "A",
+      "tag_cn_long": "袜口有兔子耳朵造型的腿袜。"
     },
     {
       "name": "cat ear legwear",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/cat_ear_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫耳袜",
+      "confidence": "A",
+      "tag_cn_long": "袜口有猫耳朵造型的腿袜。"
     },
     {
       "name": "horn band legwear",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/horn_band_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角饰袜",
+      "confidence": "A",
+      "tag_cn_long": "袜口有角状装饰的腿袜。"
     },
     {
       "name": "aran legwear",
@@ -340,9 +340,9 @@
       "wiki_url": "/wiki_pages/aran_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿兰花纹袜",
+      "confidence": "A",
+      "tag_cn_long": "带有阿兰毛衣编织纹理的袜子。"
     },
     {
       "name": "armored legwear",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/armored_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "装甲袜",
+      "confidence": "A",
+      "tag_cn_long": "带有装甲部件的腿袜。"
     },
     {
       "name": "bow legwear",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/bow_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶结袜",
+      "confidence": "A",
+      "tag_cn_long": "装饰有蝴蝶结的袜子。"
     },
     {
       "name": "cross-laced legwear",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/cross-laced_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉系带袜",
+      "confidence": "A",
+      "tag_cn_long": "带有交叉系带或丝带装饰的袜子。"
     },
     {
       "name": "fishnet leggings",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/fishnet_leggings",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渔网打底裤",
+      "confidence": "A",
+      "tag_cn_long": "由渔网状材料制成的紧身裤。"
     },
     {
       "name": "fishnet pantyhose",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/fishnet_pantyhose",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渔网连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "由渔网状材料制成的连裤袜。"
     },
     {
       "name": "fishnet socks",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/fishnet_socks",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渔网短袜",
+      "confidence": "A",
+      "tag_cn_long": "由渔网状材料制成的短袜。"
     },
     {
       "name": "fishnet thighhighs",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/fishnet_thighhighs",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渔网大腿袜",
+      "confidence": "A",
+      "tag_cn_long": "由渔网状材料制成的大腿袜。"
     },
     {
       "name": "fluffy legwear",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/fluffy_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛绒腿饰",
+      "confidence": "A",
+      "tag_cn_long": "带有毛绒质感的腿部穿戴，类似动物皮毛。"
     },
     {
       "name": "knit leg warmers",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/knit_leg_warmers",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "针织护腿",
+      "confidence": "A",
+      "tag_cn_long": "用针织工艺制成的护腿。"
     },
     {
       "name": "knit socks",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/knit_socks",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "针织袜",
+      "confidence": "A",
+      "tag_cn_long": "针织工艺制成的袜子。"
     },
     {
       "name": "knit thighhighs",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/knit_thighhighs",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "针织过膝袜",
+      "confidence": "A",
+      "tag_cn_long": "针织工艺制成的过膝长袜。"
     },
     {
       "name": "knit pantyhose",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/knit_pantyhose",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "针织连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "针织工艺制成的连裤袜。"
     },
     {
       "name": "lace pantyhose",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/lace_pantyhose",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "蕾丝制成的连裤袜。"
     },
     {
       "name": "lace socks",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/lace_socks",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝袜",
+      "confidence": "A",
+      "tag_cn_long": "蕾丝制成的袜子。"
     },
     {
       "name": "lace thighhighs",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/lace_thighhighs",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝过膝袜",
+      "confidence": "A",
+      "tag_cn_long": "全部由蕾丝制成的过膝长袜。"
     },
     {
       "name": "lace-up legwear",
@@ -500,9 +500,9 @@
       "wiki_url": "/wiki_pages/lace-up_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "系带腿饰",
+      "confidence": "B",
+      "tag_cn_long": "使用系带作为固定方式的腿部穿戴。"
     },
     {
       "name": "lace-trimmed leggings",
@@ -510,9 +510,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_leggings",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝边紧身裤",
+      "confidence": "A",
+      "tag_cn_long": "带有蕾丝花边装饰的紧身裤。"
     },
     {
       "name": "lace-trimmed leg warmers",
@@ -520,9 +520,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_leg_warmers",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝边护腿",
+      "confidence": "A",
+      "tag_cn_long": "带有蕾丝花边装饰的护腿。"
     },
     {
       "name": "lace-trimmed pantyhose",
@@ -530,9 +530,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_pantyhose",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝边连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "带有蕾丝花边装饰的连裤袜。"
     },
     {
       "name": "lace-trimmed socks",
@@ -540,9 +540,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_socks",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝边袜",
+      "confidence": "A",
+      "tag_cn_long": "带有蕾丝花边装饰的袜子。"
     },
     {
       "name": "lace-trimmed thighhighs",
@@ -550,9 +550,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_thighhighs",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝边过膝袜",
+      "confidence": "A",
+      "tag_cn_long": "袜口带有蕾丝花边装饰的过膝长袜。"
     },
     {
       "name": "latex legwear",
@@ -560,9 +560,9 @@
       "wiki_url": "/wiki_pages/latex_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳胶腿饰",
+      "confidence": "A",
+      "tag_cn_long": "由乳胶制成的腿部穿戴，通常呈现光泽感且多为黑色。"
     },
     {
       "name": "legwear bell",
@@ -570,9 +570,9 @@
       "wiki_url": "/wiki_pages/legwear_bell",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿饰铃铛",
+      "confidence": "B",
+      "tag_cn_long": "腿部穿戴上有铃铛装饰。"
     },
     {
       "name": "o-ring legwear",
@@ -580,9 +580,9 @@
       "wiki_url": "/wiki_pages/o-ring_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "O形环腿饰",
+      "confidence": "B",
+      "tag_cn_long": "带有O形环的腿部穿戴，或由O形环支撑的腿饰。"
     },
     {
       "name": "ribbed leg warmers",
@@ -590,9 +590,9 @@
       "wiki_url": "/wiki_pages/ribbed_leg_warmers",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗纹护腿",
+      "confidence": "A",
+      "tag_cn_long": "表面有罗纹纹理的护腿。"
     },
     {
       "name": "ribbed pantyhose",
@@ -600,9 +600,9 @@
       "wiki_url": "/wiki_pages/ribbed_pantyhose",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗纹连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "表面有罗纹纹理的连裤袜。"
     },
     {
       "name": "ribbed socks",
@@ -610,9 +610,9 @@
       "wiki_url": "/wiki_pages/ribbed_socks",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗纹袜",
+      "confidence": "A",
+      "tag_cn_long": "表面有罗纹纹理的袜子。"
     },
     {
       "name": "ribbed thighhighs",
@@ -620,9 +620,9 @@
       "wiki_url": "/wiki_pages/ribbed_thighhighs",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗纹过膝袜",
+      "confidence": "A",
+      "tag_cn_long": "表面有罗纹纹理的大腿袜或过膝袜。"
     },
     {
       "name": "seamed legwear",
@@ -630,9 +630,9 @@
       "wiki_url": "/wiki_pages/seamed_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "接缝腿袜",
+      "confidence": "B",
+      "tag_cn_long": "腿部有纵向接缝的袜子、裤袜等腿饰，包括后缝、前缝或侧缝。"
     },
     {
       "name": "back-seamed legwear",
@@ -640,9 +640,9 @@
       "wiki_url": "/wiki_pages/back-seamed_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "后缝腿袜",
+      "confidence": "A",
+      "tag_cn_long": "腿后侧有纵向接缝的腿饰。"
     },
     {
       "name": "front-seamed legwear",
@@ -650,9 +650,9 @@
       "wiki_url": "/wiki_pages/front-seamed_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前缝腿袜",
+      "confidence": "A",
+      "tag_cn_long": "腿前侧有纵向接缝的腿饰。"
     },
     {
       "name": "side-seamed legwear",
@@ -660,9 +660,9 @@
       "wiki_url": "/wiki_pages/side-seamed_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧缝腿袜",
+      "confidence": "A",
+      "tag_cn_long": "腿侧面有纵向接缝的腿饰。"
     },
     {
       "name": "see-through legwear",
@@ -670,9 +670,9 @@
       "wiki_url": "/wiki_pages/see-through_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透肉腿袜",
+      "confidence": "A",
+      "tag_cn_long": "非常透明、几乎能看见腿部皮肤的袜子或裤袜。"
     },
     {
       "name": "shiny legwear",
@@ -680,9 +680,9 @@
       "wiki_url": "/wiki_pages/shiny_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "亮面腿袜",
+      "confidence": "A",
+      "tag_cn_long": "具有光泽感、反光明显的腿饰。"
     },
     {
       "name": "side-tie legwear",
@@ -690,9 +690,9 @@
       "wiki_url": "/wiki_pages/side-tie_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧系带腿袜",
+      "confidence": "A",
+      "tag_cn_long": "侧面有系带或绑带装饰的腿饰。"
     },
     {
       "name": "spiked legwear",
@@ -700,9 +700,9 @@
       "wiki_url": "/wiki_pages/spiked_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖刺腿袜",
+      "confidence": "B",
+      "tag_cn_long": "带有尖锥形金属或塑料装饰的腿饰。"
     },
     {
       "name": "studded legwear",
@@ -710,9 +710,9 @@
       "wiki_url": "/wiki_pages/studded_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铆钉腿袜",
+      "confidence": "A",
+      "tag_cn_long": "镶嵌有铆钉装饰的腿饰。"
     },
     {
       "name": "toeless legwear",
@@ -720,9 +720,9 @@
       "wiki_url": "/wiki_pages/toeless_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露趾腿袜",
+      "confidence": "A",
+      "tag_cn_long": "覆盖足部但露出脚趾的袜子或裤袜。"
     },
     {
       "name": "bridal legwear",
@@ -730,9 +730,9 @@
       "wiki_url": "/wiki_pages/bridal_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新娘腿袜",
+      "confidence": "A",
+      "tag_cn_long": "类似新娘手套的腿饰，露脚跟和脚趾，末端有环套在第二或第三脚趾上。"
     },
     {
       "name": "stirrup legwear",
@@ -740,9 +740,9 @@
       "wiki_url": "/wiki_pages/stirrup_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "踩脚腿袜",
+      "confidence": "A",
+      "tag_cn_long": "脚底有踩脚带，露脚趾和脚跟的腿饰。"
     },
     {
       "name": "zipper legwear",
@@ -750,9 +750,9 @@
       "wiki_url": "/wiki_pages/zipper_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉链腿袜",
+      "confidence": "A",
+      "tag_cn_long": "带有拉链设计的腿饰。"
     },
     {
       "name": "fur-trimmed legwear",
@@ -760,9 +760,9 @@
       "wiki_url": "/wiki_pages/fur-trimmed_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛边腿袜",
+      "confidence": "A",
+      "tag_cn_long": "边缘镶有毛皮装饰的腿饰。"
     },
     {
       "name": "ribbon-trimmed legwear",
@@ -770,9 +770,9 @@
       "wiki_url": "/wiki_pages/ribbon-trimmed_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丝带腿袜",
+      "confidence": "B",
+      "tag_cn_long": "边缘饰有丝带的腿饰，通常使用更具体的标签。"
     },
     {
       "name": "adjusting legwear",
@@ -780,9 +780,9 @@
       "wiki_url": "/wiki_pages/adjusting_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "整理腿袜",
+      "confidence": "A",
+      "tag_cn_long": "描绘角色正在调整或整理腿饰的动作。"
     },
     {
       "name": "holding legwear",
@@ -790,9 +790,9 @@
       "wiki_url": "/wiki_pages/holding_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手持腿袜",
+      "confidence": "B",
+      "tag_cn_long": "角色手中拿着脱下的腿部衣物，如袜子或裤袜。"
     },
     {
       "name": "pulling off legwear",
@@ -800,9 +800,9 @@
       "wiki_url": "/wiki_pages/pulling_off_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脱腿袜",
+      "confidence": "A",
+      "tag_cn_long": "描绘角色正在脱下腿饰的动作。"
     },
     {
       "name": "putting on legwear",
@@ -810,9 +810,9 @@
       "wiki_url": "/wiki_pages/putting_on_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿腿袜",
+      "confidence": "A",
+      "tag_cn_long": "描绘角色正在穿上腿饰的动作。"
     },
     {
       "name": "removing pantyhose",
@@ -820,9 +820,9 @@
       "wiki_url": "/wiki_pages/removing_pantyhose",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脱裤袜",
+      "confidence": "A",
+      "tag_cn_long": "描绘角色正在脱下连裤袜的动作。"
     },
     {
       "name": "removing sock",
@@ -830,9 +830,9 @@
       "wiki_url": "/wiki_pages/removing_sock",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脱袜子",
+      "confidence": "A",
+      "tag_cn_long": "角色正在脱掉一只或两只袜子的动作。"
     },
     {
       "name": "removing thighhigh",
@@ -840,9 +840,9 @@
       "wiki_url": "/wiki_pages/removing_thighhigh",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脱过膝袜",
+      "confidence": "A",
+      "tag_cn_long": "角色正在脱掉过膝袜或及膝袜的动作。"
     },
     {
       "name": "alternate legwear",
@@ -850,9 +850,9 @@
       "wiki_url": "/wiki_pages/alternate_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非常规腿饰",
+      "confidence": "B",
+      "tag_cn_long": "角色穿着通常不会穿的腿部服饰，比如平时穿连裤袜的角色穿着过膝袜。"
     },
     {
       "name": "uneven legwear",
@@ -860,9 +860,9 @@
       "wiki_url": "/wiki_pages/uneven_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不等长腿饰",
+      "confidence": "A",
+      "tag_cn_long": "腿部服饰长度不一，如一只过膝袜搭配一只及膝袜。"
     },
     {
       "name": "dirty legwear",
@@ -870,9 +870,9 @@
       "wiki_url": "/wiki_pages/dirty_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脏腿饰",
+      "confidence": "A",
+      "tag_cn_long": "腿部服饰上有污渍或弄脏了。"
     },
     {
       "name": "in legwear",
@@ -880,9 +880,9 @@
       "wiki_url": "/wiki_pages/in_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "穿着腿饰",
+      "confidence": "B",
+      "tag_cn_long": "角色正穿着某种腿部服饰。"
     },
     {
       "name": "layered legwear",
@@ -890,9 +890,9 @@
       "wiki_url": "/wiki_pages/layered_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叠穿腿饰",
+      "confidence": "A",
+      "tag_cn_long": "两个或以上腿部服饰叠穿在一起，例如过膝袜套在连裤袜外面，袜子套在过膝袜外面等。"
     },
     {
       "name": "unworn legwear",
@@ -900,9 +900,9 @@
       "wiki_url": "/wiki_pages/unworn_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未穿着腿饰",
+      "confidence": "A",
+      "tag_cn_long": "未被穿着的腿部服饰，如脱下的袜子。"
     },
     {
       "name": "pantyhose under shorts",
@@ -910,9 +910,9 @@
       "wiki_url": "/wiki_pages/pantyhose_under_shorts",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短裤下连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "连裤袜穿在短裤下面。"
     },
     {
       "name": "mismatched legwear",
@@ -920,9 +920,9 @@
       "wiki_url": "/wiki_pages/mismatched_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "混搭腿饰",
+      "confidence": "A",
+      "tag_cn_long": "腿部服饰颜色或图案不同，例如一只是纯色一只是条纹。"
     },
     {
       "name": "missing legwear",
@@ -930,9 +930,9 @@
       "wiki_url": "/wiki_pages/missing_legwear",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缺少腿饰",
+      "confidence": "B",
+      "tag_cn_long": "角色腿部服饰不完整，例如只穿了一只袜子。"
     },
     {
       "name": "torn leggings",
@@ -940,9 +940,9 @@
       "wiki_url": "/wiki_pages/torn_leggings",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破洞打底裤",
+      "confidence": "A",
+      "tag_cn_long": "打底裤有撕裂或破损。"
     },
     {
       "name": "torn leg warmers",
@@ -950,9 +950,9 @@
       "wiki_url": "/wiki_pages/torn_leg_warmers",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破洞腿套",
+      "confidence": "A",
+      "tag_cn_long": "腿部保暖套有撕裂或破损。"
     },
     {
       "name": "torn pantyhose",
@@ -960,9 +960,9 @@
       "wiki_url": "/wiki_pages/torn_pantyhose",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破洞连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "连裤袜有撕裂或破损。"
     },
     {
       "name": "torn socks",
@@ -970,9 +970,9 @@
       "wiki_url": "/wiki_pages/torn_socks",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破洞袜子",
+      "confidence": "A",
+      "tag_cn_long": "袜子有撕裂或破损。"
     },
     {
       "name": "torn thighhighs",
@@ -980,9 +980,9 @@
       "wiki_url": "/wiki_pages/torn_thighhighs",
       "category_path": "Additional Detail tags",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破洞过膝袜",
+      "confidence": "A",
+      "tag_cn_long": "过膝袜有撕裂或破损。"
     },
     {
       "name": "thighband pantyhose",
@@ -990,9 +990,9 @@
       "wiki_url": "/wiki_pages/thighband_pantyhose",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿环连裤袜",
+      "confidence": "B",
+      "tag_cn_long": "带有类似大腿环条纹的连裤袜。"
     }
   ],
   "total_tags": 97,

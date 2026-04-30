@@ -42,9 +42,9 @@
       "wiki_url": "/wiki_pages/armpit_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腋下焦点",
+      "confidence": "A",
+      "tag_cn_long": "以角色腋下为主要焦点的特写构图。"
     },
     {
       "name": "ass focus",
@@ -52,9 +52,9 @@
       "wiki_url": "/wiki_pages/ass_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臀部焦点",
+      "confidence": "A",
+      "tag_cn_long": "臀部作为图像的主要焦点或特写。"
     },
     {
       "name": "back focus",
@@ -62,9 +62,9 @@
       "wiki_url": "/wiki_pages/back_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背部焦点",
+      "confidence": "A",
+      "tag_cn_long": "以角色背部为主要焦点的特写构图。"
     },
     {
       "name": "breast focus",
@@ -72,9 +72,9 @@
       "wiki_url": "/wiki_pages/breast_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸部焦点",
+      "confidence": "A",
+      "tag_cn_long": "以角色胸部为主要焦点的特写构图。"
     },
     {
       "name": "eye focus",
@@ -82,9 +82,9 @@
       "wiki_url": "/wiki_pages/eye_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼部焦点",
+      "confidence": "B",
+      "tag_cn_long": "画面重点聚焦于眼睛，或眼睛画得非常精细。"
     },
     {
       "name": "foot focus",
@@ -92,9 +92,9 @@
       "wiki_url": "/wiki_pages/foot_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "足部焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以角色的脚部为主要焦点，常为靠近镜头或呈现给观众。"
     },
     {
       "name": "hand focus",
@@ -102,9 +102,9 @@
       "wiki_url": "/wiki_pages/hand_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手部焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以角色的手部为主要焦点。"
     },
     {
       "name": "hip focus",
@@ -112,9 +112,9 @@
       "wiki_url": "/wiki_pages/hip_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臀部焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像中角色的臀部特别突出或作为主要焦点。"
     },
     {
       "name": "leg focus",
@@ -122,9 +122,9 @@
       "wiki_url": "/wiki_pages/leg_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿部焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以角色的腿部为主要焦点。"
     },
     {
       "name": "navel focus",
@@ -132,9 +132,9 @@
       "wiki_url": "/wiki_pages/navel_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肚脐焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像专注于肚脐、腹部、肚子或腹肌，常为特写。"
     },
     {
       "name": "pectoral focus",
@@ -142,9 +142,9 @@
       "wiki_url": "/wiki_pages/pectoral_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸肌焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以角色的胸肌为主要焦点，常为特写。"
     },
     {
       "name": "penis focus",
@@ -152,9 +152,9 @@
       "wiki_url": "/wiki_pages/penis_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎焦点",
+      "confidence": "B",
+      "tag_cn_long": "图像以角色的阴茎为主要焦点。"
     },
     {
       "name": "thigh focus",
@@ -162,9 +162,9 @@
       "wiki_url": "/wiki_pages/thigh_focus",
       "category_path": "Body parts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以角色的大腿为主要焦点。"
     },
     {
       "name": "male focus",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/male_focus",
       "category_path": "Gender",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男性焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像只含男性角色或突出强调男性角色。"
     },
     {
       "name": "other focus",
@@ -182,9 +182,9 @@
       "wiki_url": "/wiki_pages/other_focus",
       "category_path": "Gender",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "其他角色焦点",
+      "confidence": "B",
+      "tag_cn_long": "图像以无性别或性别模糊的人形角色为主要焦点。"
     },
     {
       "name": "animal focus",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/animal_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以一只或多只动物（非毛茸茸角色）为主题。"
     },
     {
       "name": "book focus",
@@ -202,9 +202,9 @@
       "wiki_url": "/wiki_pages/book_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "书籍焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以一本书或多本书为主要焦点，非常显眼。"
     },
     {
       "name": "clothes focus",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/clothes_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣物焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以角色的衣物为主要焦点。"
     },
     {
       "name": "cloud focus",
@@ -222,9 +222,9 @@
       "wiki_url": "/wiki_pages/cloud_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "云朵焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以云朵为主要焦点、主题或题材。"
     },
     {
       "name": "food focus",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/footwear_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鞋类焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以鞋子等足部穿戴物为主要焦点，包括未穿戴的鞋子。"
     },
     {
       "name": "object focus",
@@ -252,9 +252,9 @@
       "wiki_url": "/wiki_pages/object_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "物体焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以无生命物体（非武器、车辆或食物）为主要焦点。"
     },
     {
       "name": "text focus",
@@ -262,9 +262,9 @@
       "wiki_url": "/wiki_pages/text_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "文字焦点",
+      "confidence": "A",
+      "tag_cn_long": "该标签表示文字是图像的主要组成部分。"
     },
     {
       "name": "vehicle focus",
@@ -272,9 +272,9 @@
       "wiki_url": "/wiki_pages/vehicle_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交通工具焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以交通工具（如飞机、汽车、船等）为主要焦点。"
     },
     {
       "name": "weapon focus",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/weapon_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "武器焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以一件或多件武器为主要焦点。"
     },
     {
       "name": "wind chime focus",
@@ -292,9 +292,9 @@
       "wiki_url": "/wiki_pages/wind_chime_focus",
       "category_path": "Objects",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "风铃焦点",
+      "confidence": "A",
+      "tag_cn_long": "图像以风铃为主要焦点，非常显眼。"
     },
     {
       "name": "monster focus",
@@ -302,9 +302,9 @@
       "wiki_url": "/wiki_pages/monster_focus",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "怪物焦点",
+      "confidence": "A",
+      "tag_cn_long": "图片中以怪物为主要表现对象。"
     },
     {
       "name": "plant focus",
@@ -312,9 +312,9 @@
       "wiki_url": "/wiki_pages/plant_focus",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "植物焦点",
+      "confidence": "A",
+      "tag_cn_long": "图片中主要关注植物，可能没有人或其他元素。"
     },
     {
       "name": "solo focus",
@@ -322,9 +322,9 @@
       "wiki_url": "/wiki_pages/solo_focus",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单人聚焦",
+      "confidence": "A",
+      "tag_cn_long": "图片中有多个角色，但只聚焦于其中一人，其他角色不显眼或只是背景。"
     },
     {
       "name": "text focus",
@@ -332,9 +332,9 @@
       "wiki_url": "/wiki_pages/text_focus",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "文字焦点",
+      "confidence": "A",
+      "tag_cn_long": "该标签表示文字是图像的主要组成部分。"
     },
     {
       "name": "soft focus",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/soft_focus",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "柔焦",
+      "confidence": "A",
+      "tag_cn_long": "模拟摄影中的柔焦效果，画面边缘模糊而焦点清晰。"
     }
   ],
   "total_tags": 31,

@@ -1,0 +1,6 @@
+{
+  "tag": "Out of frame",
+  "tag_cn": "部分出框",
+  "confidence": "A",
+  "tag_cn_long": "角色或其他元素只有部分可见，其余被画面边缘裁切。"
+}

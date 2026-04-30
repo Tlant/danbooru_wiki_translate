@@ -1,0 +1,6 @@
+{
+  "tag": "Lossy-lossless",
+  "tag_cn": "有损转无损",
+  "confidence": "B",
+  "tag_cn_long": "将原本有损格式（如JPEG）的图像转换为无损格式（如PNG），通常保留JPEG伪影。"
+}

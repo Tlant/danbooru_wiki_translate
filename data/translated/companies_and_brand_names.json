@@ -102,9 +102,9 @@
       "wiki_url": "/wiki_pages/adidas",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿迪达斯",
+      "confidence": "A",
+      "tag_cn_long": "德国运动服装品牌，以其三条平行条纹标志闻名。"
     },
     {
       "name": "ASICS",
@@ -112,9 +112,9 @@
       "wiki_url": "/wiki_pages/asics",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "亚瑟士",
+      "confidence": "A",
+      "tag_cn_long": "日本运动装备品牌。"
     },
     {
       "name": "Chanel",
@@ -122,9 +122,9 @@
       "wiki_url": "/wiki_pages/chanel",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "香奈儿",
+      "confidence": "A",
+      "tag_cn_long": "法国奢侈时尚品牌，标志为双C交织。"
     },
     {
       "name": "Citizen",
@@ -132,9 +132,9 @@
       "wiki_url": "/wiki_pages/citizen_%28brand%29",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西铁城",
+      "confidence": "A",
+      "tag_cn_long": "日本手表品牌。"
     },
     {
       "name": "Converse",
@@ -152,9 +152,9 @@
       "wiki_url": "/wiki_pages/dior",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迪奥",
+      "confidence": "A",
+      "tag_cn_long": "法国奢侈时尚品牌。"
     },
     {
       "name": "Doc Martens",
@@ -162,9 +162,9 @@
       "wiki_url": "/wiki_pages/doc_martens",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马丁靴",
+      "confidence": "B",
+      "tag_cn_long": "英国时尚鞋履品牌，以黄色缝线靴子闻名。"
     },
     {
       "name": "Gucci",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/gucci",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "古驰",
+      "confidence": "A",
+      "tag_cn_long": "意大利奢侈时尚品牌。"
     },
     {
       "name": "H&amp;M",
@@ -182,9 +182,9 @@
       "wiki_url": "/wiki_pages/h%26m",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "H&M",
+      "confidence": "A",
+      "tag_cn_long": "瑞典快时尚服装品牌。"
     },
     {
       "name": "Juicy Couture",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/juicy_couture",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橘滋",
+      "confidence": "A",
+      "tag_cn_long": "美国时尚品牌，以丝绒运动服和“JUICY”字样闻名。"
     },
     {
       "name": "Levi's",
@@ -202,9 +202,9 @@
       "wiki_url": "/wiki_pages/levi%27s",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "李维斯",
+      "confidence": "A",
+      "tag_cn_long": "美国牛仔裤品牌。"
     },
     {
       "name": "Mezzo Piano",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/mezzo_piano",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梅佐皮亚诺",
+      "confidence": "C",
+      "tag_cn_long": "已停产的日本儿童服装品牌，吉祥物为Berrie。"
     },
     {
       "name": "New Balance",
@@ -222,9 +222,9 @@
       "wiki_url": "/wiki_pages/new_balance",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新百伦",
+      "confidence": "A",
+      "tag_cn_long": "美国运动鞋服品牌，标志为大写字母N。"
     },
     {
       "name": "Nike",
@@ -232,9 +232,9 @@
       "wiki_url": "/wiki_pages/nike_%28company%29",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耐克",
+      "confidence": "A",
+      "tag_cn_long": "美国运动品牌，以勾形Logo闻名。"
     },
     {
       "name": "Air Jordan",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/air_jordan",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "空中飞人",
+      "confidence": "A",
+      "tag_cn_long": "耐克旗下的运动鞋及服装品牌，源于迈克尔·乔丹。"
     },
     {
       "name": "Puma",
@@ -252,9 +252,9 @@
       "wiki_url": "/wiki_pages/puma_%28brand%29",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彪马",
+      "confidence": "A",
+      "tag_cn_long": "德国运动服装和鞋类品牌，以美洲狮Logo著称。"
     },
     {
       "name": "Ray-Ban",
@@ -262,9 +262,9 @@
       "wiki_url": "/wiki_pages/ray-ban",
       "category_path": "Clothing and Accessories",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雷朋",
+      "confidence": "A",
+      "tag_cn_long": "美国太阳镜和眼镜品牌，以飞行员款和徒步旅行者款闻名。"
     },
     {
       "name": "Reebok",
@@ -272,9 +272,9 @@
       "wiki_url": "/wiki_pages/reebok",
       "category_path": "Clothing and Accessories",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锐步",
+      "confidence": "A",
+      "tag_cn_long": "英国运动鞋和服装品牌，现为阿迪达斯旗下。"
     },
     {
       "name": "Speedo",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/speedo_%28company%29",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "速比涛",
+      "confidence": "A",
+      "tag_cn_long": "澳大利亚游泳装备品牌，以泳衣和泳镜著称。"
     },
     {
       "name": "The North Face",
@@ -292,9 +292,9 @@
       "wiki_url": "/wiki_pages/the_north_face",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "北面",
+      "confidence": "A",
+      "tag_cn_long": "美国户外运动服装和装备品牌，标识为半月形图案。"
     },
     {
       "name": "Tommy Hilfiger",
@@ -302,9 +302,9 @@
       "wiki_url": "/wiki_pages/tommy_hilfiger",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "汤米·希尔费格",
+      "confidence": "A",
+      "tag_cn_long": "美国服装品牌，以蓝白红条纹Logo闻名。"
     },
     {
       "name": "Uniqlo",
@@ -312,9 +312,9 @@
       "wiki_url": "/wiki_pages/uniqlo",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "优衣库",
+      "confidence": "A",
+      "tag_cn_long": "日本休闲服装品牌，以基本款和联名设计著称。"
     },
     {
       "name": "Vans",
@@ -322,9 +322,9 @@
       "wiki_url": "/wiki_pages/vans",
       "category_path": "Clothing and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "范斯",
+      "confidence": "A",
+      "tag_cn_long": "美国滑板鞋和运动鞋品牌，以棋盘格图案闻名。"
     },
     {
       "name": "Victoria's Secret",
@@ -332,9 +332,9 @@
       "wiki_url": "/wiki_pages/victoria%27s_secret",
       "category_path": "Clothing and Accessories",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "维多利亚的秘密",
+      "confidence": "A",
+      "tag_cn_long": "美国内衣和美容产品品牌，以时尚秀闻名。"
     },
     {
       "name": "Alfa Romeo",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/alfa_romeo",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿尔法·罗密欧",
+      "confidence": "A",
+      "tag_cn_long": "意大利豪华汽车制造商，以运动型轿车和跑车著称。"
     },
     {
       "name": "Aston Martin",
@@ -352,9 +352,9 @@
       "wiki_url": "/wiki_pages/aston_martin",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿斯顿·马丁",
+      "confidence": "A",
+      "tag_cn_long": "英国豪华跑车制造商，与詹姆斯·邦德系列关联密切。"
     },
     {
       "name": "Audi",
@@ -362,9 +362,9 @@
       "wiki_url": "/wiki_pages/audi",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥迪",
+      "confidence": "A",
+      "tag_cn_long": "德国汽车制造商，以四环Logo和豪华车型闻名。"
     },
     {
       "name": "Bentley",
@@ -372,9 +372,9 @@
       "wiki_url": "/wiki_pages/bentley",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宾利",
+      "confidence": "A",
+      "tag_cn_long": "英国豪华汽车品牌，以超豪华轿车和SUV著称。"
     },
     {
       "name": "BMW",
@@ -382,9 +382,9 @@
       "wiki_url": "/wiki_pages/bmw",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宝马",
+      "confidence": "A",
+      "tag_cn_long": "德国汽车和摩托车制造商，以蓝天白云Logo和驾驶乐趣著称。"
     },
     {
       "name": "Bugatti",
@@ -392,9 +392,9 @@
       "wiki_url": "/wiki_pages/bugatti",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布加迪",
+      "confidence": "A",
+      "tag_cn_long": "法国超级跑车制造商，以极速和奢华著称。"
     },
     {
       "name": "Buick",
@@ -402,9 +402,9 @@
       "wiki_url": "/wiki_pages/buick",
       "category_path": "Automotive",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "别克",
+      "confidence": "A",
+      "tag_cn_long": "美国汽车品牌，通用汽车旗下，以中高端轿车和SUV闻名。"
     },
     {
       "name": "Cadillac",
@@ -412,9 +412,9 @@
       "wiki_url": "/wiki_pages/cadillac",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凯迪拉克",
+      "confidence": "A",
+      "tag_cn_long": "美国豪华汽车品牌，通用汽车旗下，以大型轿车和SUV著称。"
     },
     {
       "name": "Chevrolet",
@@ -422,9 +422,9 @@
       "wiki_url": "/wiki_pages/chevrolet",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪佛兰",
+      "confidence": "A",
+      "tag_cn_long": "美国汽车品牌，通用汽车旗下，以经典肌肉车和广泛车型闻名。"
     },
     {
       "name": "Chrysler",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/chrysler",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "克莱斯勒",
+      "confidence": "A",
+      "tag_cn_long": "美国汽车制造商，以豪华和高性能汽车闻名。"
     },
     {
       "name": "Citroen",
@@ -442,9 +442,9 @@
       "wiki_url": "/wiki_pages/citroen",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪铁龙",
+      "confidence": "A",
+      "tag_cn_long": "法国汽车制造商。"
     },
     {
       "name": "Daihatsu",
@@ -452,9 +452,9 @@
       "wiki_url": "/wiki_pages/daihatsu",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大发",
+      "confidence": "A",
+      "tag_cn_long": "日本汽车制造商，以微型车和紧凑型车著称。"
     },
     {
       "name": "Delorean",
@@ -462,9 +462,9 @@
       "wiki_url": "/wiki_pages/delorean",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德罗宁",
+      "confidence": "A",
+      "tag_cn_long": "美国跑车品牌，因《回到未来》中的时间机器而闻名。"
     },
     {
       "name": "Dodge",
@@ -472,9 +472,9 @@
       "wiki_url": "/wiki_pages/dodge_%28company%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "道奇",
+      "confidence": "A",
+      "tag_cn_long": "美国汽车品牌，以肌肉车和卡车著称。"
     },
     {
       "name": "Ducati",
@@ -482,9 +482,9 @@
       "wiki_url": "/wiki_pages/ducati",
       "category_path": "Automotive",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "杜卡迪",
+      "confidence": "A",
+      "tag_cn_long": "意大利摩托车制造商。"
     },
     {
       "name": "Ferrari",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/ferrari",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法拉利",
+      "confidence": "A",
+      "tag_cn_long": "意大利超级跑车制造商，以F1赛车和豪华性能车闻名。"
     },
     {
       "name": "Fiat",
@@ -502,9 +502,9 @@
       "wiki_url": "/wiki_pages/fiat",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菲亚特",
+      "confidence": "A",
+      "tag_cn_long": "意大利汽车制造商，生产轿车、飞机和军用车辆。"
     },
     {
       "name": "Ford",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/ford",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福特",
+      "confidence": "A",
+      "tag_cn_long": "美国汽车制造商，旗下拥有林肯等品牌。"
     },
     {
       "name": "Holden",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/holden",
       "category_path": "Automotive",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "霍顿",
+      "confidence": "A",
+      "tag_cn_long": "澳大利亚汽车制造商。"
     },
     {
       "name": "Honda",
@@ -532,9 +532,9 @@
       "wiki_url": "/wiki_pages/honda",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "本田",
+      "confidence": "A",
+      "tag_cn_long": "日本汽车和摩托车制造商，也生产发动机和机器人。"
     },
     {
       "name": "Hummer",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/hummer",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "悍马",
+      "confidence": "A",
+      "tag_cn_long": "美国越野车品牌，以大型SUV和低燃油效率著称。"
     },
     {
       "name": "Indian",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/indian_%28motorcycle%29",
       "category_path": "Automotive",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印第安",
+      "confidence": "A",
+      "tag_cn_long": "美国摩托车品牌。"
     },
     {
       "name": "Isuzu Motors",
@@ -562,9 +562,9 @@
       "wiki_url": "/wiki_pages/isuzu_motors",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五十铃汽车",
+      "confidence": "A",
+      "tag_cn_long": "日本汽车制造商，以柴油发动机和卡车闻名。"
     },
     {
       "name": "Jaguar",
@@ -572,9 +572,9 @@
       "wiki_url": "/wiki_pages/jaguar_%28car%29",
       "category_path": "Automotive",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捷豹",
+      "confidence": "A",
+      "tag_cn_long": "英国豪华汽车制造商。"
     },
     {
       "name": "Jeep",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/jeep_%28company%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉普",
+      "confidence": "A",
+      "tag_cn_long": "美国越野车品牌，以七孔进气格栅和军用用途闻名。"
     },
     {
       "name": "Kawasaki",
@@ -592,9 +592,9 @@
       "wiki_url": "/wiki_pages/kawasaki_%28company%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "川崎",
+      "confidence": "A",
+      "tag_cn_long": "日本摩托车和重工制造商。"
     },
     {
       "name": "Lamborghini",
@@ -602,9 +602,9 @@
       "wiki_url": "/wiki_pages/lamborghini",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兰博基尼",
+      "confidence": "A",
+      "tag_cn_long": "意大利超级跑车制造商，以V12发动机和激进设计闻名。"
     },
     {
       "name": "Lada (car)",
@@ -612,9 +612,9 @@
       "wiki_url": "/wiki_pages/lada_%28car%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉达",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯汽车品牌。"
     },
     {
       "name": "Lancia (brand)",
@@ -622,9 +622,9 @@
       "wiki_url": "/wiki_pages/lancia_%28brand%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝旗亚",
+      "confidence": "A",
+      "tag_cn_long": "意大利汽车制造商，以拉力赛车著称。"
     },
     {
       "name": "Land Rover",
@@ -632,9 +632,9 @@
       "wiki_url": "/wiki_pages/land_rover_%28company%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "路虎",
+      "confidence": "A",
+      "tag_cn_long": "英国豪华SUV汽车品牌。"
     },
     {
       "name": "Lotus",
@@ -642,9 +642,9 @@
       "wiki_url": "/wiki_pages/lotus_%28brand%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莲花",
+      "confidence": "C",
+      "tag_cn_long": "一种水生植物，花瓣粉白，花心有盘状种子结构。"
     },
     {
       "name": "Maserati",
@@ -652,9 +652,9 @@
       "wiki_url": "/wiki_pages/maserati",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玛莎拉蒂",
+      "confidence": "A",
+      "tag_cn_long": "意大利豪华汽车制造商。"
     },
     {
       "name": "Mazda",
@@ -662,9 +662,9 @@
       "wiki_url": "/wiki_pages/mazda",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马自达",
+      "confidence": "A",
+      "tag_cn_long": "日本汽车制造商，以转子发动机闻名。"
     },
     {
       "name": "Mclaren",
@@ -672,9 +672,9 @@
       "wiki_url": "/wiki_pages/mclaren",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迈凯伦",
+      "confidence": "A",
+      "tag_cn_long": "英国超级跑车制造商。"
     },
     {
       "name": "Mercedes-Benz",
@@ -682,9 +682,9 @@
       "wiki_url": "/wiki_pages/mercedes-benz",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梅赛德斯-奔驰",
+      "confidence": "A",
+      "tag_cn_long": "德国豪华汽车品牌。"
     },
     {
       "name": "Michelin",
@@ -692,9 +692,9 @@
       "wiki_url": "/wiki_pages/michelin",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "米其林",
+      "confidence": "A",
+      "tag_cn_long": "法国轮胎制造商，以米其林轮胎人和美食指南闻名。"
     },
     {
       "name": "Mini Cooper",
@@ -702,9 +702,9 @@
       "wiki_url": "/wiki_pages/mini_cooper",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷你库珀",
+      "confidence": "A",
+      "tag_cn_long": "英国小型车品牌，源自经典Mini的高性能版本。"
     },
     {
       "name": "Mitsubishi",
@@ -712,9 +712,9 @@
       "wiki_url": "/wiki_pages/mitsubishi_motors",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三菱",
+      "confidence": "A",
+      "tag_cn_long": "日本大型企业集团，涵盖汽车等多个领域。"
     },
     {
       "name": "Nissan",
@@ -722,9 +722,9 @@
       "wiki_url": "/wiki_pages/nissan",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日产",
+      "confidence": "A",
+      "tag_cn_long": "日本汽车制造商，旗下有日产GT-R等车型。"
     },
     {
       "name": "Opel",
@@ -732,9 +732,9 @@
       "wiki_url": "/wiki_pages/opel_%28company%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "欧宝",
+      "confidence": "A",
+      "tag_cn_long": "德国汽车品牌，现属Stellantis集团。"
     },
     {
       "name": "Pagani",
@@ -742,9 +742,9 @@
       "wiki_url": "/wiki_pages/pagani",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帕加尼",
+      "confidence": "A",
+      "tag_cn_long": "意大利超级跑车制造商，以手工打造闻名。"
     },
     {
       "name": "Peugeot",
@@ -752,9 +752,9 @@
       "wiki_url": "/wiki_pages/peugeot",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "标致",
+      "confidence": "A",
+      "tag_cn_long": "法国汽车制造商，标致狮标。"
     },
     {
       "name": "Plymouth",
@@ -762,9 +762,9 @@
       "wiki_url": "/wiki_pages/plymouth_%28brand%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "普利茅斯",
+      "confidence": "A",
+      "tag_cn_long": "已停产的美国汽车品牌，曾属通用汽车。"
     },
     {
       "name": "Polestar",
@@ -772,9 +772,9 @@
       "wiki_url": "/wiki_pages/polestar_%28company%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "极星",
+      "confidence": "A",
+      "tag_cn_long": "瑞典电动车品牌，原为沃尔沃高性能部门。"
     },
     {
       "name": "Pontiac",
@@ -782,9 +782,9 @@
       "wiki_url": "/wiki_pages/pontiac",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "庞蒂克",
+      "confidence": "A",
+      "tag_cn_long": "已停产的美国汽车品牌，曾属通用汽车。"
     },
     {
       "name": "Porsche",
@@ -792,9 +792,9 @@
       "wiki_url": "/wiki_pages/porsche",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "保时捷",
+      "confidence": "A",
+      "tag_cn_long": "德国跑车制造商，以911闻名。"
     },
     {
       "name": "Renault",
@@ -802,9 +802,9 @@
       "wiki_url": "/wiki_pages/renault",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雷诺",
+      "confidence": "A",
+      "tag_cn_long": "法国汽车制造商，以小型车闻名。"
     },
     {
       "name": "Rolls-Royce",
@@ -812,9 +812,9 @@
       "wiki_url": "/wiki_pages/rolls-royce",
       "category_path": "Automotive",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "劳斯莱斯",
+      "confidence": "A",
+      "tag_cn_long": "英国超豪华汽车品牌。"
     },
     {
       "name": "Subaru",
@@ -822,9 +822,9 @@
       "wiki_url": "/wiki_pages/subaru_%28brand%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斯巴鲁",
+      "confidence": "A",
+      "tag_cn_long": "日本汽车制造商，以水平对置发动机和全轮驱动闻名。"
     },
     {
       "name": "Suzuki",
@@ -832,9 +832,9 @@
       "wiki_url": "/wiki_pages/suzuki_%28company%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铃木",
+      "confidence": "A",
+      "tag_cn_long": "日本汽车与摩托车制造商，亦为常见姓氏。"
     },
     {
       "name": "Tesla, Inc.",
@@ -842,9 +842,9 @@
       "wiki_url": "/wiki_pages/tesla_%28company%29",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "特斯拉",
+      "confidence": "A",
+      "tag_cn_long": "美国电动汽车及清洁能源公司。"
     },
     {
       "name": "Trabant",
@@ -852,9 +852,9 @@
       "wiki_url": "/wiki_pages/trabant",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "特拉贝特",
+      "confidence": "B",
+      "tag_cn_long": "东德生产的小型汽车品牌，以塑料车身和可靠性差著称。"
     },
     {
       "name": "Triumph (motorcycle)",
@@ -862,9 +862,9 @@
       "wiki_url": "/wiki_pages/triumph_%28motorcycle%29",
       "category_path": "Automotive",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凯旋",
+      "confidence": "A",
+      "tag_cn_long": "英国著名摩托车制造商。"
     },
     {
       "name": "Toyota",
@@ -872,9 +872,9 @@
       "wiki_url": "/wiki_pages/toyota",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丰田",
+      "confidence": "A",
+      "tag_cn_long": "日本最大汽车制造商，产品涵盖从小型车到卡车。"
     },
     {
       "name": "Lexus",
@@ -882,9 +882,9 @@
       "wiki_url": "/wiki_pages/lexus",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雷克萨斯",
+      "confidence": "A",
+      "tag_cn_long": "丰田旗下的豪华汽车品牌。"
     },
     {
       "name": "Vespa",
@@ -892,9 +892,9 @@
       "wiki_url": "/wiki_pages/vespa",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伟士牌",
+      "confidence": "A",
+      "tag_cn_long": "意大利流行的踏板摩托车品牌。"
     },
     {
       "name": "Volkswagen",
@@ -902,9 +902,9 @@
       "wiki_url": "/wiki_pages/volkswagen",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大众",
+      "confidence": "A",
+      "tag_cn_long": "德国汽车制造巨头，旗下拥有多个知名品牌。"
     },
     {
       "name": "Yamaha",
@@ -912,9 +912,9 @@
       "wiki_url": "/wiki_pages/yamaha",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雅马哈",
+      "confidence": "A",
+      "tag_cn_long": "日本综合性企业，生产乐器、摩托车、音响等多种产品。"
     },
     {
       "name": "Zastava Automobiles",
@@ -922,9 +922,9 @@
       "wiki_url": "/wiki_pages/zastava_automobiles",
       "category_path": "Automotive",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扎斯塔瓦",
+      "confidence": "B",
+      "tag_cn_long": "前南斯拉夫（现塞尔维亚）汽车制造商，曾与菲亚特合作生产衍生车型。"
     },
     {
       "name": "AMD",
@@ -932,9 +932,9 @@
       "wiki_url": "/wiki_pages/amd",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "AMD",
+      "confidence": "A",
+      "tag_cn_long": "美国半导体公司，主要生产CPU和GPU，是英特尔的主要竞争对手。"
     },
     {
       "name": "Apple Inc.",
@@ -942,9 +942,9 @@
       "wiki_url": "/wiki_pages/apple_inc.",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苹果",
+      "confidence": "A",
+      "tag_cn_long": "美国科技公司，以iPhone、Mac等消费电子产品闻名。"
     },
     {
       "name": "Beats by Dr. Dre",
@@ -952,9 +952,9 @@
       "wiki_url": "/wiki_pages/beats_by_dr._dre",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Beats",
+      "confidence": "B",
+      "tag_cn_long": "耳机及音频设备品牌，以时尚设计和重低音著称。"
     },
     {
       "name": "Asus",
@@ -962,9 +962,9 @@
       "wiki_url": "/wiki_pages/asus",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "华硕",
+      "confidence": "A",
+      "tag_cn_long": "台湾电脑硬件及电子产品制造商。"
     },
     {
       "name": "Axent Wear",
@@ -972,9 +972,9 @@
       "wiki_url": "/wiki_pages/axent_wear",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Axent Wear",
+      "confidence": "C",
+      "tag_cn_long": "猫耳耳机品牌，耳机内置扬声器，由画师Yuumei设计。"
     },
     {
       "name": "Blackberry",
@@ -982,9 +982,9 @@
       "wiki_url": "/wiki_pages/blackberry_ltd",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑莓",
+      "confidence": "A",
+      "tag_cn_long": "加拿大通信公司，以物理键盘智能手机闻名。"
     },
     {
       "name": "Bose",
@@ -992,9 +992,9 @@
       "wiki_url": "/wiki_pages/bose",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "博士",
+      "confidence": "B",
+      "tag_cn_long": "美国音频设备制造商，以扬声器和降噪耳机闻名。"
     },
     {
       "name": "Canon",
@@ -1002,9 +1002,9 @@
       "wiki_url": "/wiki_pages/canon_%28company%29",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佳能",
+      "confidence": "A",
+      "tag_cn_long": "日本光学及影像设备制造商，以相机和打印机著称。"
     },
     {
       "name": "Dell",
@@ -1012,9 +1012,9 @@
       "wiki_url": "/wiki_pages/dell",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戴尔",
+      "confidence": "A",
+      "tag_cn_long": "美国电脑硬件公司，以直销模式和定制PC闻名。"
     },
     {
       "name": "Dyson",
@@ -1022,9 +1022,9 @@
       "wiki_url": "/wiki_pages/dyson_%28company%29",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戴森",
+      "confidence": "A",
+      "tag_cn_long": "英国科技公司，以无绳吸尘器和吹风机等创新家电闻名。"
     },
     {
       "name": "Elgato",
@@ -1032,9 +1032,9 @@
       "wiki_url": "/wiki_pages/elgato_%28company%29",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "埃尔加托",
+      "confidence": "B",
+      "tag_cn_long": "德国电子产品品牌，以视频采集卡和麦克风闻名。"
     },
     {
       "name": "Epson",
@@ -1042,9 +1042,9 @@
       "wiki_url": "/wiki_pages/epson",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱普生",
+      "confidence": "A",
+      "tag_cn_long": "日本科技公司，以打印机和投影仪闻名。"
     },
     {
       "name": "Google",
@@ -1052,9 +1052,9 @@
       "wiki_url": "/wiki_pages/google",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "谷歌",
+      "confidence": "A",
+      "tag_cn_long": "美国科技公司，主要提供互联网搜索服务。"
     },
     {
       "name": "Facebook",
@@ -1062,9 +1062,9 @@
       "wiki_url": "/wiki_pages/facebook",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸书",
+      "confidence": "A",
+      "tag_cn_long": "美国社交网络平台，由马克·扎克伯格创立。"
     },
     {
       "name": "HTC",
@@ -1072,9 +1072,9 @@
       "wiki_url": "/wiki_pages/htc_corporation",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宏达电",
+      "confidence": "B",
+      "tag_cn_long": "台湾智能手机和电子产品制造商。"
     },
     {
       "name": "Huawei",
@@ -1082,9 +1082,9 @@
       "wiki_url": "/wiki_pages/huawei",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "华为",
+      "confidence": "A",
+      "tag_cn_long": "中国科技公司，全球领先的通信设备和智能手机制造商。"
     },
     {
       "name": "Intel",
@@ -1092,9 +1092,9 @@
       "wiki_url": "/wiki_pages/intel",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "英特尔",
+      "confidence": "A",
+      "tag_cn_long": "美国半导体公司，主要生产微处理器。"
     },
     {
       "name": "JVC",
@@ -1102,9 +1102,9 @@
       "wiki_url": "/wiki_pages/jvc",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "JVC",
+      "confidence": "A",
+      "tag_cn_long": "日本电子公司，以VHS录像机和音频设备闻名。"
     },
     {
       "name": "Koss",
@@ -1112,9 +1112,9 @@
       "wiki_url": "/wiki_pages/koss",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高斯",
+      "confidence": "B",
+      "tag_cn_long": "美国耳机品牌，以高保真耳机著称。"
     },
     {
       "name": "LG Electronics",
@@ -1122,9 +1122,9 @@
       "wiki_url": "/wiki_pages/lg_electronics",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "LG电子",
+      "confidence": "A",
+      "tag_cn_long": "韩国电子公司，涵盖家电、手机等产品。"
     },
     {
       "name": "Microsoft",
@@ -1132,9 +1132,9 @@
       "wiki_url": "/wiki_pages/microsoft",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "微软",
+      "confidence": "A",
+      "tag_cn_long": "美国科技公司，以Windows操作系统和Office办公软件闻名。"
     },
     {
       "name": "Nikon",
@@ -1142,9 +1142,9 @@
       "wiki_url": "/wiki_pages/nikon_%28company%29",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尼康",
+      "confidence": "A",
+      "tag_cn_long": "日本相机制造商和光学产品公司。"
     },
     {
       "name": "Nokia",
@@ -1152,9 +1152,9 @@
       "wiki_url": "/wiki_pages/nokia_%28company%29",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "诺基亚",
+      "confidence": "A",
+      "tag_cn_long": "芬兰通信公司，曾是世界领先的手机制造商。"
     },
     {
       "name": "Nvidia",
@@ -1162,9 +1162,9 @@
       "wiki_url": "/wiki_pages/nvidia",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "英伟达",
+      "confidence": "A",
+      "tag_cn_long": "美国图形处理器（GPU）制造商，以GeForce系列闻名。"
     },
     {
       "name": "Olympus",
@@ -1172,9 +1172,9 @@
       "wiki_url": "/wiki_pages/olympus_%28company%29",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥林巴斯",
+      "confidence": "A",
+      "tag_cn_long": "日本光学仪器制造商，以相机和医疗设备闻名。"
     },
     {
       "name": "Pentax",
@@ -1182,9 +1182,9 @@
       "wiki_url": "/wiki_pages/pentax",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宾得",
+      "confidence": "A",
+      "tag_cn_long": "日本相机制造商，现属理光。"
     },
     {
       "name": "Panasonic",
@@ -1192,9 +1192,9 @@
       "wiki_url": "/wiki_pages/panasonic_corporation",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "松下",
+      "confidence": "A",
+      "tag_cn_long": "日本电子公司，产品覆盖家电、数码等。"
     },
     {
       "name": "Philips",
@@ -1202,9 +1202,9 @@
       "wiki_url": "/wiki_pages/philips_%28brand%29",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞利浦",
+      "confidence": "A",
+      "tag_cn_long": "荷兰电子公司，产品涵盖照明、医疗等。"
     },
     {
       "name": "Pioneer",
@@ -1212,9 +1212,9 @@
       "wiki_url": "/wiki_pages/pioneer_corporation",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "先锋",
+      "confidence": "A",
+      "tag_cn_long": "日本电子公司，以音响和汽车电子闻名。"
     },
     {
       "name": "Samsung",
@@ -1222,9 +1222,9 @@
       "wiki_url": "/wiki_pages/samsung",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三星",
+      "confidence": "A",
+      "tag_cn_long": "韩国电子公司，产品包括手机、电视等。"
     },
     {
       "name": "Sennheiser",
@@ -1232,9 +1232,9 @@
       "wiki_url": "/wiki_pages/sennheiser",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "森海塞尔",
+      "confidence": "A",
+      "tag_cn_long": "德国音频电子制造商，以耳机和麦克风闻名。"
     },
     {
       "name": "Sharp Corporation",
@@ -1242,9 +1242,9 @@
       "wiki_url": "/wiki_pages/sharp_corporation",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夏普",
+      "confidence": "A",
+      "tag_cn_long": "日本电子制造商，总部在大阪堺市。"
     },
     {
       "name": "Sony",
@@ -1252,9 +1252,9 @@
       "wiki_url": "/wiki_pages/sony",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "索尼",
+      "confidence": "A",
+      "tag_cn_long": "日本跨国电子及娱乐公司，旗下有PlayStation等品牌。"
     },
     {
       "name": "Toshiba",
@@ -1262,9 +1262,9 @@
       "wiki_url": "/wiki_pages/toshiba",
       "category_path": "Electronics and Technology",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东芝",
+      "confidence": "A",
+      "tag_cn_long": "日本电子制造商，曾涉足半导体、家电等领域。"
     },
     {
       "name": "Wacom",
@@ -1272,9 +1272,9 @@
       "wiki_url": "/wiki_pages/wacom",
       "category_path": "Electronics and Technology",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和冠",
+      "confidence": "A",
+      "tag_cn_long": "日本数位板制造商，以绘图板技术著称。"
     },
     {
       "name": "20th Century Studios",
@@ -1282,9 +1282,9 @@
       "wiki_url": "/wiki_pages/20th_century_studios",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "20世纪影业",
+      "confidence": "A",
+      "tag_cn_long": "美国电影制片厂，出品《星球大战》《X战警》等系列。"
     },
     {
       "name": "AbemaTV",
@@ -1292,9 +1292,9 @@
       "wiki_url": "/wiki_pages/abematv",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "AbemaTV",
+      "confidence": "A",
+      "tag_cn_long": "日本免费广告支持的流媒体电视服务。"
     },
     {
       "name": "Adult Swim",
@@ -1302,9 +1302,9 @@
       "wiki_url": "/wiki_pages/adult_swim",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Adult Swim",
+      "confidence": "A",
+      "tag_cn_long": "美国卡通网络的夜间成人动画节目板块。"
     },
     {
       "name": "BBC",
@@ -1312,9 +1312,9 @@
       "wiki_url": "/wiki_pages/bbc_%28broadcaster%29",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "英国广播公司",
+      "confidence": "A",
+      "tag_cn_long": "英国广播公司，主要新闻和媒体机构。"
     },
     {
       "name": "Bilibili",
@@ -1322,9 +1322,9 @@
       "wiki_url": "/wiki_pages/bilibili",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哔哩哔哩",
+      "confidence": "A",
+      "tag_cn_long": "中国视频弹幕网站，以二次元文化著称。"
     },
     {
       "name": "Bushiroad",
@@ -1332,9 +1332,9 @@
       "wiki_url": "/wiki_pages/bushiroad",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "武士道",
+      "confidence": "A",
+      "tag_cn_long": "日本多媒体公司，主营卡牌游戏和音乐动漫。"
     },
     {
       "name": "CBS",
@@ -1342,9 +1342,9 @@
       "wiki_url": "/wiki_pages/cbs",
       "category_path": "Media and Entertainment",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哥伦比亚广播公司",
+      "confidence": "A",
+      "tag_cn_long": "美国三大商业广播公司之一。"
     },
     {
       "name": "CNN",
@@ -1352,9 +1352,9 @@
       "wiki_url": "/wiki_pages/cnn",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "CNN",
+      "confidence": "A",
+      "tag_cn_long": "美国24小时新闻频道，总部在亚特兰大。"
     },
     {
       "name": "Columbia Pictures",
@@ -1362,9 +1362,9 @@
       "wiki_url": "/wiki_pages/columbia_pictures",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哥伦比亚影业",
+      "confidence": "A",
+      "tag_cn_long": "美国电影制片公司，隶属于索尼影业。"
     },
     {
       "name": "TriStar Pictures",
@@ -1372,9 +1372,9 @@
       "wiki_url": "/wiki_pages/tristar_pictures",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三星影业",
+      "confidence": "A",
+      "tag_cn_long": "美国电影制片和发行公司。"
     },
     {
       "name": "Disney",
@@ -1382,9 +1382,9 @@
       "wiki_url": "/wiki_pages/disney",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迪士尼",
+      "confidence": "A",
+      "tag_cn_long": "美国媒体公司，以动画电影和主题公园闻名。"
     },
     {
       "name": "Pixar",
@@ -1392,9 +1392,9 @@
       "wiki_url": "/wiki_pages/pixar",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皮克斯",
+      "confidence": "A",
+      "tag_cn_long": "美国3D动画工作室，现为迪士尼子公司。"
     },
     {
       "name": "DreamWorks",
@@ -1402,9 +1402,9 @@
       "wiki_url": "/wiki_pages/dreamworks",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梦工厂",
+      "confidence": "A",
+      "tag_cn_long": "美国动画电影制片公司，出品《怪物史瑞克》等。"
     },
     {
       "name": "Fox News",
@@ -1412,9 +1412,9 @@
       "wiki_url": "/wiki_pages/fox_news",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福克斯新闻",
+      "confidence": "A",
+      "tag_cn_long": "美国保守派新闻频道。"
     },
     {
       "name": "Fuji Television",
@@ -1422,9 +1422,9 @@
       "wiki_url": "/wiki_pages/fuji_television",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "富士电视台",
+      "confidence": "A",
+      "tag_cn_long": "日本电视台，制作多部动画和综艺节目。"
     },
     {
       "name": "Gainax",
@@ -1432,9 +1432,9 @@
       "wiki_url": "/wiki_pages/gainax",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "盖纳克斯",
+      "confidence": "A",
+      "tag_cn_long": "日本动画制作公司，制作过《新世纪福音战士》等作品。"
     },
     {
       "name": "Glitch Productions",
@@ -1442,9 +1442,9 @@
       "wiki_url": "/wiki_pages/glitch_productions",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "故障工作室",
+      "confidence": "C",
+      "tag_cn_long": "澳大利亚动画制作公司，以《SMG4》等网络动画闻名。"
     },
     {
       "name": "HTB",
@@ -1452,9 +1452,9 @@
       "wiki_url": "/wiki_pages/htb",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "北海道电视台",
+      "confidence": "B",
+      "tag_cn_long": "日本北海道地区的电视台。"
     },
     {
       "name": "Kadokawa",
@@ -1462,9 +1462,9 @@
       "wiki_url": "/wiki_pages/kadokawa",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角川",
+      "confidence": "A",
+      "tag_cn_long": "日本角川集团，涉及出版、动画、游戏等。"
     },
     {
       "name": "Kyoto Animation",
@@ -1472,9 +1472,9 @@
       "wiki_url": "/wiki_pages/kyoto_animation",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "京都动画",
+      "confidence": "A",
+      "tag_cn_long": "日本京都的动画制作公司，代表作有《凉宫春日的忧郁》等。"
     },
     {
       "name": "Legendary Pictures",
@@ -1482,9 +1482,9 @@
       "wiki_url": "/wiki_pages/legendary_pictures",
       "category_path": "Media and Entertainment",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "传奇影业",
+      "confidence": "A",
+      "tag_cn_long": "美国电影制片公司，制作《哥斯拉》等电影。"
     },
     {
       "name": "MAPPA",
@@ -1492,9 +1492,9 @@
       "wiki_url": "/wiki_pages/studio_mappa",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马帕",
+      "confidence": "B",
+      "tag_cn_long": "日本动画制作公司，制作《咒术回战》等作品。"
     },
     {
       "name": "MBS",
@@ -1502,9 +1502,9 @@
       "wiki_url": "/wiki_pages/mbs",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "每日放送",
+      "confidence": "B",
+      "tag_cn_long": "日本大阪的电视台。"
     },
     {
       "name": "MTV",
@@ -1512,9 +1512,9 @@
       "wiki_url": "/wiki_pages/mtv",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "音乐电视",
+      "confidence": "B",
+      "tag_cn_long": "美国音乐电视频道。"
     },
     {
       "name": "NBC",
@@ -1522,9 +1522,9 @@
       "wiki_url": "/wiki_pages/nbc",
       "category_path": "Media and Entertainment",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全国广播公司",
+      "confidence": "B",
+      "tag_cn_long": "美国广播公司之一。"
     },
     {
       "name": "Netflix",
@@ -1532,9 +1532,9 @@
       "wiki_url": "/wiki_pages/netflix",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网飞",
+      "confidence": "A",
+      "tag_cn_long": "美国流媒体平台，制作原创影视内容。"
     },
     {
       "name": "Niconico",
@@ -1542,9 +1542,9 @@
       "wiki_url": "/wiki_pages/niconico",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Niconico",
+      "confidence": "B",
+      "tag_cn_long": "日本视频分享网站，以弹幕评论闻名。"
     },
     {
       "name": "Nickelodeon",
@@ -1552,9 +1552,9 @@
       "wiki_url": "/wiki_pages/nickelodeon",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尼克儿童频道",
+      "confidence": "A",
+      "tag_cn_long": "美国儿童电视频道，制作《海绵宝宝》等动画。"
     },
     {
       "name": "Nippon Columbia",
@@ -1562,9 +1562,9 @@
       "wiki_url": "/wiki_pages/nippon_columbia",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本哥伦比亚",
+      "confidence": "B",
+      "tag_cn_long": "日本唱片公司，成立于1910年。"
     },
     {
       "name": "Nippon TV",
@@ -1572,9 +1572,9 @@
       "wiki_url": "/wiki_pages/nippon_tv",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本电视台",
+      "confidence": "A",
+      "tag_cn_long": "日本第一家商业电视台。"
     },
     {
       "name": "NHK",
@@ -1582,9 +1582,9 @@
       "wiki_url": "/wiki_pages/nhk_%28broadcaster%29",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "NHK",
+      "confidence": "B",
+      "tag_cn_long": "日本公共广播机构。"
     },
     {
       "name": "Paramount Pictures",
@@ -1592,9 +1592,9 @@
       "wiki_url": "/wiki_pages/paramount_pictures",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "派拉蒙影业",
+      "confidence": "A",
+      "tag_cn_long": "美国电影制片公司，出品《泰坦尼克号》等。"
     },
     {
       "name": "Studio Trigger",
@@ -1602,9 +1602,9 @@
       "wiki_url": "/wiki_pages/trigger_%28company%29",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扳机社",
+      "confidence": "A",
+      "tag_cn_long": "日本动画制作公司，以《斩服少女》等作品闻名。"
     },
     {
       "name": "Sunrise",
@@ -1612,9 +1612,9 @@
       "wiki_url": "/wiki_pages/sunrise_%28company%29",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日出",
+      "confidence": "A",
+      "tag_cn_long": "太阳在早晨地平线上升起的景象。"
     },
     {
       "name": "TBS",
@@ -1622,9 +1622,9 @@
       "wiki_url": "/wiki_pages/tbs",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京放送",
+      "confidence": "B",
+      "tag_cn_long": "日本东京的电视台，制作多部电视剧。"
     },
     {
       "name": "Toei Company",
@@ -1632,9 +1632,9 @@
       "wiki_url": "/wiki_pages/toei_company",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东映公司",
+      "confidence": "A",
+      "tag_cn_long": "日本一家大型电影及动画制作公司，出品过《龙珠》《海贼王》等知名作品。"
     },
     {
       "name": "Tsuburaya Productions",
@@ -1642,9 +1642,9 @@
       "wiki_url": "/wiki_pages/tsuburaya_productions",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆谷制作",
+      "confidence": "A",
+      "tag_cn_long": "日本特摄制作公司，以《奥特曼》系列闻名。"
     },
     {
       "name": "TV Asahi",
@@ -1652,9 +1652,9 @@
       "wiki_url": "/wiki_pages/tv_asahi",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "朝日电视台",
+      "confidence": "A",
+      "tag_cn_long": "日本一家电视台，播出多部动画和特摄节目。"
     },
     {
       "name": "TV Tokyo",
@@ -1662,9 +1662,9 @@
       "wiki_url": "/wiki_pages/tv_tokyo",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京电视台",
+      "confidence": "A",
+      "tag_cn_long": "日本一家电视台，以播出大量动画节目著称。"
     },
     {
       "name": "Twitch",
@@ -1672,9 +1672,9 @@
       "wiki_url": "/wiki_pages/twitch.tv",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Twitch",
+      "confidence": "A",
+      "tag_cn_long": "一家面向视频游戏的实时流媒体视频平台。"
     },
     {
       "name": "Universal Studios",
@@ -1682,9 +1682,9 @@
       "wiki_url": "/wiki_pages/universal_studios",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "环球影业",
+      "confidence": "A",
+      "tag_cn_long": "美国一家电影制作发行公司，也经营主题乐园。"
     },
     {
       "name": "Warner Bros.",
@@ -1692,9 +1692,9 @@
       "wiki_url": "/wiki_pages/warner_bros.",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "华纳兄弟",
+      "confidence": "A",
+      "tag_cn_long": "美国一家大型影视娱乐公司。"
     },
     {
       "name": "Cartoon Network",
@@ -1702,9 +1702,9 @@
       "wiki_url": "/wiki_pages/cartoon_network",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡通频道",
+      "confidence": "A",
+      "tag_cn_long": "美国一家有线电视网络，主要播出动画节目。"
     },
     {
       "name": "White Fox",
@@ -1712,9 +1712,9 @@
       "wiki_url": "/wiki_pages/white_fox_%28company%29",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白狐社",
+      "confidence": "A",
+      "tag_cn_long": "日本一家动画制作公司。"
     },
     {
       "name": "WWE",
@@ -1722,9 +1722,9 @@
       "wiki_url": "/wiki_pages/wwe",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "世界摔角娱乐",
+      "confidence": "A",
+      "tag_cn_long": "全球最大的职业摔角娱乐公司。"
     },
     {
       "name": "YouTube",
@@ -1732,9 +1732,9 @@
       "wiki_url": "/wiki_pages/youtube",
       "category_path": "Media and Entertainment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "YouTube",
+      "confidence": "A",
+      "tag_cn_long": "全球最大的视频分享网站。"
     },
     {
       "name": "Fender",
@@ -1742,9 +1742,9 @@
       "wiki_url": "/wiki_pages/fender_musical_instruments_corporation",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芬达乐器",
+      "confidence": "A",
+      "tag_cn_long": "美国著名的吉他、音箱等乐器制造商。"
     },
     {
       "name": "Fender stratocaster",
@@ -1752,9 +1752,9 @@
       "wiki_url": "/wiki_pages/fender_stratocaster",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芬达斯特拉托卡斯特",
+      "confidence": "A",
+      "tag_cn_long": "芬达公司于1954年推出的经典实心电吉他型号。"
     },
     {
       "name": "Gibson",
@@ -1762,9 +1762,9 @@
       "wiki_url": "/wiki_pages/gibson_brands_inc",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉布森",
+      "confidence": "A",
+      "tag_cn_long": "美国著名的吉他制造商。"
     },
     {
       "name": "Gibson Flying V",
@@ -1772,9 +1772,9 @@
       "wiki_url": "/wiki_pages/gibson_flying_v",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉布森飞行V",
+      "confidence": "A",
+      "tag_cn_long": "吉布森公司于1958年推出的标志性电吉他型号，造型独特。"
     },
     {
       "name": "Gibson Les Paul",
@@ -1782,9 +1782,9 @@
       "wiki_url": "/wiki_pages/gibson_les_paul",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉布森莱斯保罗",
+      "confidence": "A",
+      "tag_cn_long": "吉布森公司于1952年推出的经典实心电吉他，以爵士吉他手莱斯·保罗命名。"
     },
     {
       "name": "Ibanez",
@@ -1792,9 +1792,9 @@
       "wiki_url": "/wiki_pages/ibanez",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伊班尼兹",
+      "confidence": "A",
+      "tag_cn_long": "日本乐器制造商，以生产超斯特拉特型电吉他闻名。"
     },
     {
       "name": "Korg",
@@ -1802,9 +1802,9 @@
       "wiki_url": "/wiki_pages/korg",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科音",
+      "confidence": "A",
+      "tag_cn_long": "日本电子乐器制造商，生产合成器、电子琴等。"
     },
     {
       "name": "Marshall Amplification",
@@ -1812,9 +1812,9 @@
       "wiki_url": "/wiki_pages/marshall_amplification",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马歇尔",
+      "confidence": "A",
+      "tag_cn_long": "英国著名的吉他音箱制造商。"
     },
     {
       "name": "Rickenbacker",
@@ -1822,9 +1822,9 @@
       "wiki_url": "/wiki_pages/rickenbacker",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瑞肯贝克",
+      "confidence": "A",
+      "tag_cn_long": "美国老牌乐器制造商，以独特的电吉他和贝斯设计著称。"
     },
     {
       "name": "Roland",
@@ -1832,9 +1832,9 @@
       "wiki_url": "/wiki_pages/roland_%28company%29",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗兰",
+      "confidence": "A",
+      "tag_cn_long": "日本电子乐器、音响设备品牌。"
     },
     {
       "name": "Yamaha",
@@ -1842,9 +1842,9 @@
       "wiki_url": "/wiki_pages/yamaha",
       "category_path": "Musical Instruments and Equipment",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雅马哈",
+      "confidence": "A",
+      "tag_cn_long": "日本综合性企业，生产乐器、摩托车、音响等多种产品。"
     },
     {
       "name": "7up",
@@ -1852,9 +1852,9 @@
       "wiki_url": "/wiki_pages/7up",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "七喜",
+      "confidence": "A",
+      "tag_cn_long": "一种柠檬汽水饮料品牌。"
     },
     {
       "name": "Asahi",
@@ -1862,9 +1862,9 @@
       "wiki_url": "/wiki_pages/asahi_breweries",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "朝日",
+      "confidence": "B",
+      "tag_cn_long": "日本饮料品牌，以啤酒闻名。"
     },
     {
       "name": "A&amp;W",
@@ -1872,9 +1872,9 @@
       "wiki_url": "/wiki_pages/a%26w",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "A&W",
+      "confidence": "A",
+      "tag_cn_long": "美国快餐连锁店及根汁啤酒品牌。"
     },
     {
       "name": "Boss Coffee",
@@ -1882,9 +1882,9 @@
       "wiki_url": "/wiki_pages/boss_coffee",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Boss咖啡",
+      "confidence": "A",
+      "tag_cn_long": "日本三得利旗下的罐装咖啡品牌。"
     },
     {
       "name": "Budweiser",
@@ -1892,9 +1892,9 @@
       "wiki_url": "/wiki_pages/budweiser",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百威",
+      "confidence": "A",
+      "tag_cn_long": "美国啤酒品牌。"
     },
     {
       "name": "Calpis",
@@ -1902,9 +1902,9 @@
       "wiki_url": "/wiki_pages/calpis",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "可尔必思",
+      "confidence": "A",
+      "tag_cn_long": "日本乳酸菌发酵饮料品牌。"
     },
     {
       "name": "C.C. Lemon",
@@ -1912,9 +1912,9 @@
       "wiki_url": "/wiki_pages/c.c._lemon",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "C.C.柠檬",
+      "confidence": "A",
+      "tag_cn_long": "日本三得利旗下的柠檬味碳酸饮料。"
     },
     {
       "name": "Coca-Cola",
@@ -1922,9 +1922,9 @@
       "wiki_url": "/wiki_pages/coca-cola",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "可口可乐",
+      "confidence": "A",
+      "tag_cn_long": "全球知名的碳酸饮料品牌。"
     },
     {
       "name": "Corona",
@@ -1932,9 +1932,9 @@
       "wiki_url": "/wiki_pages/corona_%28brand%29",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科罗娜",
+      "confidence": "B",
+      "tag_cn_long": "墨西哥啤酒品牌。"
     },
     {
       "name": "Dr. Pepper",
@@ -1942,9 +1942,9 @@
       "wiki_url": "/wiki_pages/dr_pepper",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Dr Pepper",
+      "confidence": "A",
+      "tag_cn_long": "美国碳酸饮料品牌，具有独特风味。"
     },
     {
       "name": "Evian",
@@ -1952,9 +1952,9 @@
       "wiki_url": "/wiki_pages/evian",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "依云",
+      "confidence": "A",
+      "tag_cn_long": "法国矿泉水品牌。"
     },
     {
       "name": "Fanta",
@@ -1962,9 +1962,9 @@
       "wiki_url": "/wiki_pages/fanta",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芬达",
+      "confidence": "A",
+      "tag_cn_long": "可口可乐公司旗下的果味碳酸饮料品牌。"
     },
     {
       "name": "Gamer Supps",
@@ -1972,9 +1972,9 @@
       "wiki_url": "/wiki_pages/gamer_supps",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Gamer Supps",
+      "confidence": "B",
+      "tag_cn_long": "面向电竞选手和玩家的能量饮料品牌。"
     },
     {
       "name": "Gatorade",
@@ -1982,9 +1982,9 @@
       "wiki_url": "/wiki_pages/gatorade",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佳得乐",
+      "confidence": "A",
+      "tag_cn_long": "百事公司旗下的运动饮料品牌。"
     },
     {
       "name": "Georgia Max Coffee",
@@ -1992,9 +1992,9 @@
       "wiki_url": "/wiki_pages/georgia_max_coffee",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乔治亚Max咖啡",
+      "confidence": "B",
+      "tag_cn_long": "日本罐装咖啡品牌，以大量加糖炼乳闻名。"
     },
     {
       "name": "Guinness",
@@ -2002,9 +2002,9 @@
       "wiki_url": "/wiki_pages/guinness_%28beer%29",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "健力士",
+      "confidence": "A",
+      "tag_cn_long": "爱尔兰黑啤酒品牌。"
     },
     {
       "name": "Heineken",
@@ -2012,9 +2012,9 @@
       "wiki_url": "/wiki_pages/heineken",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喜力",
+      "confidence": "A",
+      "tag_cn_long": "荷兰啤酒品牌。"
     },
     {
       "name": "Hennessy",
@@ -2022,9 +2022,9 @@
       "wiki_url": "/wiki_pages/hennessy",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "轩尼诗",
+      "confidence": "A",
+      "tag_cn_long": "法国干邑白兰地品牌。"
     },
     {
       "name": "Jack Daniel's",
@@ -2032,9 +2032,9 @@
       "wiki_url": "/wiki_pages/jack_daniel%27s",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "杰克丹尼",
+      "confidence": "A",
+      "tag_cn_long": "美国田纳西威士忌品牌。"
     },
     {
       "name": "Kirin",
@@ -2042,9 +2042,9 @@
       "wiki_url": "/wiki_pages/kirin_%28company%29",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "麒麟",
+      "confidence": "A",
+      "tag_cn_long": "日本麒麟公司生产的啤酒品牌。"
     },
     {
       "name": "Lipovitan",
@@ -2052,9 +2052,9 @@
       "wiki_url": "/wiki_pages/lipovitan",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "力保健",
+      "confidence": "A",
+      "tag_cn_long": "日本大正制药推出的功能饮料品牌。"
     },
     {
       "name": "Lipton",
@@ -2062,9 +2062,9 @@
       "wiki_url": "/wiki_pages/lipton",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立顿",
+      "confidence": "A",
+      "tag_cn_long": "联合利华旗下的茶饮品牌。"
     },
     {
       "name": "Monster",
@@ -2072,9 +2072,9 @@
       "wiki_url": "/wiki_pages/monster_energy",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "魔爪",
+      "confidence": "A",
+      "tag_cn_long": "美国能量饮料品牌，以高咖啡因和独特口味著称。"
     },
     {
       "name": "Mountain Dew",
@@ -2082,9 +2082,9 @@
       "wiki_url": "/wiki_pages/mountain_dew",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "激浪",
+      "confidence": "A",
+      "tag_cn_long": "百事公司生产的柑橘味碳酸饮料，常呈亮绿色。"
     },
     {
       "name": "Orangina",
@@ -2092,9 +2092,9 @@
       "wiki_url": "/wiki_pages/orangina",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥朗吉纳",
+      "confidence": "A",
+      "tag_cn_long": "法国橙汁汽水品牌，含有果肉颗粒。"
     },
     {
       "name": "Orion",
@@ -2102,9 +2102,9 @@
       "wiki_url": "/wiki_pages/orion_beer",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥利恩",
+      "confidence": "B",
+      "tag_cn_long": "韩国啤酒品牌，隶属于好天集团。"
     },
     {
       "name": "Pabst Blue Ribbon",
@@ -2112,9 +2112,9 @@
       "wiki_url": "/wiki_pages/pabst_blue_ribbon",
       "category_path": "Beverages",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝带",
+      "confidence": "A",
+      "tag_cn_long": "美国著名的平价啤酒品牌，标签上有蓝色绶带。"
     },
     {
       "name": "Pepsi",
@@ -2122,9 +2122,9 @@
       "wiki_url": "/wiki_pages/pepsi",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百事",
+      "confidence": "A",
+      "tag_cn_long": "百事公司生产的可乐类碳酸饮料。"
     },
     {
       "name": "Pernod Fils",
@@ -2132,9 +2132,9 @@
       "wiki_url": "/wiki_pages/pernod_fils",
       "category_path": "Beverages",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "保乐",
+      "confidence": "B",
+      "tag_cn_long": "法国茴香酒品牌，后发展为保乐力加集团。"
     },
     {
       "name": "Pocari Sweat",
@@ -2142,9 +2142,9 @@
       "wiki_url": "/wiki_pages/pocari_sweat",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宝矿力水特",
+      "confidence": "A",
+      "tag_cn_long": "大冢制药生产的日本运动饮料，白色旋涡商标。"
     },
     {
       "name": "Red Bull",
@@ -2152,9 +2152,9 @@
       "wiki_url": "/wiki_pages/red_bull",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红牛",
+      "confidence": "A",
+      "tag_cn_long": "奥地利能量饮料品牌，口号是“给你双翅膀”。"
     },
     {
       "name": "Rockstar",
@@ -2162,9 +2162,9 @@
       "wiki_url": "/wiki_pages/rockstar_%28energy_drink%29",
       "category_path": "Beverages",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摇滚巨星",
+      "confidence": "A",
+      "tag_cn_long": "美国能量饮料品牌，常与极限运动关联。"
     },
     {
       "name": "Sapporo Beer",
@@ -2172,9 +2172,9 @@
       "wiki_url": "/wiki_pages/sapporo_beer",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "札幌啤酒",
+      "confidence": "A",
+      "tag_cn_long": "日本札幌地区生产的啤酒品牌。"
     },
     {
       "name": "Smirnoff",
@@ -2182,9 +2182,9 @@
       "wiki_url": "/wiki_pages/smirnoff_%28vodka%29",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斯米诺夫",
+      "confidence": "A",
+      "tag_cn_long": "美国伏特加品牌，全球销量领先。"
     },
     {
       "name": "Sprite",
@@ -2192,9 +2192,9 @@
       "wiki_url": "/wiki_pages/sprite_%28drink%29",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪碧",
+      "confidence": "A",
+      "tag_cn_long": "可口可乐公司生产的柠檬味碳酸饮料。"
     },
     {
       "name": "Suntory",
@@ -2202,9 +2202,9 @@
       "wiki_url": "/wiki_pages/suntory",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三得利",
+      "confidence": "A",
+      "tag_cn_long": "日本饮料与酒类综合企业，生产威士忌、啤酒、软饮等。"
     },
     {
       "name": "Tecate",
@@ -2212,9 +2212,9 @@
       "wiki_url": "/wiki_pages/tecate",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "特卡特",
+      "confidence": "A",
+      "tag_cn_long": "墨西哥啤酒品牌，以淡色拉格闻名。"
     },
     {
       "name": "Tsingtao",
@@ -2222,9 +2222,9 @@
       "wiki_url": "/wiki_pages/tsingtao_%28brand%29",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "青岛啤酒",
+      "confidence": "A",
+      "tag_cn_long": "中国青岛啤酒股份有限公司生产的啤酒品牌。"
     },
     {
       "name": "Teh Botol",
@@ -2232,9 +2232,9 @@
       "wiki_url": "/wiki_pages/teh_botol",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "茶瓶",
+      "confidence": "C",
+      "tag_cn_long": "印度尼西亚Sosro公司生产的瓶装甜茶饮料。"
     },
     {
       "name": "UCC Coffee",
@@ -2242,9 +2242,9 @@
       "wiki_url": "/wiki_pages/ucc_coffee",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "UCC咖啡",
+      "confidence": "A",
+      "tag_cn_long": "日本上岛咖啡公司生产的咖啡品牌。"
     },
     {
       "name": "Yebisu",
@@ -2252,9 +2252,9 @@
       "wiki_url": "/wiki_pages/yebisu",
       "category_path": "Beverages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "惠比寿啤酒",
+      "confidence": "A",
+      "tag_cn_long": "日本札幌啤酒旗下的啤酒品牌，常出现在《EVA》中。"
     },
     {
       "name": "Boukun Habanero",
@@ -2262,9 +2262,9 @@
       "wiki_url": "/wiki_pages/boukun_habanero",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "暴君哈瓦那",
+      "confidence": "A",
+      "tag_cn_long": "日本零食品牌，哈瓦那辣椒口味的马铃薯圈。"
     },
     {
       "name": "Bourbon corporation",
@@ -2272,9 +2272,9 @@
       "wiki_url": "/wiki_pages/bourbon_corporation",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波尔本公司",
+      "confidence": "A",
+      "tag_cn_long": "日本零食制造商，生产Alfort等产品。"
     },
     {
       "name": "Alfort",
@@ -2282,9 +2282,9 @@
       "wiki_url": "/wiki_pages/alfort_%28brand%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿尔福特",
+      "confidence": "B",
+      "tag_cn_long": "波尔本公司旗下巧克力饼干品牌。"
     },
     {
       "name": "White Rollita",
@@ -2292,9 +2292,9 @@
       "wiki_url": "/wiki_pages/white_rollita",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色洛丽塔",
+      "confidence": "A",
+      "tag_cn_long": "波尔本公司生产的白色巧克力涂层饼干棒。"
     },
     {
       "name": "Bugles",
@@ -2302,9 +2302,9 @@
       "wiki_url": "/wiki_pages/bugles_%28food%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布格尔斯",
+      "confidence": "A",
+      "tag_cn_long": "一种锥形玉米片零食品牌。"
     },
     {
       "name": "Cadbury",
@@ -2312,9 +2312,9 @@
       "wiki_url": "/wiki_pages/cadbury",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉百利",
+      "confidence": "A",
+      "tag_cn_long": "英国巧克力及糖果公司。"
     },
     {
       "name": "Calbee (potato chips)",
@@ -2322,9 +2322,9 @@
       "wiki_url": "/wiki_pages/calbee_%28potato_chips%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡乐比薯片",
+      "confidence": "A",
+      "tag_cn_long": "日本卡乐比公司生产的薯片品牌。"
     },
     {
       "name": "Jagarico",
@@ -2332,9 +2332,9 @@
       "wiki_url": "/wiki_pages/jagarico",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "加加利科",
+      "confidence": "C",
+      "tag_cn_long": "日本卡乐比公司生产的杯装薯条零食。"
     },
     {
       "name": "Kappa Ebisen",
@@ -2342,9 +2342,9 @@
       "wiki_url": "/wiki_pages/kappa_ebisen",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "河童虾条",
+      "confidence": "A",
+      "tag_cn_long": "日本卡乐比公司生产的虾味条状零食。"
     },
     {
       "name": "CalorieMate",
@@ -2352,9 +2352,9 @@
       "wiki_url": "/wiki_pages/caloriemate",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡路里伙伴",
+      "confidence": "A",
+      "tag_cn_long": "日本大冢制药生产的能量补充食品品牌。"
     },
     {
       "name": "Campbell's",
@@ -2362,9 +2362,9 @@
       "wiki_url": "/wiki_pages/campbell%27s",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金宝汤",
+      "confidence": "A",
+      "tag_cn_long": "美国罐头汤品牌，以浓缩汤料闻名。"
     },
     {
       "name": "Chip Star",
@@ -2372,9 +2372,9 @@
       "wiki_url": "/wiki_pages/chip_star",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "薯片之星",
+      "confidence": "A",
+      "tag_cn_long": "日本山崎饼干公司生产的可叠放薯片品牌。"
     },
     {
       "name": "Chupa Chups",
@@ -2382,9 +2382,9 @@
       "wiki_url": "/wiki_pages/chupa_chups",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "珍宝珠",
+      "confidence": "A",
+      "tag_cn_long": "西班牙棒棒糖品牌，以圆形棒棒糖和花形包装纸著称。"
     },
     {
       "name": "Doritos",
@@ -2392,9 +2392,9 @@
       "wiki_url": "/wiki_pages/doritos",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多力多滋",
+      "confidence": "A",
+      "tag_cn_long": "美国菲多利公司生产的玉米片品牌。"
     },
     {
       "name": "Glico",
@@ -2402,9 +2402,9 @@
       "wiki_url": "/wiki_pages/glico",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格力高",
+      "confidence": "A",
+      "tag_cn_long": "日本食品公司，产品包括Pocky、Pretz等。"
     },
     {
       "name": "Pocky",
@@ -2412,9 +2412,9 @@
       "wiki_url": "/wiki_pages/pocky",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百奇",
+      "confidence": "A",
+      "tag_cn_long": "日本格力高公司生产的巧克力涂层饼干棒。"
     },
     {
       "name": "Pretz",
@@ -2422,9 +2422,9 @@
       "wiki_url": "/wiki_pages/pretz",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百力滋",
+      "confidence": "A",
+      "tag_cn_long": "日本格力高公司生产的调味饼干棒，类似百奇但无涂层。"
     },
     {
       "name": "Godiva",
@@ -2432,9 +2432,9 @@
       "wiki_url": "/wiki_pages/godiva_chocolatier",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "歌帝梵",
+      "confidence": "A",
+      "tag_cn_long": "比利时高端巧克力品牌。"
     },
     {
       "name": "Haagen-Dazs",
@@ -2442,9 +2442,9 @@
       "wiki_url": "/wiki_pages/haagen-dazs",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哈根达斯",
+      "confidence": "A",
+      "tag_cn_long": "美国高档冰淇淋品牌，以冰淇淋杯等产品著称。"
     },
     {
       "name": "Haribo",
@@ -2452,9 +2452,9 @@
       "wiki_url": "/wiki_pages/haribo",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哈瑞宝",
+      "confidence": "A",
+      "tag_cn_long": "德国糖果巨头，以金熊软糖等闻名。"
     },
     {
       "name": "Heinz",
@@ -2462,9 +2462,9 @@
       "wiki_url": "/wiki_pages/heinz",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "亨氏",
+      "confidence": "A",
+      "tag_cn_long": "美国食品公司，以番茄酱和调味品闻名。"
     },
     {
       "name": "Hershey's",
@@ -2472,9 +2472,9 @@
       "wiki_url": "/wiki_pages/hershey%27s",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "好时",
+      "confidence": "A",
+      "tag_cn_long": "美国巧克力品牌，以好时 kisses 巧克力闻名。"
     },
     {
       "name": "Hirota",
@@ -2482,9 +2482,9 @@
       "wiki_url": "/wiki_pages/hirota_%28company%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "广田",
+      "confidence": "C",
+      "tag_cn_long": "疑似日本食品或点心品牌，具体产品不明确。"
     },
     {
       "name": "kagome (brand)",
@@ -2492,9 +2492,9 @@
       "wiki_url": "/wiki_pages/kagome_%28brand%29",
       "category_path": "Foods",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "可果美",
+      "confidence": "A",
+      "tag_cn_long": "日本食品品牌，以番茄制品和饮料闻名。"
     },
     {
       "name": "Kikkoman",
@@ -2502,9 +2502,9 @@
       "wiki_url": "/wiki_pages/kikkoman",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "龟甲万",
+      "confidence": "A",
+      "tag_cn_long": "日本知名酱油品牌，也生产豆乳等。"
     },
     {
       "name": "Kraft",
@@ -2512,9 +2512,9 @@
       "wiki_url": "/wiki_pages/kraft",
       "category_path": "Foods",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡夫",
+      "confidence": "A",
+      "tag_cn_long": "美国跨国食品公司，产品包括奶酪、饼干等。"
     },
     {
       "name": "Lay's",
@@ -2522,9 +2522,9 @@
       "wiki_url": "/wiki_pages/lay%27s_%28potato_chips%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乐事",
+      "confidence": "A",
+      "tag_cn_long": "美国薯片品牌，以各种口味的薯片闻名。"
     },
     {
       "name": "Lotte",
@@ -2532,9 +2532,9 @@
       "wiki_url": "/wiki_pages/lotte_%28company%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乐天",
+      "confidence": "A",
+      "tag_cn_long": "韩国/日本企业集团，旗下有食品、糖果等。"
     },
     {
       "name": "Choco Pie",
@@ -2542,9 +2542,9 @@
       "wiki_url": "/wiki_pages/choco_pie",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巧克力派",
+      "confidence": "A",
+      "tag_cn_long": "一种夹有棉花糖、外裹巧克力的糕点。"
     },
     {
       "name": "Meiji",
@@ -2552,9 +2552,9 @@
       "wiki_url": "/wiki_pages/meiji_%28brand%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "明治",
+      "confidence": "A",
+      "tag_cn_long": "日本食品公司，生产巧克力、糖果、乳制品等。"
     },
     {
       "name": "Kinoko no Yama",
@@ -2562,9 +2562,9 @@
       "wiki_url": "/wiki_pages/kinoko_no_yama",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蘑菇山",
+      "confidence": "A",
+      "tag_cn_long": "明治公司生产的蘑菇形状巧克力夹心饼干。"
     },
     {
       "name": "Takenoko no Sato",
@@ -2572,9 +2572,9 @@
       "wiki_url": "/wiki_pages/takenoko_no_sato_%28food%29",
       "category_path": "Foods",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竹笋乡",
+      "confidence": "B",
+      "tag_cn_long": "明治公司生产的竹笋形状巧克力饼干。"
     },
     {
       "name": "M&amp;M's",
@@ -2582,9 +2582,9 @@
       "wiki_url": "/wiki_pages/m%26m%27s",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "M&M's",
+      "confidence": "A",
+      "tag_cn_long": "美国巧克力豆品牌，以彩色糖衣包裹的巧克力豆闻名。"
     },
     {
       "name": "Morinaga",
@@ -2592,9 +2592,9 @@
       "wiki_url": "/wiki_pages/morinaga_%28brand%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "森永",
+      "confidence": "A",
+      "tag_cn_long": "日本食品和糖果公司，生产多种零食和乳制品。"
     },
     {
       "name": "Nestle",
@@ -2602,9 +2602,9 @@
       "wiki_url": "/wiki_pages/nestle",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雀巢",
+      "confidence": "A",
+      "tag_cn_long": "瑞士跨国食品饮料公司，产品包括婴儿食品、咖啡、糖果、冰淇淋等。"
     },
     {
       "name": "Kit Kat",
@@ -2612,9 +2612,9 @@
       "wiki_url": "/wiki_pages/kitkat",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奇巧",
+      "confidence": "A",
+      "tag_cn_long": "雀巢公司生产的威化巧克力棒，在日本有众多限定口味。"
     },
     {
       "name": "Nissin",
@@ -2622,9 +2622,9 @@
       "wiki_url": "/wiki_pages/nissin",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日清",
+      "confidence": "A",
+      "tag_cn_long": "日本方便面发明公司，以杯面和方便面闻名。"
     },
     {
       "name": "Nissin Cup Noodle",
@@ -2632,9 +2632,9 @@
       "wiki_url": "/wiki_pages/nissin_cup_noodle",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日清杯面",
+      "confidence": "A",
+      "tag_cn_long": "日清公司推出的杯装方便面产品，以合味道等品牌著称。"
     },
     {
       "name": "Nutella",
@@ -2642,9 +2642,9 @@
       "wiki_url": "/wiki_pages/nutella",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "能多益",
+      "confidence": "A",
+      "tag_cn_long": "意大利产的榛子巧克力酱品牌。"
     },
     {
       "name": "Oreo",
@@ -2652,9 +2652,9 @@
       "wiki_url": "/wiki_pages/oreo",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥利奥",
+      "confidence": "A",
+      "tag_cn_long": "一种由巧克力薄脆和奶油夹心组成的饼干品牌。"
     },
     {
       "name": "Pringles",
@@ -2662,9 +2662,9 @@
       "wiki_url": "/wiki_pages/pringles",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "品客",
+      "confidence": "A",
+      "tag_cn_long": "美国薯片品牌，特点是筒装、弧形堆叠。"
     },
     {
       "name": "Shiroi Koibito",
@@ -2672,9 +2672,9 @@
       "wiki_url": "/wiki_pages/shiroi_koibito",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色恋人",
+      "confidence": "A",
+      "tag_cn_long": "日本北海道的特产白巧克力夹心饼干。"
     },
     {
       "name": "Snickers",
@@ -2682,9 +2682,9 @@
       "wiki_url": "/wiki_pages/snickers_%28brand%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "士力架",
+      "confidence": "A",
+      "tag_cn_long": "一种含花生、牛轧糖和焦糖的巧克力棒品牌。"
     },
     {
       "name": "Spam",
@@ -2692,9 +2692,9 @@
       "wiki_url": "/wiki_pages/spam_%28food%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斯帕姆",
+      "confidence": "A",
+      "tag_cn_long": "一种罐装猪肉午餐肉品牌。"
     },
     {
       "name": "Sun-Maid",
@@ -2702,9 +2702,9 @@
       "wiki_url": "/wiki_pages/sun-maid",
       "category_path": "Foods",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阳光少女",
+      "confidence": "A",
+      "tag_cn_long": "美国葡萄干品牌，包装上有戴遮阳帽的女孩图案。"
     },
     {
       "name": "Tim Tam",
@@ -2712,9 +2712,9 @@
       "wiki_url": "/wiki_pages/tim_tam",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒂姆塔姆",
+      "confidence": "B",
+      "tag_cn_long": "澳大利亚产巧克力涂层夹心饼干品牌。"
     },
     {
       "name": "Tirol Chocolate",
@@ -2722,9 +2722,9 @@
       "wiki_url": "/wiki_pages/tirol_chocolate",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒂罗尔巧克力",
+      "confidence": "A",
+      "tag_cn_long": "日本的小块方形巧克力品牌，种类繁多，价格低廉。"
     },
     {
       "name": "Toblerone",
@@ -2732,9 +2732,9 @@
       "wiki_url": "/wiki_pages/toblerone",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瑞士三角巧克力",
+      "confidence": "A",
+      "tag_cn_long": "瑞士三角形状的巧克力棒品牌。"
     },
     {
       "name": "Yakult",
@@ -2742,9 +2742,9 @@
       "wiki_url": "/wiki_pages/yakult",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "养乐多",
+      "confidence": "A",
+      "tag_cn_long": "一种含有乳酸菌的益生菌饮料品牌。"
     },
     {
       "name": "Yamayoshi",
@@ -2752,9 +2752,9 @@
       "wiki_url": "/wiki_pages/yamayoshi_%28company%29",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山吉",
+      "confidence": "D",
+      "tag_cn_long": "一位喜欢画明日香的插画师名字。"
     },
     {
       "name": "Yamazaki Baking",
@@ -2762,9 +2762,9 @@
       "wiki_url": "/wiki_pages/yamazaki_baking",
       "category_path": "Foods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山崎面包",
+      "confidence": "A",
+      "tag_cn_long": "日本最大的面包烘焙公司，也生产零食和糕点。"
     },
     {
       "name": "Anna Miller's",
@@ -2772,9 +2772,9 @@
       "wiki_url": "/wiki_pages/anna_miller",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "安娜米勒",
+      "confidence": "B",
+      "tag_cn_long": "一家以馅饼闻名的连锁餐厅品牌。"
     },
     {
       "name": "Black Star Burger",
@@ -2782,9 +2782,9 @@
       "wiki_url": "/wiki_pages/black_star_burger",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑星汉堡",
+      "confidence": "A",
+      "tag_cn_long": "发源于莫斯科的汉堡连锁店品牌。"
     },
     {
       "name": "Baskin-Robbins",
@@ -2792,9 +2792,9 @@
       "wiki_url": "/wiki_pages/baskin-robbins",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴斯金·罗宾斯",
+      "confidence": "A",
+      "tag_cn_long": "美国冰淇淋连锁品牌，以31种口味著称。"
     },
     {
       "name": "Burger King",
@@ -2802,9 +2802,9 @@
       "wiki_url": "/wiki_pages/burger_king",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "汉堡王",
+      "confidence": "A",
+      "tag_cn_long": "国际快餐连锁店，主打汉堡类食品。"
     },
     {
       "name": "Chick-fil-A",
@@ -2812,9 +2812,9 @@
       "wiki_url": "/wiki_pages/chick-fil-a",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福来鸡",
+      "confidence": "A",
+      "tag_cn_long": "美国快餐连锁，以鸡肉三明治为主要产品。"
     },
     {
       "name": "Cold Stone Creamery",
@@ -2822,9 +2822,9 @@
       "wiki_url": "/wiki_pages/cold_stone_creamery",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "酷圣石",
+      "confidence": "A",
+      "tag_cn_long": "美国冰淇淋连锁店，在冷石板上搅拌混合配料制成冰淇淋。"
     },
     {
       "name": "CoCo ICHIBANYA",
@@ -2832,9 +2832,9 @@
       "wiki_url": "/wiki_pages/coco_ichibanya",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "CoCo壱番屋",
+      "confidence": "A",
+      "tag_cn_long": "日本咖喱连锁餐厅，以多种配料的咖喱饭闻名。"
     },
     {
       "name": "COCO'S",
@@ -2842,9 +2842,9 @@
       "wiki_url": "/wiki_pages/coco%27s",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "可可斯",
+      "confidence": "B",
+      "tag_cn_long": "日本连锁家庭餐厅，提供西式餐点。"
     },
     {
       "name": "Dairy Queen",
@@ -2852,9 +2852,9 @@
       "wiki_url": "/wiki_pages/dairy_queen",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冰雪皇后",
+      "confidence": "A",
+      "tag_cn_long": "美国冰淇淋和快餐连锁店。"
     },
     {
       "name": "Domino's Pizza",
@@ -2862,9 +2862,9 @@
       "wiki_url": "/wiki_pages/domino%27s_pizza",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "达美乐披萨",
+      "confidence": "A",
+      "tag_cn_long": "美国披萨连锁品牌。"
     },
     {
       "name": "Dunkin' Donuts",
@@ -2872,9 +2872,9 @@
       "wiki_url": "/wiki_pages/dunkin%27_donuts",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "唐恩都乐",
+      "confidence": "A",
+      "tag_cn_long": "美国甜甜圈和咖啡连锁店。"
     },
     {
       "name": "Hooters",
@@ -2882,9 +2882,9 @@
       "wiki_url": "/wiki_pages/hooters",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫头鹰餐厅",
+      "confidence": "A",
+      "tag_cn_long": "美国连锁餐厅，以女服务员穿着性感制服为特色。"
     },
     {
       "name": "Jollibee",
@@ -2892,9 +2892,9 @@
       "wiki_url": "/wiki_pages/jollibee",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "快乐蜂",
+      "confidence": "A",
+      "tag_cn_long": "菲律宾快餐连锁品牌，主打炸鸡和汉堡。"
     },
     {
       "name": "KFC",
@@ -2902,9 +2902,9 @@
       "wiki_url": "/wiki_pages/kfc",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肯德基",
+      "confidence": "A",
+      "tag_cn_long": "美国快餐连锁店，以炸鸡闻名。"
     },
     {
       "name": "Krispy Kreme",
@@ -2912,9 +2912,9 @@
       "wiki_url": "/wiki_pages/krispy_kreme",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡卡圈坊",
+      "confidence": "A",
+      "tag_cn_long": "美国甜甜圈连锁店。"
     },
     {
       "name": "Little Caesar's",
@@ -2922,9 +2922,9 @@
       "wiki_url": "/wiki_pages/little_caesars",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小凯撒披萨",
+      "confidence": "A",
+      "tag_cn_long": "美国披萨连锁品牌。"
     },
     {
       "name": "Lotteria",
@@ -2932,9 +2932,9 @@
       "wiki_url": "/wiki_pages/lotteria",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乐天利",
+      "confidence": "B",
+      "tag_cn_long": "日本汉堡快餐连锁。"
     },
     {
       "name": "Matsuya Foods",
@@ -2942,9 +2942,9 @@
       "wiki_url": "/wiki_pages/matsuya_foods",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "松屋",
+      "confidence": "A",
+      "tag_cn_long": "日本牛肉饭连锁店。"
     },
     {
       "name": "McDonald's",
@@ -2952,9 +2952,9 @@
       "wiki_url": "/wiki_pages/mcdonald%27s",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "麦当劳",
+      "confidence": "A",
+      "tag_cn_long": "全球最大快餐连锁品牌。"
     },
     {
       "name": "Mister Donut",
@@ -2962,9 +2962,9 @@
       "wiki_url": "/wiki_pages/mister_donut",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美仕唐纳滋",
+      "confidence": "A",
+      "tag_cn_long": "甜甜圈连锁店，在日本很流行。"
     },
     {
       "name": "MOS Burger",
@@ -2972,9 +2972,9 @@
       "wiki_url": "/wiki_pages/mos_burger",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "MOS汉堡",
+      "confidence": "A",
+      "tag_cn_long": "日本第二大快餐连锁店，主营汉堡。"
     },
     {
       "name": "Osaka Ohsho",
@@ -2982,9 +2982,9 @@
       "wiki_url": "/wiki_pages/osaka_ohsho",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大阪王将",
+      "confidence": "A",
+      "tag_cn_long": "日本中华料理连锁店，以煎饺闻名。"
     },
     {
       "name": "Papa John's",
@@ -2992,9 +2992,9 @@
       "wiki_url": "/wiki_pages/papa_john%27s",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棒约翰披萨",
+      "confidence": "A",
+      "tag_cn_long": "美国披萨连锁品牌。"
     },
     {
       "name": "Pizza Hut",
@@ -3002,9 +3002,9 @@
       "wiki_url": "/wiki_pages/pizza_hut",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "必胜客",
+      "confidence": "A",
+      "tag_cn_long": "美国披萨连锁餐厅。"
     },
     {
       "name": "Pizza-La",
@@ -3012,9 +3012,9 @@
       "wiki_url": "/wiki_pages/pizza-la",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披萨乐",
+      "confidence": "B",
+      "tag_cn_long": "日本披萨外卖连锁品牌。"
     },
     {
       "name": "Starbucks",
@@ -3022,9 +3022,9 @@
       "wiki_url": "/wiki_pages/starbucks",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星巴克",
+      "confidence": "A",
+      "tag_cn_long": "全球最大咖啡连锁店。"
     },
     {
       "name": "Subway",
@@ -3032,9 +3032,9 @@
       "wiki_url": "/wiki_pages/subway_%28company%29",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "赛百味",
+      "confidence": "A",
+      "tag_cn_long": "美国三明治快餐连锁店。"
     },
     {
       "name": "Sukiya",
@@ -3042,9 +3042,9 @@
       "wiki_url": "/wiki_pages/sukiya",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食其家",
+      "confidence": "A",
+      "tag_cn_long": "日本大型牛肉饭连锁餐厅。"
     },
     {
       "name": "Tim Hortons",
@@ -3052,9 +3052,9 @@
       "wiki_url": "/wiki_pages/tim_hortons",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒂姆霍顿",
+      "confidence": "A",
+      "tag_cn_long": "加拿大跨国快餐连锁店，以咖啡和甜甜圈闻名。"
     },
     {
       "name": "Wendy's",
@@ -3062,9 +3062,9 @@
       "wiki_url": "/wiki_pages/wendy%27s",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "温迪汉堡",
+      "confidence": "A",
+      "tag_cn_long": "美国快餐连锁店，以方形汉堡和鲜肉闻名。"
     },
     {
       "name": "Yoshinoya",
@@ -3072,9 +3072,9 @@
       "wiki_url": "/wiki_pages/yoshinoya_%28restaurant%29",
       "category_path": "Restaurant and Fast Food Chains",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉野家",
+      "confidence": "A",
+      "tag_cn_long": "日本大型牛肉饭连锁餐厅。"
     },
     {
       "name": "Atari",
@@ -3082,9 +3082,9 @@
       "wiki_url": "/wiki_pages/atari",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雅达利",
+      "confidence": "A",
+      "tag_cn_long": "美国早期电子游戏公司，以街机和家用机闻名。"
     },
     {
       "name": "Atlus",
@@ -3092,9 +3092,9 @@
       "wiki_url": "/wiki_pages/atlus",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿特拉斯",
+      "confidence": "A",
+      "tag_cn_long": "日本电子游戏公司，以《女神转生》和《Persona》系列闻名。"
     },
     {
       "name": "Bandai Namco",
@@ -3102,9 +3102,9 @@
       "wiki_url": "/wiki_pages/bandai_namco",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "万代南梦宫",
+      "confidence": "A",
+      "tag_cn_long": "日本电子游戏公司，万代和南梦宫合并而成。"
     },
     {
       "name": "Capcom",
@@ -3112,9 +3112,9 @@
       "wiki_url": "/wiki_pages/capcom",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡普空",
+      "confidence": "A",
+      "tag_cn_long": "日本电子游戏开发商，以《街头霸王》和《生化危机》系列闻名。"
     },
     {
       "name": "Compile Heart",
@@ -3122,9 +3122,9 @@
       "wiki_url": "/wiki_pages/compile_heart",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "编译之心",
+      "confidence": "B",
+      "tag_cn_long": "日本电子游戏开发商，以《超次元游戏》系列闻名。"
     },
     {
       "name": "DMM",
@@ -3132,9 +3132,9 @@
       "wiki_url": "/wiki_pages/dmm",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "DMM",
+      "confidence": "B",
+      "tag_cn_long": "日本互联网公司，运营多款抽卡游戏。"
     },
     {
       "name": "Electronic Arts",
@@ -3142,9 +3142,9 @@
       "wiki_url": "/wiki_pages/electronic_arts",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "艺电",
+      "confidence": "A",
+      "tag_cn_long": "美国电子游戏发行商，以体育游戏和争议性付费系统闻名。"
     },
     {
       "name": "Konami",
@@ -3152,9 +3152,9 @@
       "wiki_url": "/wiki_pages/konami",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科乐美",
+      "confidence": "A",
+      "tag_cn_long": "日本电子游戏开发商和发行商，以《合金装备》和《实况足球》系列闻名。"
     },
     {
       "name": "Hudson",
@@ -3162,9 +3162,9 @@
       "wiki_url": "/wiki_pages/hudson",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哈德森",
+      "confidence": "A",
+      "tag_cn_long": "日本电子游戏公司，以《炸弹人》和《桃太郎电铁》系列闻名。"
     },
     {
       "name": "Idea Factory",
@@ -3172,9 +3172,9 @@
       "wiki_url": "/wiki_pages/idea_factory",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "创意工厂",
+      "confidence": "B",
+      "tag_cn_long": "日本电子游戏开发商，以策略角色扮演游戏闻名。"
     },
     {
       "name": "miHoYo",
@@ -3182,9 +3182,9 @@
       "wiki_url": "/wiki_pages/mihoyo",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "米哈游",
+      "confidence": "A",
+      "tag_cn_long": "中国电子游戏公司，以《原神》和《崩坏》系列闻名。"
     },
     {
       "name": "Nexon",
@@ -3192,9 +3192,9 @@
       "wiki_url": "/wiki_pages/nexon",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纳克森",
+      "confidence": "A",
+      "tag_cn_long": "韩国电子游戏公司，专注于在线游戏，代表作《蓝色档案》。"
     },
     {
       "name": "Nihon Falcom",
@@ -3202,9 +3202,9 @@
       "wiki_url": "/wiki_pages/falcom",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本法尔康",
+      "confidence": "B",
+      "tag_cn_long": "日本电子游戏公司，以《伊苏》和《轨迹》系列闻名。"
     },
     {
       "name": "Nintendo",
@@ -3212,9 +3212,9 @@
       "wiki_url": "/wiki_pages/nintendo",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "任天堂",
+      "confidence": "A",
+      "tag_cn_long": "日本著名电子游戏公司，以马利欧和宝可梦系列闻名。"
     },
     {
       "name": "Shanghai YoStar",
@@ -3222,9 +3222,9 @@
       "wiki_url": "/wiki_pages/yostar",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "上海悠星",
+      "confidence": "A",
+      "tag_cn_long": "中国游戏发行公司，代理多款手游。"
     },
     {
       "name": "Sega",
@@ -3232,9 +3232,9 @@
       "wiki_url": "/wiki_pages/sega",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "世嘉",
+      "confidence": "A",
+      "tag_cn_long": "日本电子游戏公司，以索尼克系列和街机游戏闻名。"
     },
     {
       "name": "SNK",
@@ -3242,9 +3242,9 @@
       "wiki_url": "/wiki_pages/snk",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "SNK",
+      "confidence": "A",
+      "tag_cn_long": "日本游戏公司，代表作《拳皇》《合金弹头》。"
     },
     {
       "name": "Sony",
@@ -3252,9 +3252,9 @@
       "wiki_url": "/wiki_pages/sony",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "索尼",
+      "confidence": "A",
+      "tag_cn_long": "日本跨国电子及娱乐公司，旗下有PlayStation等品牌。"
     },
     {
       "name": "Square Enix",
@@ -3262,9 +3262,9 @@
       "wiki_url": "/wiki_pages/square_enix",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "史克威尔艾尼克斯",
+      "confidence": "A",
+      "tag_cn_long": "日本游戏开发商，代表作《最终幻想》《勇者斗恶龙》。"
     },
     {
       "name": "Type-Moon",
@@ -3272,9 +3272,9 @@
       "wiki_url": "/wiki_pages/type-moon",
       "category_path": "Video games",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "型月",
+      "confidence": "A",
+      "tag_cn_long": "日本媒体公司，以《月姬》《Fate/stay night》闻名。"
     },
     {
       "name": "Clorox",
@@ -3282,9 +3282,9 @@
       "wiki_url": "/wiki_pages/clorox",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高乐氏",
+      "confidence": "B",
+      "tag_cn_long": "美国日用品公司，以漂白剂和清洁产品闻名。"
     },
     {
       "name": "Coppertone",
@@ -3292,9 +3292,9 @@
       "wiki_url": "/wiki_pages/coppertone",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水宝宝",
+      "confidence": "A",
+      "tag_cn_long": "防晒霜品牌，以其标志性广告女童被狗拉扯裤子的形象著名。"
     },
     {
       "name": "Hasbro",
@@ -3302,9 +3302,9 @@
       "wiki_url": "/wiki_pages/hasbro",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "孩之宝",
+      "confidence": "A",
+      "tag_cn_long": "美国玩具公司，旗下拥有《变形金刚》《小马宝莉》等知名品牌。"
     },
     {
       "name": "Marie Maison de Mieux",
@@ -3312,9 +3312,9 @@
       "wiki_url": "/wiki_pages/marie_maison_de_mieux",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玛丽美森",
+      "confidence": "C",
+      "tag_cn_long": "毛绒玩具品牌，以商品系列“Cat Cat Cat!”闻名。"
     },
     {
       "name": "Marlboro",
@@ -3322,9 +3322,9 @@
       "wiki_url": "/wiki_pages/marlboro",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "万宝路",
+      "confidence": "A",
+      "tag_cn_long": "美国香烟品牌，由菲利普莫里斯公司生产。"
     },
     {
       "name": "Sanrio",
@@ -3332,9 +3332,9 @@
       "wiki_url": "/wiki_pages/sanrio",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三丽鸥",
+      "confidence": "A",
+      "tag_cn_long": "日本角色商品公司，代表角色为Hello Kitty。"
     },
     {
       "name": "San-X",
@@ -3342,9 +3342,9 @@
       "wiki_url": "/wiki_pages/san-x",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "San-X",
+      "confidence": "B",
+      "tag_cn_long": "日本文具公司，以创作轻松熊等可爱角色闻名。"
     },
     {
       "name": "Tide",
@@ -3352,9 +3352,9 @@
       "wiki_url": "/wiki_pages/tide_%28detergent%29",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "汰渍",
+      "confidence": "A",
+      "tag_cn_long": "宝洁公司旗下的洗衣产品品牌。"
     },
     {
       "name": "Tomy",
@@ -3362,9 +3362,9 @@
       "wiki_url": "/wiki_pages/tomy_company_ltd.",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多美",
+      "confidence": "A",
+      "tag_cn_long": "日本玩具公司，以玩具车和儿童玩具著称。"
     },
     {
       "name": "YouTooz",
@@ -3372,9 +3372,9 @@
       "wiki_url": "/wiki_pages/youtooz",
       "category_path": "Misc. Consumer Goods",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "YouTooz",
+      "confidence": "B",
+      "tag_cn_long": "美国公司，主要生产网络名人及迷因主题的手办和毛绒玩具。"
     },
     {
       "name": "7-Eleven",
@@ -3382,9 +3382,9 @@
       "wiki_url": "/wiki_pages/7-eleven",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "7-11",
+      "confidence": "A",
+      "tag_cn_long": "全球连锁24小时便利店品牌。"
     },
     {
       "name": "Amazon",
@@ -3392,9 +3392,9 @@
       "wiki_url": "/wiki_pages/amazon_%28company%29",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "亚马逊",
+      "confidence": "A",
+      "tag_cn_long": "美国跨国电商公司，业务涵盖云计算、数字流媒体等。"
     },
     {
       "name": "Circle K Sunkus",
@@ -3402,9 +3402,9 @@
       "wiki_url": "/wiki_pages/circle_k_sunkus",
       "category_path": "Retail and Services",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Circle K Sunkus",
+      "confidence": "C",
+      "tag_cn_long": "日本便利店连锁品牌，由Circle K和Sunkus合并而成。"
     },
     {
       "name": "FamilyMart",
@@ -3412,9 +3412,9 @@
       "wiki_url": "/wiki_pages/familymart",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全家",
+      "confidence": "A",
+      "tag_cn_long": "日本第二大便利店连锁品牌。"
     },
     {
       "name": "Fedex",
@@ -3432,9 +3432,9 @@
       "wiki_url": "/wiki_pages/ikea",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宜家",
+      "confidence": "A",
+      "tag_cn_long": "瑞典家具零售商，以可组装家具和瑞典肉丸闻名。"
     },
     {
       "name": "Isetan",
@@ -3442,9 +3442,9 @@
       "wiki_url": "/wiki_pages/isetan_%28department_store%29",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伊势丹",
+      "confidence": "A",
+      "tag_cn_long": "日本知名百货公司品牌。"
     },
     {
       "name": "Lawson",
@@ -3452,9 +3452,9 @@
       "wiki_url": "/wiki_pages/lawson",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗森",
+      "confidence": "A",
+      "tag_cn_long": "日本连锁便利店品牌。"
     },
     {
       "name": "Marui",
@@ -3462,9 +3462,9 @@
       "wiki_url": "/wiki_pages/marui_%28company%29",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丸井",
+      "confidence": "A",
+      "tag_cn_long": "日本百货公司品牌。"
     },
     {
       "name": "MasterCard",
@@ -3472,9 +3472,9 @@
       "wiki_url": "/wiki_pages/mastercard",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "万事达卡",
+      "confidence": "A",
+      "tag_cn_long": "国际信用卡品牌，标志为红黄两色重叠圆。"
     },
     {
       "name": "Mitsukoshi",
@@ -3482,9 +3482,9 @@
       "wiki_url": "/wiki_pages/mitsukoshi_%28department_store%29",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三越",
+      "confidence": "B",
+      "tag_cn_long": "日本百货公司，也可指相关角色或艺术家。"
     },
     {
       "name": "Sofmap",
@@ -3492,9 +3492,9 @@
       "wiki_url": "/wiki_pages/sofmap",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Sofmap",
+      "confidence": "A",
+      "tag_cn_long": "日本一家销售新旧电子产品的零售商，Bic Camera旗下子公司。"
     },
     {
       "name": "Walmart",
@@ -3502,9 +3502,9 @@
       "wiki_url": "/wiki_pages/walmart",
       "category_path": "Retail and Services",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "沃尔玛",
+      "confidence": "A",
+      "tag_cn_long": "美国零售连锁超市品牌。"
     },
     {
       "name": "CSX Corporation",
@@ -3512,9 +3512,9 @@
       "wiki_url": "/wiki_pages/csx_corporation",
       "category_path": "Freight and Package Delivery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "CSX公司",
+      "confidence": "B",
+      "tag_cn_long": "美国铁路货运控股公司。"
     },
     {
       "name": "DHL",
@@ -3522,9 +3522,9 @@
       "wiki_url": "/wiki_pages/dhl",
       "category_path": "Freight and Package Delivery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "DHL",
+      "confidence": "A",
+      "tag_cn_long": "国际快递物流公司。"
     },
     {
       "name": "FedEx",
@@ -3532,9 +3532,9 @@
       "wiki_url": "/wiki_pages/fedex",
       "category_path": "Freight and Package Delivery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "联邦快递",
+      "confidence": "A",
+      "tag_cn_long": "美国跨国快递服务公司。"
     },
     {
       "name": "Sagawa Express",
@@ -3542,9 +3542,9 @@
       "wiki_url": "/wiki_pages/sagawa_express",
       "category_path": "Freight and Package Delivery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佐川急便",
+      "confidence": "A",
+      "tag_cn_long": "日本快递运输公司。"
     },
     {
       "name": "United Parcel Service",
@@ -3552,9 +3552,9 @@
       "wiki_url": "/wiki_pages/united_parcel_service",
       "category_path": "Freight and Package Delivery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "UPS",
+      "confidence": "A",
+      "tag_cn_long": "美国快递运输公司，全称联合包裹服务。"
     },
     {
       "name": "United States Postal Service",
@@ -3562,9 +3562,9 @@
       "wiki_url": "/wiki_pages/united_states_postal_service",
       "category_path": "Freight and Package Delivery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "USPS",
+      "confidence": "A",
+      "tag_cn_long": "美国邮政服务机构。"
     },
     {
       "name": "Yamato Transport",
@@ -3572,9 +3572,9 @@
       "wiki_url": "/wiki_pages/yamato_transport",
       "category_path": "Freight and Package Delivery",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雅玛多运输",
+      "confidence": "A",
+      "tag_cn_long": "日本快递公司，标志为黑猫。"
     },
     {
       "name": "All Nippon Airways",
@@ -3582,9 +3582,9 @@
       "wiki_url": "/wiki_pages/all_nippon_airways",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全日空",
+      "confidence": "A",
+      "tag_cn_long": "日本航空公司，简称ANA。"
     },
     {
       "name": "Cathay Pacific",
@@ -3592,9 +3592,9 @@
       "wiki_url": "/wiki_pages/cathay_pacific",
       "category_path": "Transportation",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "国泰航空",
+      "confidence": "A",
+      "tag_cn_long": "香港航空公司。"
     },
     {
       "name": "Enoshima Electric Railway",
@@ -3602,9 +3602,9 @@
       "wiki_url": "/wiki_pages/enoshima_electric_railway",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "江之岛电铁",
+      "confidence": "A",
+      "tag_cn_long": "日本镰仓的铁路线，又称江之电。"
     },
     {
       "name": "Japan Airlines",
@@ -3612,9 +3612,9 @@
       "wiki_url": "/wiki_pages/japan_airlines",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本航空",
+      "confidence": "A",
+      "tag_cn_long": "日本国家航空公司，简称JAL。"
     },
     {
       "name": "Japan Railways",
@@ -3622,9 +3622,9 @@
       "wiki_url": "/wiki_pages/japan_railways",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本铁路",
+      "confidence": "A",
+      "tag_cn_long": "日本铁路集团，简称JR。"
     },
     {
       "name": "East Japan Railway Company",
@@ -3632,9 +3632,9 @@
       "wiki_url": "/wiki_pages/east_japan_railway_company",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "JR东日本",
+      "confidence": "A",
+      "tag_cn_long": "东日本旅客铁道，日本铁路公司之一。"
     },
     {
       "name": "Central Japan Railway Company",
@@ -3642,9 +3642,9 @@
       "wiki_url": "/wiki_pages/central_japan_railway_company",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "JR东海",
+      "confidence": "A",
+      "tag_cn_long": "东海旅客铁道，日本铁路公司之一。"
     },
     {
       "name": "West Japan Railway Company",
@@ -3652,9 +3652,9 @@
       "wiki_url": "/wiki_pages/west_japan_railway_company",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "JR西日本",
+      "confidence": "A",
+      "tag_cn_long": "西日本旅客铁道，日本铁路公司之一。"
     },
     {
       "name": "Keihin Kyuukou Dentetsu",
@@ -3662,9 +3662,9 @@
       "wiki_url": "/wiki_pages/keihin_kyuukou_dentetsu",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "京滨急行电铁",
+      "confidence": "A",
+      "tag_cn_long": "连接东京、羽田机场、川崎和横须贺的铁路公司。"
     },
     {
       "name": "Keio Dentetsu",
@@ -3672,9 +3672,9 @@
       "wiki_url": "/wiki_pages/keio_dentetsu",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "京王电铁",
+      "confidence": "A",
+      "tag_cn_long": "日本铁路公司，经营京王线等线路。"
     },
     {
       "name": "Kereta Api Indonesia",
@@ -3682,9 +3682,9 @@
       "wiki_url": "/wiki_pages/kereta_api_indonesia",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印尼铁路",
+      "confidence": "A",
+      "tag_cn_long": "印度尼西亚主要的铁路运营商。"
     },
     {
       "name": "Kereta Cepat Indonesia-China (KCIC(Whoosh))",
@@ -3692,9 +3692,9 @@
       "wiki_url": "/wiki_pages/kereta_cepat_indonesia_china",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印尼中国高铁",
+      "confidence": "B",
+      "tag_cn_long": "印度尼西亚与中国合作建设的高速铁路系统，雅万高铁。"
     },
     {
       "name": "Long Island Rail Road",
@@ -3702,9 +3702,9 @@
       "wiki_url": "/wiki_pages/long_island_rail_road",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长岛铁路",
+      "confidence": "A",
+      "tag_cn_long": "美国纽约长岛的铁路系统。"
     },
     {
       "name": "Moscow Metro",
@@ -3712,9 +3712,9 @@
       "wiki_url": "/wiki_pages/moscow_metro",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莫斯科地铁",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯莫斯科的地铁系统，以其华丽的地下站台闻名。"
     },
     {
       "name": "Odakyu Electric Railway",
@@ -3722,9 +3722,9 @@
       "wiki_url": "/wiki_pages/odakyu_electric_railway",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小田急电铁",
+      "confidence": "A",
+      "tag_cn_long": "日本小田急电铁公司。"
     },
     {
       "name": "Peach",
@@ -3732,9 +3732,9 @@
       "wiki_url": "/wiki_pages/peach_%28airline%29",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "桃子航空",
+      "confidence": "B",
+      "tag_cn_long": "日本廉航航空公司，以桃子为标志。"
     },
     {
       "name": "Qantas",
@@ -3742,9 +3742,9 @@
       "wiki_url": "/wiki_pages/qantas",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "澳洲航空",
+      "confidence": "A",
+      "tag_cn_long": "澳大利亚的旗舰航空公司，昵称‘飞翔的袋鼠’。"
     },
     {
       "name": "Russian Railways",
@@ -3752,9 +3752,9 @@
       "wiki_url": "/wiki_pages/russian_railways",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俄罗斯铁路",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯的全国性铁路公司。"
     },
     {
       "name": "Seibu Railway",
@@ -3762,9 +3762,9 @@
       "wiki_url": "/wiki_pages/seibu_railway",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西武铁道",
+      "confidence": "A",
+      "tag_cn_long": "日本西武铁道公司。"
     },
     {
       "name": "Singapore Airlines",
@@ -3772,9 +3772,9 @@
       "wiki_url": "/wiki_pages/singapore_airlines",
       "category_path": "Transportation",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新加坡航空",
+      "confidence": "A",
+      "tag_cn_long": "新加坡的旗舰航空公司。"
     },
     {
       "name": "Tobu Railway",
@@ -3782,9 +3782,9 @@
       "wiki_url": "/wiki_pages/tobu_railway",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东武铁道",
+      "confidence": "A",
+      "tag_cn_long": "日本东武铁道公司。"
     },
     {
       "name": "Tokyo Metro",
@@ -3792,9 +3792,9 @@
       "wiki_url": "/wiki_pages/tokyo_metro",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京地铁",
+      "confidence": "A",
+      "tag_cn_long": "东京的两大地铁公司之一，前身为营团地铁。"
     },
     {
       "name": "Tokyo Rinkai Kousoku Tetsudou",
@@ -3802,9 +3802,9 @@
       "wiki_url": "/wiki_pages/tokyo_rinkai_kousoku_tetsudou",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京临海高速铁道",
+      "confidence": "A",
+      "tag_cn_long": "东京临海地区的铁路公司，经营临海线。"
     },
     {
       "name": "Yurikamome",
@@ -3812,9 +3812,9 @@
       "wiki_url": "/wiki_pages/yurikamome_%28company%29",
       "category_path": "Transportation",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百合海鸥线",
+      "confidence": "A",
+      "tag_cn_long": "东京的无人驾驶新交通系统，连接新桥和丰洲。"
     },
     {
       "name": "brand name imitation",
@@ -3822,9 +3822,9 @@
       "wiki_url": "/wiki_pages/brand_name_imitation",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "品牌模仿",
+      "confidence": "A",
+      "tag_cn_long": "修改过的品牌标志以避免法律诉讼。"
     },
     {
       "name": "company name",
@@ -3832,9 +3832,9 @@
       "wiki_url": "/wiki_pages/company_name",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "公司名称",
+      "confidence": "A",
+      "tag_cn_long": "图片中出现的公司名称。"
     },
     {
       "name": "logo",
@@ -3842,9 +3842,9 @@
       "wiki_url": "/wiki_pages/logo",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "标志",
+      "confidence": "A",
+      "tag_cn_long": "图片中带有公司或品牌的标志。"
     },
     {
       "name": "product placement",
@@ -3852,9 +3852,9 @@
       "wiki_url": "/wiki_pages/product_placement",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "产品植入",
+      "confidence": "A",
+      "tag_cn_long": "图片中故意展示知名品牌作为广告。"
     }
   ],
   "total_tags": 376,

@@ -1,0 +1,6 @@
+{
+  "tag": "Pouring",
+  "tag_cn": "倒液体",
+  "confidence": "A",
+  "tag_cn_long": "将液体从容器中倒出的行为。"
+}

@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/balaclava",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头罩",
+      "confidence": "A",
+      "tag_cn_long": "覆盖整个头部仅露出眼睛或嘴的面罩，常用于犯罪或特警。"
     },
     {
       "name": "coif",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/coif",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身帽",
+      "confidence": "B",
+      "tag_cn_long": "中世纪起源的紧贴头部帽子，有时带垂片。"
     },
     {
       "name": "crown",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/diadem",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "额冠",
+      "confidence": "A",
+      "tag_cn_long": "一种装饰性头带，常作为王室标志。"
     },
     {
       "name": "hair bow",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/hair_tie",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发圈",
+      "confidence": "A",
+      "tag_cn_long": "用于扎头发的小型弹性带子。"
     },
     {
       "name": "hairband",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/hat",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子",
+      "confidence": "A",
+      "tag_cn_long": "戴在头上的服饰，通常有帽檐。"
     },
     {
       "name": "headband",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/headband",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头带",
+      "confidence": "A",
+      "tag_cn_long": "横跨前额佩戴的带子，用于吸汗或装饰。"
     },
     {
       "name": "forehead protector",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/forehead_protector",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护额",
+      "confidence": "A",
+      "tag_cn_long": "保护额头的护具，常见于忍者等角色。"
     },
     {
       "name": "sweatband",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/sweatband",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吸汗带",
+      "confidence": "A",
+      "tag_cn_long": "用于吸汗的头带或腕带，通常材质毛绒。"
     },
     {
       "name": "hachimaki",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/hachimaki",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钵卷",
+      "confidence": "A",
+      "tag_cn_long": "日本传统布制头带，用于表示干劲或团队颜色。"
     },
     {
       "name": "mongkhon",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/mongkhon",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒙空",
+      "confidence": "B",
+      "tag_cn_long": "泰拳运动员佩戴的传统头带。"
     },
     {
       "name": "headdress",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/headdress",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头饰",
+      "confidence": "A",
+      "tag_cn_long": "装饰性头部饰物，常用于仪式场合。"
     },
     {
       "name": "maid headdress",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/maid_headdress",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女仆头饰",
+      "confidence": "A",
+      "tag_cn_long": "常与女仆制服搭配的荷叶边发带。"
     },
     {
       "name": "headscarf",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/headscarf",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头巾",
+      "confidence": "A",
+      "tag_cn_long": "戴在头上的围巾。"
     },
     {
       "name": "hijab",
@@ -260,9 +260,9 @@
       "wiki_url": "/wiki_pages/hijab",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "希贾布",
+      "confidence": "A",
+      "tag_cn_long": "伊斯兰女性佩戴的头巾。"
     },
     {
       "name": "tiara",
@@ -270,9 +270,9 @@
       "wiki_url": "/wiki_pages/tiara",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小皇冠",
+      "confidence": "A",
+      "tag_cn_long": "一种金属制成的半圆形头饰，通常镶有宝石，常见于公主或偶像。"
     },
     {
       "name": "veil",
@@ -280,9 +280,9 @@
       "wiki_url": "/wiki_pages/veil",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面纱",
+      "confidence": "A",
+      "tag_cn_long": "用于遮盖部分头部或面部的衣物，常由透明织物制成。"
     },
     {
       "name": "honggaitou",
@@ -290,9 +290,9 @@
       "wiki_url": "/wiki_pages/honggaitou",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红盖头",
+      "confidence": "A",
+      "tag_cn_long": "中国汉族新娘在婚礼上戴的红色盖头。"
     },
     {
       "name": "wimple",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/wimple",
       "category_path": "Headwear and Headgear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "修女头巾",
+      "confidence": "A",
+      "tag_cn_long": "中世纪起源的包住头部和下巴的头巾，常见于修女装束。"
     },
     {
       "name": "blouse",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/blouse",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女式衬衫",
+      "confidence": "A",
+      "tag_cn_long": "一种宽松的女式上衣，通常不扎进裤子里。"
     },
     {
       "name": "frilled shirt",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/frilled_shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边衬衫",
+      "confidence": "A",
+      "tag_cn_long": "带有褶边装饰的衬衫。"
     },
     {
       "name": "sleeveless shirt",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/sleeveless_shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖衬衫",
+      "confidence": "A",
+      "tag_cn_long": "一种没有袖子的衬衫。"
     },
     {
       "name": "bustier",
@@ -340,9 +340,9 @@
       "wiki_url": "/wiki_pages/bustier",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身胸衣",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身内衣，从胸部延伸至腰部以上，用于支撑和塑造胸部。"
     },
     {
       "name": "crop top",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/crop_top",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露脐上衣",
+      "confidence": "A",
+      "tag_cn_long": "长度较短的上衣，通常暴露腹部和肚脐。"
     },
     {
       "name": "camisole",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/camisole",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊带背心",
+      "confidence": "A",
+      "tag_cn_long": "一种细肩带的无袖上衣，可作为外衣或内衣穿着。"
     },
     {
       "name": "cardigan",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/cardigan",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开衫",
+      "confidence": "A",
+      "tag_cn_long": "前开襟的毛衣或外套，通常用纽扣或拉链闭合。"
     },
     {
       "name": "cardigan vest",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/cardigan_vest",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "开衫背心",
+      "confidence": "A",
+      "tag_cn_long": "一种无袖的开襟背心，通常有纽扣。"
     },
     {
       "name": "coat",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/coat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大衣",
+      "confidence": "A",
+      "tag_cn_long": "一种较长的外衣，通常用于保暖或时尚。"
     },
     {
       "name": "duffel coat",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/duffel_coat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牛角扣大衣",
+      "confidence": "A",
+      "tag_cn_long": "一种用绳扣和环固定的冬季大衣。"
     },
     {
       "name": "fur coat",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/fur_coat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮大衣",
+      "confidence": "A",
+      "tag_cn_long": "用动物毛皮制成的大衣。"
     },
     {
       "name": "fur-trimmed coat",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/fur-trimmed_coat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛边大衣",
+      "confidence": "A",
+      "tag_cn_long": "边缘带有毛皮装饰的大衣。"
     },
     {
       "name": "long coat",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/long_coat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长款大衣",
+      "confidence": "A",
+      "tag_cn_long": "长度超过膝盖的大衣。"
     },
     {
       "name": "overcoat",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/overcoat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "厚大衣",
+      "confidence": "A",
+      "tag_cn_long": "一种厚重的保暖外套，通常穿在夹克外面。"
     },
     {
       "name": "peacoat",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/peacoat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海军呢大衣",
+      "confidence": "A",
+      "tag_cn_long": "一种双排扣的短毛呢大衣，带有宽大的翻领。"
     },
     {
       "name": "raincoat",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/raincoat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雨衣",
+      "confidence": "A",
+      "tag_cn_long": "防水的上衣，用于雨天穿着。"
     },
     {
       "name": "yellow raincoat",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/yellow_raincoat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色雨衣",
+      "confidence": "A",
+      "tag_cn_long": "亮黄色的橡胶雨衣，常见于渔夫形象。"
     },
     {
       "name": "see-through raincoat",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/see-through_raincoat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透明雨衣",
+      "confidence": "A",
+      "tag_cn_long": "由透明塑料制成的雨衣，可清晰看到内层衣物。"
     },
     {
       "name": "trench coat",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/trench_coat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "风衣",
+      "confidence": "A",
+      "tag_cn_long": "一种长款防雨外套，常与侦探或隐秘角色关联。"
     },
     {
       "name": "winter coat",
@@ -500,9 +500,9 @@
       "wiki_url": "/wiki_pages/winter_coat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冬季外套",
+      "confidence": "A",
+      "tag_cn_long": "专为保暖设计的厚实外套，看起来比普通外套更暖和。"
     },
     {
       "name": "compression shirt",
@@ -510,9 +510,9 @@
       "wiki_url": "/wiki_pages/compression_shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "压缩衣",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身运动上衣，常用于运动员，提供肌肉支撑和吸汗。"
     },
     {
       "name": "corset",
@@ -520,9 +520,9 @@
       "wiki_url": "/wiki_pages/corset",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束腰",
+      "confidence": "A",
+      "tag_cn_long": "用于塑形的紧身胸衣，常系带。"
     },
     {
       "name": "deel",
@@ -530,9 +530,9 @@
       "wiki_url": "/wiki_pages/deel",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒙古袍",
+      "confidence": "B",
+      "tag_cn_long": "蒙古和突厥民族的传统长袍，长及膝下，侧边系扣。"
     },
     {
       "name": "dress",
@@ -540,9 +540,9 @@
       "wiki_url": "/wiki_pages/dress",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "一种上衣和裙子连为一体的服装。"
     },
     {
       "name": "halterneck",
@@ -550,9 +550,9 @@
       "wiki_url": "/wiki_pages/halterneck",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挂颈上衣",
+      "confidence": "A",
+      "tag_cn_long": "一种仅有一条带子绕过颈部的上衣款式，肩膀裸露。"
     },
     {
       "name": "criss-cross halter",
@@ -560,9 +560,9 @@
       "wiki_url": "/wiki_pages/criss-cross_halter",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉挂颈上衣",
+      "confidence": "A",
+      "tag_cn_long": "一种挂颈上衣，带子在胸前交叉成X形后再绕过颈部。"
     },
     {
       "name": "hoodie",
@@ -570,9 +570,9 @@
       "wiki_url": "/wiki_pages/hoodie",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连帽衫",
+      "confidence": "A",
+      "tag_cn_long": "带有兜帽的套头运动衫，常有抽绳。"
     },
     {
       "name": "jacket",
@@ -580,9 +580,9 @@
       "wiki_url": "/wiki_pages/jacket",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夹克",
+      "confidence": "A",
+      "tag_cn_long": "一种有袖、长度在臀部或腰部的轻薄外套。"
     },
     {
       "name": "blazer",
@@ -590,9 +590,9 @@
       "wiki_url": "/wiki_pages/blazer",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西装外套",
+      "confidence": "A",
+      "tag_cn_long": "类似西装外套但更休闲，常作为校服的一部分。"
     },
     {
       "name": "cropped jacket",
@@ -600,9 +600,9 @@
       "wiki_url": "/wiki_pages/cropped_jacket",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短夹克",
+      "confidence": "A",
+      "tag_cn_long": "长度仅到胸部下方的短夹克，也叫波列罗外套。"
     },
     {
       "name": "letterman jacket",
@@ -610,9 +610,9 @@
       "wiki_url": "/wiki_pages/letterman_jacket",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "校队夹克",
+      "confidence": "B",
+      "tag_cn_long": "美国高中/大学运动员常穿的夹克，胸前有大字母标志。"
     },
     {
       "name": "safari jacket",
@@ -620,9 +620,9 @@
       "wiki_url": "/wiki_pages/safari_jacket",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狩猎夹克",
+      "confidence": "A",
+      "tag_cn_long": "原用于非洲狩猎的轻便夹克，通常为卡其色。"
     },
     {
       "name": "suit jacket",
@@ -630,9 +630,9 @@
       "wiki_url": "/wiki_pages/suit_jacket",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西装夹克",
+      "confidence": "A",
+      "tag_cn_long": "与西装配套穿着的正式夹克，常有翻领。"
     },
     {
       "name": "sukajan",
@@ -640,9 +640,9 @@
       "wiki_url": "/wiki_pages/sukajan",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "横须贺夹克",
+      "confidence": "B",
+      "tag_cn_long": "一种背面和胸前有东方风格刺绣的夹克，源自二战后的日本纪念品。"
     },
     {
       "name": "trench coat",
@@ -650,9 +650,9 @@
       "wiki_url": "/wiki_pages/trench_coat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "风衣",
+      "confidence": "A",
+      "tag_cn_long": "一种长款防雨外套，常与侦探或隐秘角色关联。"
     },
     {
       "name": "nightgown",
@@ -660,9 +660,9 @@
       "wiki_url": "/wiki_pages/nightgown",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睡裙",
+      "confidence": "A",
+      "tag_cn_long": "女性穿的宽松睡衣，长度从臀部到地板不等。"
     },
     {
       "name": "muneate",
@@ -670,9 +670,9 @@
       "wiki_url": "/wiki_pages/muneate",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弓道护胸",
+      "confidence": "B",
+      "tag_cn_long": "女性弓道练习者用来保护胸部免受弓弦击打的护具。"
     },
     {
       "name": "poncho",
@@ -680,9 +680,9 @@
       "wiki_url": "/wiki_pages/poncho",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斗篷",
+      "confidence": "A",
+      "tag_cn_long": "一种中间有开口的毯状披肩，从头部套入。"
     },
     {
       "name": "raglan sleeves",
@@ -690,9 +690,9 @@
       "wiki_url": "/wiki_pages/raglan_sleeves",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "插肩袖",
+      "confidence": "A",
+      "tag_cn_long": "一种袖子从腋下斜线连接到领口的袖型，常见于运动服。"
     },
     {
       "name": "robe",
@@ -700,9 +700,9 @@
       "wiki_url": "/wiki_pages/robe",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长袍",
+      "confidence": "A",
+      "tag_cn_long": "宽松的外衣，通常有袖子，长至膝或脚踝。"
     },
     {
       "name": "thobe",
@@ -710,9 +710,9 @@
       "wiki_url": "/wiki_pages/thobe",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿拉伯长袍",
+      "confidence": "B",
+      "tag_cn_long": "阿拉伯男性穿的传统长袖长袍，通常浅色。"
     },
     {
       "name": "sash",
@@ -720,9 +720,9 @@
       "wiki_url": "/wiki_pages/sash",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绶带",
+      "confidence": "A",
+      "tag_cn_long": "一种装饰性带子，可斜挎或系在腰间。"
     },
     {
       "name": "shoulder sash",
@@ -730,9 +730,9 @@
       "wiki_url": "/wiki_pages/shoulder_sash",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩部绶带",
+      "confidence": "A",
+      "tag_cn_long": "从一肩斜跨到对侧腰部的装饰带。"
     },
     {
       "name": "stole",
@@ -740,9 +740,9 @@
       "wiki_url": "/wiki_pages/stole",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披肩",
+      "confidence": "A",
+      "tag_cn_long": "搭在肩头或颈部的宽幅布料，两端自然下垂，常为正式或宗教服饰。"
     },
     {
       "name": "scapular",
@@ -750,9 +750,9 @@
       "wiki_url": "/wiki_pages/scapular",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩衣",
+      "confidence": "B",
+      "tag_cn_long": "基督教服装，搭在肩上前后垂下的布片，类似无袖短袍。"
     },
     {
       "name": "shirt",
@@ -760,9 +760,9 @@
       "wiki_url": "/wiki_pages/shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衬衫",
+      "confidence": "A",
+      "tag_cn_long": "穿在上半身的衣物。"
     },
     {
       "name": "collared shirt",
@@ -770,9 +770,9 @@
       "wiki_url": "/wiki_pages/collared_shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有领衬衫",
+      "confidence": "A",
+      "tag_cn_long": "一种带有翻领的衬衫。"
     },
     {
       "name": "dress shirt",
@@ -780,9 +780,9 @@
       "wiki_url": "/wiki_pages/dress_shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "正装衬衫",
+      "confidence": "A",
+      "tag_cn_long": "前面有纽扣的有领衬衫，通常用于正式场合。"
     },
     {
       "name": "off-shoulder shirt",
@@ -790,9 +790,9 @@
       "wiki_url": "/wiki_pages/off-shoulder_shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露肩衬衫",
+      "confidence": "A",
+      "tag_cn_long": "一种领口宽大、自然露出肩膀的衬衫。"
     },
     {
       "name": "sleeveless shirt",
@@ -800,9 +800,9 @@
       "wiki_url": "/wiki_pages/sleeveless_shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖衬衫",
+      "confidence": "A",
+      "tag_cn_long": "一种没有袖子的衬衫。"
     },
     {
       "name": "striped shirt",
@@ -810,9 +810,9 @@
       "wiki_url": "/wiki_pages/striped_shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹衬衫",
+      "confidence": "A",
+      "tag_cn_long": "带有两种或更多颜色条纹图案的衬衫。"
     },
     {
       "name": "t-shirt",
@@ -820,9 +820,9 @@
       "wiki_url": "/wiki_pages/t-shirt",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "T恤",
+      "confidence": "A",
+      "tag_cn_long": "无领的休闲上衣，通常短袖，原本作为内衣穿着。"
     },
     {
       "name": "shrug",
@@ -830,9 +830,9 @@
       "wiki_url": "/wiki_pages/shrug_%28clothing%29",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短开衫",
+      "confidence": "C",
+      "tag_cn_long": "一种短款的开襟外套，通常无扣。"
     },
     {
       "name": "surcoat",
@@ -840,9 +840,9 @@
       "wiki_url": "/wiki_pages/surcoat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罩袍",
+      "confidence": "A",
+      "tag_cn_long": "穿在其他衣物外面的外套，中世纪骑士常穿于铠甲外。"
     },
     {
       "name": "sweater",
@@ -850,9 +850,9 @@
       "wiki_url": "/wiki_pages/sweater",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛衣",
+      "confidence": "A",
+      "tag_cn_long": "较厚的上衣，通常覆盖躯干和手臂，常用羊毛或棉制成。"
     },
     {
       "name": "turtleneck sweater",
@@ -860,9 +860,9 @@
       "wiki_url": "/wiki_pages/turtleneck_sweater",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高领毛衣",
+      "confidence": "A",
+      "tag_cn_long": "带有高领的毛衣。"
     },
     {
       "name": "sleeveless turtleneck",
@@ -870,9 +870,9 @@
       "wiki_url": "/wiki_pages/sleeveless_turtleneck",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖高领衫",
+      "confidence": "A",
+      "tag_cn_long": "一种无袖的高领上衣。"
     },
     {
       "name": "sweater dress",
@@ -880,9 +880,9 @@
       "wiki_url": "/wiki_pages/sweater_dress",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛衣连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "加长至臀部以下的毛衣，作为连衣裙穿着。"
     },
     {
       "name": "ribbed sweater",
@@ -890,9 +890,9 @@
       "wiki_url": "/wiki_pages/ribbed_sweater",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗纹毛衣",
+      "confidence": "A",
+      "tag_cn_long": "具有罗纹图案的毛衣，呈现垂直条纹，通常很贴身。"
     },
     {
       "name": "aran sweater",
@@ -900,9 +900,9 @@
       "wiki_url": "/wiki_pages/aran_sweater",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿兰毛衣",
+      "confidence": "A",
+      "tag_cn_long": "源自爱尔兰阿兰群岛的毛衣，通常有电缆花纹，颜色呈乳白色。"
     },
     {
       "name": "tabard",
@@ -910,9 +910,9 @@
       "wiki_url": "/wiki_pages/tabard",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纹章战袍",
+      "confidence": "A",
+      "tag_cn_long": "一种无袖或短袖的外衣，上面装饰有纹章或标志，穿在铠甲或衣服外。"
     },
     {
       "name": "tailcoat",
@@ -920,9 +920,9 @@
       "wiki_url": "/wiki_pages/tailcoat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "燕尾服",
+      "confidence": "A",
+      "tag_cn_long": "一种长款的正式外套，背后有两个垂下的衣尾，通常带有翻领。"
     },
     {
       "name": "tank top",
@@ -930,9 +930,9 @@
       "wiki_url": "/wiki_pages/tank_top",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背心",
+      "confidence": "A",
+      "tag_cn_long": "一种无袖上衣，有较宽的肩带，男女皆可穿着。"
     },
     {
       "name": "stringer",
@@ -940,9 +940,9 @@
       "wiki_url": "/wiki_pages/stringer",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "工字背心",
+      "confidence": "A",
+      "tag_cn_long": "一种男性背心，领口较深，旨在展示肌肉。"
     },
     {
       "name": "tube top",
@@ -950,9 +950,9 @@
       "wiki_url": "/wiki_pages/tube_top",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抹胸",
+      "confidence": "A",
+      "tag_cn_long": "一种无肩带、管状包裹躯干的上衣，通常只覆盖胸部或部分躯干。"
     },
     {
       "name": "bandeau",
@@ -960,9 +960,9 @@
       "wiki_url": "/wiki_pages/bandeau",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抹胸",
+      "confidence": "A",
+      "tag_cn_long": "一种窄带状的胸衣，仅覆盖乳房，常用于泳装或内衣。"
     },
     {
       "name": "underbust",
@@ -970,9 +970,9 @@
       "wiki_url": "/wiki_pages/underbust",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下胸围服饰",
+      "confidence": "B",
+      "tag_cn_long": "穿在乳房下方的衣物，用于托高或突出胸部。"
     },
     {
       "name": "vest",
@@ -980,9 +980,9 @@
       "wiki_url": "/wiki_pages/vest",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马甲",
+      "confidence": "A",
+      "tag_cn_long": "一种无袖无领的服装，通常穿在衬衫或上衣外面。"
     },
     {
       "name": "sweater vest",
@@ -990,9 +990,9 @@
       "wiki_url": "/wiki_pages/sweater_vest",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛衣背心",
+      "confidence": "A",
+      "tag_cn_long": "一种无袖的毛衣，形似背心，通常穿在衬衫外面。"
     },
     {
       "name": "waistcoat",
@@ -1000,9 +1000,9 @@
       "wiki_url": "/wiki_pages/waistcoat",
       "category_path": "Shirts and Topwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西装马甲",
+      "confidence": "A",
+      "tag_cn_long": "一种有纽扣的马甲，通常是正装的一部分，穿在衬衫外面、夹克里面。"
     },
     {
       "name": "bloomers",
@@ -1010,9 +1010,9 @@
       "wiki_url": "/wiki_pages/bloomers",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灯笼裤",
+      "confidence": "B",
+      "tag_cn_long": "一种女性内裤，类似平角裤，裤腿底部有收口，常饰有蕾丝或荷叶边。"
     },
     {
       "name": "buruma",
@@ -1020,9 +1020,9 @@
       "wiki_url": "/wiki_pages/buruma",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布鲁马",
+      "confidence": "B",
+      "tag_cn_long": "一种类似内裤的运动短裤，常用作体操服，是日本学校体育服的经典款式。"
     },
     {
       "name": "chaps",
@@ -1030,9 +1030,9 @@
       "wiki_url": "/wiki_pages/chaps",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护腿皮裤",
+      "confidence": "B",
+      "tag_cn_long": "一种保护性外套裤，起源于牛仔工作服，通常由皮革制成，只有裤腿没有裆部和臀部。"
     },
     {
       "name": "kilt",
@@ -1040,9 +1040,9 @@
       "wiki_url": "/wiki_pages/kilt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苏格兰裙",
+      "confidence": "A",
+      "tag_cn_long": "一种及膝的褶裙，源自苏格兰传统男性服饰，通常用格子呢制成。"
     },
     {
       "name": "pants",
@@ -1050,9 +1050,9 @@
       "wiki_url": "/wiki_pages/pants",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裤子",
+      "confidence": "A",
+      "tag_cn_long": "穿在腰部以下、覆盖双腿的服装，泛指各种长裤。"
     },
     {
       "name": "bell-bottoms",
@@ -1060,9 +1060,9 @@
       "wiki_url": "/wiki_pages/bell-bottoms",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喇叭裤",
+      "confidence": "A",
+      "tag_cn_long": "一种从膝盖以下逐渐变宽的裤子，常见于牛仔裤，又称喇叭牛仔裤。"
     },
     {
       "name": "capri pants",
@@ -1070,9 +1070,9 @@
       "wiki_url": "/wiki_pages/capri_pants",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "七分裤",
+      "confidence": "A",
+      "tag_cn_long": "一种裤脚长度在膝盖到脚踝之间的裤子，又称卡普里裤。"
     },
     {
       "name": "detached pants",
@@ -1080,9 +1080,9 @@
       "wiki_url": "/wiki_pages/detached_pants",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分离式裤子",
+      "confidence": "B",
+      "tag_cn_long": "类似分离式袖子，但指裤腿部分分离的设计。"
     },
     {
       "name": "jeans",
@@ -1090,9 +1090,9 @@
       "wiki_url": "/wiki_pages/jeans",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牛仔裤",
+      "confidence": "A",
+      "tag_cn_long": "用牛仔布制成的裤子，通常为蓝色或灰色。"
     },
     {
       "name": "cutoff jeans",
@@ -1100,9 +1100,9 @@
       "wiki_url": "/wiki_pages/cutoff_jeans",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "剪短牛仔裤",
+      "confidence": "A",
+      "tag_cn_long": "将牛仔裤剪短而成的短裤，裤脚留有粗糙边缘。"
     },
     {
       "name": "lowleg pants",
@@ -1110,9 +1110,9 @@
       "wiki_url": "/wiki_pages/lowleg_pants",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低腰裤",
+      "confidence": "B",
+      "tag_cn_long": "一种低腰设计的裤子，强调腰部和臀部线条，可能露出内裤。"
     },
     {
       "name": "pants rolled up",
@@ -1120,9 +1120,9 @@
       "wiki_url": "/wiki_pages/pants_rolled_up",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷裤腿",
+      "confidence": "A",
+      "tag_cn_long": "将裤腿向上卷起或折叠至小腿或膝盖处，形成短一截的效果。"
     },
     {
       "name": "yoga pants",
@@ -1130,9 +1130,9 @@
       "wiki_url": "/wiki_pages/yoga_pants",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瑜伽裤",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身弹力裤，原为瑜伽等运动设计，现也用作日常穿着的紧身裤。"
     },
     {
       "name": "pelvic curtain",
@@ -1140,9 +1140,9 @@
       "wiki_url": "/wiki_pages/pelvic_curtain",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裆部垂布",
+      "confidence": "B",
+      "tag_cn_long": "衣物上垂在裆部前后的一块布料，通常为矩形，露出大腿，常见于旗袍或兜裆布设计。"
     },
     {
       "name": "petticoat",
@@ -1150,9 +1150,9 @@
       "wiki_url": "/wiki_pages/petticoat",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衬裙",
+      "confidence": "A",
+      "tag_cn_long": "一种穿在裙子或连衣裙下面的女性内衣，用于增加裙摆蓬松度，常带有多层蕾丝。"
     },
     {
       "name": "sarong",
@@ -1160,9 +1160,9 @@
       "wiki_url": "/wiki_pages/sarong",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纱笼",
+      "confidence": "A",
+      "tag_cn_long": "一种围在腰间的布裙，常用于海滩或度假装扮。"
     },
     {
       "name": "shorts",
@@ -1170,9 +1170,9 @@
       "wiki_url": "/wiki_pages/shorts",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短裤",
+      "confidence": "A",
+      "tag_cn_long": "一种穿在腰部、不覆盖整个腿部的下装，长度通常在膝盖以上。"
     },
     {
       "name": "bike shorts",
@@ -1180,9 +1180,9 @@
       "wiki_url": "/wiki_pages/bike_shorts",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自行车短裤",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身、合身的运动短裤，长度到大腿中部，通常由尼龙和氨纶制成，用于骑车或运动。"
     },
     {
       "name": "denim shorts",
@@ -1190,9 +1190,9 @@
       "wiki_url": "/wiki_pages/denim_shorts",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牛仔短裤",
+      "confidence": "A",
+      "tag_cn_long": "用牛仔布制成的短裤，常为裁剪版。"
     },
     {
       "name": "dolphin shorts",
@@ -1200,9 +1200,9 @@
       "wiki_url": "/wiki_pages/dolphin_shorts",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海豚短裤",
+      "confidence": "B",
+      "tag_cn_long": "一种侧面有缺口的运动短裤，通常纯色镶边，长度短或超短。"
     },
     {
       "name": "gym shorts",
@@ -1210,9 +1210,9 @@
       "wiki_url": "/wiki_pages/gym_shorts",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动短裤",
+      "confidence": "A",
+      "tag_cn_long": "宽松的运动短裤，腰部与裤口直线裁剪，常纯色或侧边有竖条纹。"
     },
     {
       "name": "lowleg shorts",
@@ -1220,9 +1220,9 @@
       "wiki_url": "/wiki_pages/lowleg_shorts",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低腰短裤",
+      "confidence": "A",
+      "tag_cn_long": "腰线较低的短裤，会露出部分腹股沟区域。"
     },
     {
       "name": "micro shorts",
@@ -1230,9 +1230,9 @@
       "wiki_url": "/wiki_pages/micro_shorts",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超短裤",
+      "confidence": "B",
+      "tag_cn_long": "极短的短裤，短到容易被误认为是内裤。"
     },
     {
       "name": "pleated shorts",
@@ -1240,9 +1240,9 @@
       "wiki_url": "/wiki_pages/pleated_shorts",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百褶短裤",
+      "confidence": "A",
+      "tag_cn_long": "带有垂直褶皱的短裤。"
     },
     {
       "name": "short shorts",
@@ -1250,9 +1250,9 @@
       "wiki_url": "/wiki_pages/short_shorts",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "热裤",
+      "confidence": "A",
+      "tag_cn_long": "极短的短裤，内缝长度小于2英寸，露出大部分腿部。"
     },
     {
       "name": "shorts under skirt",
@@ -1260,9 +1260,9 @@
       "wiki_url": "/wiki_pages/shorts_under_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙内短裤",
+      "confidence": "A",
+      "tag_cn_long": "穿在裙子或连衣裙内部的短裤，防止走光。"
     },
     {
       "name": "skirt",
@@ -1270,9 +1270,9 @@
       "wiki_url": "/wiki_pages/skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙子",
+      "confidence": "A",
+      "tag_cn_long": "一种从腰部垂下覆盖部分或全部腿部的管状或锥形服装。"
     },
     {
       "name": "bubble skirt",
@@ -1280,9 +1280,9 @@
       "wiki_url": "/wiki_pages/bubble_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泡泡裙",
+      "confidence": "A",
+      "tag_cn_long": "裙摆向内卷起形成泡泡形状的裙子，常见于1950s等风格。"
     },
     {
       "name": "high-waist skirt",
@@ -1290,9 +1290,9 @@
       "wiki_url": "/wiki_pages/high-waist_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高腰裙",
+      "confidence": "A",
+      "tag_cn_long": "腰线较高的裙子，通常在肚脐以上至胸下位置。"
     },
     {
       "name": "high-low skirt",
@@ -1300,9 +1300,9 @@
       "wiki_url": "/wiki_pages/high-low_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前短后长裙",
+      "confidence": "A",
+      "tag_cn_long": "前侧较短、后侧较长的裙子或连衣裙。"
     },
     {
       "name": "long skirt",
@@ -1310,9 +1310,9 @@
       "wiki_url": "/wiki_pages/long_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长裙",
+      "confidence": "A",
+      "tag_cn_long": "长度超过膝盖的裙子，下摆不低于小腿3/4处。"
     },
     {
       "name": "lowleg skirt",
@@ -1320,9 +1320,9 @@
       "wiki_url": "/wiki_pages/lowleg_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低腰裙",
+      "confidence": "A",
+      "tag_cn_long": "穿在臀部低处的裙子，常露出髋骨和腹部。"
     },
     {
       "name": "microskirt",
@@ -1330,9 +1330,9 @@
       "wiki_url": "/wiki_pages/microskirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超短裙",
+      "confidence": "A",
+      "tag_cn_long": "极短的裙子，露出大腿和臀部下部，可能露出内裤。"
     },
     {
       "name": "miniskirt",
@@ -1340,9 +1340,9 @@
       "wiki_url": "/wiki_pages/miniskirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷你裙",
+      "confidence": "A",
+      "tag_cn_long": "下摆远高于膝盖的裙子，介于大腿中部到裤裆线以下。"
     },
     {
       "name": "overall skirt",
@@ -1350,9 +1350,9 @@
       "wiki_url": "/wiki_pages/overall_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背带裙",
+      "confidence": "A",
+      "tag_cn_long": "带有围兜和背带的裙子，类似工装裙。"
     },
     {
       "name": "overskirt",
@@ -1360,9 +1360,9 @@
       "wiki_url": "/wiki_pages/overskirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罩裙",
+      "confidence": "A",
+      "tag_cn_long": "穿在裙子或裤子外层的裙子，通常前部敞开。"
     },
     {
       "name": "plaid skirt",
@@ -1370,9 +1370,9 @@
       "wiki_url": "/wiki_pages/plaid_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子裙",
+      "confidence": "A",
+      "tag_cn_long": "带有格纹图案的裙子。"
     },
     {
       "name": "pleated skirt",
@@ -1380,9 +1380,9 @@
       "wiki_url": "/wiki_pages/pleated_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百褶裙",
+      "confidence": "A",
+      "tag_cn_long": "带有垂直折叠褶皱的裙子。"
     },
     {
       "name": "showgirl skirt",
@@ -1390,9 +1390,9 @@
       "wiki_url": "/wiki_pages/showgirl_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前开裙",
+      "confidence": "A",
+      "tag_cn_long": "一种只覆盖侧面和后部，前面开放的裙子，常与紧身连衣裤搭配。"
     },
     {
       "name": "suspender skirt",
@@ -1400,9 +1400,9 @@
       "wiki_url": "/wiki_pages/suspender_skirt",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背带裙",
+      "confidence": "A",
+      "tag_cn_long": "由背带支撑的裙子，常见于洛丽塔风格，常搭配衬裙。"
     },
     {
       "name": "tutu",
@@ -1410,9 +1410,9 @@
       "wiki_url": "/wiki_pages/tutu",
       "category_path": "Pants and Bottomwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芭蕾舞裙",
+      "confidence": "A",
+      "tag_cn_long": "芭蕾舞表演中穿着的短裙，通常有多层硬挺的纱。"
     },
     {
       "name": "kneehighs",
@@ -1420,9 +1420,9 @@
       "wiki_url": "/wiki_pages/kneehighs",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "及膝袜",
+      "confidence": "A",
+      "tag_cn_long": "长度到膝盖或略低于膝盖的袜子。"
     },
     {
       "name": "leggings",
@@ -1430,9 +1430,9 @@
       "wiki_url": "/wiki_pages/leggings",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身裤",
+      "confidence": "A",
+      "tag_cn_long": "一种不覆盖脚的腿部覆盖物，类似连裤袜但露出脚。"
     },
     {
       "name": "leg warmers",
@@ -1440,9 +1440,9 @@
       "wiki_url": "/wiki_pages/leg_warmers",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护腿套",
+      "confidence": "A",
+      "tag_cn_long": "套在小腿上用于保暖的厚实宽松套，通常从脚踝到膝盖，不包脚。"
     },
     {
       "name": "over-kneehighs",
@@ -1450,9 +1450,9 @@
       "wiki_url": "/wiki_pages/over-kneehighs",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝上袜",
+      "confidence": "A",
+      "tag_cn_long": "长度刚好超过膝盖的袜子或长袜，比大腿袜短。"
     },
     {
       "name": "pantyhose",
@@ -1460,9 +1460,9 @@
       "wiki_url": "/wiki_pages/pantyhose",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连裤袜",
+      "confidence": "A",
+      "tag_cn_long": "一种从腰部到脚趾的透明材质袜类。"
     },
     {
       "name": "thighband pantyhose",
@@ -1470,9 +1470,9 @@
       "wiki_url": "/wiki_pages/thighband_pantyhose",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿环连裤袜",
+      "confidence": "B",
+      "tag_cn_long": "带有类似大腿环条纹的连裤袜。"
     },
     {
       "name": "socks",
@@ -1480,9 +1480,9 @@
       "wiki_url": "/wiki_pages/socks",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袜子",
+      "confidence": "A",
+      "tag_cn_long": "穿在脚上的衣物，长度从脚踝到膝盖不等。"
     },
     {
       "name": "ankle socks",
@@ -1490,9 +1490,9 @@
       "wiki_url": "/wiki_pages/ankle_socks",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短袜",
+      "confidence": "A",
+      "tag_cn_long": "长度到脚踝上方的短袜。"
     },
     {
       "name": "bobby socks",
@@ -1500,9 +1500,9 @@
       "wiki_url": "/wiki_pages/bobby_socks",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翻边短袜",
+      "confidence": "B",
+      "tag_cn_long": "一种长度到脚踝的短袜，袜口翻折下来。"
     },
     {
       "name": "loose socks",
@@ -1510,9 +1510,9 @@
       "wiki_url": "/wiki_pages/loose_socks",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽松袜",
+      "confidence": "A",
+      "tag_cn_long": "宽松且下垂的袜子，通常堆在膝盖下方，常见于校服和辣妹风格。"
     },
     {
       "name": "tabi",
@@ -1520,9 +1520,9 @@
       "wiki_url": "/wiki_pages/tabi",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分趾袜",
+      "confidence": "A",
+      "tag_cn_long": "日本传统袜子，大脚趾和其他脚趾分开。"
     },
     {
       "name": "toe socks",
@@ -1530,9 +1530,9 @@
       "wiki_url": "/wiki_pages/toe_socks",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五趾袜",
+      "confidence": "A",
+      "tag_cn_long": "每根脚趾单独包裹的袜子。"
     },
     {
       "name": "tube socks",
@@ -1540,9 +1540,9 @@
       "wiki_url": "/wiki_pages/tube_socks",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "直筒袜",
+      "confidence": "A",
+      "tag_cn_long": "一种均码袜，通常到小腿或膝盖，没有脚跟和脚趾区分，常见有条纹袜口。"
     },
     {
       "name": "thighhighs",
@@ -1550,9 +1550,9 @@
       "wiki_url": "/wiki_pages/thighhighs",
       "category_path": "Legs and Feet",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿袜",
+      "confidence": "A",
+      "tag_cn_long": "覆盖从脚到大腿的袜子或长袜，通常由弹性大腿带或吊袜带固定。"
     },
     {
       "name": "shoes",
@@ -1560,9 +1560,9 @@
       "wiki_url": "/wiki_pages/shoes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鞋子",
+      "confidence": "A",
+      "tag_cn_long": "最通用的鞋类标签，包括各种鞋。"
     },
     {
       "name": "boots",
@@ -1570,9 +1570,9 @@
       "wiki_url": "/wiki_pages/boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "靴子",
+      "confidence": "A",
+      "tag_cn_long": "一种耐用鞋类，覆盖脚和脚踝，有时覆盖大部分小腿。"
     },
     {
       "name": "ankle boots",
@@ -1580,9 +1580,9 @@
       "wiki_url": "/wiki_pages/ankle_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短靴",
+      "confidence": "A",
+      "tag_cn_long": "不超过小腿的靴子。"
     },
     {
       "name": "armored boots",
@@ -1590,9 +1590,9 @@
       "wiki_url": "/wiki_pages/armored_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "装甲靴",
+      "confidence": "A",
+      "tag_cn_long": "用金属制成的靴子，通常是盔甲的一部分。"
     },
     {
       "name": "cowboy boots",
@@ -1600,9 +1600,9 @@
       "wiki_url": "/wiki_pages/cowboy_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牛仔靴",
+      "confidence": "A",
+      "tag_cn_long": "与牛仔西部风格相关的靴子，通常有尖头和高靴筒。"
     },
     {
       "name": "spurs",
@@ -1610,9 +1610,9 @@
       "wiki_url": "/wiki_pages/spurs",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马刺",
+      "confidence": "A",
+      "tag_cn_long": "一种金属工具，成对戴在牛仔靴或马靴后跟，用于驱马前进。"
     },
     {
       "name": "high heel boots",
@@ -1620,9 +1620,9 @@
       "wiki_url": "/wiki_pages/high_heel_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高跟靴",
+      "confidence": "A",
+      "tag_cn_long": "具有高跟的靴子。"
     },
     {
       "name": "knee boots",
@@ -1630,9 +1630,9 @@
       "wiki_url": "/wiki_pages/knee_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "及膝靴",
+      "confidence": "A",
+      "tag_cn_long": "长度大约到膝盖的靴子。"
     },
     {
       "name": "lace-up boots",
@@ -1640,9 +1640,9 @@
       "wiki_url": "/wiki_pages/lace-up_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "系带靴",
+      "confidence": "A",
+      "tag_cn_long": "有鞋带可以系紧的靴子。"
     },
     {
       "name": "rubber boots",
@@ -1650,9 +1650,9 @@
       "wiki_url": "/wiki_pages/rubber_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橡胶靴",
+      "confidence": "A",
+      "tag_cn_long": "由橡胶制成的防水靴，保护脚和腿免受水、泥或雪。"
     },
     {
       "name": "thigh boots",
@@ -1660,9 +1660,9 @@
       "wiki_url": "/wiki_pages/thigh_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "过膝靴",
+      "confidence": "A",
+      "tag_cn_long": "长度超过膝盖至少到大腿中部的靴子。"
     },
     {
       "name": "work boots",
@@ -1670,9 +1670,9 @@
       "wiki_url": "/wiki_pages/work_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "工作靴",
+      "confidence": "A",
+      "tag_cn_long": "通常由皮革制成，带有厚橡胶鞋底，用于工厂或建筑工地等工作场所的靴子。"
     },
     {
       "name": "ankle lace-up",
@@ -1680,9 +1680,9 @@
       "wiki_url": "/wiki_pages/ankle_lace-up",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "踝系带鞋",
+      "confidence": "B",
+      "tag_cn_long": "鞋带在脚踝处交叉缠绕并系紧的鞋类。"
     },
     {
       "name": "cross-laced sandals",
@@ -1690,9 +1690,9 @@
       "wiki_url": "/wiki_pages/cross-laced_sandals",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉系带凉鞋",
+      "confidence": "A",
+      "tag_cn_long": "用带子缠绕并系在脚踝和腿上的凉鞋。"
     },
     {
       "name": "cross-laced shoes",
@@ -1700,9 +1700,9 @@
       "wiki_url": "/wiki_pages/cross-laced_shoes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉系带鞋",
+      "confidence": "B",
+      "tag_cn_long": "鞋带在脚上交叉缠绕并系紧的鞋子。"
     },
     {
       "name": "cross-laced slit",
@@ -1710,9 +1710,9 @@
       "wiki_url": "/wiki_pages/cross-laced_slit",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉系带开衩",
+      "confidence": "A",
+      "tag_cn_long": "衣物上的开衩处有交叉系带或绳子。"
     },
     {
       "name": "lace-up boots",
@@ -1720,9 +1720,9 @@
       "wiki_url": "/wiki_pages/lace-up_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "系带靴",
+      "confidence": "A",
+      "tag_cn_long": "有鞋带可以系紧的靴子。"
     },
     {
       "name": "sneakers",
@@ -1730,9 +1730,9 @@
       "wiki_url": "/wiki_pages/sneakers",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动鞋",
+      "confidence": "A",
+      "tag_cn_long": "一种设计用于运动但常作为日常穿着的鞋子。"
     },
     {
       "name": "high tops",
@@ -1740,9 +1740,9 @@
       "wiki_url": "/wiki_pages/high_tops",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高帮运动鞋",
+      "confidence": "A",
+      "tag_cn_long": "鞋帮覆盖脚踝的运动鞋。"
     },
     {
       "name": "converse",
@@ -1750,9 +1750,9 @@
       "wiki_url": "/wiki_pages/converse",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "匡威鞋",
+      "confidence": "A",
+      "tag_cn_long": "美国运动鞋品牌，以高帮或低帮帆布鞋闻名。"
     },
     {
       "name": "dress shoes",
@@ -1760,9 +1760,9 @@
       "wiki_url": "/wiki_pages/dress_shoes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "正装鞋",
+      "confidence": "A",
+      "tag_cn_long": "用于正式场合的皮鞋。"
     },
     {
       "name": "loafers",
@@ -1770,9 +1770,9 @@
       "wiki_url": "/wiki_pages/loafers",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乐福鞋",
+      "confidence": "A",
+      "tag_cn_long": "一种无鞋带的便鞋，平跟，男女皆可穿。"
     },
     {
       "name": "kiltie loafers",
@@ -1780,9 +1780,9 @@
       "wiki_url": "/wiki_pages/kiltie_loafers",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "流苏乐福鞋",
+      "confidence": "A",
+      "tag_cn_long": "鞋面上带有装饰性皮革流苏的乐福鞋。"
     },
     {
       "name": "oxfords",
@@ -1790,9 +1790,9 @@
       "wiki_url": "/wiki_pages/oxfords",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牛津鞋",
+      "confidence": "A",
+      "tag_cn_long": "鞋带部分与鞋面一体化的皮鞋，外观正式。"
     },
     {
       "name": "saddle shoes",
@@ -1800,9 +1800,9 @@
       "wiki_url": "/wiki_pages/saddle_shoes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鞍形鞋",
+      "confidence": "A",
+      "tag_cn_long": "低跟休闲牛津鞋，鞋中部有马鞍形装饰面板。"
     },
     {
       "name": "flats",
@@ -1810,9 +1810,9 @@
       "wiki_url": "/wiki_pages/flats",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "平底鞋",
+      "confidence": "A",
+      "tag_cn_long": "平底无跟的鞋子，常与中式服装或休闲装搭配。"
     },
     {
       "name": "footwear ribbon",
@@ -1820,9 +1820,9 @@
       "wiki_url": "/wiki_pages/footwear_ribbon",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚踝系带",
+      "confidence": "A",
+      "tag_cn_long": "用于将鞋子固定在脚上的缎带，通常缠绕并系在脚踝或小腿上。"
     },
     {
       "name": "high heels",
@@ -1830,9 +1830,9 @@
       "wiki_url": "/wiki_pages/high_heels",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高跟鞋",
+      "confidence": "A",
+      "tag_cn_long": "后跟显著高于脚尖的鞋子，多为女性款式。"
     },
     {
       "name": "pumps",
@@ -1840,9 +1840,9 @@
       "wiki_url": "/wiki_pages/pumps",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浅口高跟鞋",
+      "confidence": "A",
+      "tag_cn_long": "低帮、优雅的高跟鞋。"
     },
     {
       "name": "stiletto heels",
@@ -1850,9 +1850,9 @@
       "wiki_url": "/wiki_pages/stiletto_heels",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "细高跟",
+      "confidence": "A",
+      "tag_cn_long": "细长的高跟鞋鞋跟。"
     },
     {
       "name": "wedge heels",
@@ -1860,9 +1860,9 @@
       "wiki_url": "/wiki_pages/wedge_heels",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坡跟鞋",
+      "confidence": "A",
+      "tag_cn_long": "后跟为楔形厚底的高跟鞋。"
     },
     {
       "name": "mary janes",
@@ -1870,9 +1870,9 @@
       "wiki_url": "/wiki_pages/mary_janes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玛丽珍鞋",
+      "confidence": "A",
+      "tag_cn_long": "脚背有一根横带扣子的女鞋款式。"
     },
     {
       "name": "okobo",
@@ -1880,9 +1880,9 @@
       "wiki_url": "/wiki_pages/okobo",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高台木屐",
+      "confidence": "A",
+      "tag_cn_long": "日本传统平台拖鞋，通常为黑色漆面红色系带，艺妓学徒穿。"
     },
     {
       "name": "platform boots",
@@ -1890,9 +1890,9 @@
       "wiki_url": "/wiki_pages/platform_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "厚底靴",
+      "confidence": "A",
+      "tag_cn_long": "带有厚底鞋底的靴子。"
     },
     {
       "name": "platform heels",
@@ -1900,9 +1900,9 @@
       "wiki_url": "/wiki_pages/platform_heels",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "厚底高跟鞋",
+      "confidence": "A",
+      "tag_cn_long": "鞋底抬高约2英寸或以上的高跟鞋。"
     },
     {
       "name": "platform sandals",
@@ -1910,9 +1910,9 @@
       "wiki_url": "/wiki_pages/platform_sandals",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "厚底凉鞋",
+      "confidence": "A",
+      "tag_cn_long": "带有厚底鞋底的凉鞋。"
     },
     {
       "name": "platform shoes",
@@ -1920,9 +1920,9 @@
       "wiki_url": "/wiki_pages/platform_shoes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "厚底鞋",
+      "confidence": "A",
+      "tag_cn_long": "鞋底明显加厚增高的鞋子，常见于时尚或Cosplay装扮。"
     },
     {
       "name": "pointy boots",
@@ -1930,9 +1930,9 @@
       "wiki_url": "/wiki_pages/pointy_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖头靴",
+      "confidence": "A",
+      "tag_cn_long": "鞋头尖锐的靴子，常带有哥特或摇滚风格。"
     },
     {
       "name": "pointy shoes",
@@ -1940,9 +1940,9 @@
       "wiki_url": "/wiki_pages/pointy_shoes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖头鞋",
+      "confidence": "A",
+      "tag_cn_long": "鞋头呈尖形的鞋子，常见于时尚或传统服饰。"
     },
     {
       "name": "sandals",
@@ -1950,9 +1950,9 @@
       "wiki_url": "/wiki_pages/sandals",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凉鞋",
+      "confidence": "A",
+      "tag_cn_long": "开放式鞋类，由鞋底和绑带构成，露出脚趾或脚跟。"
     },
     {
       "name": "cross-laced sandals",
@@ -1960,9 +1960,9 @@
       "wiki_url": "/wiki_pages/cross-laced_sandals",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉系带凉鞋",
+      "confidence": "A",
+      "tag_cn_long": "用带子缠绕并系在脚踝和腿上的凉鞋。"
     },
     {
       "name": "flip-flops",
@@ -1970,9 +1970,9 @@
       "wiki_url": "/wiki_pages/flip-flops",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "人字拖",
+      "confidence": "A",
+      "tag_cn_long": "一种Y形夹趾带固定的轻便凉拖，通常为休闲穿着。"
     },
     {
       "name": "gladiator sandals",
@@ -1980,9 +1980,9 @@
       "wiki_url": "/wiki_pages/gladiator_sandals",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角斗士凉鞋",
+      "confidence": "A",
+      "tag_cn_long": "多根绑带缠绕脚部及脚踝的凉鞋，模仿古罗马角斗士风格。"
     },
     {
       "name": "geta",
@@ -1990,9 +1990,9 @@
       "wiki_url": "/wiki_pages/geta",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "木屐",
+      "confidence": "A",
+      "tag_cn_long": "日本传统厚底木屐，底部有齿，通过布带固定。"
     },
     {
       "name": "okobo",
@@ -2000,9 +2000,9 @@
       "wiki_url": "/wiki_pages/okobo",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高台木屐",
+      "confidence": "A",
+      "tag_cn_long": "日本传统平台拖鞋，通常为黑色漆面红色系带，艺妓学徒穿。"
     },
     {
       "name": "sports sandals",
@@ -2010,9 +2010,9 @@
       "wiki_url": "/wiki_pages/sports_sandals",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动凉鞋",
+      "confidence": "A",
+      "tag_cn_long": "厚底宽绑带的户外活动用凉鞋，常带魔术贴，兼具舒适与功能性。"
     },
     {
       "name": "waraji",
@@ -2020,9 +2020,9 @@
       "wiki_url": "/wiki_pages/waraji",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草鞋",
+      "confidence": "A",
+      "tag_cn_long": "日本传统稻草编制的凉鞋，通常用草绳绑至脚踝。"
     },
     {
       "name": "zouri",
@@ -2030,9 +2030,9 @@
       "wiki_url": "/wiki_pages/zouri",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草屐",
+      "confidence": "A",
+      "tag_cn_long": "日本平底夹趾凉拖鞋，类似人字拖，材质多为草或塑料。"
     },
     {
       "name": "monk shoes",
@@ -2040,9 +2040,9 @@
       "wiki_url": "/wiki_pages/monk_shoes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "僧侣鞋",
+      "confidence": "A",
+      "tag_cn_long": "一种正装皮鞋，以金属扣和皮带替代鞋带固定。"
     },
     {
       "name": "open-toe boots",
@@ -2050,9 +2050,9 @@
       "wiki_url": "/wiki_pages/open-toe_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露趾靴",
+      "confidence": "A",
+      "tag_cn_long": "靴头露出脚趾的靴子，常见于时尚女靴或凉靴。"
     },
     {
       "name": "open-toe shoes",
@@ -2060,9 +2060,9 @@
       "wiki_url": "/wiki_pages/open-toe_shoes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露趾鞋",
+      "confidence": "A",
+      "tag_cn_long": "鞋头开口露出脚趾的鞋子，如凉鞋或鱼嘴鞋。"
     },
     {
       "name": "slippers",
@@ -2070,9 +2070,9 @@
       "wiki_url": "/wiki_pages/slippers",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拖鞋",
+      "confidence": "A",
+      "tag_cn_long": "无后跟或后跟极低的室内用平底鞋，通常为全包式。"
     },
     {
       "name": "animal slippers",
@@ -2080,9 +2080,9 @@
       "wiki_url": "/wiki_pages/animal_slippers",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物拖鞋",
+      "confidence": "A",
+      "tag_cn_long": "外形模仿动物造型的拖鞋，例如兔耳拖鞋。"
     },
     {
       "name": "ballet slippers",
@@ -2090,9 +2090,9 @@
       "wiki_url": "/wiki_pages/ballet_slippers",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芭蕾舞鞋",
+      "confidence": "A",
+      "tag_cn_long": "芭蕾舞者穿的软底平底鞋，有时包括足尖鞋，通常配有绑带。"
     },
     {
       "name": "crocs",
@@ -2100,9 +2100,9 @@
       "wiki_url": "/wiki_pages/crocs",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洞洞鞋",
+      "confidence": "A",
+      "tag_cn_long": "美国Crocs公司生产的树脂洞洞鞋，轻便透气，有多个透气孔。"
     },
     {
       "name": "uwabaki",
@@ -2110,9 +2110,9 @@
       "wiki_url": "/wiki_pages/uwabaki",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "室内鞋",
+      "confidence": "A",
+      "tag_cn_long": "日本学校或办公室专用的室内鞋，通常为白色布面配彩色橡胶鞋头。"
     },
     {
       "name": "spats",
@@ -2120,9 +2120,9 @@
       "wiki_url": "/wiki_pages/spats_%28footwear%29",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿套",
+      "confidence": "B",
+      "tag_cn_long": "一种覆盖脚踝和小腿的套筒状服饰，多为布质或皮革。"
     },
     {
       "name": "uwabaki",
@@ -2130,9 +2130,9 @@
       "wiki_url": "/wiki_pages/uwabaki",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "室内鞋",
+      "confidence": "A",
+      "tag_cn_long": "日本学校或办公室专用的室内鞋，通常为白色布面配彩色橡胶鞋头。"
     },
     {
       "name": "winged boots",
@@ -2140,9 +2140,9 @@
       "wiki_url": "/wiki_pages/winged_boots",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "带翼靴",
+      "confidence": "A",
+      "tag_cn_long": "靴子侧面或后跟装饰有翅膀造型的靴子，常见于神话或幻想角色。"
     },
     {
       "name": "winged sandals",
@@ -2150,9 +2150,9 @@
       "wiki_url": "/wiki_pages/winged_sandals",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "带翼凉鞋",
+      "confidence": "A",
+      "tag_cn_long": "凉鞋上装饰有翅膀造型，如赫尔墨斯的神使凉鞋。"
     },
     {
       "name": "winged shoes",
@@ -2160,9 +2160,9 @@
       "wiki_url": "/wiki_pages/winged_shoes",
       "category_path": "Shoes and Footwear",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翅膀鞋",
+      "confidence": "A",
+      "tag_cn_long": "带有翅膀装饰的鞋子。"
     },
     {
       "name": "winged slippers",
@@ -2170,9 +2170,9 @@
       "wiki_url": "/wiki_pages/winged_slippers",
       "category_path": "Shoes and Footwear",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翅膀拖鞋",
+      "confidence": "A",
+      "tag_cn_long": "带有翅膀装饰的拖鞋。"
     },
     {
       "name": "apron",
@@ -2180,9 +2180,9 @@
       "wiki_url": "/wiki_pages/apron",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "围裙",
+      "confidence": "A",
+      "tag_cn_long": "一种用于保护前身衣物的工作或装饰性外衣。"
     },
     {
       "name": "armor",
@@ -2190,9 +2190,9 @@
       "wiki_url": "/wiki_pages/armor",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "盔甲",
+      "confidence": "A",
+      "tag_cn_long": "用于保护穿戴者的硬质服装。"
     },
     {
       "name": "armored dress",
@@ -2200,9 +2200,9 @@
       "wiki_url": "/wiki_pages/armored_dress",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "装甲连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "融合了铠甲元素和连衣裙设计的服装。"
     },
     {
       "name": "bikini armor",
@@ -2210,9 +2210,9 @@
       "wiki_url": "/wiki_pages/bikini_armor",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比基尼铠甲",
+      "confidence": "A",
+      "tag_cn_long": "暴露的比基尼式铠甲，常见于女性战士。"
     },
     {
       "name": "band uniform",
@@ -2220,9 +2220,9 @@
       "wiki_url": "/wiki_pages/band_uniform",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乐队制服",
+      "confidence": "A",
+      "tag_cn_long": "乐队成员穿着的统一服装，通常色彩鲜艳。"
     },
     {
       "name": "cape",
@@ -2230,9 +2230,9 @@
       "wiki_url": "/wiki_pages/cape",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披风",
+      "confidence": "A",
+      "tag_cn_long": "无袖外用披肩，系于颈后。"
     },
     {
       "name": "capelet",
@@ -2240,9 +2240,9 @@
       "wiki_url": "/wiki_pages/capelet",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短披肩",
+      "confidence": "A",
+      "tag_cn_long": "仅覆盖肩部的小披风，常用于冬季或圣诞服装，如爱丽丝·玛格特罗伊德所穿。"
     },
     {
       "name": "hood",
@@ -2250,9 +2250,9 @@
       "wiki_url": "/wiki_pages/hood",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兜帽",
+      "confidence": "A",
+      "tag_cn_long": "覆盖头部和颈部的头饰，可独立或连在斗篷上。"
     },
     {
       "name": "side cape",
@@ -2260,9 +2260,9 @@
       "wiki_url": "/wiki_pages/side_cape",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单肩披风",
+      "confidence": "A",
+      "tag_cn_long": "只披在一侧肩膀的短披风。"
     },
     {
       "name": "cassock",
@@ -2270,9 +2270,9 @@
       "wiki_url": "/wiki_pages/cassock",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "教士袍",
+      "confidence": "A",
+      "tag_cn_long": "天主教神职人员穿的长袍。"
     },
     {
       "name": "cheerleader",
@@ -2280,9 +2280,9 @@
       "wiki_url": "/wiki_pages/cheerleader",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "啦啦队员",
+      "confidence": "A",
+      "tag_cn_long": "从事啦啦队活动的人，通常穿统一制服。"
     },
     {
       "name": "costume",
@@ -2290,9 +2290,9 @@
       "wiki_url": "/wiki_pages/costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戏服",
+      "confidence": "A",
+      "tag_cn_long": "模仿他人或事物的服装。"
     },
     {
       "name": "ghost costume",
@@ -2300,9 +2300,9 @@
       "wiki_url": "/wiki_pages/ghost_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "幽灵服",
+      "confidence": "A",
+      "tag_cn_long": "模仿幽灵形象的服装，如白床单或白色和服。"
     },
     {
       "name": "formal clothes",
@@ -2310,9 +2310,9 @@
       "wiki_url": "/wiki_pages/formal_clothes",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "正装",
+      "confidence": "A",
+      "tag_cn_long": "正式场合穿着的服装。"
     },
     {
       "name": "suit",
@@ -2320,9 +2320,9 @@
       "wiki_url": "/wiki_pages/suit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西装",
+      "confidence": "A",
+      "tag_cn_long": "由同种面料制成的西式正式套装。"
     },
     {
       "name": "business suit",
@@ -2330,9 +2330,9 @@
       "wiki_url": "/wiki_pages/business_suit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "商务西装",
+      "confidence": "A",
+      "tag_cn_long": "商务场合穿的传统西装。"
     },
     {
       "name": "pant suit",
@@ -2340,9 +2340,9 @@
       "wiki_url": "/wiki_pages/pant_suit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裤装西装",
+      "confidence": "A",
+      "tag_cn_long": "女性穿着的搭配裤子的西装套装。"
     },
     {
       "name": "skirt suit",
@@ -2350,9 +2350,9 @@
       "wiki_url": "/wiki_pages/skirt_suit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙装西装",
+      "confidence": "A",
+      "tag_cn_long": "女性穿着的搭配裙子的西装套装。"
     },
     {
       "name": "tuxedo",
@@ -2360,9 +2360,9 @@
       "wiki_url": "/wiki_pages/tuxedo",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无尾礼服",
+      "confidence": "A",
+      "tag_cn_long": "男士正式晚宴服装，通常包括西装外套和领结。"
     },
     {
       "name": "g-suit",
@@ -2370,9 +2370,9 @@
       "wiki_url": "/wiki_pages/g-suit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抗荷服",
+      "confidence": "A",
+      "tag_cn_long": "飞行员穿的特殊连体服，用于抵抗高重力加速度。"
     },
     {
       "name": "gym uniform",
@@ -2380,9 +2380,9 @@
       "wiki_url": "/wiki_pages/gym_uniform",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "体操服",
+      "confidence": "A",
+      "tag_cn_long": "体育课或健身时穿的统一服装，通常包括白色运动衫和运动短裤。"
     },
     {
       "name": "buruma",
@@ -2390,9 +2390,9 @@
       "wiki_url": "/wiki_pages/buruma",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布鲁马",
+      "confidence": "B",
+      "tag_cn_long": "一种类似内裤的运动短裤，常用作体操服，是日本学校体育服的经典款式。"
     },
     {
       "name": "harem outfit",
@@ -2400,9 +2400,9 @@
       "wiki_url": "/wiki_pages/harem_outfit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肚皮舞装",
+      "confidence": "B",
+      "tag_cn_long": "一种肚皮舞者常见的服装，强调裸露腰部，常包括胸罩、束胸或抹胸，搭配宽松裤子或长裙。"
     },
     {
       "name": "loincloth",
@@ -2410,9 +2410,9 @@
       "wiki_url": "/wiki_pages/loincloth",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兜裆布",
+      "confidence": "A",
+      "tag_cn_long": "一种古老款式的遮羞布，通常用折叠的布料遮盖生殖器，有时带有腰带或垂片。"
     },
     {
       "name": "hazmat suit",
@@ -2420,9 +2420,9 @@
       "wiki_url": "/wiki_pages/hazmat_suit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "防化服",
+      "confidence": "A",
+      "tag_cn_long": "一种全身防护服，用于保护穿着者免受化学、生物、核或放射危害。"
     },
     {
       "name": "hev suit",
@@ -2430,9 +2430,9 @@
       "wiki_url": "/wiki_pages/hev_suit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "HEV防护服",
+      "confidence": "A",
+      "tag_cn_long": "《半条命》中戈登·弗里曼穿着的橙色与黑色全身装甲服，带有λ标志。"
     },
     {
       "name": "kigurumi",
@@ -2440,9 +2440,9 @@
       "wiki_url": "/wiki_pages/kigurumi",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物连体睡衣",
+      "confidence": "A",
+      "tag_cn_long": "一种全身式cosplay服装，通常模仿动物造型，像连体睡衣。"
     },
     {
       "name": "animal costume",
@@ -2450,9 +2450,9 @@
       "wiki_url": "/wiki_pages/animal_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物装",
+      "confidence": "A",
+      "tag_cn_long": "角色穿着的模仿动物外形的全身或部分服装。"
     },
     {
       "name": "bear costume",
@@ -2460,9 +2460,9 @@
       "wiki_url": "/wiki_pages/bear_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊装",
+      "confidence": "A",
+      "tag_cn_long": "模仿熊外形的动物造型服装。"
     },
     {
       "name": "boar costume",
@@ -2470,9 +2470,9 @@
       "wiki_url": "/wiki_pages/boar_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "野猪装",
+      "confidence": "A",
+      "tag_cn_long": "模仿野猪外形的全身动物造型服装。"
     },
     {
       "name": "cat costume",
@@ -2480,9 +2480,9 @@
       "wiki_url": "/wiki_pages/cat_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫装",
+      "confidence": "A",
+      "tag_cn_long": "模仿猫外形的服装，包括猫耳、猫尾等特征。"
     },
     {
       "name": "cow costume",
@@ -2490,9 +2490,9 @@
       "wiki_url": "/wiki_pages/cow_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奶牛装",
+      "confidence": "A",
+      "tag_cn_long": "全身奶牛主题的动物造型服装，常为奶牛印花连帽衫。"
     },
     {
       "name": "dog costume",
@@ -2500,9 +2500,9 @@
       "wiki_url": "/wiki_pages/dog_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狗装",
+      "confidence": "A",
+      "tag_cn_long": "模仿狗外形的动物造型服装。"
     },
     {
       "name": "monkey costume",
@@ -2510,9 +2510,9 @@
       "wiki_url": "/wiki_pages/monkey_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猴子装",
+      "confidence": "A",
+      "tag_cn_long": "模仿猴子外形的动物造型服装。"
     },
     {
       "name": "mouse costume",
@@ -2520,9 +2520,9 @@
       "wiki_url": "/wiki_pages/mouse_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "老鼠装",
+      "confidence": "A",
+      "tag_cn_long": "模仿老鼠外形的动物造型服装。"
     },
     {
       "name": "panda costume",
@@ -2530,9 +2530,9 @@
       "wiki_url": "/wiki_pages/panda_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊猫装",
+      "confidence": "A",
+      "tag_cn_long": "黑白相间的熊猫造型服装，通常有熊猫耳、黑色手臂和白色身体。"
     },
     {
       "name": "penguin costume",
@@ -2540,9 +2540,9 @@
       "wiki_url": "/wiki_pages/penguin_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "企鹅装",
+      "confidence": "A",
+      "tag_cn_long": "模仿企鹅外形的动物造型服装。"
     },
     {
       "name": "pig costume",
@@ -2550,9 +2550,9 @@
       "wiki_url": "/wiki_pages/pig_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猪装",
+      "confidence": "A",
+      "tag_cn_long": "模仿猪外形的全身动物造型服装。"
     },
     {
       "name": "rabbit costume",
@@ -2560,9 +2560,9 @@
       "wiki_url": "/wiki_pages/rabbit_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔子装",
+      "confidence": "A",
+      "tag_cn_long": "模仿兔子外形的全身动物造型服装。"
     },
     {
       "name": "reindeer costume",
@@ -2570,9 +2570,9 @@
       "wiki_url": "/wiki_pages/reindeer_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "驯鹿装",
+      "confidence": "A",
+      "tag_cn_long": "模仿驯鹿外形的动物造型服装。"
     },
     {
       "name": "seal costume",
@@ -2580,9 +2580,9 @@
       "wiki_url": "/wiki_pages/seal_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海豹装",
+      "confidence": "A",
+      "tag_cn_long": "模仿海豹外形的动物造型服装。"
     },
     {
       "name": "sheep costume",
@@ -2590,9 +2590,9 @@
       "wiki_url": "/wiki_pages/sheep_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绵羊装",
+      "confidence": "A",
+      "tag_cn_long": "一种模仿绵羊外形的动物服装。"
     },
     {
       "name": "tiger costume",
@@ -2600,9 +2600,9 @@
       "wiki_url": "/wiki_pages/tiger_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "老虎装",
+      "confidence": "A",
+      "tag_cn_long": "一种模仿老虎外形的动物服装。"
     },
     {
       "name": "maid",
@@ -2610,9 +2610,9 @@
       "wiki_url": "/wiki_pages/maid",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女仆",
+      "confidence": "A",
+      "tag_cn_long": "穿着西式女仆制服的人物形象。"
     },
     {
       "name": "jersey maid",
@@ -2620,9 +2620,9 @@
       "wiki_url": "/wiki_pages/jersey_maid",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动服女仆",
+      "confidence": "B",
+      "tag_cn_long": "一种以运动服或运动夹克为基础的女仆装束。"
     },
     {
       "name": "mecha pilot suit",
@@ -2630,9 +2630,9 @@
       "wiki_url": "/wiki_pages/mecha_pilot_suit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "机甲驾驶服",
+      "confidence": "A",
+      "tag_cn_long": "专为机甲驾驶员设计的紧身连体制服。"
     },
     {
       "name": "miko",
@@ -2640,9 +2640,9 @@
       "wiki_url": "/wiki_pages/miko",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巫女",
+      "confidence": "A",
+      "tag_cn_long": "神道教神社中负责清扫、舞蹈、祭祀等职务的女性。"
     },
     {
       "name": "nontraditional miko",
@@ -2650,9 +2650,9 @@
       "wiki_url": "/wiki_pages/nontraditional_miko",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非传统巫女装",
+      "confidence": "A",
+      "tag_cn_long": "对传统巫女服进行现代化改编的服装，如缩短裙摆、无袖上衣等。"
     },
     {
       "name": "military uniform",
@@ -2660,9 +2660,9 @@
       "wiki_url": "/wiki_pages/military_uniform",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "军服",
+      "confidence": "A",
+      "tag_cn_long": "任何现实或虚构军队的正式制服。"
     },
     {
       "name": "nun",
@@ -2670,9 +2670,9 @@
       "wiki_url": "/wiki_pages/nun",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "修女",
+      "confidence": "A",
+      "tag_cn_long": "发宗教誓言、过着虔诚生活的女性，通常穿着修女服。"
     },
     {
       "name": "traditional nun",
@@ -2680,9 +2680,9 @@
       "wiki_url": "/wiki_pages/traditional_nun",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "传统修女服",
+      "confidence": "A",
+      "tag_cn_long": "基督教传统风格的修女服装，特征为长黑袍、白色头巾和面纱。"
     },
     {
       "name": "overalls",
@@ -2690,9 +2690,9 @@
       "wiki_url": "/wiki_pages/overalls",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "工装裤",
+      "confidence": "A",
+      "tag_cn_long": "一种带有胸围和背带的工作裤，通常用蓝色牛仔布制成。"
     },
     {
       "name": "pajamas",
@@ -2700,9 +2700,9 @@
       "wiki_url": "/wiki_pages/pajamas",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睡衣",
+      "confidence": "A",
+      "tag_cn_long": "为睡觉设计的轻便舒适衣物，通常包含上衣和裤子/短裤。"
     },
     {
       "name": "plugsuit",
@@ -2710,9 +2710,9 @@
       "wiki_url": "/wiki_pages/plugsuit_%28evangelion%29",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "插入栓服",
+      "confidence": "B",
+      "tag_cn_long": "出自《新世纪福音战士》的紧身驾驶服，带有连接插头的接口。"
     },
     {
       "name": "priest",
@@ -2720,9 +2720,9 @@
       "wiki_url": "/wiki_pages/priest",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "神父",
+      "confidence": "A",
+      "tag_cn_long": "担任宗教仪式职务的神职人员，通常穿着长袍等法衣。"
     },
     {
       "name": "sailor",
@@ -2730,9 +2730,9 @@
       "wiki_url": "/wiki_pages/sailor",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手制服",
+      "confidence": "A",
+      "tag_cn_long": "船员或海员穿着的正式制服，通常有海军领和条纹。"
     },
     {
       "name": "santa costume",
@@ -2740,9 +2740,9 @@
       "wiki_url": "/wiki_pages/santa_costume",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣诞老人装",
+      "confidence": "A",
+      "tag_cn_long": "模仿圣诞老人的服装，以红色为主、白色毛边装饰。"
     },
     {
       "name": "school uniform",
@@ -2750,9 +2750,9 @@
       "wiki_url": "/wiki_pages/school_uniform",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "校服",
+      "confidence": "A",
+      "tag_cn_long": "学生穿着的统一服装，常见设计有水手服、西装外套等。"
     },
     {
       "name": "serafuku",
@@ -2760,9 +2760,9 @@
       "wiki_url": "/wiki_pages/serafuku",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手服",
+      "confidence": "A",
+      "tag_cn_long": "日本女子中学和高中常见的校服，带水手领和裙子的套装。"
     },
     {
       "name": "sailor dress",
@@ -2770,9 +2770,9 @@
       "wiki_url": "/wiki_pages/sailor_dress",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手连衣裙",
+      "confidence": "B",
+      "tag_cn_long": "具有水手领或领巾等水手服元素的一件式连衣裙。"
     },
     {
       "name": "gakuran",
@@ -2780,9 +2780,9 @@
       "wiki_url": "/wiki_pages/gakuran",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "学兰",
+      "confidence": "A",
+      "tag_cn_long": "日本男生校服，黑色立领上衣搭配直筒裤。"
     },
     {
       "name": "meiji schoolgirl uniform",
@@ -2790,9 +2790,9 @@
       "wiki_url": "/wiki_pages/meiji_schoolgirl_uniform",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "明治女学生制服",
+      "confidence": "A",
+      "tag_cn_long": "明治时代日本女学生穿着的传统服装，包括和服、袴裙和靴子。"
     },
     {
       "name": "shosei",
@@ -2800,9 +2800,9 @@
       "wiki_url": "/wiki_pages/shosei",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "书生",
+      "confidence": "B",
+      "tag_cn_long": "明治大正时期边打工边读书的学生，穿着和服与袴。"
     },
     {
       "name": "track suit",
@@ -2810,9 +2810,9 @@
       "wiki_url": "/wiki_pages/track_suit",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动服",
+      "confidence": "A",
+      "tag_cn_long": "运动时穿着的夹克和裤子套装。"
     },
     {
       "name": "sweatpants",
@@ -2820,9 +2820,9 @@
       "wiki_url": "/wiki_pages/sweatpants",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动裤",
+      "confidence": "A",
+      "tag_cn_long": "宽松舒适的棉质长裤，常用于运动或休闲。"
     },
     {
       "name": "sweater",
@@ -2830,9 +2830,9 @@
       "wiki_url": "/wiki_pages/sweater",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛衣",
+      "confidence": "A",
+      "tag_cn_long": "较厚的上衣，通常覆盖躯干和手臂，常用羊毛或棉制成。"
     },
     {
       "name": "tutu",
@@ -2840,9 +2840,9 @@
       "wiki_url": "/wiki_pages/tutu",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芭蕾舞裙",
+      "confidence": "A",
+      "tag_cn_long": "芭蕾舞表演中穿着的短裙，通常有多层硬挺的纱。"
     },
     {
       "name": "waitress",
@@ -2850,9 +2850,9 @@
       "wiki_url": "/wiki_pages/waitress",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女服务生",
+      "confidence": "A",
+      "tag_cn_long": "穿着餐厅或咖啡馆服务员制服的人，通常为女性。"
     },
     {
       "name": "cowboy western",
@@ -2860,9 +2860,9 @@
       "wiki_url": "/wiki_pages/cowboy_western",
       "category_path": "Uniforms and Costumes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西部牛仔",
+      "confidence": "A",
+      "tag_cn_long": "美国西部题材中牛仔的典型装束，包括牛仔帽、皮靴等。"
     },
     {
       "name": "bikesuit",
@@ -2870,9 +2870,9 @@
       "wiki_url": "/wiki_pages/bikesuit",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摩托车服",
+      "confidence": "B",
+      "tag_cn_long": "骑摩托车时穿的紧身连体服，通常有拉链。"
     },
     {
       "name": "racing suit",
@@ -2880,9 +2880,9 @@
       "wiki_url": "/wiki_pages/racing_suit",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "赛车服",
+      "confidence": "A",
+      "tag_cn_long": "赛车手或维修站人员穿的防火连体服。"
     },
     {
       "name": "bodystocking",
@@ -2890,9 +2890,9 @@
       "wiki_url": "/wiki_pages/bodystocking",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连体丝袜",
+      "confidence": "B",
+      "tag_cn_long": "一种薄透的全身紧身衣，类似连裤袜覆盖全身。"
     },
     {
       "name": "bodysuit",
@@ -2900,9 +2900,9 @@
       "wiki_url": "/wiki_pages/bodysuit",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连体紧身衣",
+      "confidence": "A",
+      "tag_cn_long": "紧身一件式服装，从颈部覆盖到至少大腿上部。"
     },
     {
       "name": "jumpsuit",
@@ -2910,9 +2910,9 @@
       "wiki_url": "/wiki_pages/jumpsuit",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连体工装服",
+      "confidence": "A",
+      "tag_cn_long": "宽松一件式服装，覆盖手臂和腿，常用于机械师、飞行员等。"
     },
     {
       "name": "short jumpsuit",
@@ -2920,9 +2920,9 @@
       "wiki_url": "/wiki_pages/short_jumpsuit",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短款连体衣",
+      "confidence": "B",
+      "tag_cn_long": "腿部长度类似短裤的连体工装服。"
     },
     {
       "name": "leotard",
@@ -2930,9 +2930,9 @@
       "wiki_url": "/wiki_pages/leotard",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身体操服",
+      "confidence": "A",
+      "tag_cn_long": "紧身一件式服装，覆盖躯干但露出腿部，常用于体操、舞蹈。"
     },
     {
       "name": "see-through leotard",
@@ -2940,9 +2940,9 @@
       "wiki_url": "/wiki_pages/see-through_leotard",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透视紧身体操服",
+      "confidence": "B",
+      "tag_cn_long": "材质透明可见皮肤的紧身连体体操服。"
     },
     {
       "name": "strapless leotard",
@@ -2950,9 +2950,9 @@
       "wiki_url": "/wiki_pages/strapless_leotard",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无肩带连体衣",
+      "confidence": "A",
+      "tag_cn_long": "没有肩带固定上身的连体紧身衣。"
     },
     {
       "name": "playboy bunny",
@@ -2960,9 +2960,9 @@
       "wiki_url": "/wiki_pages/playboy_bunny",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔女郎装",
+      "confidence": "B",
+      "tag_cn_long": "花花公子标志性的兔女郎造型，包括黑色连体衣、兔耳、领结等。"
     },
     {
       "name": "swimsuit",
@@ -2970,9 +2970,9 @@
       "wiki_url": "/wiki_pages/swimsuit",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泳装",
+      "confidence": "A",
+      "tag_cn_long": "用于游泳、海滩等活动的服装。"
     },
     {
       "name": "competition swimsuit",
@@ -2980,9 +2980,9 @@
       "wiki_url": "/wiki_pages/competition_swimsuit",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竞赛泳装",
+      "confidence": "B",
+      "tag_cn_long": "为游泳比赛设计的连体泳装，通常有背带和流线型剪裁。"
     },
     {
       "name": "slingshot swimsuit",
@@ -2990,9 +2990,9 @@
       "wiki_url": "/wiki_pages/slingshot_swimsuit",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弹弓式泳装",
+      "confidence": "C",
+      "tag_cn_long": "一种极简泳装，从裆部经肩膀到背部的带子，覆盖极少。"
     },
     {
       "name": "school swimsuit",
@@ -3000,9 +3000,9 @@
       "wiki_url": "/wiki_pages/school_swimsuit",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "学校泳装",
+      "confidence": "A",
+      "tag_cn_long": "学校统一配发的连体泳装，通常为蓝色或黑色，带有姓名标签。"
     },
     {
       "name": "bikini",
@@ -3010,9 +3010,9 @@
       "wiki_url": "/wiki_pages/bikini",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比基尼",
+      "confidence": "A",
+      "tag_cn_long": "女性两件式泳装，由胸罩式上衣和三角裤组成。"
     },
     {
       "name": "leaf bikini",
@@ -3020,9 +3020,9 @@
       "wiki_url": "/wiki_pages/leaf_bikini",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叶子比基尼",
+      "confidence": "A",
+      "tag_cn_long": "用树叶制成的比基尼泳装。"
     },
     {
       "name": "string bikini",
@@ -3030,9 +3030,9 @@
       "wiki_url": "/wiki_pages/string_bikini",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "细带比基尼",
+      "confidence": "A",
+      "tag_cn_long": "上衣或下装由细绳而非宽带连接的比基尼。"
     },
     {
       "name": "micro bikini",
@@ -3040,9 +3040,9 @@
       "wiki_url": "/wiki_pages/micro_bikini",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "微比基尼",
+      "confidence": "A",
+      "tag_cn_long": "一种覆盖面积极小的比基尼，几乎只遮住私处和乳头。"
     },
     {
       "name": "side-tie bikini bottom",
@@ -3050,9 +3050,9 @@
       "wiki_url": "/wiki_pages/side-tie_bikini_bottom",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧系带比基尼下装",
+      "confidence": "A",
+      "tag_cn_long": "在两侧用带子系结的比基尼下装。"
     },
     {
       "name": "lowleg bikini",
@@ -3060,9 +3060,9 @@
       "wiki_url": "/wiki_pages/lowleg_bikini",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低胯比基尼",
+      "confidence": "B",
+      "tag_cn_long": "一种腿部开口较低的比基尼，下装横跨髋部呈水平线。"
     },
     {
       "name": "thong bikini",
@@ -3070,9 +3070,9 @@
       "wiki_url": "/wiki_pages/thong_bikini",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丁字裤比基尼",
+      "confidence": "A",
+      "tag_cn_long": "下装为丁字裤的比基尼，臀部大部分裸露。"
     },
     {
       "name": "venus bikini",
@@ -3080,9 +3080,9 @@
       "wiki_url": "/wiki_pages/venus_bikini",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "维纳斯比基尼",
+      "confidence": "A",
+      "tag_cn_long": "《死或生极限》系列中一种装饰有宝石的昂贵微比基尼。"
     },
     {
       "name": "sports bikini",
@@ -3090,9 +3090,9 @@
       "wiki_url": "/wiki_pages/sports_bikini",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动比基尼",
+      "confidence": "A",
+      "tag_cn_long": "上衣类似运动内衣的比基尼。"
     },
     {
       "name": "tankini",
@@ -3100,9 +3100,9 @@
       "wiki_url": "/wiki_pages/tankini",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "坦克比基尼",
+      "confidence": "A",
+      "tag_cn_long": "一种两件式泳装，上衣为背心或短上衣，搭配比基尼下装。"
     },
     {
       "name": "criss-cross halter",
@@ -3110,9 +3110,9 @@
       "wiki_url": "/wiki_pages/criss-cross_halter",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉挂颈上衣",
+      "confidence": "A",
+      "tag_cn_long": "一种挂颈上衣，带子在胸前交叉成X形后再绕过颈部。"
     },
     {
       "name": "swim briefs",
@@ -3120,9 +3120,9 @@
       "wiki_url": "/wiki_pages/swim_briefs",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泳裤",
+      "confidence": "A",
+      "tag_cn_long": "男性游泳时穿着的贴身短裤，类似三角裤。"
     },
     {
       "name": "jammers",
@@ -3130,9 +3130,9 @@
       "wiki_url": "/wiki_pages/jammers",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竞技泳裤",
+      "confidence": "A",
+      "tag_cn_long": "男性竞技游泳时穿着的紧身短裤，从腰部覆盖到膝盖上方。"
     },
     {
       "name": "legskin",
@@ -3140,9 +3140,9 @@
       "wiki_url": "/wiki_pages/legskin",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿套泳装",
+      "confidence": "B",
+      "tag_cn_long": "一种男性紧身泳装，从腰部覆盖到脚踝，类似紧身裤。"
     },
     {
       "name": "rash guard",
@@ -3150,9 +3150,9 @@
       "wiki_url": "/wiki_pages/rash_guard",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "防磨衣",
+      "confidence": "A",
+      "tag_cn_long": "一种用于冲浪等水上运动的紧身长袖上衣，提供防晒和防摩擦保护。"
     },
     {
       "name": "robe",
@@ -3160,9 +3160,9 @@
       "wiki_url": "/wiki_pages/robe",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长袍",
+      "confidence": "A",
+      "tag_cn_long": "宽松的外衣，通常有袖子，长至膝或脚踝。"
     },
     {
       "name": "bathrobe",
@@ -3170,9 +3170,9 @@
       "wiki_url": "/wiki_pages/bathrobe",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浴袍",
+      "confidence": "A",
+      "tag_cn_long": "洗澡后穿着的宽松长袍。"
     },
     {
       "name": "open robe",
@@ -3180,9 +3180,9 @@
       "wiki_url": "/wiki_pages/open_robe",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敞开浴袍",
+      "confidence": "A",
+      "tag_cn_long": "未系好扣子或腰带，暴露身体部位的浴袍。"
     },
     {
       "name": "kesa",
@@ -3190,9 +3190,9 @@
       "wiki_url": "/wiki_pages/kesa",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袈裟",
+      "confidence": "A",
+      "tag_cn_long": "佛教僧侣穿着的矩形布块，披在袍子外。"
     },
     {
       "name": "romper",
@@ -3200,9 +3200,9 @@
       "wiki_url": "/wiki_pages/romper",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连体短裤",
+      "confidence": "A",
+      "tag_cn_long": "一种一件式服装，类似连衣裙但有短裤而不是裙子。"
     },
     {
       "name": "sarong",
@@ -3210,9 +3210,9 @@
       "wiki_url": "/wiki_pages/sarong",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纱笼",
+      "confidence": "A",
+      "tag_cn_long": "一种围在腰间的布裙，常用于海滩或度假装扮。"
     },
     {
       "name": "tunic",
@@ -3220,9 +3220,9 @@
       "wiki_url": "/wiki_pages/tunic",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束腰外衣",
+      "confidence": "A",
+      "tag_cn_long": "一种宽松的无袖长袍，通常长及膝盖，源自古希腊罗马。"
     },
     {
       "name": "unitard",
@@ -3230,9 +3230,9 @@
       "wiki_url": "/wiki_pages/unitard",
       "category_path": "Swimsuits and Bodysuits",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连体紧身衣",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身一件式服装，有长腿和长袖，通常到手腕和脚踝。"
     },
     {
       "name": "chinese clothes",
@@ -3240,9 +3240,9 @@
       "wiki_url": "/wiki_pages/chinese_clothes",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中国服饰",
+      "confidence": "B",
+      "tag_cn_long": "任何中式服装，包括传统汉服、旗袍等。"
     },
     {
       "name": "changpao",
@@ -3250,9 +3250,9 @@
       "wiki_url": "/wiki_pages/changpao",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长袍",
+      "confidence": "A",
+      "tag_cn_long": "男式长袍，相当于女性旗袍的男性版本。"
     },
     {
       "name": "china dress",
@@ -3260,9 +3260,9 @@
       "wiki_url": "/wiki_pages/china_dress",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "旗袍",
+      "confidence": "A",
+      "tag_cn_long": "一种贴身剪裁、两侧开衩的中式连衣裙，即旗袍。"
     },
     {
       "name": "fengguan",
@@ -3270,9 +3270,9 @@
       "wiki_url": "/wiki_pages/fengguan",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凤冠",
+      "confidence": "A",
+      "tag_cn_long": "中国传统女性头饰，饰有凤凰等图案，常用于婚礼或正式场合。"
     },
     {
       "name": "hanfu",
@@ -3280,9 +3280,9 @@
       "wiki_url": "/wiki_pages/hanfu",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "汉服",
+      "confidence": "A",
+      "tag_cn_long": "汉民族的传统服饰，包括交领、圆领等多种样式。"
     },
     {
       "name": "longpao",
@@ -3290,9 +3290,9 @@
       "wiki_url": "/wiki_pages/longpao",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "龙袍",
+      "confidence": "A",
+      "tag_cn_long": "中国皇帝或国王穿着的日常礼服，绣有龙纹。"
     },
     {
       "name": "tangzhuang",
@@ -3300,9 +3300,9 @@
       "wiki_url": "/wiki_pages/tangzhuang",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "唐装",
+      "confidence": "A",
+      "tag_cn_long": "一种改良自清朝马褂的伪传统中式上衣，立领，常为对襟。"
     },
     {
       "name": "dirndl",
@@ -3310,9 +3310,9 @@
       "wiki_url": "/wiki_pages/dirndl",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德式传统连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "巴伐利亚等地女性传统服装，包括紧身胸衣、裙子和围裙。"
     },
     {
       "name": "japanese clothes",
@@ -3320,9 +3320,9 @@
       "wiki_url": "/wiki_pages/japanese_clothes",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日式传统服饰",
+      "confidence": "B",
+      "tag_cn_long": "日本传统服装的总称，包括和服、浴衣等。"
     },
     {
       "name": "fundoshi",
@@ -3330,9 +3330,9 @@
       "wiki_url": "/wiki_pages/fundoshi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兜裆布",
+      "confidence": "A",
+      "tag_cn_long": "日本传统男性兜裆布，用于祭典、泳装或内衣。"
     },
     {
       "name": "mizu happi",
@@ -3340,9 +3340,9 @@
       "wiki_url": "/wiki_pages/mizu_happi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水法披",
+      "confidence": "B",
+      "tag_cn_long": "一种由兜裆布和短夹克组成的日本祭典法衣，通常男性穿着。"
     },
     {
       "name": "geta",
@@ -3350,9 +3350,9 @@
       "wiki_url": "/wiki_pages/geta",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "木屐",
+      "confidence": "A",
+      "tag_cn_long": "日本传统厚底木屐，底部有齿，通过布带固定。"
     },
     {
       "name": "hakama",
@@ -3360,9 +3360,9 @@
       "wiki_url": "/wiki_pages/hakama",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袴",
+      "confidence": "A",
+      "tag_cn_long": "日本传统裤裙，穿在和服外面，有裙型和裤型两种。"
     },
     {
       "name": "hakama skirt",
@@ -3370,9 +3370,9 @@
       "wiki_url": "/wiki_pages/hakama_skirt",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袴裙",
+      "confidence": "A",
+      "tag_cn_long": "呈裙子形状的袴，有长裙或短裙款式。"
     },
     {
       "name": "hakama short skirt",
@@ -3380,9 +3380,9 @@
       "wiki_url": "/wiki_pages/hakama_short_skirt",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短袴裙",
+      "confidence": "A",
+      "tag_cn_long": "长度在膝盖或以上的短款袴裙。"
     },
     {
       "name": "hakama pants",
@@ -3390,9 +3390,9 @@
       "wiki_url": "/wiki_pages/hakama_pants",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袴裤",
+      "confidence": "A",
+      "tag_cn_long": "呈裤子形状的袴，有宽松的裤管。"
     },
     {
       "name": "kimono",
@@ -3400,9 +3400,9 @@
       "wiki_url": "/wiki_pages/kimono",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和服",
+      "confidence": "A",
+      "tag_cn_long": "日本传统服装，长袍、宽袖，用腰带（带）束紧。"
     },
     {
       "name": "furisode",
@@ -3410,9 +3410,9 @@
       "wiki_url": "/wiki_pages/furisode",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "振袖",
+      "confidence": "A",
+      "tag_cn_long": "未婚女性穿着的正式和服，特点是长而飘逸的袖子。"
     },
     {
       "name": "layered kimono",
@@ -3420,9 +3420,9 @@
       "wiki_url": "/wiki_pages/layered_kimono",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多层和服",
+      "confidence": "B",
+      "tag_cn_long": "平安时代宫廷女性穿着的多层和服，最著名的是十二单衣。"
     },
     {
       "name": "short kimono",
@@ -3430,9 +3430,9 @@
       "wiki_url": "/wiki_pages/short_kimono",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短和服",
+      "confidence": "A",
+      "tag_cn_long": "下摆停在膝盖或以上的短款和服。"
     },
     {
       "name": "uchikake",
@@ -3440,9 +3440,9 @@
       "wiki_url": "/wiki_pages/uchikake",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "打褂",
+      "confidence": "A",
+      "tag_cn_long": "日本传统婚礼中新娘穿着的白色或彩色正式和服，外面再穿。"
     },
     {
       "name": "yukata",
@@ -3450,9 +3450,9 @@
       "wiki_url": "/wiki_pages/yukata",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浴衣",
+      "confidence": "A",
+      "tag_cn_long": "一种轻便的夏季和服，通常在节日或洗浴后穿着。"
     },
     {
       "name": "haori",
@@ -3460,9 +3460,9 @@
       "wiki_url": "/wiki_pages/haori",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "羽织",
+      "confidence": "A",
+      "tag_cn_long": "一种穿在和服外面的轻便丝绸夹克，通常为男性穿着。"
     },
     {
       "name": "happi",
@@ -3470,9 +3470,9 @@
       "wiki_url": "/wiki_pages/happi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法披",
+      "confidence": "A",
+      "tag_cn_long": "一种传统的日本直袖外套，在节日期间穿着。"
     },
     {
       "name": "chanchanko",
@@ -3480,9 +3480,9 @@
       "wiki_url": "/wiki_pages/chanchanko_%28clothes%29",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袢缠",
+      "confidence": "C",
+      "tag_cn_long": "一种日本传统无袖短外套，常由儿童穿着，或指同名画师。"
     },
     {
       "name": "dotera",
@@ -3490,9 +3490,9 @@
       "wiki_url": "/wiki_pages/dotera_%28clothes%29",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棉袍",
+      "confidence": "C",
+      "tag_cn_long": "一种日本传统棉质夹克，作为家居服穿着，或指同名画师。"
     },
     {
       "name": "hanten",
@@ -3500,9 +3500,9 @@
       "wiki_url": "/wiki_pages/hanten_%28clothes%29",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半缠",
+      "confidence": "C",
+      "tag_cn_long": "一种日本传统短外套，通常棉质，用于日常或节日穿着，或指同名画师。"
     },
     {
       "name": "kimono skirt",
@@ -3510,9 +3510,9 @@
       "wiki_url": "/wiki_pages/kimono_skirt",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和服裙",
+      "confidence": "A",
+      "tag_cn_long": "一种在腰部像裙子一样展开的和服。"
     },
     {
       "name": "miko",
@@ -3520,9 +3520,9 @@
       "wiki_url": "/wiki_pages/miko",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巫女",
+      "confidence": "A",
+      "tag_cn_long": "神道教神社中负责清扫、舞蹈、祭祀等职务的女性。"
     },
     {
       "name": "nontraditional miko",
@@ -3530,9 +3530,9 @@
       "wiki_url": "/wiki_pages/nontraditional_miko",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非传统巫女装",
+      "confidence": "A",
+      "tag_cn_long": "对传统巫女服进行现代化改编的服装，如缩短裙摆、无袖上衣等。"
     },
     {
       "name": "sarashi",
@@ -3540,9 +3540,9 @@
       "wiki_url": "/wiki_pages/sarashi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晒布",
+      "confidence": "A",
+      "tag_cn_long": "一种长条白布，缠绕在躯干作为内衣或装饰。"
     },
     {
       "name": "Midriff sarashi",
@@ -3550,9 +3550,9 @@
       "wiki_url": "/wiki_pages/midriff_sarashi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹部晒布",
+      "confidence": "A",
+      "tag_cn_long": "一种仅缠绕在腰腹部的晒布。"
     },
     {
       "name": "Chest sarashi",
@@ -3560,9 +3560,9 @@
       "wiki_url": "/wiki_pages/chest_sarashi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸部晒布",
+      "confidence": "A",
+      "tag_cn_long": "一种缠绕在胸部的晒布，类似抹胸。"
     },
     {
       "name": "Budget sarashi",
@@ -3570,9 +3570,9 @@
       "wiki_url": "/wiki_pages/budget_sarashi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不足晒布",
+      "confidence": "B",
+      "tag_cn_long": "一种尺寸过小、无法完全覆盖躯干的晒布。"
     },
     {
       "name": "Undone sarashi",
@@ -3580,9 +3580,9 @@
       "wiki_url": "/wiki_pages/undone_sarashi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "松开晒布",
+      "confidence": "A",
+      "tag_cn_long": "一种从身体上解开或松散的状态的晒布。"
     },
     {
       "name": "straw cape",
@@ -3590,9 +3590,9 @@
       "wiki_url": "/wiki_pages/straw_cape",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓑衣",
+      "confidence": "A",
+      "tag_cn_long": "一种用稻草制成的传统日本雨衣。"
     },
     {
       "name": "mino boushi",
@@ -3600,9 +3600,9 @@
       "wiki_url": "/wiki_pages/mino_boushi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓑帽",
+      "confidence": "B",
+      "tag_cn_long": "一种融合了蓑衣和帽子的头饰，流行于日本东北地区。"
     },
     {
       "name": "tabi",
@@ -3610,9 +3610,9 @@
       "wiki_url": "/wiki_pages/tabi",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分趾袜",
+      "confidence": "A",
+      "tag_cn_long": "日本传统袜子，大脚趾和其他脚趾分开。"
     },
     {
       "name": "tasuki",
@@ -3620,9 +3620,9 @@
       "wiki_url": "/wiki_pages/tasuki",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袖带",
+      "confidence": "A",
+      "tag_cn_long": "一种用于系住和服袖子的带子，通常在劳作时使用。"
     },
     {
       "name": "korean clothes",
@@ -3630,9 +3630,9 @@
       "wiki_url": "/wiki_pages/korean_clothes",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "韩服",
+      "confidence": "A",
+      "tag_cn_long": "韩国传统服装，如韩服等。"
     },
     {
       "name": "hanbok",
@@ -3640,9 +3640,9 @@
       "wiki_url": "/wiki_pages/hanbok",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "韩服",
+      "confidence": "A",
+      "tag_cn_long": "韩国传统服饰，色彩鲜艳，女性高腰长裙。"
     },
     {
       "name": "ao dai",
@@ -3650,9 +3650,9 @@
       "wiki_url": "/wiki_pages/ao_dai",
       "category_path": "Traditional Clothing",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥黛",
+      "confidence": "A",
+      "tag_cn_long": "越南传统服饰，长衫配长裤。"
     },
     {
       "name": "circlet",
@@ -3690,9 +3690,9 @@
       "wiki_url": "/wiki_pages/earrings",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳环",
+      "confidence": "A",
+      "tag_cn_long": "戴在耳垂或耳洞上的饰品。"
     },
     {
       "name": "hoop earrings",
@@ -3700,9 +3700,9 @@
       "wiki_url": "/wiki_pages/hoop_earrings",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳圈",
+      "confidence": "A",
+      "tag_cn_long": "环形耳环，穿在耳洞或套在耳垂上。"
     },
     {
       "name": "stud earrings",
@@ -3710,9 +3710,9 @@
       "wiki_url": "/wiki_pages/stud_earrings",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳钉",
+      "confidence": "A",
+      "tag_cn_long": "通过穿孔固定在耳垂上的小巧耳环，通常带有一粒宝石。"
     },
     {
       "name": "earclip",
@@ -3720,9 +3720,9 @@
       "wiki_url": "/wiki_pages/earclip",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳夹",
+      "confidence": "A",
+      "tag_cn_long": "无需穿孔即可夹在耳朵上的装饰品。"
     },
     {
       "name": "ear chain",
@@ -3730,9 +3730,9 @@
       "wiki_url": "/wiki_pages/ear_chain",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳链",
+      "confidence": "A",
+      "tag_cn_long": "一种由链子连接耳朵不同部位的耳饰。"
     },
     {
       "name": "face chain",
@@ -3740,9 +3740,9 @@
       "wiki_url": "/wiki_pages/face_chain",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面链",
+      "confidence": "B",
+      "tag_cn_long": "垂挂在脸庞上的链饰，通常跨过颧骨和鼻梁。"
     },
     {
       "name": "glasses",
@@ -3760,9 +3760,9 @@
       "wiki_url": "/wiki_pages/monocle",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单眼镜",
+      "confidence": "A",
+      "tag_cn_long": "一种用于单个眼睛的矫正镜片，通常有链子连接衣服。"
     },
     {
       "name": "hair ornament",
@@ -3780,9 +3780,9 @@
       "wiki_url": "/wiki_pages/dianzi",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钿子",
+      "confidence": "A",
+      "tag_cn_long": "清代满族妇女佩戴的半圆形金属框架头饰，常饰有珠宝。"
     },
     {
       "name": "hair beads",
@@ -3840,9 +3840,9 @@
       "wiki_url": "/wiki_pages/hair_stick",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发簪",
+      "confidence": "A",
+      "tag_cn_long": "一种细长条状的头部发饰，用于固定头发或做装饰。"
     },
     {
       "name": "kanzashi",
@@ -3850,9 +3850,9 @@
       "wiki_url": "/wiki_pages/kanzashi",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本发簪",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型中使用的装饰性发簪。"
     },
     {
       "name": "head chain",
@@ -3860,9 +3860,9 @@
       "wiki_url": "/wiki_pages/head_chain",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头链",
+      "confidence": "B",
+      "tag_cn_long": "环绕头部的细链状首饰，通常由贵金属制成。"
     },
     {
       "name": "headphones",
@@ -3870,9 +3870,9 @@
       "wiki_url": "/wiki_pages/headphones",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头戴式耳机",
+      "confidence": "A",
+      "tag_cn_long": "戴在耳朵上的扬声器，由头梁固定。"
     },
     {
       "name": "earphones",
@@ -3880,9 +3880,9 @@
       "wiki_url": "/wiki_pages/earphones",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳塞",
+      "confidence": "A",
+      "tag_cn_long": "直接戴在耳内或耳上的小型扬声器。"
     },
     {
       "name": "earpiece",
@@ -3890,9 +3890,9 @@
       "wiki_url": "/wiki_pages/earpiece",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单耳塞",
+      "confidence": "B",
+      "tag_cn_long": "只戴在一只耳朵上的小型耳塞，不带麦克风。"
     },
     {
       "name": "headset",
@@ -3900,9 +3900,9 @@
       "wiki_url": "/wiki_pages/headset",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳麦",
+      "confidence": "A",
+      "tag_cn_long": "带麦克风的头戴式耳机。"
     },
     {
       "name": "laurel crown",
@@ -3910,9 +3910,9 @@
       "wiki_url": "/wiki_pages/laurel_crown",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月桂花冠",
+      "confidence": "A",
+      "tag_cn_long": "由月桂枝叶编织成的头冠，常与古希腊相关。"
     },
     {
       "name": "mask",
@@ -3920,9 +3920,9 @@
       "wiki_url": "/wiki_pages/mask",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面具",
+      "confidence": "A",
+      "tag_cn_long": "用于遮盖面部的面罩。"
     },
     {
       "name": "plague doctor mask",
@@ -3930,9 +3930,9 @@
       "wiki_url": "/wiki_pages/plague_doctor_mask",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸟嘴面具",
+      "confidence": "A",
+      "tag_cn_long": "欧洲黑死病时期医生佩戴的鸟喙状面具，内填香料用于防护。"
     },
     {
       "name": "surgical mask",
@@ -3940,9 +3940,9 @@
       "wiki_url": "/wiki_pages/surgical_mask",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "外科口罩",
+      "confidence": "A",
+      "tag_cn_long": "医护人员佩戴的矩形折叠口罩，用于防止细菌传播。"
     },
     {
       "name": "ascot",
@@ -3950,9 +3950,9 @@
       "wiki_url": "/wiki_pages/ascot",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿斯科特领巾",
+      "confidence": "A",
+      "tag_cn_long": "一种宽颈巾，系在脖子上并在前端形成宽尾。"
     },
     {
       "name": "bowtie",
@@ -3960,9 +3960,9 @@
       "wiki_url": "/wiki_pages/bowtie",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领结",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的蝴蝶结状装饰，常见于正装或校服。"
     },
     {
       "name": "choker",
@@ -3970,9 +3970,9 @@
       "wiki_url": "/wiki_pages/choker",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "项圈",
+      "confidence": "A",
+      "tag_cn_long": "紧贴脖子佩戴的窄带装饰，常作为项链或饰品。"
     },
     {
       "name": "collar",
@@ -3980,9 +3980,9 @@
       "wiki_url": "/wiki_pages/collar",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈圈",
+      "confidence": "A",
+      "tag_cn_long": "作为时尚饰品佩戴在脖子上的环状物，通常比项圈宽松。"
     },
     {
       "name": "cross tie",
@@ -3990,9 +3990,9 @@
       "wiki_url": "/wiki_pages/cross_tie",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉领带",
+      "confidence": "B",
+      "tag_cn_long": "一种细窄布条在颈部交叉重叠的领饰，也称作大陆领带。"
     },
     {
       "name": "epaulettes",
@@ -4000,9 +4000,9 @@
       "wiki_url": "/wiki_pages/epaulettes",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩章",
+      "confidence": "A",
+      "tag_cn_long": "装饰性的肩垫，常见于军装，尤其帝国时期，常有流苏边饰。"
     },
     {
       "name": "feather boa",
@@ -4010,9 +4010,9 @@
       "wiki_url": "/wiki_pages/feather_boa",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "羽毛围巾",
+      "confidence": "A",
+      "tag_cn_long": "用羽毛或毛皮制成的长而蓬松的颈部或肩部装饰。"
     },
     {
       "name": "guimpe",
@@ -4020,9 +4020,9 @@
       "wiki_url": "/wiki_pages/guimpe",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉姆普领巾",
+      "confidence": "B",
+      "tag_cn_long": "一种覆盖颈部和肩部的白色领饰，常见于修女服饰。"
     },
     {
       "name": "lapels",
@@ -4030,9 +4030,9 @@
       "wiki_url": "/wiki_pages/lapels",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翻领",
+      "confidence": "A",
+      "tag_cn_long": "西装或外套前襟翻折的部分。"
     },
     {
       "name": "lapel pin",
@@ -4040,9 +4040,9 @@
       "wiki_url": "/wiki_pages/lapel_pin",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翻领别针",
+      "confidence": "A",
+      "tag_cn_long": "别在西装翻领上的小徽章或装饰别针。"
     },
     {
       "name": "neck ruff",
@@ -4050,9 +4050,9 @@
       "wiki_url": "/wiki_pages/neck_ruff",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉夫领",
+      "confidence": "A",
+      "tag_cn_long": "16-17世纪欧洲流行的褶皱状颈饰，呈轮状或扇状。"
     },
     {
       "name": "neckerchief",
@@ -4060,9 +4060,9 @@
       "wiki_url": "/wiki_pages/neckerchief",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水手领巾",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的方形或三角形布块，常见于水手服搭配。"
     },
     {
       "name": "necklace",
@@ -4070,9 +4070,9 @@
       "wiki_url": "/wiki_pages/necklace",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "项链",
+      "confidence": "A",
+      "tag_cn_long": "松绕在颈部的链状饰品，通常带有吊坠或珠子。"
     },
     {
       "name": "necktie",
@@ -4080,9 +4080,9 @@
       "wiki_url": "/wiki_pages/necktie",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领带",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的长条形布带，通常搭配正装。"
     },
     {
       "name": "tie clip",
@@ -4090,9 +4090,9 @@
       "wiki_url": "/wiki_pages/tie_clip",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领带夹",
+      "confidence": "A",
+      "tag_cn_long": "固定在领带上的金属夹，用于将领带固定在衬衫上。"
     },
     {
       "name": "neck ribbon",
@@ -4100,9 +4100,9 @@
       "wiki_url": "/wiki_pages/neck_ribbon",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈带",
+      "confidence": "A",
+      "tag_cn_long": "系在颈部的细丝带，替代领带或作为装饰。"
     },
     {
       "name": "scarf",
@@ -4110,9 +4110,9 @@
       "wiki_url": "/wiki_pages/scarf",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "围巾",
+      "confidence": "A",
+      "tag_cn_long": "用于保暖或装饰的长条形织物，常围在脖子上。"
     },
     {
       "name": "scarf choker",
@@ -4120,9 +4120,9 @@
       "wiki_url": "/wiki_pages/scarf_choker",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "围巾项圈",
+      "confidence": "B",
+      "tag_cn_long": "将小围巾紧系在颈部形成的项圈状配饰。"
     },
     {
       "name": "shawl",
@@ -4130,9 +4130,9 @@
       "wiki_url": "/wiki_pages/shawl",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披肩",
+      "confidence": "A",
+      "tag_cn_long": "披在肩上或颈部的大块布巾。"
     },
     {
       "name": "stole",
@@ -4140,9 +4140,9 @@
       "wiki_url": "/wiki_pages/stole",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披肩",
+      "confidence": "A",
+      "tag_cn_long": "搭在肩头或颈部的宽幅布料，两端自然下垂，常为正式或宗教服饰。"
     },
     {
       "name": "usekh collar",
@@ -4150,9 +4150,9 @@
       "wiki_url": "/wiki_pages/usekh_collar",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌塞赫项圈",
+      "confidence": "B",
+      "tag_cn_long": "古埃及贵族佩戴的宽项链，呈半圆片状。"
     },
     {
       "name": "ankle strap",
@@ -4160,9 +4160,9 @@
       "wiki_url": "/wiki_pages/ankle_strap",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚踝带",
+      "confidence": "A",
+      "tag_cn_long": "系在脚踝上的带子。"
     },
     {
       "name": "anklet",
@@ -4170,9 +4170,9 @@
       "wiki_url": "/wiki_pages/anklet",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚链",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在脚踝上的珠宝饰品。"
     },
     {
       "name": "arm belt",
@@ -4180,9 +4180,9 @@
       "wiki_url": "/wiki_pages/arm_belt",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂带",
+      "confidence": "A",
+      "tag_cn_long": "一种系在手臂上的带子，用于装饰或固定。"
     },
     {
       "name": "arm guards",
@@ -4190,9 +4190,9 @@
       "wiki_url": "/wiki_pages/arm_guards",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护臂",
+      "confidence": "A",
+      "tag_cn_long": "用于保护手臂的护具，常见于铠甲。"
     },
     {
       "name": "armband",
@@ -4200,9 +4200,9 @@
       "wiki_url": "/wiki_pages/armband",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂章",
+      "confidence": "A",
+      "tag_cn_long": "戴在上臂的布条，标识身份或作为装饰。"
     },
     {
       "name": "armlet",
@@ -4210,9 +4210,9 @@
       "wiki_url": "/wiki_pages/armlet",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂镯",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在上臂的装饰性金属环，通常镶嵌宝石。"
     },
     {
       "name": "bracer",
@@ -4220,9 +4220,9 @@
       "wiki_url": "/wiki_pages/bracer",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护腕",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕上的护甲，比手镯大。"
     },
     {
       "name": "bracelet",
@@ -4230,9 +4230,9 @@
       "wiki_url": "/wiki_pages/bracelet",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手镯",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕上的装饰性首饰。"
     },
     {
       "name": "bangle",
@@ -4240,9 +4240,9 @@
       "wiki_url": "/wiki_pages/bangle",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "硬质手镯",
+      "confidence": "A",
+      "tag_cn_long": "一种宽大的硬质环状手镯，戴在手腕上。"
     },
     {
       "name": "spiked bracelet",
@@ -4250,9 +4250,9 @@
       "wiki_url": "/wiki_pages/spiked_bracelet",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖刺手镯",
+      "confidence": "A",
+      "tag_cn_long": "带有尖刺装饰的手镯，常见于春丽等角色。"
     },
     {
       "name": "detached sleeves",
@@ -4260,9 +4260,9 @@
       "wiki_url": "/wiki_pages/detached_sleeves",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分离式袖子",
+      "confidence": "A",
+      "tag_cn_long": "与主体上衣分离的独立袖套，可单独穿戴。"
     },
     {
       "name": "arm warmers",
@@ -4270,9 +4270,9 @@
       "wiki_url": "/wiki_pages/arm_warmers",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂套",
+      "confidence": "A",
+      "tag_cn_long": "覆盖手臂的保暖饰品，通常宽松，设计不同于上衣。"
     },
     {
       "name": "elbow sleeve",
@@ -4280,9 +4280,9 @@
       "wiki_url": "/wiki_pages/elbow_sleeve",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护肘",
+      "confidence": "A",
+      "tag_cn_long": "包裹肘部的紧致袖套，常为运动护具。"
     },
     {
       "name": "fingernails",
@@ -4290,9 +4290,9 @@
       "wiki_url": "/wiki_pages/fingernails",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "指甲",
+      "confidence": "A",
+      "tag_cn_long": "手指末端的角质部分，在画中注意到指甲时使用。"
     },
     {
       "name": "garter straps",
@@ -4300,9 +4300,9 @@
       "wiki_url": "/wiki_pages/garter_straps",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊袜带（带子）",
+      "confidence": "B",
+      "tag_cn_long": "连接吊袜腰带和长袜的带子，仅当带子可见时使用此标签。"
     },
     {
       "name": "gloves",
@@ -4310,9 +4310,9 @@
       "wiki_url": "/wiki_pages/gloves",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手套",
+      "confidence": "A",
+      "tag_cn_long": "覆盖手掌和手指的穿戴品，每根手指有独立套鞘。"
     },
     {
       "name": "boxing gloves",
@@ -4320,9 +4320,9 @@
       "wiki_url": "/wiki_pages/boxing_gloves",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拳击手套",
+      "confidence": "A",
+      "tag_cn_long": "拳击运动中使用的厚垫手套，用于保护手部。"
     },
     {
       "name": "elbow gloves",
@@ -4330,9 +4330,9 @@
       "wiki_url": "/wiki_pages/elbow_gloves",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "过肘手套",
+      "confidence": "B",
+      "tag_cn_long": "长度达到或超过肘部的正式手套。"
     },
     {
       "name": "fingerless gloves",
@@ -4340,9 +4340,9 @@
       "wiki_url": "/wiki_pages/fingerless_gloves",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无指手套",
+      "confidence": "A",
+      "tag_cn_long": "覆盖手掌但手指露出的手套，常为保护手掌并保持抓握感。"
     },
     {
       "name": "bridal gauntlets",
@@ -4350,9 +4350,9 @@
       "wiki_url": "/wiki_pages/bridal_gauntlets",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新娘长手套",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身长手套，通常到肘部，用指环固定，常见于婚纱。"
     },
     {
       "name": "spiked gloves",
@@ -4360,9 +4360,9 @@
       "wiki_url": "/wiki_pages/spiked_gloves",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖刺手套",
+      "confidence": "A",
+      "tag_cn_long": "带有尖刺装饰的手套。"
     },
     {
       "name": "yugake",
@@ -4370,9 +4370,9 @@
       "wiki_url": "/wiki_pages/yugake",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弓道手套",
+      "confidence": "B",
+      "tag_cn_long": "日本弓道中戴在右手上的专用手套，通常有三或四个手指。"
     },
     {
       "name": "mittens",
@@ -4380,9 +4380,9 @@
       "wiki_url": "/wiki_pages/mittens",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "连指手套",
+      "confidence": "A",
+      "tag_cn_long": "除拇指外其他四指相连的手套。"
     },
     {
       "name": "hand chains",
@@ -4390,9 +4390,9 @@
       "wiki_url": "/wiki_pages/hand_chains",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手链",
+      "confidence": "B",
+      "tag_cn_long": "一种手部饰品，由手镯通过链条连接戒指，常见于肚皮舞或后宫装束。"
     },
     {
       "name": "leg belt",
@@ -4400,9 +4400,9 @@
       "wiki_url": "/wiki_pages/leg_belt",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿带",
+      "confidence": "A",
+      "tag_cn_long": "系在腿上的带子。"
     },
     {
       "name": "legwear garter",
@@ -4410,9 +4410,9 @@
       "wiki_url": "/wiki_pages/legwear_garter",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袜带",
+      "confidence": "B",
+      "tag_cn_long": "用于固定袜子或长袜的吊袜带。"
     },
     {
       "name": "ring",
@@ -4420,9 +4420,9 @@
       "wiki_url": "/wiki_pages/ring",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戒指",
+      "confidence": "A",
+      "tag_cn_long": "戴在手指上的环形珠宝，常由金属和宝石制成。"
     },
     {
       "name": "claw ring",
@@ -4430,9 +4430,9 @@
       "wiki_url": "/wiki_pages/claw_ring",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爪形戒指",
+      "confidence": "A",
+      "tag_cn_long": "像动物爪子的戒指，通常覆盖手指至指节，可活动。"
     },
     {
       "name": "wedding ring",
@@ -4440,9 +4440,9 @@
       "wiki_url": "/wiki_pages/wedding_ring",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "结婚戒指",
+      "confidence": "A",
+      "tag_cn_long": "戴在左手无名指上，象征婚姻的戒指。"
     },
     {
       "name": "shin guards",
@@ -4450,9 +4450,9 @@
       "wiki_url": "/wiki_pages/shin_guards",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "护胫",
+      "confidence": "A",
+      "tag_cn_long": "用于保护小腿前部的护具，常见于运动或盔甲。"
     },
     {
       "name": "shin strap",
@@ -4460,9 +4460,9 @@
       "wiki_url": "/wiki_pages/shin_strap",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小腿绑带",
+      "confidence": "B",
+      "tag_cn_long": "一种环绕小腿的绑带，常作为装饰或用于固定装备。"
     },
     {
       "name": "thighlet",
@@ -4470,9 +4470,9 @@
       "wiki_url": "/wiki_pages/thighlet",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿环",
+      "confidence": "A",
+      "tag_cn_long": "一种金属材质的环形首饰，戴在大腿上。"
     },
     {
       "name": "thigh strap",
@@ -4480,9 +4480,9 @@
       "wiki_url": "/wiki_pages/thigh_strap",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿绑带",
+      "confidence": "A",
+      "tag_cn_long": "一种环绕大腿的带子，通常由布料或皮革制成。"
     },
     {
       "name": "frilled thigh strap",
@@ -4490,9 +4490,9 @@
       "wiki_url": "/wiki_pages/frilled_thigh_strap",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边大腿绑带",
+      "confidence": "A",
+      "tag_cn_long": "带有荷叶边装饰的大腿绑带。"
     },
     {
       "name": "wide sleeves",
@@ -4500,9 +4500,9 @@
       "wiki_url": "/wiki_pages/wide_sleeves",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽袖",
+      "confidence": "A",
+      "tag_cn_long": "开口宽大的袖子。"
     },
     {
       "name": "wristband",
@@ -4510,9 +4510,9 @@
       "wiki_url": "/wiki_pages/wristband",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腕带",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕上的各种材质的带子。"
     },
     {
       "name": "wrist cuffs",
@@ -4520,9 +4520,9 @@
       "wiki_url": "/wiki_pages/wrist_cuffs",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腕袖",
+      "confidence": "A",
+      "tag_cn_long": "戴在手腕的装饰性袖口，类似衬衫袖口但独立。"
     },
     {
       "name": "wrist ruff",
@@ -4530,9 +4530,9 @@
       "wiki_url": "/wiki_pages/wrist_ruff",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腕部荷叶边",
+      "confidence": "B",
+      "tag_cn_long": "一种在手腕处佩戴的荷叶边装饰，流行于16-17世纪。"
     },
     {
       "name": "wrist scrunchie",
@@ -4540,9 +4540,9 @@
       "wiki_url": "/wiki_pages/wrist_scrunchie",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手腕发圈",
+      "confidence": "A",
+      "tag_cn_long": "像手镯一样戴在手腕上的发圈。"
     },
     {
       "name": "aiguillette",
@@ -4550,9 +4550,9 @@
       "wiki_url": "/wiki_pages/aiguillette",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "饰绳",
+      "confidence": "B",
+      "tag_cn_long": "一种装饰性编绳，常见于军服的肩部。"
     },
     {
       "name": "badge",
@@ -4560,9 +4560,9 @@
       "wiki_url": "/wiki_pages/badge",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "徽章",
+      "confidence": "A",
+      "tag_cn_long": "一种象征身份、等级、会员资格等的标志，通常由塑料、金属或布料制成。"
     },
     {
       "name": "belly chain",
@@ -4570,9 +4570,9 @@
       "wiki_url": "/wiki_pages/belly_chain",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰链",
+      "confidence": "A",
+      "tag_cn_long": "一种环绕腰部的链条首饰，常与肚皮舞服饰搭配。"
     },
     {
       "name": "belt",
@@ -4580,9 +4580,9 @@
       "wiki_url": "/wiki_pages/belt",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰带",
+      "confidence": "A",
+      "tag_cn_long": "一种用于固定裤子或作为装饰的带子，通常系在腰部。"
     },
     {
       "name": "buckle",
@@ -4590,9 +4590,9 @@
       "wiki_url": "/wiki_pages/buckle",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扣子",
+      "confidence": "A",
+      "tag_cn_long": "用于固定两个松散末端的装置，常见于腰带、鞋子等。"
     },
     {
       "name": "wallet chain",
@@ -4600,9 +4600,9 @@
       "wiki_url": "/wiki_pages/wallet_chain",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钱包链",
+      "confidence": "A",
+      "tag_cn_long": "用于将钱包固定在腰带上的短链或长链。"
     },
     {
       "name": "sam browne belt",
@@ -4610,9 +4610,9 @@
       "wiki_url": "/wiki_pages/sam_browne_belt",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "萨姆布朗腰带",
+      "confidence": "B",
+      "tag_cn_long": "一种斜挎右肩并与腰部腰带相连的军用腰带。"
     },
     {
       "name": "shoulder belt",
@@ -4620,9 +4620,9 @@
       "wiki_url": "/wiki_pages/shoulder_belt",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩带",
+      "confidence": "A",
+      "tag_cn_long": "一种斜跨肩部的腰带，常见于军服或制服。"
     },
     {
       "name": "cingulum militare",
@@ -4630,9 +4630,9 @@
       "wiki_url": "/wiki_pages/cingulum_militare",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗马军腰带",
+      "confidence": "B",
+      "tag_cn_long": "古罗马士兵佩戴的装饰性腰带，象征军事身份。"
     },
     {
       "name": "boutonniere",
@@ -4640,9 +4640,9 @@
       "wiki_url": "/wiki_pages/boutonniere",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸花",
+      "confidence": "A",
+      "tag_cn_long": "别在西装翻领纽孔上的花饰。"
     },
     {
       "name": "brooch",
@@ -4650,9 +4650,9 @@
       "wiki_url": "/wiki_pages/brooch",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸针",
+      "confidence": "A",
+      "tag_cn_long": "别在衣物上的装饰别针，常镶嵌宝石。"
     },
     {
       "name": "buttons",
@@ -4660,9 +4660,9 @@
       "wiki_url": "/wiki_pages/buttons",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纽扣",
+      "confidence": "A",
+      "tag_cn_long": "衣服上的小圆片，用于扣合或装饰。"
     },
     {
       "name": "large buttons",
@@ -4670,9 +4670,9 @@
       "wiki_url": "/wiki_pages/large_buttons",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大纽扣",
+      "confidence": "A",
+      "tag_cn_long": "尺寸过大的纽扣，通常用于装饰。"
     },
     {
       "name": "button badge",
@@ -4680,9 +4680,9 @@
       "wiki_url": "/wiki_pages/button_badge",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "徽章",
+      "confidence": "A",
+      "tag_cn_long": "一种别在衣服上的圆形小徽章，通常带有图案或文字。"
     },
     {
       "name": "buttoned cuffs",
@@ -4690,9 +4690,9 @@
       "wiki_url": "/wiki_pages/buttoned_cuffs",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纽扣袖口",
+      "confidence": "A",
+      "tag_cn_long": "袖口处有纽扣的袖口设计，常见于正式衬衫和西装。"
     },
     {
       "name": "collar chain",
@@ -4700,9 +4700,9 @@
       "wiki_url": "/wiki_pages/collar_chain_%28jewelry%29",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颈圈链",
+      "confidence": "B",
+      "tag_cn_long": "连接颈圈的链条，可能是装饰或牵绳。"
     },
     {
       "name": "sweater guard",
@@ -4710,9 +4710,9 @@
       "wiki_url": "/wiki_pages/sweater_guard",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛衣链",
+      "confidence": "B",
+      "tag_cn_long": "横跨胸前用于固定衣物或装饰的链子或带子。"
     },
     {
       "name": "corsage",
@@ -4720,9 +4720,9 @@
       "wiki_url": "/wiki_pages/corsage",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸花",
+      "confidence": "B",
+      "tag_cn_long": "女性在特殊场合佩戴的花饰，常别在裙上或系于手腕。"
     },
     {
       "name": "crinoline",
@@ -4730,9 +4730,9 @@
       "wiki_url": "/wiki_pages/crinoline",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙撑",
+      "confidence": "A",
+      "tag_cn_long": "用于支撑裙形的笼状衬架。"
     },
     {
       "name": "cuff links",
@@ -4740,9 +4740,9 @@
       "wiki_url": "/wiki_pages/cuff_links",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袖扣",
+      "confidence": "A",
+      "tag_cn_long": "用于固定衬衫袖口的装饰性扣子。"
     },
     {
       "name": "double-breasted",
@@ -4750,9 +4750,9 @@
       "wiki_url": "/wiki_pages/double-breasted",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双排扣",
+      "confidence": "A",
+      "tag_cn_long": "一种外套的扣合方式，有两排纽扣，衣襟重叠。"
     },
     {
       "name": "fanny pack",
@@ -4760,9 +4760,9 @@
       "wiki_url": "/wiki_pages/fanny_pack",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰包",
+      "confidence": "A",
+      "tag_cn_long": "系在腰间的小包。"
     },
     {
       "name": "garter belt",
@@ -4770,9 +4770,9 @@
       "wiki_url": "/wiki_pages/garter_belt",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊袜腰带",
+      "confidence": "A",
+      "tag_cn_long": "系腰间用于固定长袜的带子。"
     },
     {
       "name": "harness",
@@ -4780,9 +4780,9 @@
       "wiki_url": "/wiki_pages/harness",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束带",
+      "confidence": "B",
+      "tag_cn_long": "用于装饰或束缚身体的带状结构。"
     },
     {
       "name": "pentacle",
@@ -4790,9 +4790,9 @@
       "wiki_url": "/wiki_pages/pentacle",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五芒星护符",
+      "confidence": "B",
+      "tag_cn_long": "用于施法的护身符，通常带有五芒星或六芒星图案，常作为挂坠佩戴。"
     },
     {
       "name": "piercing",
@@ -4800,9 +4800,9 @@
       "wiki_url": "/wiki_pages/piercing",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "身体穿刺",
+      "confidence": "A",
+      "tag_cn_long": "在身体上穿孔并佩戴首饰，如耳钉、鼻环等，不包括普通耳洞。"
     },
     {
       "name": "sarong",
@@ -4810,9 +4810,9 @@
       "wiki_url": "/wiki_pages/sarong",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纱笼",
+      "confidence": "A",
+      "tag_cn_long": "一种围在腰间的布裙，常用于海滩或度假装扮。"
     },
     {
       "name": "sash",
@@ -4820,9 +4820,9 @@
       "wiki_url": "/wiki_pages/sash",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绶带",
+      "confidence": "A",
+      "tag_cn_long": "一种装饰性带子，可斜挎或系在腰间。"
     },
     {
       "name": "shoulder sash",
@@ -4830,9 +4830,9 @@
       "wiki_url": "/wiki_pages/shoulder_sash",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩部绶带",
+      "confidence": "A",
+      "tag_cn_long": "从一肩斜跨到对侧腰部的装饰带。"
     },
     {
       "name": "waist sash",
@@ -4840,9 +4840,9 @@
       "wiki_url": "/wiki_pages/waist_sash",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰绶带",
+      "confidence": "A",
+      "tag_cn_long": "系在腰部的装饰性带子。"
     },
     {
       "name": "shendyt",
@@ -4850,9 +4850,9 @@
       "wiki_url": "/wiki_pages/shendyt",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "申迪特",
+      "confidence": "B",
+      "tag_cn_long": "古埃及人穿着的缠腰布，类似短裙。"
     },
     {
       "name": "suspenders",
@@ -4860,9 +4860,9 @@
       "wiki_url": "/wiki_pages/suspenders",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背带",
+      "confidence": "A",
+      "tag_cn_long": "挂在肩膀上用来固定裤子的弹性带子。"
     },
     {
       "name": "tassel",
@@ -4870,9 +4870,9 @@
       "wiki_url": "/wiki_pages/tassel",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "流苏",
+      "confidence": "A",
+      "tag_cn_long": "装饰在绳索或带子末端的一束悬挂线。"
     },
     {
       "name": "watch",
@@ -4880,9 +4880,9 @@
       "wiki_url": "/wiki_pages/watch",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手表",
+      "confidence": "A",
+      "tag_cn_long": "一种戴在手腕上的计时工具。"
     },
     {
       "name": "pocket watch",
@@ -4890,9 +4890,9 @@
       "wiki_url": "/wiki_pages/pocket_watch",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "怀表",
+      "confidence": "A",
+      "tag_cn_long": "一种放在口袋中的手持式时钟，通常带有链条。"
     },
     {
       "name": "yaopei",
@@ -4900,9 +4900,9 @@
       "wiki_url": "/wiki_pages/yaopei",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰佩",
+      "confidence": "A",
+      "tag_cn_long": "中国传统汉服中悬挂在腰间的装饰品，如玉佩、流苏等。"
     },
     {
       "name": "zipper",
@@ -4910,9 +4910,9 @@
       "wiki_url": "/wiki_pages/zipper",
       "category_path": "Jewelry and Accessories",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉链",
+      "confidence": "A",
+      "tag_cn_long": "由金属或塑料齿组成的装置，用于临时连接两块布料边缘。"
     },
     {
       "name": "argyle",
@@ -4920,9 +4920,9 @@
       "wiki_url": "/wiki_pages/argyle",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菱形格纹",
+      "confidence": "A",
+      "tag_cn_long": "由斜向排列的菱形格子组成的图案。"
     },
     {
       "name": "camouflage",
@@ -4930,9 +4930,9 @@
       "wiki_url": "/wiki_pages/camouflage",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷彩",
+      "confidence": "A",
+      "tag_cn_long": "用于伪装的颜色或图案，常见于军事服装。"
     },
     {
       "name": "checkered",
@@ -4940,9 +4940,9 @@
       "wiki_url": "/wiki_pages/checkered",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棋盘格",
+      "confidence": "A",
+      "tag_cn_long": "类似棋盘的方格图案。"
     },
     {
       "name": "floral print",
@@ -4950,9 +4950,9 @@
       "wiki_url": "/wiki_pages/floral_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花卉印花",
+      "confidence": "A",
+      "tag_cn_long": "衣服上印有花朵图案。"
     },
     {
       "name": "gingham",
@@ -4960,9 +4960,9 @@
       "wiki_url": "/wiki_pages/gingham",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "方格纹",
+      "confidence": "B",
+      "tag_cn_long": "由白色和彩色条纹垂直交错形成的小方格图案。"
     },
     {
       "name": "houndstooth",
@@ -4970,9 +4970,9 @@
       "wiki_url": "/wiki_pages/houndstooth",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "千鸟格",
+      "confidence": "A",
+      "tag_cn_long": "一种类似犬牙不规则形状的编织或印花图案。"
     },
     {
       "name": "pinstripe pattern",
@@ -4980,9 +4980,9 @@
       "wiki_url": "/wiki_pages/pinstripe_pattern",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "细条纹",
+      "confidence": "A",
+      "tag_cn_long": "由细线和粗线交替构成的条纹图案。"
     },
     {
       "name": "plaid",
@@ -4990,9 +4990,9 @@
       "wiki_url": "/wiki_pages/plaid",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格子",
+      "confidence": "A",
+      "tag_cn_long": "由多条垂直和水平线条交织而成的彩色图案，线条宽度不规则。"
     },
     {
       "name": "polka dot",
@@ -5000,9 +5000,9 @@
       "wiki_url": "/wiki_pages/polka_dot",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点",
+      "confidence": "A",
+      "tag_cn_long": "由等大等距的圆形组成的图案。"
     },
     {
       "name": "striped",
@@ -5010,9 +5010,9 @@
       "wiki_url": "/wiki_pages/striped",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹",
+      "confidence": "A",
+      "tag_cn_long": "具有条纹的图案，通常需要更具体的描述。"
     },
     {
       "name": "multicolored stripes",
@@ -5020,9 +5020,9 @@
       "wiki_url": "/wiki_pages/multicolored_stripes",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色条纹",
+      "confidence": "A",
+      "tag_cn_long": "具有三种或以上颜色的条纹图案。"
     },
     {
       "name": "double vertical stripe",
@@ -5030,9 +5030,9 @@
       "wiki_url": "/wiki_pages/double_vertical_stripe",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双竖条纹",
+      "confidence": "A",
+      "tag_cn_long": "衣服上的两条垂直条纹图案。"
     },
     {
       "name": "animal print",
@@ -5040,9 +5040,9 @@
       "wiki_url": "/wiki_pages/animal_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物纹",
+      "confidence": "A",
+      "tag_cn_long": "模仿动物皮毛或外观的印刷图案。"
     },
     {
       "name": "bat print",
@@ -5050,9 +5050,9 @@
       "wiki_url": "/wiki_pages/bat_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝙蝠纹",
+      "confidence": "A",
+      "tag_cn_long": "衣服上印有蝙蝠图案。"
     },
     {
       "name": "bear print",
@@ -5060,9 +5060,9 @@
       "wiki_url": "/wiki_pages/bear_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊纹",
+      "confidence": "A",
+      "tag_cn_long": "衣服上印有熊图案。"
     },
     {
       "name": "butterfly print",
@@ -5070,9 +5070,9 @@
       "wiki_url": "/wiki_pages/butterfly_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或织物上印有蝴蝶图案。"
     },
     {
       "name": "cow print",
@@ -5080,9 +5080,9 @@
       "wiki_url": "/wiki_pages/cow_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奶牛纹",
+      "confidence": "A",
+      "tag_cn_long": "黑白相间的图案，模仿荷斯坦奶牛的斑点。"
     },
     {
       "name": "leopard print",
@@ -5090,9 +5090,9 @@
       "wiki_url": "/wiki_pages/leopard_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "豹纹",
+      "confidence": "A",
+      "tag_cn_long": "模仿豹子皮毛的图案，常与性感女性相关联。"
     },
     {
       "name": "tiger print",
@@ -5100,9 +5100,9 @@
       "wiki_url": "/wiki_pages/tiger_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "虎纹",
+      "confidence": "A",
+      "tag_cn_long": "模仿老虎皮毛的图案，黑色条纹在橙色或黄色底色上。"
     },
     {
       "name": "snake print",
@@ -5110,9 +5110,9 @@
       "wiki_url": "/wiki_pages/snake_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蛇纹",
+      "confidence": "A",
+      "tag_cn_long": "模仿蛇皮纹理的图案。"
     },
     {
       "name": "bone print",
@@ -5120,9 +5120,9 @@
       "wiki_url": "/wiki_pages/bone_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骨头印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或织物上印有骨头图案。"
     },
     {
       "name": "clover print",
@@ -5130,9 +5130,9 @@
       "wiki_url": "/wiki_pages/clover_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三叶草印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上印有三叶草图案。"
     },
     {
       "name": "crescent print",
@@ -5140,9 +5140,9 @@
       "wiki_url": "/wiki_pages/crescent_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月牙纹",
+      "confidence": "A",
+      "tag_cn_long": "印有新月形状的图案，通常代表新月。"
     },
     {
       "name": "floral print",
@@ -5150,9 +5150,9 @@
       "wiki_url": "/wiki_pages/floral_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花卉印花",
+      "confidence": "A",
+      "tag_cn_long": "衣服上印有花朵图案。"
     },
     {
       "name": "rose print",
@@ -5160,9 +5160,9 @@
       "wiki_url": "/wiki_pages/rose_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玫瑰印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有玫瑰花图案的印花。"
     },
     {
       "name": "camellia print",
@@ -5170,9 +5170,9 @@
       "wiki_url": "/wiki_pages/camellia_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山茶花印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有山茶花图案的印花。"
     },
     {
       "name": "cherry blossom print",
@@ -5180,9 +5180,9 @@
       "wiki_url": "/wiki_pages/cherry_blossom_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "樱花纹",
+      "confidence": "A",
+      "tag_cn_long": "印有樱花图案。"
     },
     {
       "name": "chrysanthemum print",
@@ -5190,9 +5190,9 @@
       "wiki_url": "/wiki_pages/chrysanthemum_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菊花印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有菊花图案的印花，常用于中式或日式服装。"
     },
     {
       "name": "lily print",
@@ -5200,9 +5200,9 @@
       "wiki_url": "/wiki_pages/lily_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "百合印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有百合花图案的印花。"
     },
     {
       "name": "morning glory print",
@@ -5210,9 +5210,9 @@
       "wiki_url": "/wiki_pages/morning_glory_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牵牛花印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有牵牛花图案的印花。"
     },
     {
       "name": "peony print",
@@ -5220,9 +5220,9 @@
       "wiki_url": "/wiki_pages/peony_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牡丹印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有牡丹花图案的印花，常用于中式或日式服装。"
     },
     {
       "name": "plum blossom print",
@@ -5230,9 +5230,9 @@
       "wiki_url": "/wiki_pages/plum_blossom_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梅花印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有梅花图案的印花。"
     },
     {
       "name": "spider lily print",
@@ -5240,9 +5240,9 @@
       "wiki_url": "/wiki_pages/spider_lily_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彼岸花印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有彼岸花（蜘蛛百合）图案的印花。"
     },
     {
       "name": "sunflower print",
@@ -5250,9 +5250,9 @@
       "wiki_url": "/wiki_pages/sunflower_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "向日葵印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有向日葵图案的印花。"
     },
     {
       "name": "food print",
@@ -5260,9 +5260,9 @@
       "wiki_url": "/wiki_pages/food_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "食物印花",
+      "confidence": "A",
+      "tag_cn_long": "衣服上印有食物图案。"
     },
     {
       "name": "fruit pattern",
@@ -5270,9 +5270,9 @@
       "wiki_url": "/wiki_pages/fruit_pattern",
       "category_path": "Styles and Patterns",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水果图案",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有水果图案的印花装饰。"
     },
     {
       "name": "apple print",
@@ -5280,9 +5280,9 @@
       "wiki_url": "/wiki_pages/apple_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苹果印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有苹果图案的印花。"
     },
     {
       "name": "blueberry print",
@@ -5290,9 +5290,9 @@
       "wiki_url": "/wiki_pages/blueberry_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝莓印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有蓝莓图案的印花。"
     },
     {
       "name": "cherry print",
@@ -5300,9 +5300,9 @@
       "wiki_url": "/wiki_pages/cherry_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "樱桃印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有樱桃图案的印花。"
     },
     {
       "name": "kiwi print",
@@ -5310,9 +5310,9 @@
       "wiki_url": "/wiki_pages/kiwi_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猕猴桃印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有猕猴桃（奇异果）图案的印花。"
     },
     {
       "name": "lemon print",
@@ -5320,9 +5320,9 @@
       "wiki_url": "/wiki_pages/lemon_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "柠檬印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有柠檬图案的印花。"
     },
     {
       "name": "pineapple print",
@@ -5330,9 +5330,9 @@
       "wiki_url": "/wiki_pages/pineapple_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菠萝印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有菠萝图案的印花。"
     },
     {
       "name": "orange print",
@@ -5340,9 +5340,9 @@
       "wiki_url": "/wiki_pages/orange_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙子印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有橙子图案的印花。"
     },
     {
       "name": "strawberry print",
@@ -5350,9 +5350,9 @@
       "wiki_url": "/wiki_pages/strawberry_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草莓印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有草莓图案的印花。"
     },
     {
       "name": "watermelon print",
@@ -5360,9 +5360,9 @@
       "wiki_url": "/wiki_pages/watermelon_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西瓜纹",
+      "confidence": "A",
+      "tag_cn_long": "印有西瓜图案。"
     },
     {
       "name": "leaf print",
@@ -5370,9 +5370,9 @@
       "wiki_url": "/wiki_pages/leaf_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叶子纹",
+      "confidence": "A",
+      "tag_cn_long": "印有叶子图案。"
     },
     {
       "name": "maple leaf print",
@@ -5380,9 +5380,9 @@
       "wiki_url": "/wiki_pages/maple_leaf_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "枫叶印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有枫叶图案的印花。"
     },
     {
       "name": "moon print",
@@ -5390,9 +5390,9 @@
       "wiki_url": "/wiki_pages/moon_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月亮纹",
+      "confidence": "A",
+      "tag_cn_long": "印有月亮图案。"
     },
     {
       "name": "musical note print",
@@ -5400,9 +5400,9 @@
       "wiki_url": "/wiki_pages/musical_note_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "音符纹",
+      "confidence": "A",
+      "tag_cn_long": "衣服上印有音乐符号图案。"
     },
     {
       "name": "paw print",
@@ -5410,9 +5410,9 @@
       "wiki_url": "/wiki_pages/paw_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爪印印花",
+      "confidence": "A",
+      "tag_cn_long": "表示动物足迹的印记图案。"
     },
     {
       "name": "petal print",
@@ -5420,9 +5420,9 @@
       "wiki_url": "/wiki_pages/petal_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花瓣印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有花瓣图案的印花。"
     },
     {
       "name": "piano print",
@@ -5430,9 +5430,9 @@
       "wiki_url": "/wiki_pages/piano_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钢琴印花",
+      "confidence": "A",
+      "tag_cn_long": "一种模仿钢琴键盘黑白琴键排列的布料图案。"
     },
     {
       "name": "sparkle print",
@@ -5440,9 +5440,9 @@
       "wiki_url": "/wiki_pages/sparkle_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闪光印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有闪光或星星图案的印花。"
     },
     {
       "name": "triangle print",
@@ -5450,9 +5450,9 @@
       "wiki_url": "/wiki_pages/triangle_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三角形印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有三角形图案的印花。"
     },
     {
       "name": "space print",
@@ -5460,9 +5460,9 @@
       "wiki_url": "/wiki_pages/space_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宇宙印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有太空主题（含星球、星云等）的印花。"
     },
     {
       "name": "starry sky print",
@@ -5470,9 +5470,9 @@
       "wiki_url": "/wiki_pages/starry_sky_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星空印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有星空图案的印花。"
     },
     {
       "name": "star print",
@@ -5480,9 +5480,9 @@
       "wiki_url": "/wiki_pages/star_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有星形符号（☆）的印花。"
     },
     {
       "name": "wave print",
@@ -5490,9 +5490,9 @@
       "wiki_url": "/wiki_pages/wave_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波浪印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有波浪图案的印花。"
     },
     {
       "name": "wing print",
@@ -5500,9 +5500,9 @@
       "wiki_url": "/wiki_pages/wing_print",
       "category_path": "Styles and Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翅膀印花",
+      "confidence": "A",
+      "tag_cn_long": "衣物或物品上有翅膀图案的印花。"
     },
     {
       "name": "buckle",
@@ -5510,9 +5510,9 @@
       "wiki_url": "/wiki_pages/buckle",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扣子",
+      "confidence": "A",
+      "tag_cn_long": "用于固定两个松散末端的装置，常见于腰带、鞋子等。"
     },
     {
       "name": "chinese knot",
@@ -5520,9 +5520,9 @@
       "wiki_url": "/wiki_pages/chinese_knot",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中国结",
+      "confidence": "A",
+      "tag_cn_long": "一种中国传统编织饰品，通常由两根绳线对称编织而成。"
     },
     {
       "name": "criss-cross straps",
@@ -5530,9 +5530,9 @@
       "wiki_url": "/wiki_pages/criss-cross_straps",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉系带",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有两条或以上带子交叉成X形。"
     },
     {
       "name": "criss-cross back-straps",
@@ -5540,9 +5540,9 @@
       "wiki_url": "/wiki_pages/criss-cross_back-straps",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背部交叉系带",
+      "confidence": "A",
+      "tag_cn_long": "背部有交叉成X形的系带。"
     },
     {
       "name": "clothing cutout",
@@ -5550,9 +5550,9 @@
       "wiki_url": "/wiki_pages/clothing_cutout",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "服装镂空",
+      "confidence": "A",
+      "tag_cn_long": "衣物上故意开设的开口以暴露身体部位的设计。"
     },
     {
       "name": "dress flower",
@@ -5560,9 +5560,9 @@
       "wiki_url": "/wiki_pages/dress_flower",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裙装花朵",
+      "confidence": "A",
+      "tag_cn_long": "装饰在连衣裙或裙子上的花朵。"
     },
     {
       "name": "flower trim",
@@ -5570,9 +5570,9 @@
       "wiki_url": "/wiki_pages/flower_trim",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花边饰边",
+      "confidence": "A",
+      "tag_cn_long": "服装边缘用花朵形状装饰的镶边。"
     },
     {
       "name": "frills",
@@ -5580,9 +5580,9 @@
       "wiki_url": "/wiki_pages/frills",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷叶边",
+      "confidence": "A",
+      "tag_cn_long": "布料或蕾丝制成的褶皱装饰边，边缘松散。"
     },
     {
       "name": "fur trim",
@@ -5590,9 +5590,9 @@
       "wiki_url": "/wiki_pages/fur_trim",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮饰边",
+      "confidence": "A",
+      "tag_cn_long": "服装领口、下摆或袖口等部位的毛皮镶边。"
     },
     {
       "name": "gathers",
@@ -5600,9 +5600,9 @@
       "wiki_url": "/wiki_pages/gathers",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抽褶",
+      "confidence": "A",
+      "tag_cn_long": "一种缝纫工艺，通过抽紧线形成小褶皱或褶裥。"
     },
     {
       "name": "gold trim",
@@ -5610,9 +5610,9 @@
       "wiki_url": "/wiki_pages/gold_trim",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金色镶边",
+      "confidence": "A",
+      "tag_cn_long": "衣物或盔甲边缘有金色装饰。"
     },
     {
       "name": "lace trim",
@@ -5620,9 +5620,9 @@
       "wiki_url": "/wiki_pages/lace_trim",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝镶边",
+      "confidence": "A",
+      "tag_cn_long": "衣物边缘装饰有蕾丝花边。"
     },
     {
       "name": "pom pom",
@@ -5630,9 +5630,9 @@
       "wiki_url": "/wiki_pages/pom_pom_%28clothes%29",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绒球",
+      "confidence": "B",
+      "tag_cn_long": "蓬松的球状装饰物，可用于服装或啦啦队道具。"
     },
     {
       "name": "ribbon trim",
@@ -5640,9 +5640,9 @@
       "wiki_url": "/wiki_pages/ribbon_trim",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丝带镶边",
+      "confidence": "A",
+      "tag_cn_long": "衣物边缘用丝带穿绕作为装饰或支撑。"
     },
     {
       "name": "see-through clothes",
@@ -5650,9 +5650,9 @@
       "wiki_url": "/wiki_pages/see-through_clothes",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透视装",
+      "confidence": "A",
+      "tag_cn_long": "因面料薄或湿而部分或完全透明的衣物。"
     },
     {
       "name": "silver trim",
@@ -5660,9 +5660,9 @@
       "wiki_url": "/wiki_pages/silver_trim",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "银色镶边",
+      "confidence": "A",
+      "tag_cn_long": "衣物边缘有银色装饰。"
     },
     {
       "name": "taut shirt",
@@ -5670,9 +5670,9 @@
       "wiki_url": "/wiki_pages/taut_shirt",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绷紧上衣",
+      "confidence": "B",
+      "tag_cn_long": "上衣因紧身而在胸部间布料绷紧形成褶皱效果。"
     },
     {
       "name": "torn clothes",
@@ -5680,9 +5680,9 @@
       "wiki_url": "/wiki_pages/torn_clothes",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破衣",
+      "confidence": "A",
+      "tag_cn_long": "衣物处于撕破或破损状态。"
     },
     {
       "name": "white trim",
@@ -5690,9 +5690,9 @@
       "wiki_url": "/wiki_pages/white_trim",
       "category_path": "Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色镶边",
+      "confidence": "A",
+      "tag_cn_long": "衣物边缘有白色装饰。"
     },
     {
       "name": "casual",
@@ -5700,9 +5700,9 @@
       "wiki_url": "/wiki_pages/casual",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "休闲装",
+      "confidence": "A",
+      "tag_cn_long": "角色穿着日常便服而非制服或正装。"
     },
     {
       "name": "cosplay",
@@ -5710,9 +5710,9 @@
       "wiki_url": "/wiki_pages/cosplay",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角色扮演",
+      "confidence": "A",
+      "tag_cn_long": "现实或虚构角色装扮成其他角色。"
     },
     {
       "name": "fashion",
@@ -5720,9 +5720,9 @@
       "wiki_url": "/wiki_pages/fashion",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "时尚",
+      "confidence": "A",
+      "tag_cn_long": "衣着打扮符合当代时尚潮流。"
     },
     {
       "name": "lolita fashion",
@@ -5730,9 +5730,9 @@
       "wiki_url": "/wiki_pages/lolita_fashion",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洛丽塔时尚",
+      "confidence": "A",
+      "tag_cn_long": "一种受维多利亚时代和洛可可风格影响的日本街头时尚。"
     },
     {
       "name": "shoes",
@@ -5740,9 +5740,9 @@
       "wiki_url": "/wiki_pages/shoes",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鞋子",
+      "confidence": "A",
+      "tag_cn_long": "最通用的鞋类标签，包括各种鞋。"
     }
   ],
   "total_tags": 566,

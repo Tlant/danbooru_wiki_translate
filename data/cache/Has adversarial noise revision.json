@@ -1,0 +1,6 @@
+{
+  "tag": "Has adversarial noise revision",
+  "tag_cn": "含对抗噪声修订",
+  "confidence": "B",
+  "tag_cn_long": "来源修订版被加入了对抗性噪声（如Glaze）。"
+}

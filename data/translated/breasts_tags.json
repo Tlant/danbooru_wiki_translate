@@ -60,9 +60,9 @@
       "wiki_url": "/wiki_pages/breasts",
       "category_path": "Main",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房",
+      "confidence": "A",
+      "tag_cn_long": "明显可见的胸部（排除平胸角色）。"
     },
     {
       "name": "flat chest",
@@ -70,9 +70,9 @@
       "wiki_url": "/wiki_pages/flat_chest",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贫乳",
+      "confidence": "A",
+      "tag_cn_long": "女性角色胸部完全平坦，无乳房。"
     },
     {
       "name": "small breasts",
@@ -80,9 +80,9 @@
       "wiki_url": "/wiki_pages/small_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小胸",
+      "confidence": "A",
+      "tag_cn_long": "比贫乳大但比中等胸部小的乳房。"
     },
     {
       "name": "medium breasts",
@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/medium_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中等胸部",
+      "confidence": "A",
+      "tag_cn_long": "介于小胸和大胸之间的乳房大小。"
     },
     {
       "name": "large breasts",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/large_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大胸",
+      "confidence": "A",
+      "tag_cn_long": "比中等胸部大但比巨乳小的乳房。"
     },
     {
       "name": "huge breasts",
@@ -110,9 +110,9 @@
       "wiki_url": "/wiki_pages/huge_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巨乳",
+      "confidence": "A",
+      "tag_cn_long": "比大胸更大但小于超巨乳的乳房。"
     },
     {
       "name": "gigantic breasts",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/gigantic_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超巨乳",
+      "confidence": "A",
+      "tag_cn_long": "比巨乳更大的乳房，超过头部两倍。"
     },
     {
       "name": "a flat chest is a status symbol",
@@ -130,9 +130,9 @@
       "wiki_url": "/wiki_pages/a_flat_chest_is_a_status_symbol",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贫乳是地位象征",
+      "confidence": "A",
+      "tag_cn_long": "出自《Shuffle!》和《幸运星》的台词，意为贫乳是种荣耀。"
     },
     {
       "name": "breast conscious",
@@ -140,9 +140,9 @@
       "wiki_url": "/wiki_pages/breast_conscious",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸部意识",
+      "confidence": "B",
+      "tag_cn_long": "角色对自己胸部大小感到不满（不论大小）。"
     },
     {
       "name": "breast contest",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/breast_contest",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸部对决",
+      "confidence": "A",
+      "tag_cn_long": "两个角色胸对胸互顶较量的场景。"
     },
     {
       "name": "breast envy",
@@ -160,9 +160,9 @@
       "wiki_url": "/wiki_pages/breast_envy",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸部嫉妒",
+      "confidence": "A",
+      "tag_cn_long": "女性角色因他人胸部更大而感到嫉妒。"
     },
     {
       "name": "breast awe",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/breast_awe",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸部敬畏",
+      "confidence": "B",
+      "tag_cn_long": "某人被胸部吸引但未必产生嫉妒。"
     },
     {
       "name": "flat envy",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/flat_envy",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贫乳嫉妒",
+      "confidence": "A",
+      "tag_cn_long": "大胸角色羡慕贫乳角色的胸部大小。"
     },
     {
       "name": "breast expansion",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/breast_expansion",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房膨胀",
+      "confidence": "A",
+      "tag_cn_long": "角色乳房正在变大或已明显变大。"
     },
     {
       "name": "breast punch",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/breast_punch",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "击打胸部",
+      "confidence": "B",
+      "tag_cn_long": "直接击打乳房的动作（通常造成疼痛）。"
     },
     {
       "name": "breast reduction",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/breast_reduction",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房缩小",
+      "confidence": "A",
+      "tag_cn_long": "角色正在或考虑通过手术等方式缩小乳房。"
     },
     {
       "name": "breast padding",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/breast_padding",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸部填充",
+      "confidence": "A",
+      "tag_cn_long": "使用胸垫或其他物品增强胸部外观。"
     },
     {
       "name": "breast size switch",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/breast_size_switch",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸部大小互换",
+      "confidence": "C",
+      "tag_cn_long": "角色之间乳房大小交换或对比表现。"
     },
     {
       "name": "bust chart",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/bust_chart",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸围对比图",
+      "confidence": "A",
+      "tag_cn_long": "展示多个角色胸部大小的排成一列的参考图。"
     },
     {
       "name": "bust measuring",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/bust_measuring",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "量胸围",
+      "confidence": "A",
+      "tag_cn_long": "用卷尺测量胸部的行为，常见于日本学校的体检。"
     },
     {
       "name": "compressed breasts",
@@ -260,9 +260,9 @@
       "wiki_url": "/wiki_pages/compressed_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣物紧绷凸显胸部",
+      "confidence": "B",
+      "tag_cn_long": "胸部因衣物过紧而显露出比实际更大的效果。"
     },
     {
       "name": "flying button",
@@ -270,9 +270,9 @@
       "wiki_url": "/wiki_pages/flying_button",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞扣",
+      "confidence": "A",
+      "tag_cn_long": "钮扣因衣物破裂而飞出的画面。"
     },
     {
       "name": "looking at breasts",
@@ -280,9 +280,9 @@
       "wiki_url": "/wiki_pages/looking_at_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "注视胸部",
+      "confidence": "A",
+      "tag_cn_long": "角色视线明显聚焦于他人胸部。"
     },
     {
       "name": "convenient breasts",
@@ -290,9 +290,9 @@
       "wiki_url": "/wiki_pages/convenient_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "便利的胸部",
+      "confidence": "B",
+      "tag_cn_long": "胸部大小恰好对当前情况有帮助，如巨乳挡开杂物或贫乳钻过窄缝。"
     },
     {
       "name": "inconvenient breasts",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/inconvenient_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "碍事的胸部",
+      "confidence": "A",
+      "tag_cn_long": "胸部太大导致卡住、撑坏衣物、撞到东西或遮挡视线等不便。"
     },
     {
       "name": "oversized breast cup",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/oversized_breast_cup",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "过大的罩杯",
+      "confidence": "A",
+      "tag_cn_long": "胸罩或紧身衣的罩杯明显大于胸部，松松垮垮地挂在胸前。"
     },
     {
       "name": "slapping breasts",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/slapping_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拍打胸部",
+      "confidence": "A",
+      "tag_cn_long": "用手掌击打他人的胸部。"
     },
     {
       "name": "slapping with breasts",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/slapping_with_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "用胸部拍打",
+      "confidence": "A",
+      "tag_cn_long": "用自己的胸部甩打别人。"
     },
     {
       "name": "undersized breast cup",
@@ -340,9 +340,9 @@
       "wiki_url": "/wiki_pages/undersized_breast_cup",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "过小的罩杯",
+      "confidence": "A",
+      "tag_cn_long": "胸罩或紧身衣的罩杯太小，无法完全覆盖胸部。"
     },
     {
       "name": "weighing breasts",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/weighing_breasts",
       "category_path": "Breast sizes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "称乳房重量",
+      "confidence": "A",
+      "tag_cn_long": "测量一个或多个乳房重量的行为。"
     },
     {
       "name": "areolae",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/areolae",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳晕",
+      "confidence": "A",
+      "tag_cn_long": "乳头周围的有色区域。"
     },
     {
       "name": "areola slip",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/areola_slip",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳晕露出",
+      "confidence": "A",
+      "tag_cn_long": "乳晕从衣物中滑出或部分暴露，但乳头未露出。"
     },
     {
       "name": "dark areolae",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/dark_areolae",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "深色乳晕",
+      "confidence": "A",
+      "tag_cn_long": "乳晕颜色较深，通常为棕黑色。"
     },
     {
       "name": "glands of montgomery",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/glands_of_montgomery",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒙哥马利腺",
+      "confidence": "B",
+      "tag_cn_long": "乳晕上可见的小凸起，分泌油脂保护乳头。"
     },
     {
       "name": "large areolae",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/large_areolae",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大乳晕",
+      "confidence": "A",
+      "tag_cn_long": "乳晕很大，占乳房面积一半以上。"
     },
     {
       "name": "light areolae",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/light_areolae",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浅色乳晕",
+      "confidence": "A",
+      "tag_cn_long": "乳晕或乳头比周围皮肤颜色浅，常见于深色皮肤角色。"
     },
     {
       "name": "backboob",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/backboob",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背部看乳侧",
+      "confidence": "B",
+      "tag_cn_long": "从背后视角看到乳房的侧面或后部。"
     },
     {
       "name": "bursting breasts",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/bursting_breasts",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "撑爆衣服的胸部",
+      "confidence": "A",
+      "tag_cn_long": "胸部过大导致衣物崩裂或即将绷开的样子。"
     },
     {
       "name": "cleavage",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/cleavage",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳沟",
+      "confidence": "A",
+      "tag_cn_long": "女性双乳之间的凹陷或沟壑。"
     },
     {
       "name": "nipples",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳房上的小突起。"
     },
     {
       "name": "dark nipples",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/dark_nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "深色乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳头颜色较深，通常为棕黑色。"
     },
     {
       "name": "covered nipples",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/covered_nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凸点",
+      "confidence": "A",
+      "tag_cn_long": "乳头透过衣物明显凸起。"
     },
     {
       "name": "gaping nipples",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/gaping_nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "张开式乳头",
+      "confidence": "C",
+      "tag_cn_long": "乳头呈现出张开或外翻的状态。"
     },
     {
       "name": "huge nipples",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/huge_nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巨大乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳头比正常尺寸长或粗，通常如拇指般大小。"
     },
     {
       "name": "nipple indents",
@@ -500,9 +500,9 @@
       "wiki_url": "/wiki_pages/nipple_indents",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头凹痕",
+      "confidence": "B",
+      "tag_cn_long": "乳头尖端有凹陷或小孔，不同于乳头内陷。"
     },
     {
       "name": "inverted nipples",
@@ -510,9 +510,9 @@
       "wiki_url": "/wiki_pages/inverted_nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凹陷乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳头向内凹陷而非向外突出。"
     },
     {
       "name": "long nipples",
@@ -520,9 +520,9 @@
       "wiki_url": "/wiki_pages/long_nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳头比正常长度更长。"
     },
     {
       "name": "nipple slip",
@@ -530,9 +530,9 @@
       "wiki_url": "/wiki_pages/nipple_slip",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头走光",
+      "confidence": "A",
+      "tag_cn_long": "因动作或衣着不当导致乳头意外暴露。"
     },
     {
       "name": "no nipples",
@@ -540,9 +540,9 @@
       "wiki_url": "/wiki_pages/no_nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无乳头",
+      "confidence": "A",
+      "tag_cn_long": "胸部裸露但缺少乳头。"
     },
     {
       "name": "puffy nipples",
@@ -550,9 +550,9 @@
       "wiki_url": "/wiki_pages/puffy_nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肿胀乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳头和乳晕明显肿胀突出。"
     },
     {
       "name": "small nipples",
@@ -560,9 +560,9 @@
       "wiki_url": "/wiki_pages/small_nipples",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳头或乳晕比正常小。"
     },
     {
       "name": "nipple hair",
@@ -570,9 +570,9 @@
       "wiki_url": "/wiki_pages/nipple_hair",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头毛",
+      "confidence": "A",
+      "tag_cn_long": "乳头周围的体毛。"
     },
     {
       "name": "sideboob",
@@ -580,9 +580,9 @@
       "wiki_url": "/wiki_pages/sideboob",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧乳",
+      "confidence": "A",
+      "tag_cn_long": "从衣服侧面缝隙露出的乳房外侧，不露乳头。"
     },
     {
       "name": "underboob",
@@ -590,9 +590,9 @@
       "wiki_url": "/wiki_pages/underboob",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下乳",
+      "confidence": "A",
+      "tag_cn_long": "从衣服下方露出的乳房底部，不露乳头。"
     },
     {
       "name": "breast slip",
@@ -600,9 +600,9 @@
       "wiki_url": "/wiki_pages/breast_slip",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房走光",
+      "confidence": "A",
+      "tag_cn_long": "整个乳房从衣物中滑出暴露。"
     },
     {
       "name": "breastless clothes",
@@ -610,9 +610,9 @@
       "wiki_url": "/wiki_pages/breastless_clothes",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露胸装",
+      "confidence": "B",
+      "tag_cn_long": "专门设计来露出乳房而非遮护的衣物。"
     },
     {
       "name": "breasts out",
@@ -620,9 +620,9 @@
       "wiki_url": "/wiki_pages/breasts_out",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双乳露出",
+      "confidence": "A",
+      "tag_cn_long": "双乳都从衣物中拉出或露出，区别于全裸或上衣掀起。"
     },
     {
       "name": "impossible shirt",
@@ -630,9 +630,9 @@
       "wiki_url": "/wiki_pages/impossible_shirt",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不可能衬衫",
+      "confidence": "B",
+      "tag_cn_long": "一种紧贴乳房轮廓的不现实衬衫，现实中不可能如此贴身。"
     },
     {
       "name": "one breast out",
@@ -640,9 +640,9 @@
       "wiki_url": "/wiki_pages/one_breast_out",
       "category_path": "Visibility",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单乳露出",
+      "confidence": "A",
+      "tag_cn_long": "只有一个乳房从衣物中露出，另一个仍被遮盖。"
     },
     {
       "name": "asymmetrical breasts",
@@ -650,9 +650,9 @@
       "wiki_url": "/wiki_pages/asymmetrical_breasts",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不对称乳房",
+      "confidence": "A",
+      "tag_cn_long": "一侧乳房明显大于或小于另一侧。"
     },
     {
       "name": "bouncing breasts",
@@ -660,9 +660,9 @@
       "wiki_url": "/wiki_pages/bouncing_breasts",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳摇",
+      "confidence": "A",
+      "tag_cn_long": "乳房运动摇晃，常见于动画或带有动态效果。"
     },
     {
       "name": "breasts apart",
@@ -670,9 +670,9 @@
       "wiki_url": "/wiki_pages/breasts_apart",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双乳分开",
+      "confidence": "A",
+      "tag_cn_long": "乳房向两侧分开，中间暴露出胸骨皮肤，与乳沟相反。"
     },
     {
       "name": "floating breasts",
@@ -680,9 +680,9 @@
       "wiki_url": "/wiki_pages/floating_breasts",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "浮乳",
+      "confidence": "B",
+      "tag_cn_long": "乳房在水中漂浮的状态。"
     },
     {
       "name": "hanging breasts",
@@ -690,9 +690,9 @@
       "wiki_url": "/wiki_pages/hanging_breasts",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "垂乳",
+      "confidence": "A",
+      "tag_cn_long": "角色前倾或弯腰时，大乳房因重力下垂而不贴身体。"
     },
     {
       "name": "perky breasts",
@@ -700,9 +700,9 @@
       "wiki_url": "/wiki_pages/perky_breasts",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挺乳",
+      "confidence": "A",
+      "tag_cn_long": "形状自然上翘的乳房，没有依靠胸罩支撑。"
     },
     {
       "name": "sagging breasts",
@@ -710,9 +710,9 @@
       "wiki_url": "/wiki_pages/sagging_breasts",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下垂乳房",
+      "confidence": "A",
+      "tag_cn_long": "乳房形状明显下垂，与动漫中常见的挺拔乳房相反。"
     },
     {
       "name": "unaligned breasts",
@@ -720,9 +720,9 @@
       "wiki_url": "/wiki_pages/unaligned_breasts",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房异向",
+      "confidence": "B",
+      "tag_cn_long": "两个乳房跳动或静止时指向不同方向，如一个向上一个向下。"
     },
     {
       "name": "veiny breasts",
@@ -730,9 +730,9 @@
       "wiki_url": "/wiki_pages/veiny_breasts",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "青筋乳房",
+      "confidence": "B",
+      "tag_cn_long": "乳房表面可见明显静脉血管。"
     },
     {
       "name": "pointy breasts",
@@ -740,9 +740,9 @@
       "wiki_url": "/wiki_pages/pointy_breasts",
       "category_path": "Descriptions of breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖乳",
+      "confidence": "A",
+      "tag_cn_long": "指乳房形状尖锐且向前突出，呈略微锥形。"
     },
     {
       "name": "bandeau",
@@ -750,9 +750,9 @@
       "wiki_url": "/wiki_pages/bandeau",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抹胸",
+      "confidence": "A",
+      "tag_cn_long": "一种窄带状的胸衣，仅覆盖乳房，常用于泳装或内衣。"
     },
     {
       "name": "bikini",
@@ -760,9 +760,9 @@
       "wiki_url": "/wiki_pages/bikini",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比基尼",
+      "confidence": "A",
+      "tag_cn_long": "女性两件式泳装，由胸罩式上衣和三角裤组成。"
     },
     {
       "name": "bikini bottom only",
@@ -770,9 +770,9 @@
       "wiki_url": "/wiki_pages/bikini_bottom_only",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "仅穿比基尼下装",
+      "confidence": "A",
+      "tag_cn_long": "只穿比基尼泳裤而未穿上衣的状态。"
     },
     {
       "name": "cupless bikini",
@@ -780,9 +780,9 @@
       "wiki_url": "/wiki_pages/cupless_bikini",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无杯比基尼",
+      "confidence": "A",
+      "tag_cn_long": "一种没有罩杯覆盖乳房的比基尼设计，可能露出乳头。"
     },
     {
       "name": "bra",
@@ -790,9 +790,9 @@
       "wiki_url": "/wiki_pages/bra",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸罩",
+      "confidence": "A",
+      "tag_cn_long": "女性用于支撑胸部的内衣。"
     },
     {
       "name": "cupless bra",
@@ -800,9 +800,9 @@
       "wiki_url": "/wiki_pages/cupless_bra",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无罩杯胸罩",
+      "confidence": "A",
+      "tag_cn_long": "无罩杯包裹的胸罩，设计为托起并露出乳房，可能遮挡或不遮挡乳头。"
     },
     {
       "name": "hand in bra",
@@ -810,9 +810,9 @@
       "wiki_url": "/wiki_pages/hand_in_bra",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手入胸罩",
+      "confidence": "A",
+      "tag_cn_long": "手伸入某人胸罩内部的场景。"
     },
     {
       "name": "no bra",
@@ -820,9 +820,9 @@
       "wiki_url": "/wiki_pages/no_bra",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无胸罩",
+      "confidence": "A",
+      "tag_cn_long": "角色穿着上衣但未穿胸罩的状态。"
     },
     {
       "name": "nursing bra",
@@ -830,9 +830,9 @@
       "wiki_url": "/wiki_pages/nursing_bra",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哺乳胸罩",
+      "confidence": "A",
+      "tag_cn_long": "方便哺乳时露出乳头的胸罩。"
     },
     {
       "name": "shelf bra",
@@ -840,9 +840,9 @@
       "wiki_url": "/wiki_pages/shelf_bra",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "搁架胸罩",
+      "confidence": "B",
+      "tag_cn_long": "一种仅支撑乳房下部的胸罩，露出上半部分和乳头。"
     },
     {
       "name": "belt bra",
@@ -850,9 +850,9 @@
       "wiki_url": "/wiki_pages/belt_bra",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皮带胸罩",
+      "confidence": "A",
+      "tag_cn_long": "用皮带制作的胸罩，可能带有扣环。"
     },
     {
       "name": "breastless clothes",
@@ -860,9 +860,9 @@
       "wiki_url": "/wiki_pages/breastless_clothes",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露胸装",
+      "confidence": "B",
+      "tag_cn_long": "专门设计来露出乳房而非遮护的衣物。"
     },
     {
       "name": "single breast curtain",
@@ -870,9 +870,9 @@
       "wiki_url": "/wiki_pages/single_breast_curtain",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单侧乳帘",
+      "confidence": "C",
+      "tag_cn_long": "只用一块布料遮挡一侧乳房，类似帘子。"
     },
     {
       "name": "bustier",
@@ -880,9 +880,9 @@
       "wiki_url": "/wiki_pages/bustier",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身胸衣",
+      "confidence": "A",
+      "tag_cn_long": "一种紧身内衣，从胸部延伸至腰部以上，用于支撑和塑造胸部。"
     },
     {
       "name": "center opening",
@@ -890,9 +890,9 @@
       "wiki_url": "/wiki_pages/center_opening",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中心开口",
+      "confidence": "A",
+      "tag_cn_long": "衣服中间有开口，露出胸部和乳沟。"
     },
     {
       "name": "chest binder",
@@ -900,9 +900,9 @@
       "wiki_url": "/wiki_pages/chest_binder",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束胸衣",
+      "confidence": "A",
+      "tag_cn_long": "一种压缩乳房使其显得平坦的内衣。"
     },
     {
       "name": "Cinderella bust",
@@ -910,9 +910,9 @@
       "wiki_url": "/wiki_pages/cinderella_bust",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰姑娘胸型",
+      "confidence": "C",
+      "tag_cn_long": "一款专为小胸女性设计的内衣系列，带有蕾丝和吊带。"
     },
     {
       "name": "cleavage cutout",
@@ -920,9 +920,9 @@
       "wiki_url": "/wiki_pages/cleavage_cutout",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳沟镂空",
+      "confidence": "A",
+      "tag_cn_long": "服装上的镂空设计，露出胸部或乳沟。"
     },
     {
       "name": "corset",
@@ -930,9 +930,9 @@
       "wiki_url": "/wiki_pages/corset",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "束腰",
+      "confidence": "A",
+      "tag_cn_long": "用于塑形的紧身胸衣，常系带。"
     },
     {
       "name": "framed breasts",
@@ -940,9 +940,9 @@
       "wiki_url": "/wiki_pages/framed_breasts",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "框乳装",
+      "confidence": "B",
+      "tag_cn_long": "衣服材质构成一个框架，将乳房包围并突出显示。"
     },
     {
       "name": "nipple cutout",
@@ -950,9 +950,9 @@
       "wiki_url": "/wiki_pages/nipple_cutout",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头镂空",
+      "confidence": "A",
+      "tag_cn_long": "衣服上在乳头位置挖出开口。"
     },
     {
       "name": "nippleless clothes",
@@ -960,9 +960,9 @@
       "wiki_url": "/wiki_pages/nippleless_clothes",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "露乳装",
+      "confidence": "A",
+      "tag_cn_long": "衣物上有孔洞让乳头穿出。"
     },
     {
       "name": "panties on breasts",
@@ -970,9 +970,9 @@
       "wiki_url": "/wiki_pages/panties_on_breasts",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内裤当胸罩",
+      "confidence": "A",
+      "tag_cn_long": "将内裤穿在胸部作为遮挡。"
     },
     {
       "name": "plunging neckline",
@@ -980,9 +980,9 @@
       "wiki_url": "/wiki_pages/plunging_neckline",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "深V领",
+      "confidence": "A",
+      "tag_cn_long": "领口呈V字形向下深开至胸部的服装款式。"
     },
     {
       "name": "rei no himo",
@@ -990,9 +990,9 @@
       "wiki_url": "/wiki_pages/rei_no_himo",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "赫斯缇雅之绳",
+      "confidence": "B",
+      "tag_cn_long": "赫斯缇雅角色佩戴的绕胸系臂的丝带，用作胸部支撑。"
     },
     {
       "name": "sarashi",
@@ -1000,9 +1000,9 @@
       "wiki_url": "/wiki_pages/sarashi",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晒布",
+      "confidence": "A",
+      "tag_cn_long": "一种长条白布，缠绕在躯干作为内衣或装饰。"
     },
     {
       "name": "taut shirt",
@@ -1010,9 +1010,9 @@
       "wiki_url": "/wiki_pages/taut_shirt",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绷紧上衣",
+      "confidence": "B",
+      "tag_cn_long": "上衣因紧身而在胸部间布料绷紧形成褶皱效果。"
     },
     {
       "name": "underbust",
@@ -1020,9 +1020,9 @@
       "wiki_url": "/wiki_pages/underbust",
       "category_path": "Clothes for breasts",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下胸围服饰",
+      "confidence": "B",
+      "tag_cn_long": "穿在乳房下方的衣物，用于托高或突出胸部。"
     },
     {
       "name": "paizuri",
@@ -1030,9 +1030,9 @@
       "wiki_url": "/wiki_pages/paizuri",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳交",
+      "confidence": "A",
+      "tag_cn_long": "一种性行为，用乳房摩擦阴茎。"
     },
     {
       "name": "autopaizuri",
@@ -1040,9 +1040,9 @@
       "wiki_url": "/wiki_pages/autopaizuri",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自乳交",
+      "confidence": "A",
+      "tag_cn_long": "自己用自己的乳房摩擦自己的阴茎。"
     },
     {
       "name": "cooperative paizuri",
@@ -1050,9 +1050,9 @@
       "wiki_url": "/wiki_pages/cooperative_paizuri",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "合作乳交",
+      "confidence": "A",
+      "tag_cn_long": "两个或以上女性同时用乳房刺激一根阴茎。"
     },
     {
       "name": "handsfree paizuri",
@@ -1060,9 +1060,9 @@
       "wiki_url": "/wiki_pages/handsfree_paizuri",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无手乳交",
+      "confidence": "A",
+      "tag_cn_long": "不使用双手接触乳房进行的乳交。"
     },
     {
       "name": "paizuri on lap",
@@ -1070,9 +1070,9 @@
       "wiki_url": "/wiki_pages/paizuri_on_lap",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝上乳交",
+      "confidence": "A",
+      "tag_cn_long": "接受者臀部坐在给予者大腿上进行的乳交。"
     },
     {
       "name": "paizuri over clothes",
@@ -1080,9 +1080,9 @@
       "wiki_url": "/wiki_pages/paizuri_over_clothes",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "隔衣乳交",
+      "confidence": "A",
+      "tag_cn_long": "隔着衣物进行的乳交，无皮肤接触。"
     },
     {
       "name": "paizuri under clothes",
@@ -1090,9 +1090,9 @@
       "wiki_url": "/wiki_pages/paizuri_under_clothes",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣下乳交",
+      "confidence": "A",
+      "tag_cn_long": "在穿着衣服的情况下进行乳交，阴茎从衣服下接触乳房。"
     },
     {
       "name": "perpendicular paizuri",
@@ -1100,9 +1100,9 @@
       "wiki_url": "/wiki_pages/perpendicular_paizuri",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "垂直乳交",
+      "confidence": "A",
+      "tag_cn_long": "乳交的一种变体，阴茎从上方垂直插入乳房之间，朝向胸口。"
     },
     {
       "name": "reverse paizuri",
@@ -1110,9 +1110,9 @@
       "wiki_url": "/wiki_pages/reverse_paizuri",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "反向乳交",
+      "confidence": "A",
+      "tag_cn_long": "乳交的一种变体，阴茎从上往下插入乳房上方，而非沿乳沟。"
     },
     {
       "name": "straddling paizuri",
@@ -1120,9 +1120,9 @@
       "wiki_url": "/wiki_pages/straddling_paizuri",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "跨坐乳交",
+      "confidence": "A",
+      "tag_cn_long": "男性跨坐在女性身上，主动用女性乳房摩擦自己的阴茎。"
     },
     {
       "name": "naizuri",
@@ -1130,9 +1130,9 @@
       "wiki_url": "/wiki_pages/naizuri",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无乳摩擦",
+      "confidence": "A",
+      "tag_cn_long": "在胸部平坦的情况下试图进行乳交，实际上几乎没有乳房包裹。"
     },
     {
       "name": "cooperative naizuri",
@@ -1140,9 +1140,9 @@
       "wiki_url": "/wiki_pages/cooperative_naizuri",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "合作无乳摩擦",
+      "confidence": "B",
+      "tag_cn_long": "多个胸部平坦的女性合作，用她们的乳房刺激阴茎。"
     },
     {
       "name": "penis to breast",
@@ -1150,9 +1150,9 @@
       "wiki_url": "/wiki_pages/penis_to_breast",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎触乳",
+      "confidence": "A",
+      "tag_cn_long": "阴茎接触或摩擦女性的乳头或乳房的动作。"
     },
     {
       "name": "penis under breasts",
@@ -1160,9 +1160,9 @@
       "wiki_url": "/wiki_pages/penis_under_breasts",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎在乳下",
+      "confidence": "A",
+      "tag_cn_long": "阴茎位于女性乳房下方，通常被乳房托起或夹住。"
     },
     {
       "name": "nipple penetration",
@@ -1170,9 +1170,9 @@
       "wiki_url": "/wiki_pages/nipple_penetration",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头插入",
+      "confidence": "A",
+      "tag_cn_long": "将物体（如手指、阴茎、针等）插入乳头孔中的行为。"
     },
     {
       "name": "breast smother",
@@ -1180,9 +1180,9 @@
       "wiki_url": "/wiki_pages/breast_smother",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳闷",
+      "confidence": "A",
+      "tag_cn_long": "用乳房覆盖他人口鼻使其呼吸困难，常指强行行为。"
     },
     {
       "name": "breast pillow",
@@ -1190,9 +1190,9 @@
       "wiki_url": "/wiki_pages/breast_pillow",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳枕",
+      "confidence": "A",
+      "tag_cn_long": "将头放在女性乳房上作为枕头休息。"
     },
     {
       "name": "breasts on head",
@@ -1200,9 +1200,9 @@
       "wiki_url": "/wiki_pages/breasts_on_head",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳压头",
+      "confidence": "A",
+      "tag_cn_long": "较矮角色的头顶住较高角色的乳房下方，乳房覆盖在头顶上。"
     },
     {
       "name": "face to breasts",
@@ -1210,9 +1210,9 @@
       "wiki_url": "/wiki_pages/face_to_breasts",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸贴乳",
+      "confidence": "A",
+      "tag_cn_long": "角色的脸部直接接触另一角色的乳房。"
     },
     {
       "name": "face to pecs",
@@ -1220,9 +1220,9 @@
       "wiki_url": "/wiki_pages/face_to_pecs",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸贴胸肌",
+      "confidence": "A",
+      "tag_cn_long": "角色的脸部接触另一角色的胸肌（男性胸部）。"
     },
     {
       "name": "head between breasts",
@@ -1230,9 +1230,9 @@
       "wiki_url": "/wiki_pages/head_between_breasts",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头夹乳间",
+      "confidence": "A",
+      "tag_cn_long": "角色的头部位于另一角色的双乳之间，被乳房夹住。"
     },
     {
       "name": "face between breasts",
@@ -1240,9 +1240,9 @@
       "wiki_url": "/wiki_pages/face_between_breasts",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脸埋乳间",
+      "confidence": "A",
+      "tag_cn_long": "角色的脸部朝下埋入另一角色双乳之间的乳沟。"
     },
     {
       "name": "breast biting",
@@ -1250,9 +1250,9 @@
       "wiki_url": "/wiki_pages/breast_biting",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咬乳",
+      "confidence": "A",
+      "tag_cn_long": "用嘴咬住女性乳房的行为。"
     },
     {
       "name": "breastfeeding",
@@ -1260,9 +1260,9 @@
       "wiki_url": "/wiki_pages/breastfeeding",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哺乳",
+      "confidence": "A",
+      "tag_cn_long": "婴儿或成人吸吮女性乳房中的乳汁。"
     },
     {
       "name": "breast sucking",
@@ -1270,9 +1270,9 @@
       "wiki_url": "/wiki_pages/breast_sucking",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吸乳",
+      "confidence": "A",
+      "tag_cn_long": "角色吸吮自己或他人的乳房，可能为性行为，不同于哺乳。"
     },
     {
       "name": "sucking own breasts",
@@ -1280,9 +1280,9 @@
       "wiki_url": "/wiki_pages/sucking_own_breasts",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自吸乳",
+      "confidence": "A",
+      "tag_cn_long": "角色自行吸吮自己的乳房。"
     },
     {
       "name": "mutual breast sucking",
@@ -1290,9 +1290,9 @@
       "wiki_url": "/wiki_pages/mutual_breast_sucking",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "互吸乳房",
+      "confidence": "A",
+      "tag_cn_long": "两个角色同时吮吸对方的乳房。"
     },
     {
       "name": "nursing handjob",
@@ -1300,9 +1300,9 @@
       "wiki_url": "/wiki_pages/nursing_handjob",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喂乳手交",
+      "confidence": "B",
+      "tag_cn_long": "一方吮吸或哺乳另一方的乳房，同时对方为其进行手淫。"
     },
     {
       "name": "biting nipple",
@@ -1310,9 +1310,9 @@
       "wiki_url": "/wiki_pages/biting_nipple",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咬乳头",
+      "confidence": "A",
+      "tag_cn_long": "用牙齿咬住对方的乳头。"
     },
     {
       "name": "licking nipple",
@@ -1320,9 +1320,9 @@
       "wiki_url": "/wiki_pages/licking_nipple",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "舔乳头",
+      "confidence": "A",
+      "tag_cn_long": "用舌头舔舐对方的乳头。"
     },
     {
       "name": "breast hold",
@@ -1330,9 +1330,9 @@
       "wiki_url": "/wiki_pages/breast_hold",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂托乳房",
+      "confidence": "B",
+      "tag_cn_long": "用前臂或手托住乳房，使其保持位置。"
     },
     {
       "name": "grabbing another's breast",
@@ -1340,9 +1340,9 @@
       "wiki_url": "/wiki_pages/grabbing_another%27s_breast",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓胸",
+      "confidence": "A",
+      "tag_cn_long": "用手抓住另一个角色的乳房。"
     },
     {
       "name": "flat chest grab",
@@ -1350,9 +1350,9 @@
       "wiki_url": "/wiki_pages/flat_chest_grab",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抓平胸",
+      "confidence": "A",
+      "tag_cn_long": "抓住一个平坦胸部的角色胸部。"
     },
     {
       "name": "guided breast grab",
@@ -1360,9 +1360,9 @@
       "wiki_url": "/wiki_pages/guided_breast_grab",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "引导抓胸",
+      "confidence": "B",
+      "tag_cn_long": "一个人故意引导另一个人的手去抓自己的乳房。"
     },
     {
       "name": "breast lift",
@@ -1370,9 +1370,9 @@
       "wiki_url": "/wiki_pages/breast_lift",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "托乳",
+      "confidence": "A",
+      "tag_cn_long": "用手将乳房向上托起。"
     },
     {
       "name": "breast press",
@@ -1380,9 +1380,9 @@
       "wiki_url": "/wiki_pages/breast_press",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳压",
+      "confidence": "B",
+      "tag_cn_long": "将乳房按压在某个物体或他人身上。"
     },
     {
       "name": "breast pull",
@@ -1390,9 +1390,9 @@
       "wiki_url": "/wiki_pages/breast_pull",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉乳",
+      "confidence": "A",
+      "tag_cn_long": "用手拉扯乳房。"
     },
     {
       "name": "breast punch",
@@ -1400,9 +1400,9 @@
       "wiki_url": "/wiki_pages/breast_punch",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "击打胸部",
+      "confidence": "B",
+      "tag_cn_long": "直接击打乳房的动作（通常造成疼痛）。"
     },
     {
       "name": "slapping breasts",
@@ -1410,9 +1410,9 @@
       "wiki_url": "/wiki_pages/slapping_breasts",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拍打胸部",
+      "confidence": "A",
+      "tag_cn_long": "用手掌击打他人的胸部。"
     },
     {
       "name": "breasts squeezed together",
@@ -1420,9 +1420,9 @@
       "wiki_url": "/wiki_pages/breasts_squeezed_together",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挤乳",
+      "confidence": "A",
+      "tag_cn_long": "将双乳用力挤压在一起，常使用手或手臂。"
     },
     {
       "name": "breast suppress",
@@ -1430,9 +1430,9 @@
       "wiki_url": "/wiki_pages/breast_suppress",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "按乳",
+      "confidence": "B",
+      "tag_cn_long": "用手或手掌按压自己的乳房。"
     },
     {
       "name": "groping",
@@ -1440,9 +1440,9 @@
       "wiki_url": "/wiki_pages/groping",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猥亵抚摸",
+      "confidence": "A",
+      "tag_cn_long": "以性方式抚摸他人身体，通常为胸部或臀部。"
     },
     {
       "name": "arm between breasts",
@@ -1450,9 +1450,9 @@
       "wiki_url": "/wiki_pages/arm_between_breasts",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂夹乳",
+      "confidence": "A",
+      "tag_cn_long": "手臂（自己的或他人的）放置在双乳之间。"
     },
     {
       "name": "hand in bra",
@@ -1460,9 +1460,9 @@
       "wiki_url": "/wiki_pages/hand_in_bra",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手入胸罩",
+      "confidence": "A",
+      "tag_cn_long": "手伸入某人胸罩内部的场景。"
     },
     {
       "name": "nipple flick",
@@ -1470,9 +1470,9 @@
       "wiki_url": "/wiki_pages/nipple_flick",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弹乳头",
+      "confidence": "A",
+      "tag_cn_long": "用手指或其他物体弹击乳头。"
     },
     {
       "name": "nipple press",
@@ -1480,9 +1480,9 @@
       "wiki_url": "/wiki_pages/nipple_press",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "按乳头",
+      "confidence": "A",
+      "tag_cn_long": "将乳头按入乳房，如同按按钮。"
     },
     {
       "name": "nipple push",
@@ -1490,9 +1490,9 @@
       "wiki_url": "/wiki_pages/nipple_push",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "推乳头",
+      "confidence": "A",
+      "tag_cn_long": "将乳头推向一侧。"
     },
     {
       "name": "nipple pull",
@@ -1500,9 +1500,9 @@
       "wiki_url": "/wiki_pages/nipple_pull",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉乳头",
+      "confidence": "A",
+      "tag_cn_long": "将乳头从胸部向外拉扯。"
     },
     {
       "name": "nipple rub",
@@ -1510,9 +1510,9 @@
       "wiki_url": "/wiki_pages/nipple_rub",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "揉乳头",
+      "confidence": "A",
+      "tag_cn_long": "用手指、阴茎或其他物体摩擦乳头。"
     },
     {
       "name": "nipple tweak",
@@ -1520,9 +1520,9 @@
       "wiki_url": "/wiki_pages/nipple_tweak",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拧乳头",
+      "confidence": "A",
+      "tag_cn_long": "捏住乳头并扭转，如同调节收音机旋钮。"
     },
     {
       "name": "poking another's breast",
@@ -1530,9 +1530,9 @@
       "wiki_url": "/wiki_pages/poking_another%27s_breast",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戳他人胸部",
+      "confidence": "A",
+      "tag_cn_long": "用手指或物体戳他人的胸部。"
     },
     {
       "name": "poking own breast",
@@ -1540,9 +1540,9 @@
       "wiki_url": "/wiki_pages/poking_own_breast",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自戳胸部",
+      "confidence": "A",
+      "tag_cn_long": "用手指或物体戳自己的胸部。"
     },
     {
       "name": "foot on another's breast",
@@ -1550,9 +1550,9 @@
       "wiki_url": "/wiki_pages/foot_on_another%27s_breast",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚踩胸",
+      "confidence": "A",
+      "tag_cn_long": "用脚踩在他人的胸部上。"
     },
     {
       "name": "nipple clamps",
@@ -1560,9 +1560,9 @@
       "wiki_url": "/wiki_pages/nipple_clamps",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头夹",
+      "confidence": "A",
+      "tag_cn_long": "夹在乳头上的小装置，用于刺激或施加疼痛。"
     },
     {
       "name": "nipple leash",
@@ -1570,9 +1570,9 @@
       "wiki_url": "/wiki_pages/nipple_leash",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头牵绳",
+      "confidence": "B",
+      "tag_cn_long": "通过乳头穿刺连接的链条或绳子，用于牵引或装饰。"
     },
     {
       "name": "nipple piercing",
@@ -1580,9 +1580,9 @@
       "wiki_url": "/wiki_pages/nipple_piercing",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头穿刺",
+      "confidence": "A",
+      "tag_cn_long": "在乳头上进行穿刺，佩戴环、棒等饰品。"
     },
     {
       "name": "areola piercing",
@@ -1590,9 +1590,9 @@
       "wiki_url": "/wiki_pages/areola_piercing",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳晕穿刺",
+      "confidence": "A",
+      "tag_cn_long": "在乳晕区域进行的穿刺，位置与乳头穿刺不同。"
     },
     {
       "name": "nipple bar",
@@ -1600,9 +1600,9 @@
       "wiki_url": "/wiki_pages/nipple_bar",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头棒",
+      "confidence": "A",
+      "tag_cn_long": "一种杠铃式的乳头穿刺饰品，两端有珠，穿过乳头。"
     },
     {
       "name": "nipple bells",
@@ -1610,9 +1610,9 @@
       "wiki_url": "/wiki_pages/nipple_bells",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头铃",
+      "confidence": "A",
+      "tag_cn_long": "附在乳头上的铃铛，通常通过穿刺或其它方式固定。"
     },
     {
       "name": "nipple chain",
@@ -1620,9 +1620,9 @@
       "wiki_url": "/wiki_pages/nipple_chain",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头链",
+      "confidence": "A",
+      "tag_cn_long": "连接两个乳头穿刺的链条装饰。"
     },
     {
       "name": "nipple lock",
@@ -1630,9 +1630,9 @@
       "wiki_url": "/wiki_pages/nipple_lock",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头锁",
+      "confidence": "A",
+      "tag_cn_long": "一种通过乳头穿刺佩戴的锁形饰品。"
     },
     {
       "name": "nipple rings",
@@ -1640,9 +1640,9 @@
       "wiki_url": "/wiki_pages/nipple_rings",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头环",
+      "confidence": "A",
+      "tag_cn_long": "环形的乳头穿刺饰品，形成闭合的环。"
     },
     {
       "name": "nipple stretcher",
@@ -1650,9 +1650,9 @@
       "wiki_url": "/wiki_pages/nipple_stretcher",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头拉伸器",
+      "confidence": "B",
+      "tag_cn_long": "一种用于拉伸乳头的器械或饰品。"
     },
     {
       "name": "nipple tag",
@@ -1660,9 +1660,9 @@
       "wiki_url": "/wiki_pages/nipple_tag",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头标签",
+      "confidence": "A",
+      "tag_cn_long": "穿过乳头穿刺的姓名或信息标签，类似日本小学生胸前的标签。"
     },
     {
       "name": "nipple plug",
@@ -1670,9 +1670,9 @@
       "wiki_url": "/wiki_pages/nipple_plug",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头塞",
+      "confidence": "B",
+      "tag_cn_long": "一种用于乳头的塞子状饰品或器械。"
     },
     {
       "name": "nipple sleeves",
@@ -1680,9 +1680,9 @@
       "wiki_url": "/wiki_pages/nipple_sleeves",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头环套",
+      "confidence": "B",
+      "tag_cn_long": "套在乳头上的环状饰品，不同于穿刺。"
     },
     {
       "name": "nipple torture",
@@ -1690,9 +1690,9 @@
       "wiki_url": "/wiki_pages/nipple_torture",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头折磨",
+      "confidence": "A",
+      "tag_cn_long": "用夹子、针等工具对乳头施虐的行为。"
     },
     {
       "name": "tied nipples",
@@ -1700,9 +1700,9 @@
       "wiki_url": "/wiki_pages/tied_nipples",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绑乳头",
+      "confidence": "A",
+      "tag_cn_long": "用绳子或细线缠绕乳头。"
     },
     {
       "name": "nipple ribbon",
@@ -1710,9 +1710,9 @@
       "wiki_url": "/wiki_pages/nipple_ribbon",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头丝带",
+      "confidence": "B",
+      "tag_cn_long": "缠绕或系在乳头上的丝带装饰。"
     },
     {
       "name": "vibrator on nipple",
@@ -1720,9 +1720,9 @@
       "wiki_url": "/wiki_pages/vibrator_on_nipple",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头振动器",
+      "confidence": "A",
+      "tag_cn_long": "将振动器放置在乳头上，通常用胶带固定。"
     },
     {
       "name": "asymmetrical docking",
@@ -1730,9 +1730,9 @@
       "wiki_url": "/wiki_pages/asymmetrical_docking",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不对称贴胸",
+      "confidence": "A",
+      "tag_cn_long": "两个女性乳房大小不同时紧贴在一起。"
     },
     {
       "name": "symmetrical docking",
@@ -1740,9 +1740,9 @@
       "wiki_url": "/wiki_pages/symmetrical_docking",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "对称贴胸",
+      "confidence": "A",
+      "tag_cn_long": "两个大小相近的乳房相对紧贴在一起。"
     },
     {
       "name": "nipple-to-nipple",
@@ -1750,9 +1750,9 @@
       "wiki_url": "/wiki_pages/nipple-to-nipple",
       "category_path": "Breasts and other parts of the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头相触",
+      "confidence": "A",
+      "tag_cn_long": "两个角色的乳头直接接触。"
     },
     {
       "name": "alternate breast size",
@@ -1760,9 +1760,9 @@
       "wiki_url": "/wiki_pages/alternate_breast_size",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非标准胸围",
+      "confidence": "A",
+      "tag_cn_long": "角色的乳房比通常设定明显更大或更小。"
     },
     {
       "name": "alternate breast size (larger)",
@@ -1770,9 +1770,9 @@
       "wiki_url": "/wiki_pages/alternate_breast_size_%28larger%29",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非标准胸围(增大)",
+      "confidence": "A",
+      "tag_cn_long": "角色的乳房比通常设定更大。"
     },
     {
       "name": "alternate breast size (smaller)",
@@ -1780,9 +1780,9 @@
       "wiki_url": "/wiki_pages/alternate_breast_size_%28smaller%29",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非标准胸围(减小)",
+      "confidence": "A",
+      "tag_cn_long": "角色的乳房比通常设定更小。"
     },
     {
       "name": "between breasts",
@@ -1790,9 +1790,9 @@
       "wiki_url": "/wiki_pages/between_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳沟夹物",
+      "confidence": "A",
+      "tag_cn_long": "物体被夹在乳房之间。"
     },
     {
       "name": "card between breasts",
@@ -1800,9 +1800,9 @@
       "wiki_url": "/wiki_pages/card_between_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳沟夹卡",
+      "confidence": "A",
+      "tag_cn_long": "一张卡片被夹在乳房之间。"
     },
     {
       "name": "arm between breasts",
@@ -1810,9 +1810,9 @@
       "wiki_url": "/wiki_pages/arm_between_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臂夹乳",
+      "confidence": "A",
+      "tag_cn_long": "手臂（自己的或他人的）放置在双乳之间。"
     },
     {
       "name": "head between breasts",
@@ -1820,9 +1820,9 @@
       "wiki_url": "/wiki_pages/head_between_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头夹乳间",
+      "confidence": "A",
+      "tag_cn_long": "角色的头部位于另一角色的双乳之间，被乳房夹住。"
     },
     {
       "name": "necktie between breasts",
@@ -1830,9 +1830,9 @@
       "wiki_url": "/wiki_pages/necktie_between_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "领带夹胸",
+      "confidence": "A",
+      "tag_cn_long": "领带夹在女性双乳之间的姿势。"
     },
     {
       "name": "person between breasts",
@@ -1840,9 +1840,9 @@
       "wiki_url": "/wiki_pages/person_between_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳沟夹人",
+      "confidence": "A",
+      "tag_cn_long": "有人被夹在角色的乳房之间。"
     },
     {
       "name": "breast bondage",
@@ -1850,9 +1850,9 @@
       "wiki_url": "/wiki_pages/breast_bondage",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房捆绑",
+      "confidence": "A",
+      "tag_cn_long": "用绳子等对乳房施加压力的捆绑行为。"
     },
     {
       "name": "tied breast",
@@ -1860,9 +1860,9 @@
       "wiki_url": "/wiki_pages/tied_breast",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绑乳",
+      "confidence": "A",
+      "tag_cn_long": "用绳子或丝带等环绕乳房捆绑。"
     },
     {
       "name": "breast mousepad",
@@ -1870,9 +1870,9 @@
       "wiki_url": "/wiki_pages/breast_mousepad",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房鼠标垫",
+      "confidence": "A",
+      "tag_cn_long": "鼠标垫的凝胶腕托形状像人类乳房。"
     },
     {
       "name": "breast implants",
@@ -1880,9 +1880,9 @@
       "wiki_url": "/wiki_pages/breast_implants",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "隆胸",
+      "confidence": "A",
+      "tag_cn_long": "角色进行了隆胸手术或拥有假体。"
     },
     {
       "name": "breast rest",
@@ -1890,9 +1890,9 @@
       "wiki_url": "/wiki_pages/breast_rest",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "搁乳",
+      "confidence": "A",
+      "tag_cn_long": "角色将乳房搁在某个物体上休息。"
     },
     {
       "name": "carried breast rest",
@@ -1900,9 +1900,9 @@
       "wiki_url": "/wiki_pages/carried_breast_rest",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "端盘托胸",
+      "confidence": "B",
+      "tag_cn_long": "角色自己端着托盘等物品，将乳房放在上面呈递给他人。"
     },
     {
       "name": "breasts on table",
@@ -1910,9 +1910,9 @@
       "wiki_url": "/wiki_pages/breasts_on_table",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "桌上搁乳",
+      "confidence": "A",
+      "tag_cn_long": "角色的乳房搁在桌子或其他家具上。"
     },
     {
       "name": "breasts on head",
@@ -1920,9 +1920,9 @@
       "wiki_url": "/wiki_pages/breasts_on_head",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳压头",
+      "confidence": "A",
+      "tag_cn_long": "较矮角色的头顶住较高角色的乳房下方，乳房覆盖在头顶上。"
     },
     {
       "name": "slapping with breasts",
@@ -1930,9 +1930,9 @@
       "wiki_url": "/wiki_pages/slapping_with_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "用胸部拍打",
+      "confidence": "A",
+      "tag_cn_long": "用自己的胸部甩打别人。"
     },
     {
       "name": "breast crush",
@@ -1940,9 +1940,9 @@
       "wiki_url": "/wiki_pages/breast_crush",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳压",
+      "confidence": "A",
+      "tag_cn_long": "用乳房压碎或挤压某人或某物。"
     },
     {
       "name": "breasts on glass",
@@ -1950,9 +1950,9 @@
       "wiki_url": "/wiki_pages/breasts_on_glass",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玻璃压乳",
+      "confidence": "A",
+      "tag_cn_long": "乳房压在玻璃表面（如窗或玻璃平台）上。"
     },
     {
       "name": "bust cup",
@@ -1960,9 +1960,9 @@
       "wiki_url": "/wiki_pages/bust_cup",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳杯",
+      "confidence": "A",
+      "tag_cn_long": "用双乳夹住液体（通常是酒）的动作。"
     },
     {
       "name": "covering breasts",
@@ -1970,9 +1970,9 @@
       "wiki_url": "/wiki_pages/covering_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮乳",
+      "confidence": "A",
+      "tag_cn_long": "角色用手或手臂遮挡自己的乳房以盖住乳头。"
     },
     {
       "name": "cum on breasts",
@@ -1980,9 +1980,9 @@
       "wiki_url": "/wiki_pages/cum_on_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳上射精",
+      "confidence": "A",
+      "tag_cn_long": "精液落在角色的乳房上。"
     },
     {
       "name": "dovefucking",
@@ -1990,9 +1990,9 @@
       "wiki_url": "/wiki_pages/dovefucking",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳阴摩擦",
+      "confidence": "B",
+      "tag_cn_long": "用乳房或乳头刺激女方阴蒂和阴部的行为。"
     },
     {
       "name": "extra breasts",
@@ -2000,9 +2000,9 @@
       "wiki_url": "/wiki_pages/extra_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多乳",
+      "confidence": "A",
+      "tag_cn_long": "角色拥有超过两个乳房。"
     },
     {
       "name": "food on breasts",
@@ -2010,9 +2010,9 @@
       "wiki_url": "/wiki_pages/food_on_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳上食物",
+      "confidence": "A",
+      "tag_cn_long": "食物放置在胸部上的场景。"
     },
     {
       "name": "chocolate on breasts",
@@ -2020,9 +2020,9 @@
       "wiki_url": "/wiki_pages/chocolate_on_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳上巧克力",
+      "confidence": "A",
+      "tag_cn_long": "融化的巧克力涂抹或倾倒在乳房上。"
     },
     {
       "name": "lactation",
@@ -2030,9 +2030,9 @@
       "wiki_url": "/wiki_pages/lactation",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泌乳",
+      "confidence": "A",
+      "tag_cn_long": "乳汁从女性乳房分泌出来。"
     },
     {
       "name": "breast milk in container",
@@ -2040,9 +2040,9 @@
       "wiki_url": "/wiki_pages/breast_milk_in_container",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "母乳装容器",
+      "confidence": "B",
+      "tag_cn_long": "母乳被收集在容器中。"
     },
     {
       "name": "breast pump",
@@ -2050,9 +2050,9 @@
       "wiki_url": "/wiki_pages/breast_pump",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吸奶器",
+      "confidence": "A",
+      "tag_cn_long": "用于协助人类母亲泌乳并收集乳汁的设备。"
     },
     {
       "name": "forced lactation",
@@ -2060,9 +2060,9 @@
       "wiki_url": "/wiki_pages/forced_lactation",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "强制泌乳",
+      "confidence": "A",
+      "tag_cn_long": "角色非自愿或无意中分泌乳汁。"
     },
     {
       "name": "lactating into container",
@@ -2070,9 +2070,9 @@
       "wiki_url": "/wiki_pages/lactating_into_container",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳入容器",
+      "confidence": "B",
+      "tag_cn_long": "将母乳直接挤入容器中。"
     },
     {
       "name": "lactation through clothes",
@@ -2080,9 +2080,9 @@
       "wiki_url": "/wiki_pages/lactation_through_clothes",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透衣泌乳",
+      "confidence": "B",
+      "tag_cn_long": "乳汁透过衣服渗出或滴落。"
     },
     {
       "name": "milking machine",
@@ -2090,9 +2090,9 @@
       "wiki_url": "/wiki_pages/milking_machine",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挤奶机",
+      "confidence": "A",
+      "tag_cn_long": "用于从动物或人类乳房中抽取乳汁的机械装置。"
     },
     {
       "name": "projectile lactation",
@@ -2100,9 +2100,9 @@
       "wiki_url": "/wiki_pages/projectile_lactation",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喷乳",
+      "confidence": "A",
+      "tag_cn_long": "乳汁呈飞溅状喷出，类似射精。"
     },
     {
       "name": "male with breasts",
@@ -2110,9 +2110,9 @@
       "wiki_url": "/wiki_pages/male_with_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男乳",
+      "confidence": "A",
+      "tag_cn_long": "生理男性但拥有女性般的乳房。"
     },
     {
       "name": "mole on breast",
@@ -2120,9 +2120,9 @@
       "wiki_url": "/wiki_pages/mole_on_breast",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳上痣",
+      "confidence": "A",
+      "tag_cn_long": "乳房上有一颗痣。"
     },
     {
       "name": "nipple injection",
@@ -2130,9 +2130,9 @@
       "wiki_url": "/wiki_pages/nipple_injection",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头注射",
+      "confidence": "A",
+      "tag_cn_long": "使用注射器将液体注入乳头。"
     },
     {
       "name": "object on breast",
@@ -2140,9 +2140,9 @@
       "wiki_url": "/wiki_pages/object_on_breast",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳上放物",
+      "confidence": "A",
+      "tag_cn_long": "物体被放置在角色的乳房上。"
     },
     {
       "name": "bubble tea challenge",
@@ -2150,9 +2150,9 @@
       "wiki_url": "/wiki_pages/bubble_tea_challenge",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "珍珠奶茶挑战",
+      "confidence": "A",
+      "tag_cn_long": "一种网络迷因，角色将珍珠奶茶平衡在乳房上同时饮用。"
     },
     {
       "name": "headphones on breasts",
@@ -2160,9 +2160,9 @@
       "wiki_url": "/wiki_pages/headphones_on_breasts",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳上耳机",
+      "confidence": "A",
+      "tag_cn_long": "耳机像戴在头上一样戴在乳房上。"
     },
     {
       "name": "Tawawa challenge",
@@ -2170,9 +2170,9 @@
       "wiki_url": "/wiki_pages/tawawa_challenge",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Tawawa挑战",
+      "confidence": "B",
+      "tag_cn_long": "一种网络迷因，角色将智能手机等物体平衡在乳房上。"
     },
     {
       "name": "object on pectorals",
@@ -2180,9 +2180,9 @@
       "wiki_url": "/wiki_pages/object_on_pectorals",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸肌上放物",
+      "confidence": "A",
+      "tag_cn_long": "物体被放置在角色的胸肌上。"
     },
     {
       "name": "oppai challenge",
@@ -2190,9 +2190,9 @@
       "wiki_url": "/wiki_pages/oppai_challenge",
       "category_path": "Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "欧派挑战",
+      "confidence": "A",
+      "tag_cn_long": "在公共场合露出一边或两边乳房的挑战行为。"
     }
   ],
   "total_tags": 214,

@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/dutch_angle",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷兰角",
+      "confidence": "A",
+      "tag_cn_long": "画面以倾斜角度拍摄，常用于营造紧张或动态感。"
     },
     {
       "name": "From above",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/from_above",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俯视",
+      "confidence": "A",
+      "tag_cn_long": "视角从上方俯视角色或场景。"
     },
     {
       "name": "From behind",
@@ -110,9 +110,9 @@
       "wiki_url": "/wiki_pages/from_behind",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "从背后",
+      "confidence": "A",
+      "tag_cn_long": "从角色或物体后方观察的视角。"
     },
     {
       "name": "From below",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/from_below",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "仰视",
+      "confidence": "A",
+      "tag_cn_long": "从低处向上看的视角，常用于强调角色重要性或展示裙底。"
     },
     {
       "name": "From side",
@@ -130,9 +130,9 @@
       "wiki_url": "/wiki_pages/from_side",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧面",
+      "confidence": "A",
+      "tag_cn_long": "从角色或物体侧面观察的视角，通常为90度或45度角。"
     },
     {
       "name": "High up",
@@ -140,9 +140,9 @@
       "wiki_url": "/wiki_pages/high_up",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高空视角",
+      "confidence": "B",
+      "tag_cn_long": "从高处向下观察的视角，展现广阔场景。"
     },
     {
       "name": "Multiple views",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/multiple_views",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多视图",
+      "confidence": "A",
+      "tag_cn_long": "同一图像中展示同一角色的多个不同视角、姿势或服装。"
     },
     {
       "name": "Sideways",
@@ -160,9 +160,9 @@
       "wiki_url": "/wiki_pages/sideways",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "横置",
+      "confidence": "A",
+      "tag_cn_long": "图像被旋转90度横向显示。"
     },
     {
       "name": "Straight-on",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/straight-on",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "正面",
+      "confidence": "A",
+      "tag_cn_long": "角色直接面向观众，头部、躯干和臀部都正对镜头。"
     },
     {
       "name": "Upside-down",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/upside-down",
       "category_path": "View Angle",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "倒置",
+      "confidence": "A",
+      "tag_cn_long": "图像上下颠倒，不是角色仰躺或抬腿的姿态。"
     },
     {
       "name": "Atmospheric perspective",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/atmospheric_perspective",
       "category_path": "Perspective/Depth",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大气透视",
+      "confidence": "A",
+      "tag_cn_long": "通过减少对比度和清晰度来表现远距离物体的透视技法。"
     },
     {
       "name": "Fisheye",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/fisheye",
       "category_path": "Perspective/Depth",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鱼眼",
+      "confidence": "A",
+      "tag_cn_long": "模拟鱼眼镜头产生的广角畸变效果，直线在边缘弯曲。"
     },
     {
       "name": "Panorama",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/panorama",
       "category_path": "Perspective/Depth",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全景",
+      "confidence": "A",
+      "tag_cn_long": "超宽角度的全景视图，通常会有畸变，需外部工具查看。"
     },
     {
       "name": "Perspective",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/perspective",
       "category_path": "Perspective/Depth",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透视",
+      "confidence": "A",
+      "tag_cn_long": "强调图像三维立体感的透视效果。"
     },
     {
       "name": "Vanishing point",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/vanishing_point",
       "category_path": "Perspective/Depth",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "消失点",
+      "confidence": "A",
+      "tag_cn_long": "透视中线条向远处汇聚的中心点，常用于强调空间深度。"
     },
     {
       "name": "Variations",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/variations",
       "category_path": "Perspective/Depth",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "变体",
+      "confidence": "A",
+      "tag_cn_long": "同一角色在同一图像中多次出现，仅发型、服装颜色等有微小变化。"
     },
     {
       "name": "Afterimage",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/afterimage",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "残影",
+      "confidence": "A",
+      "tag_cn_long": "物体移动后留下的半透明偏移复制，表现动态效果。"
     },
     {
       "name": "Border",
@@ -270,9 +270,9 @@
       "wiki_url": "/wiki_pages/fading_border",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变边框",
+      "confidence": "A",
+      "tag_cn_long": "图片边缘逐渐淡化消失，而非锐利边界。"
     },
     {
       "name": "Inset border",
@@ -280,9 +280,9 @@
       "wiki_url": "/wiki_pages/inset_border",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内嵌边框",
+      "confidence": "A",
+      "tag_cn_long": "图像内部额外的边框线，与图像边缘有间距。"
     },
     {
       "name": "Ornate border",
@@ -290,9 +290,9 @@
       "wiki_url": "/wiki_pages/ornate_border",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "装饰边框",
+      "confidence": "A",
+      "tag_cn_long": "带有复杂花纹或几何图案的装饰性边框。"
     },
     {
       "name": "Outside border",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/outside_border",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "出框",
+      "confidence": "A",
+      "tag_cn_long": "角色或物体绘制在边框之外，突出于图像边界。"
     },
     {
       "name": "Rounded corners",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/rounded_corners",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆角",
+      "confidence": "A",
+      "tag_cn_long": "图像四角被处理成圆弧形而非直角。"
     },
     {
       "name": "Viewfinder",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/viewfinder",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "取景框",
+      "confidence": "A",
+      "tag_cn_long": "图像角落的取景框线条，表示正在被拍摄或录像。"
     },
     {
       "name": "Chart",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/chart",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图表",
+      "confidence": "A",
+      "tag_cn_long": "以表格或列表形式呈现信息，便于比较和识别。"
     },
     {
       "name": "Bust chart",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/character_chart",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角色图表",
+      "confidence": "A",
+      "tag_cn_long": "展示作品角色阵容的信息图表，如阵容列表或层级图。"
     },
     {
       "name": "Reference sheet",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/reference_sheet",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "设定图",
+      "confidence": "A",
+      "tag_cn_long": "从多个角度展示角色或物体设计细节的参考图。"
     },
     {
       "name": "Diagram",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/diagram",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "示意图",
+      "confidence": "A",
+      "tag_cn_long": "用符号和简略文字表示信息流程或步骤的图形。"
     },
     {
       "name": "Move chart",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/move_chart",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "招式表",
+      "confidence": "A",
+      "tag_cn_long": "展示游戏角色各种可能动作（如攻击技能）的图表。"
     },
     {
       "name": "Relationship graph",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/relationship_graph",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "关系图",
+      "confidence": "A",
+      "tag_cn_long": "用线条和文字表示角色之间关系的示意图。"
     },
     {
       "name": "Seating chart",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/seating_chart",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "座位表",
+      "confidence": "A",
+      "tag_cn_long": "展示如教室等房间内人物座位的图表。"
     },
     {
       "name": "Stats",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/stats",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "属性表",
+      "confidence": "A",
+      "tag_cn_long": "带有数值或指标描述角色详细信息的图形。"
     },
     {
       "name": "Collage",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/collage",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拼贴画",
+      "confidence": "A",
+      "tag_cn_long": "由多张截图或不同艺术家作品组合而成的单一图像。"
     },
     {
       "name": "Column lineup",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/column_lineup",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "列排布",
+      "confidence": "A",
+      "tag_cn_long": "角色肖像排列成多列或行的排布图。"
     },
     {
       "name": "Diorama",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/diorama",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立体模型",
+      "confidence": "A",
+      "tag_cn_long": "被封闭在三维形状内的微型场景，或背景部分由道具构成。"
     },
     {
       "name": "Faux figurine",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/faux_figurine",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假手办",
+      "confidence": "A",
+      "tag_cn_long": "角色站在类似手办底座的场景上，背景仅为小块地面或景色。"
     },
     {
       "name": "From outside",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/from_outside",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "从外看",
+      "confidence": "A",
+      "tag_cn_long": "从房间或围栏外部通过窗户或入口向内观看的视角。"
     },
     {
       "name": "Glitch",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/glitch",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "故障效果",
+      "confidence": "A",
+      "tag_cn_long": "故意制造的方块位移和弯曲图像等视觉失真效果。"
     },
     {
       "name": "Isometric",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/isometric",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "等轴测图",
+      "confidence": "A",
+      "tag_cn_long": "平行线不汇聚于一点，物体大小不随距离改变的投影绘图方法。"
     },
     {
       "name": "Letterboxed",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/letterboxed",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "上下黑边",
+      "confidence": "A",
+      "tag_cn_long": "在图像顶部和底部显示黑色或其他颜色条带的构图技术。"
     },
     {
       "name": "Pillarboxed",
@@ -500,9 +500,9 @@
       "wiki_url": "/wiki_pages/pillarboxed",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "左右黑边",
+      "confidence": "A",
+      "tag_cn_long": "在图像左右两侧显示垂直条带的构图技术。"
     },
     {
       "name": "Lineup",
@@ -510,9 +510,9 @@
       "wiki_url": "/wiki_pages/lineup",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "排队",
+      "confidence": "A",
+      "tag_cn_long": "一群人并排站立成一行的构图。"
     },
     {
       "name": "Mosaic art",
@@ -520,9 +520,9 @@
       "wiki_url": "/wiki_pages/mosaic_art",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马赛克艺术",
+      "confidence": "A",
+      "tag_cn_long": "由小块拼凑成整体图像的镶嵌艺术。"
     },
     {
       "name": "Photomosaic",
@@ -530,9 +530,9 @@
       "wiki_url": "/wiki_pages/photomosaic",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "照片马赛克",
+      "confidence": "A",
+      "tag_cn_long": "由多张照片组成的马赛克拼贴艺术。"
     },
     {
       "name": "Negative space",
@@ -540,9 +540,9 @@
       "wiki_url": "/wiki_pages/negative_space",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "留白构图",
+      "confidence": "B",
+      "tag_cn_long": "画面中包含大量留白，主体未充满框架的构图手法。"
     },
     {
       "name": "Omake",
@@ -550,9 +550,9 @@
       "wiki_url": "/wiki_pages/omake",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "附赠品",
+      "confidence": "B",
+      "tag_cn_long": "作品附带的小赠品，如额外短漫或作者添加的额外内容。"
     },
     {
       "name": "Out of frame",
@@ -560,9 +560,9 @@
       "wiki_url": "/wiki_pages/out_of_frame",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "部分出框",
+      "confidence": "A",
+      "tag_cn_long": "角色或其他元素只有部分可见，其余被画面边缘裁切。"
     },
     {
       "name": "Fake scrollbar",
@@ -570,9 +570,9 @@
       "wiki_url": "/wiki_pages/fake_scrollbar",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伪滚动条",
+      "confidence": "A",
+      "tag_cn_long": "画面中伪造的滚动条，通常暗示可滚动查看更隐晦的部分。"
     },
     {
       "name": "Out-of-frame censoring",
@@ -580,9 +580,9 @@
       "wiki_url": "/wiki_pages/out-of-frame_censoring",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "画框外遮挡",
+      "confidence": "A",
+      "tag_cn_long": "裸露部分正好在画面边缘之外，形成天然遮挡效果。"
     },
     {
       "name": "Outside border",
@@ -590,9 +590,9 @@
       "wiki_url": "/wiki_pages/outside_border",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "出框",
+      "confidence": "A",
+      "tag_cn_long": "角色或物体绘制在边框之外，突出于图像边界。"
     },
     {
       "name": "Partially underwater shot",
@@ -600,9 +600,9 @@
       "wiki_url": "/wiki_pages/partially_underwater_shot",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半水下视角",
+      "confidence": "A",
+      "tag_cn_long": "画面被水面分割，一半在水下，一半在水上。"
     },
     {
       "name": "POV",
@@ -610,9 +610,9 @@
       "wiki_url": "/wiki_pages/pov",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "主观视角",
+      "confidence": "A",
+      "tag_cn_long": "第一人称视角画面，通常可见观察者的身体部分。"
     },
     {
       "name": "Social media composition",
@@ -620,9 +620,9 @@
       "wiki_url": "/wiki_pages/social_media_composition",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "社交媒体拼贴",
+      "confidence": "B",
+      "tag_cn_long": "模拟社交媒体缩略图拼接效果的画面分割构图。"
     },
     {
       "name": "Symmetry",
@@ -630,9 +630,9 @@
       "wiki_url": "/wiki_pages/symmetry",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "对称构图",
+      "confidence": "A",
+      "tag_cn_long": "画面左右或上下对称，镜像反转后基本一致。"
     },
     {
       "name": "Polar opposites",
@@ -640,9 +640,9 @@
       "wiki_url": "/wiki_pages/polar_opposites",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "两极对立",
+      "confidence": "A",
+      "tag_cn_long": "两个元素（如角色、主题、色彩）直接对立并置。"
     },
     {
       "name": "Rotational symmetry",
@@ -650,9 +650,9 @@
       "wiki_url": "/wiki_pages/rotational_symmetry",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "旋转对称",
+      "confidence": "A",
+      "tag_cn_long": "两个角色上下颠倒、平行排列，形成旋转对称效果。"
     },
     {
       "name": "Tachi-e",
@@ -660,9 +660,9 @@
       "wiki_url": "/wiki_pages/tachi-e",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立绘",
+      "confidence": "A",
+      "tag_cn_long": "视觉小说中正面的角色立绘，通常全身站立，背景简洁。"
     },
     {
       "name": "Trim marks",
@@ -670,9 +670,9 @@
       "wiki_url": "/wiki_pages/trim_marks",
       "category_path": "Composition",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裁切标记",
+      "confidence": "A",
+      "tag_cn_long": "印刷后用于指示裁切位置的标记，确保成品尺寸正确。"
     },
     {
       "name": "Zoom layer",
@@ -700,9 +700,9 @@
       "wiki_url": "/wiki_pages/3d",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "3D",
+      "confidence": "A",
+      "tag_cn_long": "使用3D计算机图形技术制作的图像。"
     },
     {
       "name": "Animated",
@@ -710,9 +710,9 @@
       "wiki_url": "/wiki_pages/animated",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动画",
+      "confidence": "A",
+      "tag_cn_long": "包含动态序列的图像，如GIF、APNG、Flash或视频文件。"
     },
     {
       "name": "Animated GIF",
@@ -720,9 +720,9 @@
       "wiki_url": "/wiki_pages/animated_gif",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "GIF动画",
+      "confidence": "A",
+      "tag_cn_long": "具有多个帧的GIF图像，常用于展示短动画。"
     },
     {
       "name": "EasyToon",
@@ -730,9 +730,9 @@
       "wiki_url": "/wiki_pages/easytoon_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "EasyToon",
+      "confidence": "B",
+      "tag_cn_long": "一种用于制作像素风格逐帧动画的软件。"
     },
     {
       "name": "FlipaClip",
@@ -740,9 +740,9 @@
       "wiki_url": "/wiki_pages/flipaclip_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "FlipaClip",
+      "confidence": "B",
+      "tag_cn_long": "一款用于制作帧动画的手机应用软件。"
     },
     {
       "name": "Non-repeating animation",
@@ -750,9 +750,9 @@
       "wiki_url": "/wiki_pages/non-repeating_animation",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非循环动画",
+      "confidence": "A",
+      "tag_cn_long": "播放一次即停止、不循环播放的动画。"
     },
     {
       "name": "Animated PNG",
@@ -760,9 +760,9 @@
       "wiki_url": "/wiki_pages/animated_png",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动态PNG",
+      "confidence": "A",
+      "tag_cn_long": "APNG格式的动画图像，支持24位色和8位透明度。"
     },
     {
       "name": "Flash",
@@ -770,9 +770,9 @@
       "wiki_url": "/wiki_pages/flash",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Flash",
+      "confidence": "A",
+      "tag_cn_long": "Adobe Flash软件创建的动画或游戏。"
     },
     {
       "name": "Live2D",
@@ -780,9 +780,9 @@
       "wiki_url": "/wiki_pages/live2d",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Live2D",
+      "confidence": "A",
+      "tag_cn_long": "一种基于分层部件实现2D角色动画的技术。"
     },
     {
       "name": "Spine (medium)",
@@ -790,9 +790,9 @@
       "wiki_url": "/wiki_pages/spine_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Spine",
+      "confidence": "A",
+      "tag_cn_long": "2D骨骼动画软件，常用于游戏角色动画。"
     },
     {
       "name": "Video",
@@ -800,9 +800,9 @@
       "wiki_url": "/wiki_pages/video",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "视频",
+      "confidence": "A",
+      "tag_cn_long": "包含动态画面的视频文件，如WebM或MP4格式。"
     },
     {
       "name": "Music video",
@@ -810,9 +810,9 @@
       "wiki_url": "/wiki_pages/music_video",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "音乐视频",
+      "confidence": "A",
+      "tag_cn_long": "配合音乐的动画或视频作品。"
     },
     {
       "name": "Looping animation",
@@ -820,9 +820,9 @@
       "wiki_url": "/wiki_pages/looping_animation",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "循环动画",
+      "confidence": "A",
+      "tag_cn_long": "首尾无缝衔接、可无限循环播放的动画。"
     },
     {
       "name": "Roulette animation",
@@ -830,9 +830,9 @@
       "wiki_url": "/wiki_pages/roulette_animation",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "轮盘动画",
+      "confidence": "A",
+      "tag_cn_long": "快速切换多张图像的动画，常用于随机选择。"
     },
     {
       "name": "Anime screenshot",
@@ -840,9 +840,9 @@
       "wiki_url": "/wiki_pages/anime_screenshot",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动画截图",
+      "confidence": "A",
+      "tag_cn_long": "从动画中截取的静止帧图像。"
     },
     {
       "name": "Artbook",
@@ -850,9 +850,9 @@
       "wiki_url": "/wiki_pages/artbook",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "画集",
+      "confidence": "A",
+      "tag_cn_long": "扫描自画册的插画作品。"
     },
     {
       "name": "Calendar (medium)",
@@ -860,9 +860,9 @@
       "wiki_url": "/wiki_pages/calendar_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日历",
+      "confidence": "A",
+      "tag_cn_long": "来自日历的插画，常为扫描件。"
     },
     {
       "name": "Card (medium)",
@@ -870,9 +870,9 @@
       "wiki_url": "/wiki_pages/card_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡片",
+      "confidence": "A",
+      "tag_cn_long": "整体设计成卡牌样式的插画。"
     },
     {
       "name": "Comic",
@@ -890,9 +890,9 @@
       "wiki_url": "/wiki_pages/1koma",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "一格漫画",
+      "confidence": "A",
+      "tag_cn_long": "每页仅包含一个画格的漫画形式。"
     },
     {
       "name": "2koma",
@@ -900,9 +900,9 @@
       "wiki_url": "/wiki_pages/2koma",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "两格漫画",
+      "confidence": "A",
+      "tag_cn_long": "每页包含两个画格（通常垂直排列）的漫画。"
     },
     {
       "name": "3koma",
@@ -910,9 +910,9 @@
       "wiki_url": "/wiki_pages/3koma",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三格漫画",
+      "confidence": "A",
+      "tag_cn_long": "每页包含三个画格（通常垂直排列）的漫画。"
     },
     {
       "name": "4koma",
@@ -920,9 +920,9 @@
       "wiki_url": "/wiki_pages/4koma",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四格漫画",
+      "confidence": "A",
+      "tag_cn_long": "一种四格连续漫画格式，可垂直、水平或正方形排列。"
     },
     {
       "name": "Multiple 4koma",
@@ -930,9 +930,9 @@
       "wiki_url": "/wiki_pages/multiple_4koma",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多组四格漫画",
+      "confidence": "A",
+      "tag_cn_long": "一幅图中包含两组或以上的四格漫画。"
     },
     {
       "name": "5koma",
@@ -940,9 +940,9 @@
       "wiki_url": "/wiki_pages/5koma",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五格漫画",
+      "confidence": "A",
+      "tag_cn_long": "一种五格连续漫画格式。"
     },
     {
       "name": "Borderless panels",
@@ -950,9 +950,9 @@
       "wiki_url": "/wiki_pages/borderless_panels",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无边框分镜",
+      "confidence": "A",
+      "tag_cn_long": "漫画中没有分隔线或边框。"
     },
     {
       "name": "comic",
@@ -960,9 +960,9 @@
       "wiki_url": "/wiki_pages/comic",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "漫画",
+      "confidence": "A",
+      "tag_cn_long": "连环画形式的图像，包括网络漫画、同人志等。"
     },
     {
       "name": "Left-to-right manga",
@@ -970,9 +970,9 @@
       "wiki_url": "/wiki_pages/left-to-right_manga",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "从左向右阅读的漫画",
+      "confidence": "A",
+      "tag_cn_long": "日语漫画采用从左到右的阅读顺序。"
     },
     {
       "name": "Right-to-left comic",
@@ -980,9 +980,9 @@
       "wiki_url": "/wiki_pages/right-to-left_comic",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "从右向左阅读的漫画",
+      "confidence": "A",
+      "tag_cn_long": "非日语漫画采用从右到左的阅读顺序。"
     },
     {
       "name": "Silent comic",
@@ -990,9 +990,9 @@
       "wiki_url": "/wiki_pages/silent_comic",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无声漫画",
+      "confidence": "A",
+      "tag_cn_long": "没有对话或旁白的漫画，可能使用符号或图像表达。"
     },
     {
       "name": "Corrupted file",
@@ -1000,9 +1000,9 @@
       "wiki_url": "/wiki_pages/corrupted_file",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "损坏文件",
+      "confidence": "A",
+      "tag_cn_long": "图像显示损坏，部分像素缺失或错误。"
     },
     {
       "name": "Corrupted Twitter file",
@@ -1010,9 +1010,9 @@
       "wiki_url": "/wiki_pages/corrupted_twitter_file",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Twitter损坏文件",
+      "confidence": "A",
+      "tag_cn_long": "Twitter上的图片被Twitter自身部分损坏，通常在底部出现一行像素。"
     },
     {
       "name": "Cover",
@@ -1020,9 +1020,9 @@
       "wiki_url": "/wiki_pages/cover",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "封面",
+      "confidence": "A",
+      "tag_cn_long": "任何类型的封面艺术，真实或模拟的。"
     },
     {
       "name": "Album cover",
@@ -1030,9 +1030,9 @@
       "wiki_url": "/wiki_pages/album_cover",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "专辑封面",
+      "confidence": "A",
+      "tag_cn_long": "音乐发行物的封面艺术，如原声带、单曲。"
     },
     {
       "name": "Character single",
@@ -1040,9 +1040,9 @@
       "wiki_url": "/wiki_pages/character_single",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "角色单曲",
+      "confidence": "A",
+      "tag_cn_long": "以特定角色为中心的CD（音乐或广播剧）。"
     },
     {
       "name": "Cover page",
@@ -1050,9 +1050,9 @@
       "wiki_url": "/wiki_pages/cover_page",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "封面页",
+      "confidence": "A",
+      "tag_cn_long": "印刷媒体的封面艺术，如漫画、小说、同人志封面。"
     },
     {
       "name": "Doujin cover",
@@ -1060,9 +1060,9 @@
       "wiki_url": "/wiki_pages/doujin_cover",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "同人志封面",
+      "confidence": "A",
+      "tag_cn_long": "同人志的封面页。"
     },
     {
       "name": "DVD cover",
@@ -1070,9 +1070,9 @@
       "wiki_url": "/wiki_pages/dvd_cover",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "DVD封面",
+      "confidence": "A",
+      "tag_cn_long": "家庭视频发行物的封面或封套，通常带有DVD标识。"
     },
     {
       "name": "Fake cover",
@@ -1080,9 +1080,9 @@
       "wiki_url": "/wiki_pages/fake_cover",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伪封面",
+      "confidence": "A",
+      "tag_cn_long": "经过编辑使之像官方出版物封面，但实际是虚构的。"
     },
     {
       "name": "Magazine cover",
@@ -1090,9 +1090,9 @@
       "wiki_url": "/wiki_pages/magazine_cover",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "杂志封面",
+      "confidence": "A",
+      "tag_cn_long": "杂志的封面页，通常包含刊名和大量文字。"
     },
     {
       "name": "Manga cover",
@@ -1100,9 +1100,9 @@
       "wiki_url": "/wiki_pages/manga_cover",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "漫画封面",
+      "confidence": "A",
+      "tag_cn_long": "漫画单行本的封面。"
     },
     {
       "name": "Video game cover",
@@ -1110,9 +1110,9 @@
       "wiki_url": "/wiki_pages/video_game_cover",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "游戏封面",
+      "confidence": "A",
+      "tag_cn_long": "游戏盒或盒子的封面艺术。"
     },
     {
       "name": "Fake screenshot",
@@ -1120,9 +1120,9 @@
       "wiki_url": "/wiki_pages/fake_screenshot",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假截图",
+      "confidence": "A",
+      "tag_cn_long": "模仿游戏、软件界面或电视剧等截图风格的插画。"
     },
     {
       "name": "Fake phone screenshot",
@@ -1130,9 +1130,9 @@
       "wiki_url": "/wiki_pages/fake_phone_screenshot",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假手机截图",
+      "confidence": "A",
+      "tag_cn_long": "模仿手机屏幕截图的绘画作品。"
     },
     {
       "name": "Game CG",
@@ -1140,9 +1140,9 @@
       "wiki_url": "/wiki_pages/game_cg",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "游戏CG",
+      "confidence": "A",
+      "tag_cn_long": "从游戏中提取的插图或动画素材。"
     },
     {
       "name": "Game screenshot",
@@ -1150,9 +1150,9 @@
       "wiki_url": "/wiki_pages/game_screenshot",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "游戏截图",
+      "confidence": "A",
+      "tag_cn_long": "实际游戏画面的截图，通常不被收录。"
     },
     {
       "name": "Gyotaku (medium)",
@@ -1160,9 +1160,9 @@
       "wiki_url": "/wiki_pages/gyotaku_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鱼拓",
+      "confidence": "A",
+      "tag_cn_long": "日本传统艺术，用墨水拓印鱼形并手工修饰。"
     },
     {
       "name": "Hidden file",
@@ -1170,9 +1170,9 @@
       "wiki_url": "/wiki_pages/hidden_file",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "隐藏文件",
+      "confidence": "A",
+      "tag_cn_long": "图片中显示隐藏文件或文件夹的视觉元素。"
     },
     {
       "name": "Highres",
@@ -1180,9 +1180,9 @@
       "wiki_url": "/wiki_pages/highres",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高分辨率",
+      "confidence": "A",
+      "tag_cn_long": "分辨率至少1600×1200的高清图片。"
     },
     {
       "name": "Absurdres",
@@ -1190,9 +1190,9 @@
       "wiki_url": "/wiki_pages/absurdres",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超高分辨率",
+      "confidence": "A",
+      "tag_cn_long": "分辨率至少3200×2400的超高清晰图片。"
     },
     {
       "name": "Incredibly absurdres",
@@ -1200,9 +1200,9 @@
       "wiki_url": "/wiki_pages/incredibly_absurdres",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "极高分辨率",
+      "confidence": "A",
+      "tag_cn_long": "任意一边至少10000像素的极高清晰图片。"
     },
     {
       "name": "Lowres",
@@ -1210,9 +1210,9 @@
       "wiki_url": "/wiki_pages/lowres",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低分辨率",
+      "confidence": "A",
+      "tag_cn_long": "宽度或高度不超过500像素的小图片。"
     },
     {
       "name": "Icon",
@@ -1220,9 +1220,9 @@
       "wiki_url": "/wiki_pages/icon_%28computing%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图标",
+      "confidence": "A",
+      "tag_cn_long": "用作图标的小尺寸图片或头像。"
     },
     {
       "name": "Logo",
@@ -1240,9 +1240,9 @@
       "wiki_url": "/wiki_pages/kirigami",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "剪纸艺术",
+      "confidence": "A",
+      "tag_cn_long": "日本切纸艺术，结合折叠和剪切创作的作品。"
     },
     {
       "name": "Lineart",
@@ -1260,9 +1260,9 @@
       "wiki_url": "/wiki_pages/no_lineart",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无线稿",
+      "confidence": "A",
+      "tag_cn_long": "几乎没有线条轮廓，通过色块和形状表现的作品。"
     },
     {
       "name": "Outline",
@@ -1270,9 +1270,9 @@
       "wiki_url": "/wiki_pages/outline",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "轮廓线",
+      "confidence": "A",
+      "tag_cn_long": "人物或物体周围有醒目的轮廓线，与背景分离。"
     },
     {
       "name": "Mosaic art",
@@ -1280,9 +1280,9 @@
       "wiki_url": "/wiki_pages/mosaic_art",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马赛克艺术",
+      "confidence": "A",
+      "tag_cn_long": "由小块拼凑成整体图像的镶嵌艺术。"
     },
     {
       "name": "Photomosaic",
@@ -1290,9 +1290,9 @@
       "wiki_url": "/wiki_pages/photomosaic",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "照片马赛克",
+      "confidence": "A",
+      "tag_cn_long": "由多张照片组成的马赛克拼贴艺术。"
     },
     {
       "name": "Oekaki",
@@ -1300,9 +1300,9 @@
       "wiki_url": "/wiki_pages/oekaki",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "涂鸦",
+      "confidence": "A",
+      "tag_cn_long": "用简单绘图工具创作的涂鸦风格作品。"
     },
     {
       "name": "Official art",
@@ -1310,9 +1310,9 @@
       "wiki_url": "/wiki_pages/official_art",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "官方插画",
+      "confidence": "A",
+      "tag_cn_long": "由官方创作者或公司制作的艺术作品。"
     },
     {
       "name": "Phonecard",
@@ -1320,9 +1320,9 @@
       "wiki_url": "/wiki_pages/phonecard_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "电话卡",
+      "confidence": "A",
+      "tag_cn_long": "用于付费电话的小卡片，常印有装饰图案。"
     },
     {
       "name": "Photo",
@@ -1330,9 +1330,9 @@
       "wiki_url": "/wiki_pages/photo_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "照片",
+      "confidence": "B",
+      "tag_cn_long": "指向实际照片或包含照片的绘画，需查看具体子标签。"
     },
     {
       "name": "Papercraft",
@@ -1340,9 +1340,9 @@
       "wiki_url": "/wiki_pages/papercraft",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纸艺品",
+      "confidence": "A",
+      "tag_cn_long": "用纸制作的手工艺品或模型。"
     },
     {
       "name": "Paper child",
@@ -1350,9 +1350,9 @@
       "wiki_url": "/wiki_pages/paper_child",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纸片角色",
+      "confidence": "A",
+      "tag_cn_long": "将绘制在纸上的角色剪下，置于真实场景中拍摄的图片。"
     },
     {
       "name": "Paper cutout",
@@ -1360,9 +1360,9 @@
       "wiki_url": "/wiki_pages/paper_cutout",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纸模",
+      "confidence": "A",
+      "tag_cn_long": "可打印制作的纸模型。"
     },
     {
       "name": "Pixel art",
@@ -1370,9 +1370,9 @@
       "wiki_url": "/wiki_pages/pixel_art",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "像素画",
+      "confidence": "A",
+      "tag_cn_long": "以像素风格绘制的图像，通常像素明显且色彩有限。"
     },
     {
       "name": "Postcard",
@@ -1380,9 +1380,9 @@
       "wiki_url": "/wiki_pages/postcard",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "明信片",
+      "confidence": "A",
+      "tag_cn_long": "描绘明信片场景或包含明信片的图片。"
     },
     {
       "name": "Poster",
@@ -1390,9 +1390,9 @@
       "wiki_url": "/wiki_pages/poster_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海报",
+      "confidence": "B",
+      "tag_cn_long": "指海报格式的图像，或图像中包含海报。"
     },
     {
       "name": "Revision",
@@ -1400,9 +1400,9 @@
       "wiki_url": "/wiki_pages/revision",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "修订版",
+      "confidence": "A",
+      "tag_cn_long": "艺术家对原图进行修正后的版本。"
     },
     {
       "name": "Has bad revision",
@@ -1410,9 +1410,9 @@
       "wiki_url": "/wiki_pages/has_bad_revision",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含不良修订",
+      "confidence": "A",
+      "tag_cn_long": "来源处存在质量差的修订版本，不应上传。"
     },
     {
       "name": "Has adversarial noise revision",
@@ -1420,9 +1420,9 @@
       "wiki_url": "/wiki_pages/has_adversarial_noise_revision",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含对抗噪声修订",
+      "confidence": "B",
+      "tag_cn_long": "来源修订版被加入了对抗性噪声（如Glaze）。"
     },
     {
       "name": "Has artifacted revision",
@@ -1430,9 +1430,9 @@
       "wiki_url": "/wiki_pages/has_artifacted_revision",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含伪影修订",
+      "confidence": "A",
+      "tag_cn_long": "来源修订版比原图有更多伪影。"
     },
     {
       "name": "Has censored revision",
@@ -1440,9 +1440,9 @@
       "wiki_url": "/wiki_pages/has_censored_revision",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含审查修订",
+      "confidence": "A",
+      "tag_cn_long": "来源修订版经过了审查或遮盖。"
     },
     {
       "name": "Has cropped revision",
@@ -1450,9 +1450,9 @@
       "wiki_url": "/wiki_pages/has_cropped_revision",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含裁剪修订",
+      "confidence": "A",
+      "tag_cn_long": "来源修订版被裁剪过。"
     },
     {
       "name": "Has downscaled revision",
@@ -1460,9 +1460,9 @@
       "wiki_url": "/wiki_pages/has_downscaled_revision",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含缩小修订",
+      "confidence": "A",
+      "tag_cn_long": "来源修订版分辨率降低。"
     },
     {
       "name": "Has lossy revision",
@@ -1470,9 +1470,9 @@
       "wiki_url": "/wiki_pages/has_lossy_revision",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含有损压缩修订",
+      "confidence": "A",
+      "tag_cn_long": "来源修订版被转换为有损格式。"
     },
     {
       "name": "Has watermarked revision",
@@ -1480,9 +1480,9 @@
       "wiki_url": "/wiki_pages/has_watermarked_revision",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "含水印修订",
+      "confidence": "A",
+      "tag_cn_long": "来源修订版添加了水印。"
     },
     {
       "name": "Scan",
@@ -1490,9 +1490,9 @@
       "wiki_url": "/wiki_pages/scan",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扫描图",
+      "confidence": "A",
+      "tag_cn_long": "从印刷品等实体扫描得到的图像。"
     },
     {
       "name": "Shitajiki",
@@ -1500,9 +1500,9 @@
       "wiki_url": "/wiki_pages/shitajiki_%28medium%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "铅笔板",
+      "confidence": "B",
+      "tag_cn_long": "从铅笔板（垫板）扫描得到的图像。"
     },
     {
       "name": "Tall image",
@@ -1510,9 +1510,9 @@
       "wiki_url": "/wiki_pages/tall_image",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长图",
+      "confidence": "A",
+      "tag_cn_long": "高度至少1024像素且宽度与高度比小于1:4的图像。"
     },
     {
       "name": "Tegaki",
@@ -1520,9 +1520,9 @@
       "wiki_url": "/wiki_pages/tegaki",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手绘博客",
+      "confidence": "B",
+      "tag_cn_long": "来自Tegaki平台的手绘图像。"
     },
     {
       "name": "Transparent background",
@@ -1540,9 +1540,9 @@
       "wiki_url": "/wiki_pages/triptych_%28art%29",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三联画",
+      "confidence": "A",
+      "tag_cn_long": "一幅画作分为三个部分，通常中间最大，两侧较小。"
     },
     {
       "name": "Thumbnail collage",
@@ -1550,9 +1550,9 @@
       "wiki_url": "/wiki_pages/thumbnail_collage",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缩略图拼贴",
+      "confidence": "A",
+      "tag_cn_long": "一系列帖子按特定方式排列，使其缩略图合并成一幅完整图像。"
     },
     {
       "name": "Vector trace",
@@ -1560,9 +1560,9 @@
       "wiki_url": "/wiki_pages/vector_trace",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "矢量描摹",
+      "confidence": "A",
+      "tag_cn_long": "使用矢量图形程序描摹原始图像并保存为光栅图像的图片。"
     },
     {
       "name": "Official wallpaper",
@@ -1570,9 +1570,9 @@
       "wiki_url": "/wiki_pages/official_wallpaper",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "官方壁纸",
+      "confidence": "A",
+      "tag_cn_long": "由官方渠道提供的壁纸，通常可在官方网站下载区找到。"
     },
     {
       "name": "Tileable",
@@ -1580,9 +1580,9 @@
       "wiki_url": "/wiki_pages/tileable",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "可平铺",
+      "confidence": "A",
+      "tag_cn_long": "图像中的图案可以裁剪后作为平铺背景，无缝重复且无可见边缘。"
     },
     {
       "name": "Wallpaper forced",
@@ -1590,9 +1590,9 @@
       "wiki_url": "/wiki_pages/wallpaper_forced",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "强制壁纸",
+      "confidence": "A",
+      "tag_cn_long": "图片被调整为标准壁纸分辨率（如1920x1080），可能因拉伸或裁剪导致比例异常。"
     },
     {
       "name": "Widescreen",
@@ -1600,9 +1600,9 @@
       "wiki_url": "/wiki_pages/widescreen",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽屏",
+      "confidence": "A",
+      "tag_cn_long": "指宽高比大于标准（如16:9或16:10）的屏幕比例，常用于现代显示器。"
     },
     {
       "name": "Wide image",
@@ -1610,9 +1610,9 @@
       "wiki_url": "/wiki_pages/wide_image",
       "category_path": "Format",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽幅图像",
+      "confidence": "A",
+      "tag_cn_long": "宽度至少1024像素且宽高比达到4:1或更宽的图像。"
     },
     {
       "name": "Portrait",
@@ -1620,9 +1620,9 @@
       "wiki_url": "/wiki_pages/portrait",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "面部特写",
+      "confidence": "A",
+      "tag_cn_long": "主要展示角色面部的图像，通常不露出腋窝以下。"
     },
     {
       "name": "Upper body",
@@ -1630,9 +1630,9 @@
       "wiki_url": "/wiki_pages/upper_body",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "上半身",
+      "confidence": "A",
+      "tag_cn_long": "展示角色上半身的图像，大约从肚脐以上，可能包含或不包含头部。"
     },
     {
       "name": "Cowboy shot",
@@ -1640,9 +1640,9 @@
       "wiki_url": "/wiki_pages/cowboy_shot",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牛仔镜头",
+      "confidence": "A",
+      "tag_cn_long": "画面从大腿以上展示角色，通常包括面部，取景于大腿或略高于膝盖处。"
     },
     {
       "name": "Feet out of frame",
@@ -1650,9 +1650,9 @@
       "wiki_url": "/wiki_pages/feet_out_of_frame",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双脚出框",
+      "confidence": "A",
+      "tag_cn_long": "角色全身可见但双脚被画面边缘裁剪，通常膝盖以上保留。"
     },
     {
       "name": "Full body",
@@ -1660,9 +1660,9 @@
       "wiki_url": "/wiki_pages/full_body",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "全身",
+      "confidence": "A",
+      "tag_cn_long": "角色整个身体清晰可见且占据画面主体部分。"
     },
     {
       "name": "Wide shot",
@@ -1670,9 +1670,9 @@
       "wiki_url": "/wiki_pages/wide_shot",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "远景",
+      "confidence": "A",
+      "tag_cn_long": "角色完全可见但只占画面很小部分，通常因距离远或画面过宽。"
     },
     {
       "name": "Very wide shot",
@@ -1680,9 +1680,9 @@
       "wiki_url": "/wiki_pages/very_wide_shot",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超远景",
+      "confidence": "A",
+      "tag_cn_long": "角色完全可见但占画面极其微小部分，缩略图中难以辨认单个角色。"
     },
     {
       "name": "Lower body",
@@ -1690,9 +1690,9 @@
       "wiki_url": "/wiki_pages/lower_body",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下半身",
+      "confidence": "A",
+      "tag_cn_long": "主要展示角色下半身的图像，大约从腰部以下。"
     },
     {
       "name": "Head out of frame",
@@ -1700,9 +1700,9 @@
       "wiki_url": "/wiki_pages/head_out_of_frame",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头部出框",
+      "confidence": "A",
+      "tag_cn_long": "主角的头部部分或完全被画面裁剪，但躯干仍可见。"
     },
     {
       "name": "Eyes out of frame",
@@ -1710,9 +1710,9 @@
       "wiki_url": "/wiki_pages/eyes_out_of_frame",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼睛出框",
+      "confidence": "B",
+      "tag_cn_long": "主角的双眼被画面边缘裁剪，不可见。"
     },
     {
       "name": "Arm out of frame",
@@ -1720,9 +1720,9 @@
       "wiki_url": "/wiki_pages/arm_out_of_frame",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手臂出框",
+      "confidence": "A",
+      "tag_cn_long": "主角的一只手臂部分或完全被画面边缘裁剪。"
     },
     {
       "name": "Foot out of frame",
@@ -1730,9 +1730,9 @@
       "wiki_url": "/wiki_pages/foot_out_of_frame",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单脚出框",
+      "confidence": "A",
+      "tag_cn_long": "主角的一只脚被画面边缘裁剪，另一只脚可见。"
     },
     {
       "name": "Knees out of frame",
@@ -1740,9 +1740,9 @@
       "wiki_url": "/wiki_pages/knees_out_of_frame",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝盖出框",
+      "confidence": "A",
+      "tag_cn_long": "画面中人物的膝盖大部分或完全不在画框内。"
     },
     {
       "name": "Close-up",
@@ -1750,9 +1750,9 @@
       "wiki_url": "/wiki_pages/close-up",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "特写",
+      "confidence": "A",
+      "tag_cn_long": "画面主体以非常近的距离展示。"
     },
     {
       "name": "Cropped legs",
@@ -1760,9 +1760,9 @@
       "wiki_url": "/wiki_pages/cropped_legs",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "截腿",
+      "confidence": "A",
+      "tag_cn_long": "人物腿部在画面内部被裁断，与画面边缘有明显空隙。"
     },
     {
       "name": "Cropped torso",
@@ -1770,9 +1770,9 @@
       "wiki_url": "/wiki_pages/cropped_torso",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "截躯干",
+      "confidence": "A",
+      "tag_cn_long": "人物仅从腰部以上可见，下半身在画面内部被裁断。"
     },
     {
       "name": "Cropped arms",
@@ -1780,9 +1780,9 @@
       "wiki_url": "/wiki_pages/cropped_arms",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "截臂",
+      "confidence": "A",
+      "tag_cn_long": "人物手臂未完全画出，在画面内部被裁断。"
     },
     {
       "name": "Cropped shoulders",
@@ -1790,9 +1790,9 @@
       "wiki_url": "/wiki_pages/cropped_shoulders",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "截肩",
+      "confidence": "A",
+      "tag_cn_long": "画面在肩膀附近渐隐或裁断，胸部以下未画出。"
     },
     {
       "name": "Cropped head",
@@ -1800,9 +1800,9 @@
       "wiki_url": "/wiki_pages/cropped_head",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "截头",
+      "confidence": "A",
+      "tag_cn_long": "人物仅头部和颈部可见，身体被裁断，常呈漂浮状。"
     },
     {
       "name": "Cut-in",
@@ -1810,9 +1810,9 @@
       "wiki_url": "/wiki_pages/cut-in",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "切镜",
+      "confidence": "B",
+      "tag_cn_long": "一种视觉特效，用另一幅图像动态切入覆盖在原图上。"
     },
     {
       "name": "Profile",
@@ -1820,9 +1820,9 @@
       "wiki_url": "/wiki_pages/profile",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧面",
+      "confidence": "A",
+      "tag_cn_long": "人物展示面部的一侧，即侧脸视角。"
     },
     {
       "name": "Group profile",
@@ -1830,9 +1830,9 @@
       "wiki_url": "/wiki_pages/group_profile",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "群体侧面",
+      "confidence": "A",
+      "tag_cn_long": "多个角色同时以侧面角度展示。"
     },
     {
       "name": "Split crop",
@@ -1840,9 +1840,9 @@
       "wiki_url": "/wiki_pages/split_crop",
       "category_path": "Subject matter/Framing the body",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半侧裁切",
+      "confidence": "B",
+      "tag_cn_long": "画面仅展示角色身体的一侧（左右分割）。"
     },
     {
       "name": "Style parody",
@@ -1850,9 +1850,9 @@
       "wiki_url": "/wiki_pages/style_parody",
       "category_path": "Styles/Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "风格模仿",
+      "confidence": "A",
+      "tag_cn_long": "画作模仿其他艺术家或特定作品的风格。"
     },
     {
       "name": "List of Style Parodies",
@@ -1860,9 +1860,9 @@
       "wiki_url": "/wiki_pages/list_of_style_parodies",
       "category_path": "Styles/Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "风格模仿列表",
+      "confidence": "A",
+      "tag_cn_long": "列出各种风格模仿的标签分类。"
     },
     {
       "name": "Unfinished",
@@ -1870,9 +1870,9 @@
       "wiki_url": "/wiki_pages/unfinished",
       "category_path": "Styles/Other",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "未完成",
+      "confidence": "A",
+      "tag_cn_long": "画作未完成，如草图、线稿或未上色状态。"
     },
     {
       "name": "Blending",
@@ -1890,9 +1890,9 @@
       "wiki_url": "/wiki_pages/bloom",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泛光",
+      "confidence": "A",
+      "tag_cn_long": "一种视觉效果，模拟明亮光线模糊扩散到周围区域。"
     },
     {
       "name": "Bokeh",
@@ -1900,9 +1900,9 @@
       "wiki_url": "/wiki_pages/bokeh",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "散景",
+      "confidence": "A",
+      "tag_cn_long": "摄影效果，背景中失焦的圆形光斑。"
     },
     {
       "name": "Caustics",
@@ -1910,9 +1910,9 @@
       "wiki_url": "/wiki_pages/caustics",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "焦散",
+      "confidence": "B",
+      "tag_cn_long": "光线经过折射或反射后投射到表面形成的亮纹图案。"
     },
     {
       "name": "Chiaroscuro",
@@ -1920,9 +1920,9 @@
       "wiki_url": "/wiki_pages/chiaroscuro",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "明暗对照",
+      "confidence": "A",
+      "tag_cn_long": "使用强烈的明暗对比来塑造立体感的绘画技法。"
     },
     {
       "name": "Chromatic aberration",
@@ -1930,9 +1930,9 @@
       "wiki_url": "/wiki_pages/chromatic_aberration",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "色差",
+      "confidence": "A",
+      "tag_cn_long": "光学畸变，图像边缘出现彩色模糊条纹或RGB通道偏移。"
     },
     {
       "name": "Heavy chromatic aberration",
@@ -1940,9 +1940,9 @@
       "wiki_url": "/wiki_pages/heavy_chromatic_aberration",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "严重色差",
+      "confidence": "A",
+      "tag_cn_long": "图像中红蓝通道错位产生的严重颜色分离效果。"
     },
     {
       "name": "Diffraction spikes",
@@ -1950,9 +1950,9 @@
       "wiki_url": "/wiki_pages/diffraction_spikes",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衍射星芒",
+      "confidence": "A",
+      "tag_cn_long": "从光源点向外辐射的多道星芒状光效，类似星形耀斑。"
     },
     {
       "name": "Depth of field",
@@ -1960,9 +1960,9 @@
       "wiki_url": "/wiki_pages/depth_of_field",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "景深",
+      "confidence": "A",
+      "tag_cn_long": "部分图像清晰、部分模糊的效果，模拟相机聚焦产生的虚实变化。"
     },
     {
       "name": "Distortion",
@@ -1970,9 +1970,9 @@
       "wiki_url": "/wiki_pages/distortion",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扭曲",
+      "confidence": "A",
+      "tag_cn_long": "图像被破坏性或解构性处理，或刻意画成扭曲形状以产生美学效果。"
     },
     {
       "name": "Dithering",
@@ -1980,9 +1980,9 @@
       "wiki_url": "/wiki_pages/dithering",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抖动",
+      "confidence": "A",
+      "tag_cn_long": "通过不同颜色像素的稀疏排列模拟颜色混合或渐变的技术，常见于8位色图像。"
     },
     {
       "name": "Double exposure",
@@ -2000,9 +2000,9 @@
       "wiki_url": "/wiki_pages/drop_shadow",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "投影",
+      "confidence": "A",
+      "tag_cn_long": "角色形状的色块偏移放置在角色后方，模拟光从上方照下投射在背景上的效果。"
     },
     {
       "name": "Emphasis lines",
@@ -2010,9 +2010,9 @@
       "wiki_url": "/wiki_pages/emphasis_lines",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "强调线",
+      "confidence": "A",
+      "tag_cn_long": "从画面中需要突出的部分向外辐射的线条，用于吸引观者注意力，与速度线不同。"
     },
     {
       "name": "Film grain",
@@ -2020,9 +2020,9 @@
       "wiki_url": "/wiki_pages/film_grain",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胶片颗粒",
+      "confidence": "A",
+      "tag_cn_long": "模拟传统胶片摄影中出现的沙粒状纹理，用于营造电影或复古风格。"
     },
     {
       "name": "Foreshortening",
@@ -2030,9 +2030,9 @@
       "wiki_url": "/wiki_pages/foreshortening",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透视缩短",
+      "confidence": "A",
+      "tag_cn_long": "一种透视手法，使指向观者的物体显得更短。"
     },
     {
       "name": "Glitch",
@@ -2040,9 +2040,9 @@
       "wiki_url": "/wiki_pages/glitch",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "故障效果",
+      "confidence": "A",
+      "tag_cn_long": "故意制造的方块位移和弯曲图像等视觉失真效果。"
     },
     {
       "name": "Gradient",
@@ -2060,9 +2060,9 @@
       "wiki_url": "/wiki_pages/halftone",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半色调",
+      "confidence": "A",
+      "tag_cn_long": "用不同大小、形状或间距的点模拟颜色或灰度层次的技术，常见于印刷或漫画。"
     },
     {
       "name": "Ben-day dots",
@@ -2070,9 +2070,9 @@
       "wiki_url": "/wiki_pages/ben-day_dots",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "本戴点",
+      "confidence": "A",
+      "tag_cn_long": "一种屏幕色调技术，使用等大等距的点阵图案来添加纹理或阴影。"
     },
     {
       "name": "Hatching (texture)",
@@ -2080,9 +2080,9 @@
       "wiki_url": "/wiki_pages/hatching_%28texture%29",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "排线纹理",
+      "confidence": "A",
+      "tag_cn_long": "通过绘制平行或交叉的线条来表现阴影和纹理的素描技法。"
     },
     {
       "name": "Linear hatching",
@@ -2090,9 +2090,9 @@
       "wiki_url": "/wiki_pages/linear_hatching",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "平行排线",
+      "confidence": "A",
+      "tag_cn_long": "仅沿单一方向绘制平行线条以加深图像区域明暗的技法。"
     },
     {
       "name": "Crosshatching",
@@ -2100,9 +2100,9 @@
       "wiki_url": "/wiki_pages/crosshatching",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉排线",
+      "confidence": "A",
+      "tag_cn_long": "使用多层不同方向的平行线交叉叠加来模拟不同深浅的阴影效果。"
     },
     {
       "name": "Woven hatching",
@@ -2110,9 +2110,9 @@
       "wiki_url": "/wiki_pages/woven_hatching",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "编织排线",
+      "confidence": "B",
+      "tag_cn_long": "一种排线技法，线条交织如编织状以增加纹理和阴影。"
     },
     {
       "name": "High contrast",
@@ -2130,9 +2130,9 @@
       "wiki_url": "/wiki_pages/hue_shifting",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "色相偏移",
+      "confidence": "A",
+      "tag_cn_long": "在着色时改变色相以避免使用纯灰色阴影，使颜色更丰富；或指整体色相偏移效果。"
     },
     {
       "name": "intentional JPEG artifacts",
@@ -2140,9 +2140,9 @@
       "wiki_url": "/wiki_pages/intentional_jpeg_artifacts",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "刻意JPEG伪影",
+      "confidence": "A",
+      "tag_cn_long": "刻意制造的JPEG压缩块状或色块失真，用于达成某种视觉风格。"
     },
     {
       "name": "Lens flare",
@@ -2150,9 +2150,9 @@
       "wiki_url": "/wiki_pages/lens_flare",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "镜头光晕",
+      "confidence": "A",
+      "tag_cn_long": "因强光在镜头内反射散射产生的光斑效果。"
     },
     {
       "name": "Heavy lens flare",
@@ -2160,9 +2160,9 @@
       "wiki_url": "/wiki_pages/heavy_lens_flare",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "严重镜头光晕",
+      "confidence": "A",
+      "tag_cn_long": "镜头光晕现象非常明显或覆盖画面大面积的视觉效果。"
     },
     {
       "name": "Backlighting",
@@ -2180,9 +2180,9 @@
       "wiki_url": "/wiki_pages/overlighting",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "过度照明",
+      "confidence": "C",
+      "tag_cn_long": "画面中光线过强的效果。"
     },
     {
       "name": "Sidelighting",
@@ -2190,9 +2190,9 @@
       "wiki_url": "/wiki_pages/sidelighting",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧光",
+      "confidence": "A",
+      "tag_cn_long": "光线从侧面照射的照明方式。"
     },
     {
       "name": "Underlighting",
@@ -2200,9 +2200,9 @@
       "wiki_url": "/wiki_pages/underlighting",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "底光",
+      "confidence": "A",
+      "tag_cn_long": "光线从下方照射的照明方式。"
     },
     {
       "name": "Motion blur",
@@ -2210,9 +2210,9 @@
       "wiki_url": "/wiki_pages/motion_blur",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动模糊",
+      "confidence": "A",
+      "tag_cn_long": "通过模糊画面局部来表现快速移动的视觉效果。"
     },
     {
       "name": "Motion lines",
@@ -2220,9 +2220,9 @@
       "wiki_url": "/wiki_pages/motion_lines",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "运动线",
+      "confidence": "A",
+      "tag_cn_long": "漫画中围绕运动物体或人物的抽象线条，用以表现快速移动。"
     },
     {
       "name": "Multiple monochrome",
@@ -2240,9 +2240,9 @@
       "wiki_url": "/wiki_pages/optical_illusion",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "视错觉",
+      "confidence": "A",
+      "tag_cn_long": "利用视觉系统特性产生的欺骗性视觉图像，如不可能图形等。"
     },
     {
       "name": "Anaglyph",
@@ -2250,9 +2250,9 @@
       "wiki_url": "/wiki_pages/anaglyph",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红蓝立体图",
+      "confidence": "A",
+      "tag_cn_long": "用红蓝两色错位叠加，通过滤色眼镜观看产生立体效果的图像。"
     },
     {
       "name": "EXIF thumbnail surprise",
@@ -2260,9 +2260,9 @@
       "wiki_url": "/wiki_pages/exif_thumbnail_surprise",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "EXIF缩略图彩蛋",
+      "confidence": "B",
+      "tag_cn_long": "JPEG文件的EXIF缩略图与主图不一致，通常为隐藏彩蛋。"
     },
     {
       "name": "Open in Internet Explorer",
@@ -2270,9 +2270,9 @@
       "wiki_url": "/wiki_pages/open_in_internet_explorer",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "IE打开彩蛋",
+      "confidence": "C",
+      "tag_cn_long": "利用旧版IE渲染特性，在选中图片时显示隐藏图像的特殊技巧。"
     },
     {
       "name": "Open in Winamp",
@@ -2280,9 +2280,9 @@
       "wiki_url": "/wiki_pages/open_in_winamp",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Winamp打开彩蛋",
+      "confidence": "C",
+      "tag_cn_long": "图片嵌入音乐或视频，可在Winamp中播放的特效。"
     },
     {
       "name": "Stereogram",
@@ -2290,9 +2290,9 @@
       "wiki_url": "/wiki_pages/stereogram",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立体视错觉图",
+      "confidence": "A",
+      "tag_cn_long": "利用平行或交叉眼法从平面图像中看出立体深度的视错觉图像。"
     },
     {
       "name": "Overexposure",
@@ -2300,9 +2300,9 @@
       "wiki_url": "/wiki_pages/overexposure",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "过曝",
+      "confidence": "A",
+      "tag_cn_long": "图像中明亮部分被完全变为纯白色，细节丢失的摄影效果。"
     },
     {
       "name": "Pointillism",
@@ -2310,9 +2310,9 @@
       "wiki_url": "/wiki_pages/pointillism",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "点绘",
+      "confidence": "A",
+      "tag_cn_long": "完全由点构成的绘画技法，模拟点彩派风格。"
     },
     {
       "name": "Scanlines",
@@ -2320,9 +2320,9 @@
       "wiki_url": "/wiki_pages/scanlines",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扫描线",
+      "confidence": "A",
+      "tag_cn_long": "模拟CRT显示器水平扫描线纹理的视觉效果。"
     },
     {
       "name": "Screentones",
@@ -2330,9 +2330,9 @@
       "wiki_url": "/wiki_pages/screentones",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网点",
+      "confidence": "A",
+      "tag_cn_long": "用规则的点阵或纹理表现阴影和层次，常用于漫画。"
     },
     {
       "name": "Ben-day dots",
@@ -2340,9 +2340,9 @@
       "wiki_url": "/wiki_pages/ben-day_dots",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "本戴点",
+      "confidence": "A",
+      "tag_cn_long": "一种屏幕色调技术，使用等大等距的点阵图案来添加纹理或阴影。"
     },
     {
       "name": "Silhouette",
@@ -2350,9 +2350,9 @@
       "wiki_url": "/wiki_pages/silhouette",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "剪影",
+      "confidence": "A",
+      "tag_cn_long": "物体的轮廓和内部全黑或单色的视图。"
     },
     {
       "name": "Speed lines",
@@ -2360,9 +2360,9 @@
       "wiki_url": "/wiki_pages/speed_lines",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "速度线",
+      "confidence": "A",
+      "tag_cn_long": "用于强调运动速度的线条。"
     },
     {
       "name": "Stippling (texture)",
@@ -2370,9 +2370,9 @@
       "wiki_url": "/wiki_pages/stippling_%28texture%29",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "点画法",
+      "confidence": "A",
+      "tag_cn_long": "用点状笔触表现阴影的技法。"
     },
     {
       "name": "Subsurface scattering",
@@ -2380,9 +2380,9 @@
       "wiki_url": "/wiki_pages/subsurface_scattering",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "次表面散射",
+      "confidence": "A",
+      "tag_cn_long": "光线穿透半透明材质内部并散射的视觉效果。"
     },
     {
       "name": "Thumbnail surprise",
@@ -2390,9 +2390,9 @@
       "wiki_url": "/wiki_pages/thumbnail_surprise",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缩略图欺诈",
+      "confidence": "B",
+      "tag_cn_long": "利用技术手段使完整图片与缩略图不同的效果。"
     },
     {
       "name": "EXIF thumbnail surprise",
@@ -2400,9 +2400,9 @@
       "wiki_url": "/wiki_pages/exif_thumbnail_surprise",
       "category_path": "Techniques",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "EXIF缩略图彩蛋",
+      "confidence": "B",
+      "tag_cn_long": "JPEG文件的EXIF缩略图与主图不一致，通常为隐藏彩蛋。"
     },
     {
       "name": "Vignetting",
@@ -2420,9 +2420,9 @@
       "wiki_url": "/wiki_pages/asa_no_ha_%28pattern%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "麻叶纹",
+      "confidence": "A",
+      "tag_cn_long": "传统日本麻叶形状的六角星几何图案。"
     },
     {
       "name": "Egasumi",
@@ -2430,9 +2430,9 @@
       "wiki_url": "/wiki_pages/egasumi",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "江霞纹",
+      "confidence": "B",
+      "tag_cn_long": "传统日本云朵图案，长条椭圆状相连。"
     },
     {
       "name": "Genjiguruma",
@@ -2440,9 +2440,9 @@
       "wiki_url": "/wiki_pages/genjiguruma",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "源氏车",
+      "confidence": "A",
+      "tag_cn_long": "传统日本源氏牛车轮图案。"
     },
     {
       "name": "Goshoguruma",
@@ -2450,9 +2450,9 @@
       "wiki_url": "/wiki_pages/goshoguruma",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "御所车",
+      "confidence": "A",
+      "tag_cn_long": "传统日本御所牛车图案。"
     },
     {
       "name": "Igeta (pattern)",
@@ -2460,9 +2460,9 @@
       "wiki_url": "/wiki_pages/igeta_%28pattern%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "井桁纹",
+      "confidence": "A",
+      "tag_cn_long": "传统日本井字格图案。"
     },
     {
       "name": "Kagome (pattern)",
@@ -2470,9 +2470,9 @@
       "wiki_url": "/wiki_pages/kagome_%28pattern%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "笼目纹",
+      "confidence": "A",
+      "tag_cn_long": "传统日本竹编笼目图案，交织线构成。"
     },
     {
       "name": "Kanoko (pattern)",
@@ -2480,9 +2480,9 @@
       "wiki_url": "/wiki_pages/kanoko_%28pattern%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鹿子纹",
+      "confidence": "A",
+      "tag_cn_long": "传统日本不规则菱形斑点图案，模仿小鹿斑点。"
     },
     {
       "name": "Karakusa (pattern)",
@@ -2490,9 +2490,9 @@
       "wiki_url": "/wiki_pages/karakusa_%28pattern%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "唐草纹",
+      "confidence": "A",
+      "tag_cn_long": "传统日本藤蔓状卷草图案。"
     },
     {
       "name": "Kikumon",
@@ -2500,9 +2500,9 @@
       "wiki_url": "/wiki_pages/kikumon",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菊纹",
+      "confidence": "A",
+      "tag_cn_long": "日本皇室十六瓣菊花纹章。"
     },
     {
       "name": "Kikkoumon",
@@ -2510,9 +2510,9 @@
       "wiki_url": "/wiki_pages/kikkoumon",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "龟甲纹",
+      "confidence": "A",
+      "tag_cn_long": "传统日本六边形龟甲图案。"
     },
     {
       "name": "Kojitsunagi (pattern)",
@@ -2520,9 +2520,9 @@
       "wiki_url": "/wiki_pages/kojitsunagi_%28pattern%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "工字连纹",
+      "confidence": "B",
+      "tag_cn_long": "由“工”字相互连接的传统图案。"
     },
     {
       "name": "Matsu symbol",
@@ -2530,9 +2530,9 @@
       "wiki_url": "/wiki_pages/matsu_symbol",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "松纹",
+      "confidence": "A",
+      "tag_cn_long": "传统日本松树图案。"
     },
     {
       "name": "Sakuramon",
@@ -2540,9 +2540,9 @@
       "wiki_url": "/wiki_pages/sakuramon",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "樱纹",
+      "confidence": "A",
+      "tag_cn_long": "日本五瓣樱花纹章，常见于海军标志。"
     },
     {
       "name": "Sayagata",
@@ -2550,9 +2550,9 @@
       "wiki_url": "/wiki_pages/sayagata",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纱绫形",
+      "confidence": "B",
+      "tag_cn_long": "传统日本连续的卍字图案。"
     },
     {
       "name": "Seigaiha",
@@ -2560,9 +2560,9 @@
       "wiki_url": "/wiki_pages/seigaiha",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "青海波",
+      "confidence": "A",
+      "tag_cn_long": "传统日本波浪图案。"
     },
     {
       "name": "Shima (pattern)",
@@ -2570,9 +2570,9 @@
       "wiki_url": "/wiki_pages/shima_%28pattern%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缟纹",
+      "confidence": "B",
+      "tag_cn_long": "一种传统日本图案，由类似链环的连续条纹组成。"
     },
     {
       "name": "Shippou (pattern)",
@@ -2580,9 +2580,9 @@
       "wiki_url": "/wiki_pages/shippou_%28pattern%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "七宝纹",
+      "confidence": "A",
+      "tag_cn_long": "一种传统日本图案，由重叠的圆圈构成，象征七宝。"
     },
     {
       "name": "Uchiwa",
@@ -2590,9 +2590,9 @@
       "wiki_url": "/wiki_pages/uchiwa_%28medium%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "团扇",
+      "confidence": "A",
+      "tag_cn_long": "一种日本圆形或椭圆形手扇，以竹框糊纸或绸制成。"
     },
     {
       "name": "Uroko (pattern)",
@@ -2600,9 +2600,9 @@
       "wiki_url": "/wiki_pages/uroko_%28pattern%29",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鳞纹",
+      "confidence": "A",
+      "tag_cn_long": "一种传统日本图案，由三角形排列成鱼或蛇的鳞片状。"
     },
     {
       "name": "Tatewaku",
@@ -2610,9 +2610,9 @@
       "wiki_url": "/wiki_pages/tatewaku",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立涌纹",
+      "confidence": "A",
+      "tag_cn_long": "一种传统日本图案，表现为波浪状或上升的曲线。"
     },
     {
       "name": "Yagasuri",
@@ -2620,9 +2620,9 @@
       "wiki_url": "/wiki_pages/yagasuri",
       "category_path": "Traditional Japanese Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "箭羽纹",
+      "confidence": "A",
+      "tag_cn_long": "一种传统日本图案，由排列成箭羽形状的三角形组成。"
     },
     {
       "name": "Animal print",
@@ -2660,9 +2660,9 @@
       "wiki_url": "/wiki_pages/shark_print",
       "category_path": "Other Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鲨鱼纹",
+      "confidence": "A",
+      "tag_cn_long": "模仿鲨鱼皮肤质感的印花图案。"
     },
     {
       "name": "Tiger print",
@@ -2680,9 +2680,9 @@
       "wiki_url": "/wiki_pages/zebra_print",
       "category_path": "Other Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斑马纹",
+      "confidence": "A",
+      "tag_cn_long": "印有斑马黑白条纹图案的花纹。"
     },
     {
       "name": "Argyle",
@@ -2710,9 +2710,9 @@
       "wiki_url": "/wiki_pages/cross_print",
       "category_path": "Other Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十字纹",
+      "confidence": "A",
+      "tag_cn_long": "印有十字形符号的图案，包括加号和基督教十字架。"
     },
     {
       "name": "Double Happiness",
@@ -2720,9 +2720,9 @@
       "wiki_url": "/wiki_pages/double_happiness",
       "category_path": "Other Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双喜",
+      "confidence": "A",
+      "tag_cn_long": "中国吉祥符号“囍”，由两个“喜”字组成，常用于婚礼。"
     },
     {
       "name": "Fleur-de-lis",
@@ -2730,9 +2730,9 @@
       "wiki_url": "/wiki_pages/fleur-de-lis",
       "category_path": "Other Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸢尾花纹",
+      "confidence": "A",
+      "tag_cn_long": "一种风格化的百合或鸢尾花装饰图案，常用于纹章。"
     },
     {
       "name": "Floral print",
@@ -2750,9 +2750,9 @@
       "wiki_url": "/wiki_pages/flower_of_life_%28pattern%29",
       "category_path": "Other Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "生命之花",
+      "confidence": "A",
+      "tag_cn_long": "一种由多个重叠圆圈组成的几何图案，象征生命与宇宙。"
     },
     {
       "name": "Gingham",
@@ -2780,9 +2780,9 @@
       "wiki_url": "/wiki_pages/meandros",
       "category_path": "Other Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "回纹",
+      "confidence": "A",
+      "tag_cn_long": "一种由连续线条形成的重复装饰边框，常见于希腊艺术和拉面碗边缘。"
     },
     {
       "name": "Paisley",
@@ -2790,9 +2790,9 @@
       "wiki_url": "/wiki_pages/paisley",
       "category_path": "Other Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佩斯利",
+      "confidence": "A",
+      "tag_cn_long": "一种以泪滴状弯曲图案为特征的装饰性纺织品设计。"
     },
     {
       "name": "Plaid",
@@ -2830,9 +2830,9 @@
       "wiki_url": "/wiki_pages/xiangyun",
       "category_path": "Other Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "祥云",
+      "confidence": "A",
+      "tag_cn_long": "中国传统绘画中表示吉祥的云纹图案。"
     },
     {
       "name": "Adversarial noise",
@@ -2840,9 +2840,9 @@
       "wiki_url": "/wiki_pages/adversarial_noise",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "对抗噪声",
+      "confidence": "B",
+      "tag_cn_long": "通过Glaze等程序添加到图像上的噪声，用以干扰AI模型训练。"
     },
     {
       "name": "Aliasing",
@@ -2850,9 +2850,9 @@
       "wiki_url": "/wiki_pages/aliasing",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锯齿",
+      "confidence": "A",
+      "tag_cn_long": "图像中线条出现锯齿状或像素化失真的缺陷。"
     },
     {
       "name": "GIF artifacts",
@@ -2860,9 +2860,9 @@
       "wiki_url": "/wiki_pages/gif_artifacts",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "GIF伪影",
+      "confidence": "A",
+      "tag_cn_long": "由于GIF格式颜色限制（最多256色）导致的图像缺陷，如抖动或色带。"
     },
     {
       "name": "JPEG artifacts",
@@ -2870,9 +2870,9 @@
       "wiki_url": "/wiki_pages/jpeg_artifacts",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "JPEG伪影",
+      "confidence": "A",
+      "tag_cn_long": "JPEG压缩导致的图像块状噪点或蚊子噪声。"
     },
     {
       "name": "Scan artifacts",
@@ -2880,9 +2880,9 @@
       "wiki_url": "/wiki_pages/scan_artifacts",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扫描伪影",
+      "confidence": "A",
+      "tag_cn_long": "由于扫描质量不佳产生的图像缺陷，如装订变色、透页等。"
     },
     {
       "name": "Bleed through",
@@ -2890,9 +2890,9 @@
       "wiki_url": "/wiki_pages/bleed_through",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透页",
+      "confidence": "A",
+      "tag_cn_long": "扫描时墨水从纸张背面透出的现象。"
     },
     {
       "name": "Crease",
@@ -2900,9 +2900,9 @@
       "wiki_url": "/wiki_pages/crease",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "折痕",
+      "confidence": "A",
+      "tag_cn_long": "扫描图像上可见的折叠痕迹。"
     },
     {
       "name": "VHS artifacts",
@@ -2910,9 +2910,9 @@
       "wiki_url": "/wiki_pages/vhs_artifacts",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "VHS伪影",
+      "confidence": "A",
+      "tag_cn_long": "模拟VHS录像带转换产生的图像伪影。"
     },
     {
       "name": "Artistic error",
@@ -2920,9 +2920,9 @@
       "wiki_url": "/wiki_pages/artistic_error",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "艺术失误",
+      "confidence": "A",
+      "tag_cn_long": "艺术家在绘画中出现的错误，如解剖结构、透视等。"
     },
     {
       "name": "Bad reflection",
@@ -2930,9 +2930,9 @@
       "wiki_url": "/wiki_pages/bad_reflection",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "错误反射",
+      "confidence": "A",
+      "tag_cn_long": "镜像或反射面中的影像与实际应该呈现的不一致的绘画错误。"
     },
     {
       "name": "Extra digits",
@@ -2940,9 +2940,9 @@
       "wiki_url": "/wiki_pages/extra_digits",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多指",
+      "confidence": "A",
+      "tag_cn_long": "人物拥有超过五根手指或脚趾，常为绘画错误。"
     },
     {
       "name": "Typo",
@@ -2950,9 +2950,9 @@
       "wiki_url": "/wiki_pages/typo",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拼写错误",
+      "confidence": "A",
+      "tag_cn_long": "文本中的意外拼写错误。"
     },
     {
       "name": "Bad aspect ratio",
@@ -2960,9 +2960,9 @@
       "wiki_url": "/wiki_pages/bad_aspect_ratio",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比例失调",
+      "confidence": "B",
+      "tag_cn_long": "图像长宽比被拉伸或压缩导致变形。"
     },
     {
       "name": "Blurry",
@@ -2970,9 +2970,9 @@
       "wiki_url": "/wiki_pages/blurry",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "模糊",
+      "confidence": "A",
+      "tag_cn_long": "图像部分区域不清晰，作为风格或模仿现实效果。"
     },
     {
       "name": "Censored",
@@ -2980,9 +2980,9 @@
       "wiki_url": "/wiki_pages/censored",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "打码",
+      "confidence": "A",
+      "tag_cn_long": "图像中敏感内容（如性器官、血腥等）被遮挡，通常为了符合审查法规。"
     },
     {
       "name": "Uncensored",
@@ -2990,9 +2990,9 @@
       "wiki_url": "/wiki_pages/uncensored",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无码",
+      "confidence": "A",
+      "tag_cn_long": "图像没有经过打码处理，通常指性器官等未被遮挡。"
     },
     {
       "name": "Decensored",
@@ -3000,9 +3000,9 @@
       "wiki_url": "/wiki_pages/decensored",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "去码",
+      "confidence": "A",
+      "tag_cn_long": "原图被遮挡，后由第三方编辑去除遮挡。"
     },
     {
       "name": "Derivative work",
@@ -3010,9 +3010,9 @@
       "wiki_url": "/wiki_pages/derivative_work",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衍生作品",
+      "confidence": "A",
+      "tag_cn_long": "部分或全部参考已有作品（如照片、姿势、描图等）创作的图像。"
     },
     {
       "name": "Photo-referenced",
@@ -3020,9 +3020,9 @@
       "wiki_url": "/wiki_pages/photo-referenced",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "照片参考",
+      "confidence": "A",
+      "tag_cn_long": "基于照片或视频参考创作的图像，可能包含描图。"
     },
     {
       "name": "Reference photo",
@@ -3030,9 +3030,9 @@
       "wiki_url": "/wiki_pages/reference_photo",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "参考照片",
+      "confidence": "A",
+      "tag_cn_long": "艺术家创作时使用的原始照片，此标签用于照片本身。"
     },
     {
       "name": "Reference work",
@@ -3040,9 +3040,9 @@
       "wiki_url": "/wiki_pages/reference_work",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "参考作品",
+      "confidence": "B",
+      "tag_cn_long": "用于标注被参考的原始作品，具体参见衍生作品。"
     },
     {
       "name": "Screenshot redraw",
@@ -3050,9 +3050,9 @@
       "wiki_url": "/wiki_pages/screenshot_redraw",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "截图重绘",
+      "confidence": "A",
+      "tag_cn_long": "艺术家根据实际截图进行重新绘制。"
     },
     {
       "name": "Duplicate",
@@ -3060,9 +3060,9 @@
       "wiki_url": "/wiki_pages/duplicate",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "重复",
+      "confidence": "A",
+      "tag_cn_long": "与已有帖子相同或质量较差的重复帖子。"
     },
     {
       "name": "Pixel-perfect duplicate",
@@ -3070,9 +3070,9 @@
       "wiki_url": "/wiki_pages/pixel-perfect_duplicate",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "像素级重复",
+      "confidence": "A",
+      "tag_cn_long": "与父帖完全相同的重复帖子，通常是同一图的不同来源。"
     },
     {
       "name": "Image macro",
@@ -3080,9 +3080,9 @@
       "wiki_url": "/wiki_pages/image_macro_%28meme%29",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图片宏",
+      "confidence": "B",
+      "tag_cn_long": "一种带有重复性文字模板的图片，常用于制作迷因。"
     },
     {
       "name": "Lossless-lossy",
@@ -3090,9 +3090,9 @@
       "wiki_url": "/wiki_pages/lossless-lossy",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无损转有损",
+      "confidence": "B",
+      "tag_cn_long": "将原本无损格式（如PNG）的图像转换为有损格式（如JPEG），导致质量下降。"
     },
     {
       "name": "Lossy-lossless",
@@ -3100,9 +3100,9 @@
       "wiki_url": "/wiki_pages/lossy-lossless",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有损转无损",
+      "confidence": "B",
+      "tag_cn_long": "将原本有损格式（如JPEG）的图像转换为无损格式（如PNG），通常保留JPEG伪影。"
     },
     {
       "name": "MD5 mismatch",
@@ -3110,9 +3110,9 @@
       "wiki_url": "/wiki_pages/md5_mismatch",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "MD5不匹配",
+      "confidence": "A",
+      "tag_cn_long": "帖子文件与源文件的MD5哈希值不匹配，可能由于文件被修改或不同版本。"
     },
     {
       "name": "Missing thumbnail",
@@ -3120,9 +3120,9 @@
       "wiki_url": "/wiki_pages/missing_thumbnail",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缺失缩略图",
+      "confidence": "A",
+      "tag_cn_long": "帖子的缩略图文件在服务器上丢失或损坏。"
     },
     {
       "name": "Moire",
@@ -3130,9 +3130,9 @@
       "wiki_url": "/wiki_pages/moire",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摩尔纹",
+      "confidence": "A",
+      "tag_cn_long": "两个网格叠加产生的干涉图案，常见于扫描或重采样。"
     },
     {
       "name": "Anatomical nonsense",
@@ -3140,9 +3140,9 @@
       "wiki_url": "/wiki_pages/anatomical_nonsense",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "解剖学荒谬",
+      "confidence": "B",
+      "tag_cn_long": "故意无视人体结构常识的描绘，通常为了喜剧效果。"
     },
     {
       "name": "Bad anatomy",
@@ -3150,9 +3150,9 @@
       "wiki_url": "/wiki_pages/bad_anatomy",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "人体结构错误",
+      "confidence": "A",
+      "tag_cn_long": "描绘的人体在解剖学上不正确，如比例或部位畸形。"
     },
     {
       "name": "Bad feet",
@@ -3170,9 +3170,9 @@
       "wiki_url": "/wiki_pages/bad_hands",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手部崩坏",
+      "confidence": "A",
+      "tag_cn_long": "画师画的手部比例或结构错误，如过大、过小或手指异常。"
     },
     {
       "name": "Bad proportions",
@@ -3180,9 +3180,9 @@
       "wiki_url": "/wiki_pages/bad_proportions",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比例崩坏",
+      "confidence": "A",
+      "tag_cn_long": "画面中人物身体各部分比例不协调，如头大身小等。"
     },
     {
       "name": "Quality",
@@ -3190,9 +3190,9 @@
       "wiki_url": "/wiki_pages/quality",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "质量崩坏",
+      "confidence": "B",
+      "tag_cn_long": "指商业作品中因预算或制作问题出现的明显且幽默的作画错误。"
     },
     {
       "name": "Ranguage",
@@ -3200,9 +3200,9 @@
       "wiki_url": "/wiki_pages/ranguage",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "外语乱用",
+      "confidence": "C",
+      "tag_cn_long": "非英语国家（尤其是日本）在使用英语等外语时出现的拼写或语法错误。"
     },
     {
       "name": "Resized",
@@ -3210,9 +3210,9 @@
       "wiki_url": "/wiki_pages/resized",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尺寸调整",
+      "confidence": "A",
+      "tag_cn_long": "图像的大小相对于原图被放大或缩小。"
     },
     {
       "name": "Downscaled",
@@ -3220,9 +3220,9 @@
       "wiki_url": "/wiki_pages/downscaled",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缩小",
+      "confidence": "A",
+      "tag_cn_long": "将图像尺寸缩小，通常是为了减小文件大小或适应展示。"
     },
     {
       "name": "Image sample",
@@ -3230,9 +3230,9 @@
       "wiki_url": "/wiki_pages/image_sample",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "样图",
+      "confidence": "B",
+      "tag_cn_long": "网站为了节省带宽而生成的压缩或缩小版本的原图，质量较低。"
     },
     {
       "name": "Upscaled",
@@ -3240,9 +3240,9 @@
       "wiki_url": "/wiki_pages/upscaled",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "放大",
+      "confidence": "A",
+      "tag_cn_long": "将图像尺寸放大，通常会导致画质下降。"
     },
     {
       "name": "Waifu2x",
@@ -3250,9 +3250,9 @@
       "wiki_url": "/wiki_pages/waifu2x",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Waifu2x超分",
+      "confidence": "B",
+      "tag_cn_long": "一种基于深度学习的动漫风格图像放大和降噪算法。"
     },
     {
       "name": "Reversed",
@@ -3260,9 +3260,9 @@
       "wiki_url": "/wiki_pages/reversed",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水平翻转",
+      "confidence": "A",
+      "tag_cn_long": "图像整体左右颠倒，通常是第三方编辑的结果。"
     },
     {
       "name": "Rotated",
@@ -3270,9 +3270,9 @@
       "wiki_url": "/wiki_pages/rotated",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "旋转",
+      "confidence": "A",
+      "tag_cn_long": "图像相对于原图进行了角度旋转。"
     },
     {
       "name": "Solid color thumbnail",
@@ -3280,9 +3280,9 @@
       "wiki_url": "/wiki_pages/solid_color_thumbnail",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纯色缩略图",
+      "confidence": "A",
+      "tag_cn_long": "图像的缩略图仅显示为单一颜色矩形，通常由于动画或透明背景导致。"
     },
     {
       "name": "Third-party edit",
@@ -3290,9 +3290,9 @@
       "wiki_url": "/wiki_pages/third-party_edit",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第三方编辑",
+      "confidence": "A",
+      "tag_cn_long": "由画师以外的人对原图进行了修改，通常违反上传规则。"
     },
     {
       "name": "Detexted",
@@ -3300,9 +3300,9 @@
       "wiki_url": "/wiki_pages/detexted",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "去字",
+      "confidence": "A",
+      "tag_cn_long": "通过图像编辑软件将原图中的文字清除并修复背景。"
     },
     {
       "name": "Hard-translated",
@@ -3310,9 +3310,9 @@
       "wiki_url": "/wiki_pages/hard-translated",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "硬翻译",
+      "confidence": "B",
+      "tag_cn_long": "由第三方将原图中的文字直接替换为另一种语言的翻译，通常出现在漫画或同人志中。"
     },
     {
       "name": "Nude filter",
@@ -3320,9 +3320,9 @@
       "wiki_url": "/wiki_pages/nude_filter",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "裸体滤镜",
+      "confidence": "A",
+      "tag_cn_long": "通过编辑软件去除角色衣物使其裸体的图片，属于违规上传。"
     },
     {
       "name": "Third-party extraction",
@@ -3330,9 +3330,9 @@
       "wiki_url": "/wiki_pages/third-party_extraction",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第三方提取",
+      "confidence": "C",
+      "tag_cn_long": "由第三方从原始图像中提取部分元素（如角色）形成的独立图片。"
     },
     {
       "name": "Unmoving pattern",
@@ -3340,9 +3340,9 @@
       "wiki_url": "/wiki_pages/unmoving_pattern",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "静态图案",
+      "confidence": "B",
+      "tag_cn_long": "衣物上的重复花纹没有顺应身体曲线和褶皱，看起来像贴上去的。"
     },
     {
       "name": "Watermark",
@@ -3350,9 +3350,9 @@
       "wiki_url": "/wiki_pages/watermark",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水印",
+      "confidence": "A",
+      "tag_cn_long": "叠加在图像上的标识信息，通常用于版权保护或防伪。"
     },
     {
       "name": "Third-party watermark",
@@ -3360,9 +3360,9 @@
       "wiki_url": "/wiki_pages/third-party_watermark",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第三方水印",
+      "confidence": "A",
+      "tag_cn_long": "由图片转载网站或图库添加的水印，通常不被允许。"
     },
     {
       "name": "Web address",
@@ -3370,9 +3370,9 @@
       "wiki_url": "/wiki_pages/web_address",
       "category_path": "Flaws",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网址",
+      "confidence": "A",
+      "tag_cn_long": "图片中出现了网址，通常作为水印。"
     },
     {
       "name": "Bromide",
@@ -3380,9 +3380,9 @@
       "wiki_url": "/wiki_pages/bromide",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "写真卡片",
+      "confidence": "B",
+      "tag_cn_long": "日本商业化的明星或角色肖像照片卡片。"
     }
   ],
   "total_tags": 330,

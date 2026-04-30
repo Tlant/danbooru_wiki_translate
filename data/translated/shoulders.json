@@ -78,9 +78,9 @@
       "wiki_url": "/wiki_pages/broad_shoulders",
       "category_path": "Anatomy of shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽肩",
+      "confidence": "A",
+      "tag_cn_long": "肩部非常宽阔，常作为男性化特征。"
     },
     {
       "name": "Nape",
@@ -98,9 +98,9 @@
       "wiki_url": "/wiki_pages/shoulder_blades",
       "category_path": "Anatomy of shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩胛骨",
+      "confidence": "A",
+      "tag_cn_long": "背部可见的三角形扁平骨，即肩胛骨。"
     },
     {
       "name": "Epaulettes",
@@ -118,9 +118,9 @@
       "wiki_url": "/wiki_pages/pauldrons",
       "category_path": "Attire for shoulders/Attire designed for shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩甲",
+      "confidence": "A",
+      "tag_cn_long": "金属制的肩部盔甲，常保护肩部和腋下。"
     },
     {
       "name": "Puffy sleeves",
@@ -128,9 +128,9 @@
       "wiki_url": "/wiki_pages/puffy_sleeves",
       "category_path": "Attire for shoulders/Attire designed for shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泡泡袖",
+      "confidence": "A",
+      "tag_cn_long": "袖管蓬松鼓起的设计，常见于多种服装。"
     },
     {
       "name": "Shoulder pads",
@@ -138,9 +138,9 @@
       "wiki_url": "/wiki_pages/shoulder_pads",
       "category_path": "Attire for shoulders/Attire designed for shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "垫肩",
+      "confidence": "A",
+      "tag_cn_long": "服装肩部的填充物，使肩部显得方正挺括。"
     },
     {
       "name": "Jacket on shoulders",
@@ -148,9 +148,9 @@
       "wiki_url": "/wiki_pages/jacket_on_shoulders",
       "category_path": "Attire for shoulders/Other attire, on shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披肩夹克",
+      "confidence": "B",
+      "tag_cn_long": "夹克搭在肩上而非穿好双臂，常见于装饰或保暖用途。"
     },
     {
       "name": "Shirt on shoulders",
@@ -158,9 +158,9 @@
       "wiki_url": "/wiki_pages/shirt_on_shoulders",
       "category_path": "Attire for shoulders/Other attire, on shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "披肩衬衫",
+      "confidence": "B",
+      "tag_cn_long": "衬衫搭在肩上，不穿好袖子。"
     },
     {
       "name": "Bare shoulders",
@@ -218,9 +218,9 @@
       "wiki_url": "/wiki_pages/off-shoulder_sweater",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "一字领毛衣",
+      "confidence": "A",
+      "tag_cn_long": "领口宽大、自然露肩的毛衣，袖子固定在手臂上。"
     },
     {
       "name": "Off-shoulder jacket",
@@ -228,9 +228,9 @@
       "wiki_url": "/wiki_pages/off-shoulder_jacket",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "一字领夹克",
+      "confidence": "A",
+      "tag_cn_long": "领口宽大、自然露肩的夹克，袖子固定在手臂上。"
     },
     {
       "name": "Off-shoulder coat",
@@ -238,9 +238,9 @@
       "wiki_url": "/wiki_pages/off-shoulder_coat",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "一字领外套",
+      "confidence": "A",
+      "tag_cn_long": "领口宽大、自然露肩的外套，袖子固定在手臂上。"
     },
     {
       "name": "Off-shoulder bikini",
@@ -248,9 +248,9 @@
       "wiki_url": "/wiki_pages/off-shoulder_bikini",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "一字领比基尼",
+      "confidence": "A",
+      "tag_cn_long": "领口宽大、自然露肩的比基尼上衣，袖子固定在手臂上。"
     },
     {
       "name": "Off-shoulder one-piece swimsuit",
@@ -258,9 +258,9 @@
       "wiki_url": "/wiki_pages/off-shoulder_one-piece_swimsuit",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "一字领连体泳衣",
+      "confidence": "A",
+      "tag_cn_long": "领口宽大、自然露肩的连体泳衣，袖子固定在手臂上。"
     },
     {
       "name": "Off-shoulder leotard",
@@ -268,9 +268,9 @@
       "wiki_url": "/wiki_pages/off-shoulder_leotard",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "一字领紧身衣",
+      "confidence": "A",
+      "tag_cn_long": "领口宽大、自然露肩的紧身连体衣，袖子固定在手臂上。"
     },
     {
       "name": "Sleeveless",
@@ -308,9 +308,9 @@
       "wiki_url": "/wiki_pages/sleeveless_sweater",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖毛衣",
+      "confidence": "A",
+      "tag_cn_long": "没有袖子的毛衣，露出双臂。"
     },
     {
       "name": "Sleeveless jacket",
@@ -318,9 +318,9 @@
       "wiki_url": "/wiki_pages/sleeveless_jacket",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖夹克",
+      "confidence": "A",
+      "tag_cn_long": "一种没有袖子的夹克，通常有领子，比背心更防风。"
     },
     {
       "name": "Sleeveless coat",
@@ -328,9 +328,9 @@
       "wiki_url": "/wiki_pages/sleeveless_coat",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖外套",
+      "confidence": "A",
+      "tag_cn_long": "一种没有袖子的外套。"
     },
     {
       "name": "Strapless",
@@ -338,9 +338,9 @@
       "wiki_url": "/wiki_pages/strapless",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无肩带",
+      "confidence": "A",
+      "tag_cn_long": "指没有肩带、领子或袖子的上衣，露出肩膀和颈部。"
     },
     {
       "name": "Tube top",
@@ -358,9 +358,9 @@
       "wiki_url": "/wiki_pages/strapless_shirt",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无肩带衬衫",
+      "confidence": "A",
+      "tag_cn_long": "没有肩带和领子的衬衫，露出肩膀和上胸区域，长度通常覆盖腹部。"
     },
     {
       "name": "Strapless dress",
@@ -388,9 +388,9 @@
       "wiki_url": "/wiki_pages/strapless_bikini",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无肩带比基尼",
+      "confidence": "A",
+      "tag_cn_long": "比基尼上衣没有肩带，像抹胸一样紧贴身体。"
     },
     {
       "name": "Strapless one-piece swimsuit",
@@ -398,9 +398,9 @@
       "wiki_url": "/wiki_pages/strapless_one-piece_swimsuit",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无肩带连体泳衣",
+      "confidence": "A",
+      "tag_cn_long": "没有肩带的连体泳衣，依靠泳衣面料的弹性固定。"
     },
     {
       "name": "Strapless leotard",
@@ -418,9 +418,9 @@
       "wiki_url": "/wiki_pages/single-shoulder_shirt",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单肩衬衫",
+      "confidence": "A",
+      "tag_cn_long": "不对称领口的衬衫，仅覆盖一个肩膀并露出另一个肩膀。"
     },
     {
       "name": "Single-shoulder dress",
@@ -428,9 +428,9 @@
       "wiki_url": "/wiki_pages/single-shoulder_dress",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单肩连衣裙",
+      "confidence": "A",
+      "tag_cn_long": "不对称领口的连衣裙，仅覆盖一个肩膀，露出另一个肩膀和部分上胸。"
     },
     {
       "name": "Single-shoulder sweater",
@@ -438,9 +438,9 @@
       "wiki_url": "/wiki_pages/single-shoulder_sweater",
       "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单肩毛衣",
+      "confidence": "A",
+      "tag_cn_long": "不对称领口的毛衣，露出一个肩膀，通常由单袖或单肩带支撑。"
     },
     {
       "name": "Towel around neck",
@@ -448,9 +448,9 @@
       "wiki_url": "/wiki_pages/towel_around_neck",
       "category_path": "Shoulders with something else/Objects with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛巾挂脖",
+      "confidence": "A",
+      "tag_cn_long": "毛巾围在脖子上。"
     },
     {
       "name": "Weapon over shoulder",
@@ -458,9 +458,9 @@
       "wiki_url": "/wiki_pages/weapon_over_shoulder",
       "category_path": "Shoulders with something else/Objects with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扛武器",
+      "confidence": "A",
+      "tag_cn_long": "武器被扛在肩膀上。"
     },
     {
       "name": "Sword over shoulder",
@@ -468,9 +468,9 @@
       "wiki_url": "/wiki_pages/sword_over_shoulder",
       "category_path": "Shoulders with something else/Objects with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扛剑",
+      "confidence": "A",
+      "tag_cn_long": "剑被扛在肩膀上。"
     },
     {
       "name": "Arm around neck",
@@ -478,9 +478,9 @@
       "wiki_url": "/wiki_pages/arm_around_neck",
       "category_path": "Shoulders with something else/Hands / arms with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手臂搂颈",
+      "confidence": "A",
+      "tag_cn_long": "一个人的手臂环绕另一个人的后颈。"
     },
     {
       "name": "Arm on another's shoulder",
@@ -488,9 +488,9 @@
       "wiki_url": "/wiki_pages/arm_on_another%27s_shoulder",
       "category_path": "Shoulders with something else/Hands / arms with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手臂搭在别人肩上",
+      "confidence": "A",
+      "tag_cn_long": "一个角色的手臂搭在另一个角色的肩膀上。"
     },
     {
       "name": "Hand on another's shoulder",
@@ -498,9 +498,9 @@
       "wiki_url": "/wiki_pages/hand_on_another%27s_shoulder",
       "category_path": "Shoulders with something else/Hands / arms with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手搭在别人肩上",
+      "confidence": "A",
+      "tag_cn_long": "一个角色的手放在另一个角色的肩膀上。"
     },
     {
       "name": "Hand on own shoulder",
@@ -508,9 +508,9 @@
       "wiki_url": "/wiki_pages/hand_on_own_shoulder",
       "category_path": "Shoulders with something else/Hands / arms with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手搭在自己肩上",
+      "confidence": "A",
+      "tag_cn_long": "一个角色的手放在自己的肩膀上。"
     },
     {
       "name": "Hands on own shoulders",
@@ -518,9 +518,9 @@
       "wiki_url": "/wiki_pages/hands_on_own_shoulders",
       "category_path": "Shoulders with something else/Hands / arms with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手搭在自己肩上",
+      "confidence": "A",
+      "tag_cn_long": "角色的双手放在自己的肩膀上。"
     },
     {
       "name": "Hand on another's shoulder",
@@ -528,9 +528,9 @@
       "wiki_url": "/wiki_pages/hand_on_another%27s_shoulder",
       "category_path": "Shoulders with something else/Hands / arms with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手搭在别人肩上",
+      "confidence": "A",
+      "tag_cn_long": "一个角色的手放在另一个角色的肩膀上。"
     },
     {
       "name": "Hands on another's shoulder",
@@ -538,9 +538,9 @@
       "wiki_url": "/wiki_pages/hands_on_another%27s_shoulder",
       "category_path": "Shoulders with something else/Hands / arms with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手搭在别人肩上",
+      "confidence": "A",
+      "tag_cn_long": "角色的双手放在另一个角色的肩膀上。"
     },
     {
       "name": "Hands on another's shoulders",
@@ -548,9 +548,9 @@
       "wiki_url": "/wiki_pages/hands_on_another%27s_shoulders",
       "category_path": "Shoulders with something else/Hands / arms with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手搭肩",
+      "confidence": "A",
+      "tag_cn_long": "双手同时放在他人肩膀上。"
     },
     {
       "name": "Shoulder massage",
@@ -558,9 +558,9 @@
       "wiki_url": "/wiki_pages/shoulder_massage",
       "category_path": "Shoulders with something else/Hands / arms with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩部按摩",
+      "confidence": "A",
+      "tag_cn_long": "对肩膀进行按摩的动作。"
     },
     {
       "name": "Carrying over shoulder",
@@ -568,9 +568,9 @@
       "wiki_url": "/wiki_pages/carrying_over_shoulder",
       "category_path": "Shoulders with something else/People touching shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扛着",
+      "confidence": "A",
+      "tag_cn_long": "将人或物扛在一侧肩膀上。"
     },
     {
       "name": "Fireman's carry",
@@ -578,9 +578,9 @@
       "wiki_url": "/wiki_pages/fireman%27s_carry",
       "category_path": "Shoulders with something else/People touching shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "消防员扛法",
+      "confidence": "A",
+      "tag_cn_long": "将人扛在双肩上，常用于救援或摔跤技巧。"
     },
     {
       "name": "Piggyback",
@@ -588,9 +588,9 @@
       "wiki_url": "/wiki_pages/piggyback",
       "category_path": "Shoulders with something else/People touching shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背人",
+      "confidence": "A",
+      "tag_cn_long": "一种背负姿势，背人者托住被背者的腿，被背者搂住背人者的脖子。"
     },
     {
       "name": "Shoulder carry",
@@ -598,9 +598,9 @@
       "wiki_url": "/wiki_pages/shoulder_carry",
       "category_path": "Shoulders with something else/People touching shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "骑肩",
+      "confidence": "B",
+      "tag_cn_long": "一人骑在另一人肩上，双腿分别放在肩膀两侧。"
     },
     {
       "name": "Standing on shoulder",
@@ -608,9 +608,9 @@
       "wiki_url": "/wiki_pages/standing_on_shoulder",
       "category_path": "Shoulders with something else/People touching shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "站肩",
+      "confidence": "A",
+      "tag_cn_long": "某人站在另一人的单肩上。"
     },
     {
       "name": "Animal on shoulder",
@@ -618,9 +618,9 @@
       "wiki_url": "/wiki_pages/animal_on_shoulder",
       "category_path": "Shoulders with something else/Animals with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩上动物",
+      "confidence": "A",
+      "tag_cn_long": "小动物停留在人物肩膀上的场景。"
     },
     {
       "name": "Bird on shoulder",
@@ -628,9 +628,9 @@
       "wiki_url": "/wiki_pages/bird_on_shoulder",
       "category_path": "Shoulders with something else/Animals with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩上鸟",
+      "confidence": "A",
+      "tag_cn_long": "一只鸟停靠在人物肩膀上。"
     },
     {
       "name": "Cat on shoulder",
@@ -638,9 +638,9 @@
       "wiki_url": "/wiki_pages/cat_on_shoulder",
       "category_path": "Shoulders with something else/Animals with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩上猫",
+      "confidence": "A",
+      "tag_cn_long": "一只猫蹲坐在人物肩膀上。"
     },
     {
       "name": "Creature on shoulder",
@@ -648,9 +648,9 @@
       "wiki_url": "/wiki_pages/creature_on_shoulder",
       "category_path": "Shoulders with something else/Animals with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩上生物",
+      "confidence": "A",
+      "tag_cn_long": "某种生物（如宠物或幻想生物）停留在人物肩膀上。"
     },
     {
       "name": "Dog on shoulder",
@@ -658,9 +658,9 @@
       "wiki_url": "/wiki_pages/dog_on_shoulder",
       "category_path": "Shoulders with something else/Animals with shoulders",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩上狗",
+      "confidence": "A",
+      "tag_cn_long": "一只狗趴在人物肩膀上。"
     },
     {
       "name": "Pokemon on shoulder",
@@ -668,9 +668,9 @@
       "wiki_url": "/wiki_pages/pokemon_on_shoulder",
       "category_path": "Shoulders with something else/Animals with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩上宝可梦",
+      "confidence": "A",
+      "tag_cn_long": "一只宝可梦停留在人物肩膀上。"
     },
     {
       "name": "Rabbit on shoulder",
@@ -678,9 +678,9 @@
       "wiki_url": "/wiki_pages/rabbit_on_shoulder",
       "category_path": "Shoulders with something else/Animals with shoulders",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩上兔",
+      "confidence": "A",
+      "tag_cn_long": "一只兔子待在人物肩膀上。"
     },
     {
       "name": "Hair over shoulder",
@@ -698,9 +698,9 @@
       "wiki_url": "/wiki_pages/over_shoulder",
       "category_path": "Shoulders with something else/Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "过肩",
+      "confidence": "A",
+      "tag_cn_long": "将物品（如武器、包袱）扛在肩膀上携带。"
     },
     {
       "name": "Shoulder bag",
@@ -718,9 +718,9 @@
       "wiki_url": "/wiki_pages/shoulder_phone",
       "category_path": "Shoulders with something else/Misc",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肩膀电话",
+      "confidence": "B",
+      "tag_cn_long": "用肩膀和脸颊夹住电话听筒的姿势。"
     }
   ],
   "total_tags": 65,

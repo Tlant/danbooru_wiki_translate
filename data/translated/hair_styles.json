@@ -30,9 +30,9 @@
       "wiki_url": "/wiki_pages/very_short_hair",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超短发",
+      "confidence": "A",
+      "tag_cn_long": "头发长度在耳朵或下巴附近或更短，包括板寸、小平头等。"
     },
     {
       "name": "short hair",
@@ -40,9 +40,9 @@
       "wiki_url": "/wiki_pages/short_hair",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短发",
+      "confidence": "A",
+      "tag_cn_long": "头发长度到达脖子但未及肩膀。"
     },
     {
       "name": "medium hair",
@@ -50,9 +50,9 @@
       "wiki_url": "/wiki_pages/medium_hair",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中发",
+      "confidence": "A",
+      "tag_cn_long": "头发长度大约齐肩。"
     },
     {
       "name": "long hair",
@@ -60,9 +60,9 @@
       "wiki_url": "/wiki_pages/long_hair",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长发",
+      "confidence": "A",
+      "tag_cn_long": "头发长度超过肩膀，最长到腰部。"
     },
     {
       "name": "very long hair",
@@ -70,9 +70,9 @@
       "wiki_url": "/wiki_pages/very_long_hair",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超长发",
+      "confidence": "A",
+      "tag_cn_long": "头发长度超过腰部，直到脚部。"
     },
     {
       "name": "absurdly long hair",
@@ -80,9 +80,9 @@
       "wiki_url": "/wiki_pages/absurdly_long_hair",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "极长发",
+      "confidence": "A",
+      "tag_cn_long": "头发长度超过角色身高，角色可以站在自己的头发上。"
     },
     {
       "name": "big hair",
@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/big_hair",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓬松发",
+      "confidence": "A",
+      "tag_cn_long": "头发异常浓密或蓬松，体积很大。"
     },
     {
       "name": "bald",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/bald",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "光头",
+      "confidence": "A",
+      "tag_cn_long": "头顶无发，包括全秃或仅两侧有发。"
     },
     {
       "name": "bald female",
@@ -110,9 +110,9 @@
       "wiki_url": "/wiki_pages/bald_female",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "女性光头",
+      "confidence": "A",
+      "tag_cn_long": "光头女性角色。"
     },
     {
       "name": "balding",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/balding",
       "category_path": "Length and volume",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "秃顶",
+      "confidence": "A",
+      "tag_cn_long": "角色头发稀疏，尚未完全秃头。"
     },
     {
       "name": "buzz cut",
@@ -130,9 +130,9 @@
       "wiki_url": "/wiki_pages/buzz_cut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "板寸头",
+      "confidence": "A",
+      "tag_cn_long": "用推子推得很短的短发发型，常见于运动员和军人。"
     },
     {
       "name": "crew cut",
@@ -140,9 +140,9 @@
       "wiki_url": "/wiki_pages/crew_cut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小平头",
+      "confidence": "A",
+      "tag_cn_long": "顶部稍长、两侧和后面剃短的短发发型，常见于军人。"
     },
     {
       "name": "pixie cut",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/pixie_cut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "精灵短发",
+      "confidence": "A",
+      "tag_cn_long": "一种女性超短发发型，长度在下巴附近，顶部有层次，常带碎刘海。"
     },
     {
       "name": "bob cut",
@@ -160,9 +160,9 @@
       "wiki_url": "/wiki_pages/bob_cut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波波头",
+      "confidence": "A",
+      "tag_cn_long": "一种长度在耳朵和下巴之间的短发发型，边缘整齐。"
     },
     {
       "name": "inverted bob",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/inverted_bob",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "倒波波头",
+      "confidence": "B",
+      "tag_cn_long": "一种后部短、前部长的波波头发型。"
     },
     {
       "name": "bob cut",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/bob_cut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波波头",
+      "confidence": "A",
+      "tag_cn_long": "一种长度在耳朵和下巴之间的短发发型，边缘整齐。"
     },
     {
       "name": "bowl cut",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/bowl_cut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锅盖头",
+      "confidence": "A",
+      "tag_cn_long": "一种像倒扣碗一样齐整的短发发型。"
     },
     {
       "name": "undercut",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/undercut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "底削发",
+      "confidence": "B",
+      "tag_cn_long": "一种两侧或后脑剃短、顶部头发留长的发型。"
     },
     {
       "name": "flattop",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/flattop",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "平顶头",
+      "confidence": "A",
+      "tag_cn_long": "一种顶部头发剪成扁平形状的短发发型。"
     },
     {
       "name": "short hair with long locks",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/short_hair_with_long_locks",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短发长绺",
+      "confidence": "B",
+      "tag_cn_long": "一种主体为短发但保留几缕长发的发型。"
     },
     {
       "name": "wolf cut",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/wolf_cut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狼剪",
+      "confidence": "A",
+      "tag_cn_long": "一种顶部头发丰厚、颈部头发打薄的层次感发型。"
     },
     {
       "name": "hime cut",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/hime_cut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "姬发式",
+      "confidence": "A",
+      "tag_cn_long": "一种由长直发、齐刘海和侧鬓组成的经典发型。"
     },
     {
       "name": "jellyfish cut",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/jellyfish_cut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水母头",
+      "confidence": "A",
+      "tag_cn_long": "一种形状像水母的短发发型，顶部圆润、底部如触须般散开。"
     },
     {
       "name": "mullet",
@@ -260,9 +260,9 @@
       "wiki_url": "/wiki_pages/mullet",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鲻鱼头",
+      "confidence": "A",
+      "tag_cn_long": "一种前短后长的发型，前侧和两侧短、背后长。"
     },
     {
       "name": "braided bangs",
@@ -270,9 +270,9 @@
       "wiki_url": "/wiki_pages/braided_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "编发刘海",
+      "confidence": "A",
+      "tag_cn_long": "将前额刘海编成辫子的发型。"
     },
     {
       "name": "front braid",
@@ -280,9 +280,9 @@
       "wiki_url": "/wiki_pages/front_braid",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前辫",
+      "confidence": "B",
+      "tag_cn_long": "一种垂在下巴前方的单根辫子。"
     },
     {
       "name": "side braid",
@@ -290,9 +290,9 @@
       "wiki_url": "/wiki_pages/side_braid",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧辫",
+      "confidence": "A",
+      "tag_cn_long": "一种垂在脸侧的单根辫子。"
     },
     {
       "name": "crown braid",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/crown_braid",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "皇冠辫",
+      "confidence": "A",
+      "tag_cn_long": "一种环绕头部如发箍或皇冠的辫子。"
     },
     {
       "name": "half crown braid",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/half_crown_braid",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半皇冠辫",
+      "confidence": "B",
+      "tag_cn_long": "一种只环绕头部一半的辫子。"
     },
     {
       "name": "braided hair rings",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/braided_hair_rings",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "编发环",
+      "confidence": "B",
+      "tag_cn_long": "将头发编成环形发圈的发型。"
     },
     {
       "name": "single braid",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/single_braid",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单辫",
+      "confidence": "A",
+      "tag_cn_long": "只有一条辫子的发型。"
     },
     {
       "name": "multiple braids",
@@ -340,9 +340,9 @@
       "wiki_url": "/wiki_pages/multiple_braids",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多辫",
+      "confidence": "A",
+      "tag_cn_long": "有两条以上辫子的发型。"
     },
     {
       "name": "twin braids",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/twin_braids",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双辫",
+      "confidence": "A",
+      "tag_cn_long": "两条对称的辫子发型。"
     },
     {
       "name": "low twin braids",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/low_twin_braids",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低双辫",
+      "confidence": "A",
+      "tag_cn_long": "扎在耳朵以下位置的双辫子发型。"
     },
     {
       "name": "tri braids",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/tri_braids",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三股辫",
+      "confidence": "A",
+      "tag_cn_long": "角色将头发编成三根辫子。"
     },
     {
       "name": "quad braids",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/quad_braids",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四股辫",
+      "confidence": "A",
+      "tag_cn_long": "角色将头发编成四根辫子。"
     },
     {
       "name": "rope braid",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/rope_braid",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绳辫",
+      "confidence": "B",
+      "tag_cn_long": "一种像绳子一样螺旋编织的辫子。"
     },
     {
       "name": "cornrows",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/cornrows",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玉米辫",
+      "confidence": "A",
+      "tag_cn_long": "紧贴头皮编成的一排排辫子。"
     },
     {
       "name": "dreadlocks",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/dreadlocks",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脏辫",
+      "confidence": "A",
+      "tag_cn_long": "将头发缠绕成细长辫子的一种发型。"
     },
     {
       "name": "braided dreadlocks",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/braided_dreadlocks",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "编织脏辫",
+      "confidence": "B",
+      "tag_cn_long": "将脏辫进一步编成辫子的造型。"
     },
     {
       "name": "box braids",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/box_braids",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "盒辫",
+      "confidence": "A",
+      "tag_cn_long": "方形截面的辫子发型。"
     },
     {
       "name": "low-braided long hair",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/low-braided_long_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低辫长发",
+      "confidence": "A",
+      "tag_cn_long": "长发在肩部以下位置编成辫子。"
     },
     {
       "name": "half up braid",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/half_up_braid",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半扎辫子",
+      "confidence": "A",
+      "tag_cn_long": "将上半部分头发编成辫子，环绕后脑。"
     },
     {
       "name": "half up half down braid",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/half_up_half_down_braid",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半扎半散辫子",
+      "confidence": "A",
+      "tag_cn_long": "半扎辫子并留出下垂的发尾。"
     },
     {
       "name": "braided bun",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/braided_bun",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "辫子发髻",
+      "confidence": "A",
+      "tag_cn_long": "由辫子盘成的发髻。"
     },
     {
       "name": "bun with braided base",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/bun_with_braided_base",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "辫基发髻",
+      "confidence": "A",
+      "tag_cn_long": "发髻底部缠绕着一圈辫子。"
     },
     {
       "name": "bantu knots",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/bantu_knots",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "班图结",
+      "confidence": "A",
+      "tag_cn_long": "将小束头发扭成结置于头顶的非洲传统发型。"
     },
     {
       "name": "single hair bun",
@@ -500,9 +500,9 @@
       "wiki_url": "/wiki_pages/single_hair_bun",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单发髻",
+      "confidence": "A",
+      "tag_cn_long": "将头发盘成一个圆形发髻。"
     },
     {
       "name": "double bun",
@@ -510,9 +510,9 @@
       "wiki_url": "/wiki_pages/double_bun",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双发髻",
+      "confidence": "A",
+      "tag_cn_long": "将头发盘成两个圆形发髻。"
     },
     {
       "name": "cone hair bun",
@@ -520,9 +520,9 @@
       "wiki_url": "/wiki_pages/cone_hair_bun",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锥形发髻",
+      "confidence": "A",
+      "tag_cn_long": "圆锥形状的发髻。"
     },
     {
       "name": "donut hair bun",
@@ -530,9 +530,9 @@
       "wiki_url": "/wiki_pages/donut_hair_bun",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "甜甜圈发髻",
+      "confidence": "A",
+      "tag_cn_long": "中空圆形如甜甜圈的发髻。"
     },
     {
       "name": "heart hair bun",
@@ -540,9 +540,9 @@
       "wiki_url": "/wiki_pages/heart_hair_bun",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形发髻",
+      "confidence": "A",
+      "tag_cn_long": "心形形状的发髻。"
     },
     {
       "name": "triple bun",
@@ -550,9 +550,9 @@
       "wiki_url": "/wiki_pages/triple_bun",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三发髻",
+      "confidence": "A",
+      "tag_cn_long": "由三个发髻组成的发型。"
     },
     {
       "name": "hair rings",
@@ -560,9 +560,9 @@
       "wiki_url": "/wiki_pages/hair_rings",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发环",
+      "confidence": "A",
+      "tag_cn_long": "环形的发型结构，如飞天髻中的环。"
     },
     {
       "name": "feixianji",
@@ -570,9 +570,9 @@
       "wiki_url": "/wiki_pages/feixianji_%28hairstyle%29",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞仙髻",
+      "confidence": "B",
+      "tag_cn_long": "一种中国古代女性的发型，将头发盘成环形高髻。"
     },
     {
       "name": "katsuyamamage",
@@ -580,9 +580,9 @@
       "wiki_url": "/wiki_pages/katsuyamamage",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胜山髻",
+      "confidence": "B",
+      "tag_cn_long": "一种日本江户时代的发型，马尾从根部扎起盘成环状，悬于头顶上方。"
     },
     {
       "name": "nihongami",
@@ -590,9 +590,9 @@
       "wiki_url": "/wiki_pages/nihongami",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日式发髻",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型的统称，通常表示身份、年龄或婚姻状况。"
     },
     {
       "name": "single hair ring",
@@ -600,9 +600,9 @@
       "wiki_url": "/wiki_pages/single_hair_ring",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单发环",
+      "confidence": "A",
+      "tag_cn_long": "角色在头侧或后方只有一个环形发束。"
     },
     {
       "name": "tri hair rings",
@@ -610,9 +610,9 @@
       "wiki_url": "/wiki_pages/tri_hair_rings",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三发环",
+      "confidence": "A",
+      "tag_cn_long": "角色有三个环形发束。"
     },
     {
       "name": "quad hair rings",
@@ -620,9 +620,9 @@
       "wiki_url": "/wiki_pages/quad_hair_rings",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四发环",
+      "confidence": "A",
+      "tag_cn_long": "角色有四个环形发束。"
     },
     {
       "name": "half updo",
@@ -630,9 +630,9 @@
       "wiki_url": "/wiki_pages/half_updo",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半扎发",
+      "confidence": "A",
+      "tag_cn_long": "将两侧或头顶部分头发扎起，其余头发自然披散的发型。"
     },
     {
       "name": "one side up",
@@ -640,9 +640,9 @@
       "wiki_url": "/wiki_pages/one_side_up",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单侧扎发",
+      "confidence": "A",
+      "tag_cn_long": "只将一侧的部分头发扎起，其余头发自然垂落的发型。"
     },
     {
       "name": "two side up",
@@ -650,9 +650,9 @@
       "wiki_url": "/wiki_pages/two_side_up",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双侧扎发",
+      "confidence": "A",
+      "tag_cn_long": "将两侧部分头发扎起，其余头发自然垂落的发型。"
     },
     {
       "name": "low-tied long hair",
@@ -660,9 +660,9 @@
       "wiki_url": "/wiki_pages/low-tied_long_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低位扎长发",
+      "confidence": "A",
+      "tag_cn_long": "长发的下半部分（靠近发尾）被束起，而非在头部扎马尾。"
     },
     {
       "name": "multi-tied hair",
@@ -670,9 +670,9 @@
       "wiki_url": "/wiki_pages/multi-tied_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多段扎发",
+      "confidence": "A",
+      "tag_cn_long": "马尾、双马尾或侧发等沿长度方向有多处扎结，形似香肠串。"
     },
     {
       "name": "folded ponytail",
@@ -680,9 +680,9 @@
       "wiki_url": "/wiki_pages/folded_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "折叠马尾",
+      "confidence": "A",
+      "tag_cn_long": "马尾向上折叠固定，发尾收在扎结处，形成短束造型。"
     },
     {
       "name": "front ponytail",
@@ -690,9 +690,9 @@
       "wiki_url": "/wiki_pages/front_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颔下马尾",
+      "confidence": "A",
+      "tag_cn_long": "头发绕过下巴在下颌处扎成一束，垂于胸前。"
     },
     {
       "name": "high ponytail",
@@ -700,9 +700,9 @@
       "wiki_url": "/wiki_pages/high_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高马尾",
+      "confidence": "A",
+      "tag_cn_long": "在头部高处（后脑勺上方）扎成的马尾辫。"
     },
     {
       "name": "low ponytail",
@@ -710,9 +710,9 @@
       "wiki_url": "/wiki_pages/low_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低马尾",
+      "confidence": "A",
+      "tag_cn_long": "在头部低处（后颈附近）扎成的马尾辫。"
     },
     {
       "name": "short ponytail",
@@ -720,9 +720,9 @@
       "wiki_url": "/wiki_pages/short_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短马尾",
+      "confidence": "A",
+      "tag_cn_long": "长度较短的马尾辫，通常止于脖颈以上。"
     },
     {
       "name": "side ponytail",
@@ -730,9 +730,9 @@
       "wiki_url": "/wiki_pages/side_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧马尾",
+      "confidence": "A",
+      "tag_cn_long": "在头部一侧扎成的马尾辫而非脑后。"
     },
     {
       "name": "high side ponytail",
@@ -740,9 +740,9 @@
       "wiki_url": "/wiki_pages/high_side_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高侧马尾",
+      "confidence": "A",
+      "tag_cn_long": "在头部一侧的高处扎成的马尾辫。"
     },
     {
       "name": "low side ponytail",
@@ -750,9 +750,9 @@
       "wiki_url": "/wiki_pages/low_side_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低侧马尾",
+      "confidence": "A",
+      "tag_cn_long": "在头部一侧的低处（如耳侧或颈侧）扎成的马尾辫。"
     },
     {
       "name": "short side ponytail",
@@ -760,9 +760,9 @@
       "wiki_url": "/wiki_pages/short_side_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短侧马尾",
+      "confidence": "A",
+      "tag_cn_long": "一侧扎成的短马尾辫。"
     },
     {
       "name": "split ponytail",
@@ -770,9 +770,9 @@
       "wiki_url": "/wiki_pages/split_ponytail",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分叉马尾",
+      "confidence": "A",
+      "tag_cn_long": "马尾辫从根部开始分成两个或多个尾束的发型。"
     },
     {
       "name": "topknot",
@@ -780,9 +780,9 @@
       "wiki_url": "/wiki_pages/topknot",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "顶髻",
+      "confidence": "A",
+      "tag_cn_long": "将部分或全部头发在头顶扎成一小束的发型。"
     },
     {
       "name": "chonmage",
@@ -790,9 +790,9 @@
       "wiki_url": "/wiki_pages/chonmage",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丁髷",
+      "confidence": "A",
+      "tag_cn_long": "日本传统男子发髻，常见于武士和相扑力士，顶部扎成小髻。"
     },
     {
       "name": "sangtu",
@@ -800,9 +800,9 @@
       "wiki_url": "/wiki_pages/sangtu",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双髻",
+      "confidence": "C",
+      "tag_cn_long": "韩国传统发型，将头发扎成两个髻，类似牛角状。"
     },
     {
       "name": "chasenmage",
@@ -810,9 +810,9 @@
       "wiki_url": "/wiki_pages/chasenmage",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "茶筅髻",
+      "confidence": "A",
+      "tag_cn_long": "日本历史发型，顶部形似茶筅的髻。"
     },
     {
       "name": "twintails",
@@ -820,9 +820,9 @@
       "wiki_url": "/wiki_pages/twintails",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双马尾",
+      "confidence": "A",
+      "tag_cn_long": "头发分成两束扎成马尾辫的发型。"
     },
     {
       "name": "low twintails",
@@ -830,9 +830,9 @@
       "wiki_url": "/wiki_pages/low_twintails",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低双马尾",
+      "confidence": "A",
+      "tag_cn_long": "双马尾扎在耳朵或更低位置的发型。"
     },
     {
       "name": "short twintails",
@@ -840,9 +840,9 @@
       "wiki_url": "/wiki_pages/short_twintails",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短双马尾",
+      "confidence": "A",
+      "tag_cn_long": "双马尾的尾束长度不超过肩部的发型。"
     },
     {
       "name": "uneven twintails",
@@ -850,9 +850,9 @@
       "wiki_url": "/wiki_pages/uneven_twintails",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不对称双马尾",
+      "confidence": "A",
+      "tag_cn_long": "两个马尾长度不同的不对称发型。"
     },
     {
       "name": "tri tails",
@@ -860,9 +860,9 @@
       "wiki_url": "/wiki_pages/tri_tails",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三马尾",
+      "confidence": "A",
+      "tag_cn_long": "将头发分成三束扎成的发型，通常包括两侧和后束。"
     },
     {
       "name": "quad tails",
@@ -870,9 +870,9 @@
       "wiki_url": "/wiki_pages/quad_tails",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四马尾",
+      "confidence": "A",
+      "tag_cn_long": "将头发分成四束扎成的发型，通常为四个小辫或马尾。"
     },
     {
       "name": "quin tails",
@@ -880,9 +880,9 @@
       "wiki_url": "/wiki_pages/quin_tails",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "五马尾",
+      "confidence": "A",
+      "tag_cn_long": "将头发分成五束扎成的发型，通常为五个马尾辫。"
     },
     {
       "name": "bow-shaped hair",
@@ -890,9 +890,9 @@
       "wiki_url": "/wiki_pages/bow-shaped_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶结发",
+      "confidence": "A",
+      "tag_cn_long": "将头发扎成蝴蝶结形状的发型。"
     },
     {
       "name": "bow_shimada",
@@ -900,9 +900,9 @@
       "wiki_url": "/wiki_pages/bow_shimada",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蝴蝶结岛田髻",
+      "confidence": "B",
+      "tag_cn_long": "日本传统岛田髻的一种，带有垂直固定的蝴蝶结状发饰。"
     },
     {
       "name": "nihongami",
@@ -910,9 +910,9 @@
       "wiki_url": "/wiki_pages/nihongami",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日式发髻",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型的统称，通常表示身份、年龄或婚姻状况。"
     },
     {
       "name": "shuangyaji",
@@ -920,9 +920,9 @@
       "wiki_url": "/wiki_pages/shuangyaji",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双丫髻",
+      "confidence": "A",
+      "tag_cn_long": "中国传统女性发型，头顶两侧各扎一个小髻，有时编成辫。"
     },
     {
       "name": "danyaji",
@@ -930,9 +930,9 @@
       "wiki_url": "/wiki_pages/danyaji",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单丫髻",
+      "confidence": "B",
+      "tag_cn_long": "中国传统女性发型，头顶一侧扎一个小髻。"
     },
     {
       "name": "four leaf clover hairstyle",
@@ -940,9 +940,9 @@
       "wiki_url": "/wiki_pages/four_leaf_clover_hairstyle",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四叶草发型",
+      "confidence": "B",
+      "tag_cn_long": "将头发扎成四叶草形状的发型。"
     },
     {
       "name": "rabbit hairstyle",
@@ -950,9 +950,9 @@
       "wiki_url": "/wiki_pages/rabbit_hairstyle",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兔耳发型",
+      "confidence": "A",
+      "tag_cn_long": "将头发扎成类似兔子耳朵形状的发型。"
     },
     {
       "name": "flower-shaped hair",
@@ -960,9 +960,9 @@
       "wiki_url": "/wiki_pages/flower-shaped_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花朵发",
+      "confidence": "A",
+      "tag_cn_long": "将头发扎成花朵形状的发型。"
     },
     {
       "name": "fukumage",
@@ -970,9 +970,9 @@
       "wiki_url": "/wiki_pages/fukumage",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福髻",
+      "confidence": "C",
+      "tag_cn_long": "日本传统发型，两侧呈三角形，顶部有宽大的髻，也称ofuku。"
     },
     {
       "name": "nihongami",
@@ -980,9 +980,9 @@
       "wiki_url": "/wiki_pages/nihongami",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日式发髻",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型的统称，通常表示身份、年龄或婚姻状况。"
     },
     {
       "name": "karawamage",
@@ -990,9 +990,9 @@
       "wiki_url": "/wiki_pages/karawamage",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "唐轮髻",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型，头发盘成贝壳状的发髻。"
     },
     {
       "name": "nihongami",
@@ -1000,9 +1000,9 @@
       "wiki_url": "/wiki_pages/nihongami",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日式发髻",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型的统称，通常表示身份、年龄或婚姻状况。"
     },
     {
       "name": "marumage",
@@ -1010,9 +1010,9 @@
       "wiki_url": "/wiki_pages/marumage",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丸髻",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型，已婚女性盘成的圆形发髻。"
     },
     {
       "name": "nihongami",
@@ -1020,9 +1020,9 @@
       "wiki_url": "/wiki_pages/nihongami",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日式发髻",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型的统称，通常表示身份、年龄或婚姻状况。"
     },
     {
       "name": "yuiwata",
@@ -1030,9 +1030,9 @@
       "wiki_url": "/wiki_pages/yuiwata",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "结绵",
+      "confidence": "B",
+      "tag_cn_long": "日本传统发型，未婚女性将头发扎成三个鼓包的发髻。"
     },
     {
       "name": "nihongami",
@@ -1040,9 +1040,9 @@
       "wiki_url": "/wiki_pages/nihongami",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日式发髻",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型的统称，通常表示身份、年龄或婚姻状况。"
     },
     {
       "name": "mizura",
@@ -1050,9 +1050,9 @@
       "wiki_url": "/wiki_pages/mizura",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美豆良",
+      "confidence": "A",
+      "tag_cn_long": "日本古代男性发型，将头发分扎成两束并盘成环状。"
     },
     {
       "name": "nihongami",
@@ -1060,9 +1060,9 @@
       "wiki_url": "/wiki_pages/nihongami",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日式发髻",
+      "confidence": "A",
+      "tag_cn_long": "日本传统发型的统称，通常表示身份、年龄或婚姻状况。"
     },
     {
       "name": "star-shaped hair",
@@ -1070,9 +1070,9 @@
       "wiki_url": "/wiki_pages/star-shaped_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星形发",
+      "confidence": "A",
+      "tag_cn_long": "头发扎成或修剪成星星形状。"
     },
     {
       "name": "afro",
@@ -1080,9 +1080,9 @@
       "wiki_url": "/wiki_pages/afro",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爆炸头",
+      "confidence": "A",
+      "tag_cn_long": "头发蓬松呈圆形，常因爆炸效果产生。"
     },
     {
       "name": "huge afro",
@@ -1090,9 +1090,9 @@
       "wiki_url": "/wiki_pages/huge_afro",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大爆炸头",
+      "confidence": "A",
+      "tag_cn_long": "异常巨大的爆炸头，宽度超过肩膀。"
     },
     {
       "name": "beehive hairdo",
@@ -1100,9 +1100,9 @@
       "wiki_url": "/wiki_pages/beehive_hairdo",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蜂巢发型",
+      "confidence": "A",
+      "tag_cn_long": "头发高高盘起成锥形，类似蜂巢。"
     },
     {
       "name": "crested hair",
@@ -1110,9 +1110,9 @@
       "wiki_url": "/wiki_pages/crested_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冠羽发",
+      "confidence": "B",
+      "tag_cn_long": "头发像鸟冠一样竖起。"
     },
     {
       "name": "liangbatou",
@@ -1120,9 +1120,9 @@
       "wiki_url": "/wiki_pages/liangbatou",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "两把头",
+      "confidence": "A",
+      "tag_cn_long": "清朝满族妇女传统发型，头发用扁方固定成翅膀形状。"
     },
     {
       "name": "pompadour",
@@ -1130,9 +1130,9 @@
       "wiki_url": "/wiki_pages/pompadour",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓬巴杜",
+      "confidence": "A",
+      "tag_cn_long": "前额头发向上梳起成高卷，流行于摇滚乐手等。"
     },
     {
       "name": "quiff",
@@ -1140,9 +1140,9 @@
       "wiki_url": "/wiki_pages/quiff",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奎夫头",
+      "confidence": "B",
+      "tag_cn_long": "头发从额头向上向后梳起，丁丁历险记主人公的发型。"
     },
     {
       "name": "shouten pegasus mix mori",
@@ -1150,9 +1150,9 @@
       "wiki_url": "/wiki_pages/shouten_pegasus_mix_mori",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "升天飞马混搭",
+      "confidence": "C",
+      "tag_cn_long": "源自杂志的夸张蜂巢发型，装饰花朵等。"
     },
     {
       "name": "curly hair",
@@ -1160,9 +1160,9 @@
       "wiki_url": "/wiki_pages/curly_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷发",
+      "confidence": "A",
+      "tag_cn_long": "自然卷曲或烫卷的头发。"
     },
     {
       "name": "flipped hair",
@@ -1170,9 +1170,9 @@
       "wiki_url": "/wiki_pages/flipped_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "外翘发",
+      "confidence": "A",
+      "tag_cn_long": "发尾向外卷翘的发型。"
     },
     {
       "name": "drill hair",
@@ -1180,9 +1180,9 @@
       "wiki_url": "/wiki_pages/drill_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钻头卷发",
+      "confidence": "A",
+      "tag_cn_long": "头发卷成锥形螺旋状的造型。"
     },
     {
       "name": "twin drills",
@@ -1190,9 +1190,9 @@
       "wiki_url": "/wiki_pages/twin_drills",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双钻头",
+      "confidence": "A",
+      "tag_cn_long": "双马尾式的钻头卷发。"
     },
     {
       "name": "tri drills",
@@ -1200,9 +1200,9 @@
       "wiki_url": "/wiki_pages/tri_drills",
       "category_path": "Hairstyles",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三钻头",
+      "confidence": "B",
+      "tag_cn_long": "三个钻头卷发扎在一起的造型。"
     },
     {
       "name": "single drill",
@@ -1210,9 +1210,9 @@
       "wiki_url": "/wiki_pages/single_drill",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单钻头",
+      "confidence": "A",
+      "tag_cn_long": "单个马尾或侧马尾的钻头卷发。"
     },
     {
       "name": "quad drills",
@@ -1220,9 +1220,9 @@
       "wiki_url": "/wiki_pages/quad_drills",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "四钻头",
+      "confidence": "B",
+      "tag_cn_long": "四个钻头卷发分布头上的造型。"
     },
     {
       "name": "hair flaps",
@@ -1230,9 +1230,9 @@
       "wiki_url": "/wiki_pages/hair_flaps",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧发片",
+      "confidence": "A",
+      "tag_cn_long": "头部两侧伸出如耳朵般的片状头发。"
     },
     {
       "name": "messy hair",
@@ -1240,9 +1240,9 @@
       "wiki_url": "/wiki_pages/messy_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乱发",
+      "confidence": "A",
+      "tag_cn_long": "未经梳理或刚睡醒造成的杂乱头发。"
     },
     {
       "name": "pointy hair",
@@ -1250,9 +1250,9 @@
       "wiki_url": "/wiki_pages/pointy_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖角发",
+      "confidence": "B",
+      "tag_cn_long": "头发形成锥形尖角状，通常有两处以上。"
     },
     {
       "name": "ringlets",
@@ -1260,9 +1260,9 @@
       "wiki_url": "/wiki_pages/ringlets",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "螺旋卷发",
+      "confidence": "B",
+      "tag_cn_long": "头发卷成圆柱形管状卷。"
     },
     {
       "name": "spiked hair",
@@ -1270,9 +1270,9 @@
       "wiki_url": "/wiki_pages/spiked_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "刺猬头",
+      "confidence": "A",
+      "tag_cn_long": "头发形成许多尖锐刺状，常见于少年漫画男主角。"
     },
     {
       "name": "straight hair",
@@ -1280,9 +1280,9 @@
       "wiki_url": "/wiki_pages/straight_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "直发",
+      "confidence": "A",
+      "tag_cn_long": "没有卷曲或波浪的笔直头发。"
     },
     {
       "name": "wavy hair",
@@ -1290,9 +1290,9 @@
       "wiki_url": "/wiki_pages/wavy_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波浪发",
+      "confidence": "A",
+      "tag_cn_long": "呈现波浪状弯曲的头发。"
     },
     {
       "name": "fluffy hair",
@@ -1300,9 +1300,9 @@
       "wiki_url": "/wiki_pages/fluffy_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓬松发",
+      "confidence": "A",
+      "tag_cn_long": "看起来柔软蓬松的头发。"
     },
     {
       "name": "arched bangs",
@@ -1310,9 +1310,9 @@
       "wiki_url": "/wiki_pages/arched_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拱形刘海",
+      "confidence": "A",
+      "tag_cn_long": "刘海向上弯曲呈拱形。"
     },
     {
       "name": "asymmetrical bangs",
@@ -1320,9 +1320,9 @@
       "wiki_url": "/wiki_pages/asymmetrical_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不对称刘海",
+      "confidence": "A",
+      "tag_cn_long": "刘海左右不对称，一侧长一侧短或梳到后面。"
     },
     {
       "name": "bangs pinned back",
@@ -1330,9 +1330,9 @@
       "wiki_url": "/wiki_pages/bangs_pinned_back",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "别起的刘海",
+      "confidence": "A",
+      "tag_cn_long": "用发夹或发带将刘海别到后面露出额头。"
     },
     {
       "name": "blunt bangs",
@@ -1340,9 +1340,9 @@
       "wiki_url": "/wiki_pages/blunt_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "齐刘海",
+      "confidence": "A",
+      "tag_cn_long": "刘海剪成整齐的一条直线，覆盖额头。"
     },
     {
       "name": "center-flap bangs",
@@ -1350,9 +1350,9 @@
       "wiki_url": "/wiki_pages/center-flap_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中央片刘海",
+      "confidence": "B",
+      "tag_cn_long": "刘海在太阳穴处剪短或向后梳，额前留下中间一片。"
     },
     {
       "name": "crossed bangs",
@@ -1360,9 +1360,9 @@
       "wiki_url": "/wiki_pages/crossed_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉刘海",
+      "confidence": "A",
+      "tag_cn_long": "刘海发丝在额头前交叉重叠。"
     },
     {
       "name": "wispy bangs",
@@ -1370,9 +1370,9 @@
       "wiki_url": "/wiki_pages/wispy_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "稀疏刘海",
+      "confidence": "B",
+      "tag_cn_long": "刘海发丝间有明显空隙，显得稀疏。"
     },
     {
       "name": "choppy bangs",
@@ -1380,9 +1380,9 @@
       "wiki_url": "/wiki_pages/choppy_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "碎刘海",
+      "confidence": "A",
+      "tag_cn_long": "刘海发丝较细且参差不齐，呈碎状。"
     },
     {
       "name": "diagonal bangs",
@@ -1390,9 +1390,9 @@
       "wiki_url": "/wiki_pages/diagonal_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斜刘海",
+      "confidence": "A",
+      "tag_cn_long": "刘海从一侧到另一侧渐长，呈斜线裁剪。"
     },
     {
       "name": "fanged bangs",
@@ -1400,9 +1400,9 @@
       "wiki_url": "/wiki_pages/fanged_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尖牙刘海",
+      "confidence": "B",
+      "tag_cn_long": "刘海两侧有加长尖细部分，形似獠牙。"
     },
     {
       "name": "short bangs",
@@ -1410,9 +1410,9 @@
       "wiki_url": "/wiki_pages/short_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短刘海",
+      "confidence": "A",
+      "tag_cn_long": "长度在眉毛以上，露出额头的刘海。"
     },
     {
       "name": "long bangs",
@@ -1420,9 +1420,9 @@
       "wiki_url": "/wiki_pages/long_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长刘海",
+      "confidence": "A",
+      "tag_cn_long": "长度超过眼睛，可能遮住眼睛的刘海。"
     },
     {
       "name": "hair between eyes",
@@ -1430,9 +1430,9 @@
       "wiki_url": "/wiki_pages/hair_between_eyes",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼间发",
+      "confidence": "A",
+      "tag_cn_long": "一缕刘海垂在两眼之间，通常来自长刘海。"
     },
     {
       "name": "hair over one eye",
@@ -1440,9 +1440,9 @@
       "wiki_url": "/wiki_pages/hair_over_one_eye",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单眼遮发",
+      "confidence": "A",
+      "tag_cn_long": "头发垂下来遮住其中一只眼睛。"
     },
     {
       "name": "hair over eyes",
@@ -1450,9 +1450,9 @@
       "wiki_url": "/wiki_pages/hair_over_eyes",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头发遮眼",
+      "confidence": "A",
+      "tag_cn_long": "前发（刘海）覆盖住双眼，营造神秘或害羞的形象。"
     },
     {
       "name": "parted bangs",
@@ -1460,9 +1460,9 @@
       "wiki_url": "/wiki_pages/parted_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分刘海",
+      "confidence": "A",
+      "tag_cn_long": "有明显分缝的刘海，可以是中分、偏分等。"
     },
     {
       "name": "double-parted bangs",
@@ -1470,9 +1470,9 @@
       "wiki_url": "/wiki_pages/double-parted_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双分刘海",
+      "confidence": "B",
+      "tag_cn_long": "刘海在左右两侧分别分缝，形成两处分界。"
     },
     {
       "name": "curtained hair",
@@ -1480,9 +1480,9 @@
       "wiki_url": "/wiki_pages/curtained_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "窗帘发",
+      "confidence": "A",
+      "tag_cn_long": "前额头发先上拱再垂下，像窗帘一样向两侧分开，常见于男性角色。"
     },
     {
       "name": "swept bangs",
@@ -1490,9 +1490,9 @@
       "wiki_url": "/wiki_pages/swept_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "偏梳刘海",
+      "confidence": "A",
+      "tag_cn_long": "刘海松散地向一侧梳去，分界不明显。"
     },
     {
       "name": "colored bangs",
@@ -1500,9 +1500,9 @@
       "wiki_url": "/wiki_pages/colored_bangs",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩色刘海",
+      "confidence": "A",
+      "tag_cn_long": "刘海颜色与其他头发不同，常为挑染或全染。"
     },
     {
       "name": "hair intakes",
@@ -1510,9 +1510,9 @@
       "wiki_url": "/wiki_pages/hair_intakes",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发内卷",
+      "confidence": "B",
+      "tag_cn_long": "头部两侧头发向前内卷形成两道弧线，类似双发涡。"
     },
     {
       "name": "single hair intake",
@@ -1520,9 +1520,9 @@
       "wiki_url": "/wiki_pages/single_hair_intake",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单发内卷",
+      "confidence": "B",
+      "tag_cn_long": "只有一侧头发向前内卷形成弧线。"
     },
     {
       "name": "sidelocks",
@@ -1530,9 +1530,9 @@
       "wiki_url": "/wiki_pages/sidelocks",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鬓发",
+      "confidence": "A",
+      "tag_cn_long": "垂在耳朵前方的长束头发。"
     },
     {
       "name": "asymmetrical sidelocks",
@@ -1540,9 +1540,9 @@
       "wiki_url": "/wiki_pages/asymmetrical_sidelocks",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不对称鬓发",
+      "confidence": "A",
+      "tag_cn_long": "两侧鬓发长度或厚度不同。"
     },
     {
       "name": "drill sidelocks",
@@ -1550,9 +1550,9 @@
       "wiki_url": "/wiki_pages/drill_sidelocks",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钻头鬓发",
+      "confidence": "A",
+      "tag_cn_long": "呈螺旋卷曲状的鬓发，类似钻头。"
     },
     {
       "name": "low-tied sidelocks",
@@ -1560,9 +1560,9 @@
       "wiki_url": "/wiki_pages/low-tied_sidelocks",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "低扎鬓发",
+      "confidence": "A",
+      "tag_cn_long": "在鬓发中部或底部扎起的侧发。"
     },
     {
       "name": "sidelocks tied back",
@@ -1570,9 +1570,9 @@
       "wiki_url": "/wiki_pages/sidelocks_tied_back",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "后扎侧发",
+      "confidence": "B",
+      "tag_cn_long": "长鬓发向后扎起连到发髻或马尾，形成U形垂落。"
     },
     {
       "name": "single sidelock",
@@ -1580,9 +1580,9 @@
       "wiki_url": "/wiki_pages/single_sidelock",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单鬓发",
+      "confidence": "A",
+      "tag_cn_long": "仅在耳朵前方有一束侧发。"
     },
     {
       "name": "widow's peak",
@@ -1590,9 +1590,9 @@
       "wiki_url": "/wiki_pages/widow%27s_peak",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美人尖",
+      "confidence": "A",
+      "tag_cn_long": "前额发际线中央呈V形向下的尖角。"
     },
     {
       "name": "ahoge",
@@ -1600,9 +1600,9 @@
       "wiki_url": "/wiki_pages/ahoge",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "呆毛",
+      "confidence": "A",
+      "tag_cn_long": "一根从头顶翘起的单束头发，常具表现力。"
     },
     {
       "name": "heart ahoge",
@@ -1610,9 +1610,9 @@
       "wiki_url": "/wiki_pages/heart_ahoge",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形呆毛",
+      "confidence": "A",
+      "tag_cn_long": "呆毛弯曲成心形，表示开心或恋爱心情。"
     },
     {
       "name": "huge ahoge",
@@ -1620,9 +1620,9 @@
       "wiki_url": "/wiki_pages/huge_ahoge",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巨型呆毛",
+      "confidence": "A",
+      "tag_cn_long": "异常巨大的呆毛，至少与头部一样大或长。"
     },
     {
       "name": "antenna hair",
@@ -1630,9 +1630,9 @@
       "wiki_url": "/wiki_pages/antenna_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天线发",
+      "confidence": "A",
+      "tag_cn_long": "两根或多根细长的头发从头顶翘起，形似天线。"
     },
     {
       "name": "heart antenna hair",
@@ -1640,9 +1640,9 @@
       "wiki_url": "/wiki_pages/heart_antenna_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形天线发",
+      "confidence": "A",
+      "tag_cn_long": "两根天线发相互弯曲形成心形。"
     },
     {
       "name": "comb over",
@@ -1650,9 +1650,9 @@
       "wiki_url": "/wiki_pages/comb_over",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧梳发",
+      "confidence": "B",
+      "tag_cn_long": "将头发从一侧梳向另一侧以覆盖头顶的发型。"
     },
     {
       "name": "hair pulled back",
@@ -1660,9 +1660,9 @@
       "wiki_url": "/wiki_pages/hair_pulled_back",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "后梳发",
+      "confidence": "A",
+      "tag_cn_long": "将头发向后梳理并固定，通常扎成马尾或发髻，露出额头。"
     },
     {
       "name": "hair slicked back",
@@ -1670,9 +1670,9 @@
       "wiki_url": "/wiki_pages/hair_slicked_back",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背头",
+      "confidence": "A",
+      "tag_cn_long": "用发胶等定型产品将头发向后梳理固定，形成光滑服帖的发型。"
     },
     {
       "name": "parted hair",
@@ -1680,9 +1680,9 @@
       "wiki_url": "/wiki_pages/parted_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分缝发",
+      "confidence": "A",
+      "tag_cn_long": "头发有明显的分缝线，通常从头顶分开。"
     },
     {
       "name": "mohawk",
@@ -1690,9 +1690,9 @@
       "wiki_url": "/wiki_pages/mohawk",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莫西干头",
+      "confidence": "A",
+      "tag_cn_long": "两侧剃光，中间留一条长发的发型，也称为莫西干头。"
     },
     {
       "name": "oseledets",
@@ -1700,9 +1700,9 @@
       "wiki_url": "/wiki_pages/oseledets",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥塞莱德茨发型",
+      "confidence": "D",
+      "tag_cn_long": "乌克兰哥萨克传统发型，剃光头发后只在头顶或前额留一绺长发。"
     },
     {
       "name": "lone nape hair",
@@ -1710,9 +1710,9 @@
       "wiki_url": "/wiki_pages/lone_nape_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "后颈发",
+      "confidence": "B",
+      "tag_cn_long": "后颈处突出的一小撮头发，类似呆毛，多见于扎发造型。"
     },
     {
       "name": "hair bikini",
@@ -1720,9 +1720,9 @@
       "wiki_url": "/wiki_pages/hair_bikini",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发制比基尼",
+      "confidence": "B",
+      "tag_cn_long": "用长头发遮挡胸部、臀部或私处，起到类似比基尼的遮挡效果。"
     },
     {
       "name": "convenient hair",
@@ -1730,9 +1730,9 @@
       "wiki_url": "/wiki_pages/convenient_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "便利发",
+      "confidence": "C",
+      "tag_cn_long": "头发恰好遮挡住身体敏感部位，避免暴露的构图。"
     },
     {
       "name": "hair in own mouth",
@@ -1740,9 +1740,9 @@
       "wiki_url": "/wiki_pages/hair_in_own_mouth",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴含发",
+      "confidence": "A",
+      "tag_cn_long": "角色将自己的头发含在嘴里。"
     },
     {
       "name": "hair over breasts",
@@ -1750,9 +1750,9 @@
       "wiki_url": "/wiki_pages/hair_over_breasts",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头发遮乳",
+      "confidence": "A",
+      "tag_cn_long": "女性的头发垂落覆盖在乳房上。"
     },
     {
       "name": "hair over one breast",
@@ -1760,9 +1760,9 @@
       "wiki_url": "/wiki_pages/hair_over_one_breast",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单侧遮乳",
+      "confidence": "A",
+      "tag_cn_long": "女性的头发仅覆盖一侧乳房。"
     },
     {
       "name": "hair over crotch",
@@ -1770,9 +1770,9 @@
       "wiki_url": "/wiki_pages/hair_over_crotch",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮裆发",
+      "confidence": "A",
+      "tag_cn_long": "头发垂落遮挡住裆部区域。"
     },
     {
       "name": "hair over shoulder",
@@ -1780,9 +1780,9 @@
       "wiki_url": "/wiki_pages/hair_over_shoulder",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "搭肩发",
+      "confidence": "B",
+      "tag_cn_long": "头发搭在肩膀上而非垂在背后。"
     },
     {
       "name": "hair scarf",
@@ -1790,9 +1790,9 @@
       "wiki_url": "/wiki_pages/hair_scarf",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发制围巾",
+      "confidence": "B",
+      "tag_cn_long": "将头发绕在脖子上当作围巾使用。"
     },
     {
       "name": "alternate hairstyle",
@@ -1800,9 +1800,9 @@
       "wiki_url": "/wiki_pages/alternate_hairstyle",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "替换发型",
+      "confidence": "A",
+      "tag_cn_long": "角色所展现的与其默认发型不同的发型。"
     },
     {
       "name": "hair down",
@@ -1810,9 +1810,9 @@
       "wiki_url": "/wiki_pages/hair_down",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "散发",
+      "confidence": "A",
+      "tag_cn_long": "角色将原本扎起的头发放下来的发型。"
     },
     {
       "name": "hair up",
@@ -1820,9 +1820,9 @@
       "wiki_url": "/wiki_pages/hair_up",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扎发",
+      "confidence": "A",
+      "tag_cn_long": "角色将原本散着的头发扎起来，如丸子头、马尾等。"
     },
     {
       "name": "asymmetrical hair",
@@ -1830,9 +1830,9 @@
       "wiki_url": "/wiki_pages/asymmetrical_hair",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不对称发",
+      "confidence": "A",
+      "tag_cn_long": "发型两侧不对称，如一侧长一侧短。"
     },
     {
       "name": "sidecut",
@@ -1840,9 +1840,9 @@
       "wiki_url": "/wiki_pages/sidecut",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧剃发",
+      "confidence": "A",
+      "tag_cn_long": "一侧头发剃光或极短，另一侧保留长度的发型。"
     },
     {
       "name": "blunt ends",
@@ -1850,9 +1850,9 @@
       "wiki_url": "/wiki_pages/blunt_ends",
       "category_path": "Hairstyles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "齐发尾",
+      "confidence": "A",
+      "tag_cn_long": "头发末梢被剪成整齐的直线，看起来像平直的带子。"
     }
   ],
   "total_tags": 183,

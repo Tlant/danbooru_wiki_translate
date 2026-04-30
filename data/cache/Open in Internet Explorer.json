@@ -1,0 +1,6 @@
+{
+  "tag": "Open in Internet Explorer",
+  "tag_cn": "IE打开彩蛋",
+  "confidence": "C",
+  "tag_cn_long": "利用旧版IE渲染特性，在选中图片时显示隐藏图像的特殊技巧。"
+}

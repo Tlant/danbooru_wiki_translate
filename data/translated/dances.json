@@ -48,9 +48,9 @@
       "wiki_url": "/wiki_pages/arabesque_%28pose%29",
       "category_path": "Solo dance moves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿拉贝斯克",
+      "confidence": "A",
+      "tag_cn_long": "芭蕾舞中单腿站立，另一腿向后伸直抬起的舞姿。"
     },
     {
       "name": "Body Roll",
@@ -58,9 +58,9 @@
       "wiki_url": "/wiki_pages/body_roll",
       "category_path": "Solo dance moves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "身体波浪",
+      "confidence": "A",
+      "tag_cn_long": "从头部到臀部依次起伏的波浪形舞蹈动作。"
     },
     {
       "name": "Dabbing",
@@ -68,9 +68,9 @@
       "wiki_url": "/wiki_pages/dab_%28dance%29",
       "category_path": "Solo dance moves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "擦药舞",
+      "confidence": "B",
+      "tag_cn_long": "将头埋入弯曲手臂、另一指指向斜上方的嘻哈舞蹈动作。"
     },
     {
       "name": "Flossing",
@@ -78,9 +78,9 @@
       "wiki_url": "/wiki_pages/flossing_%28dance%29",
       "category_path": "Solo dance moves",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牙线舞",
+      "confidence": "B",
+      "tag_cn_long": "左右扭动身体并摆动双臂的舞蹈动作。"
     },
     {
       "name": "Griddy",
@@ -88,9 +88,9 @@
       "wiki_url": "/wiki_pages/griddy_%28dance%29",
       "category_path": "Solo dance moves",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格里迪舞",
+      "confidence": "C",
+      "tag_cn_long": "左右摆动手臂并踩步的庆祝舞蹈。"
     },
     {
       "name": "Moonwalk",
@@ -98,9 +98,9 @@
       "wiki_url": "/wiki_pages/moonwalk",
       "category_path": "Solo dance moves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太空步",
+      "confidence": "A",
+      "tag_cn_long": "向后滑步同时做出向前走视觉效果的动作，源自迈克尔·杰克逊。"
     },
     {
       "name": "Nae Nae",
@@ -108,9 +108,9 @@
       "wiki_url": "/wiki_pages/nae_nae_%28dance%29",
       "category_path": "Solo dance moves",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内内舞",
+      "confidence": "B",
+      "tag_cn_long": "身体侧摆并用手臂画圆的嘻哈舞蹈。"
     },
     {
       "name": "The Monkey",
@@ -118,9 +118,9 @@
       "wiki_url": "/wiki_pages/the_monkey_%28dance%29",
       "category_path": "Solo dance moves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猴子舞",
+      "confidence": "A",
+      "tag_cn_long": "模仿猴子动作的60年代流行舞蹈。"
     },
     {
       "name": "Twerking",
@@ -128,9 +128,9 @@
       "wiki_url": "/wiki_pages/twerking",
       "category_path": "Solo dance moves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "电臀舞",
+      "confidence": "A",
+      "tag_cn_long": "以快速扭动臀部为特征的舞蹈。"
     },
     {
       "name": "Whip",
@@ -138,9 +138,9 @@
       "wiki_url": "/wiki_pages/whip_%28dance%29",
       "category_path": "Solo dance moves",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "甩鞭舞步",
+      "confidence": "B",
+      "tag_cn_long": "一种舞蹈动作，模仿甩鞭子的姿势。"
     },
     {
       "name": "Worm",
@@ -148,9 +148,9 @@
       "wiki_url": "/wiki_pages/worm_%28dance%29",
       "category_path": "Solo dance moves",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "虫子舞",
+      "confidence": "B",
+      "tag_cn_long": "躺在地面上像虫子一样扭动前进的舞蹈。"
     },
     {
       "name": "Dip (dance move)",
@@ -158,9 +158,9 @@
       "wiki_url": "/wiki_pages/dip_%28dance_move%29",
       "category_path": "Duo dance moves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "下腰",
+      "confidence": "A",
+      "tag_cn_long": "双人舞中一方向后仰并由另一方支撑的动作。"
     },
     {
       "name": "Algorithm March",
@@ -168,9 +168,9 @@
       "wiki_url": "/wiki_pages/algorithm_march",
       "category_path": "Group dance moves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "算法进行曲",
+      "confidence": "B",
+      "tag_cn_long": "来自日本节目《毕达哥拉斯开关》的列队行进舞蹈。"
     },
     {
       "name": "Choo Choo Train",
@@ -178,9 +178,9 @@
       "wiki_url": "/wiki_pages/choo_choo_train",
       "category_path": "Group dance moves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火车舞",
+      "confidence": "B",
+      "tag_cn_long": "模仿火车运行的集体舞蹈，源自日本歌曲。"
     },
     {
       "name": "Circle dance",
@@ -188,9 +188,9 @@
       "wiki_url": "/wiki_pages/circle_dance",
       "category_path": "Group dance moves",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆圈舞",
+      "confidence": "A",
+      "tag_cn_long": "多人围成圆圈进行的舞蹈。"
     },
     {
       "name": "Awa Odori Tokushima",
@@ -198,9 +198,9 @@
       "wiki_url": "/wiki_pages/awa_odori_tokushima",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿波舞（德岛）",
+      "confidence": "A",
+      "tag_cn_long": "日本德岛县的传统舞蹈节，以集体舞蹈为特点。"
     },
     {
       "name": "Ballet",
@@ -208,9 +208,9 @@
       "wiki_url": "/wiki_pages/ballet",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芭蕾舞",
+      "confidence": "A",
+      "tag_cn_long": "起源于意大利的表演舞蹈艺术，注重优雅和技巧。"
     },
     {
       "name": "Belly dancing",
@@ -218,9 +218,9 @@
       "wiki_url": "/wiki_pages/belly_dancing",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肚皮舞",
+      "confidence": "A",
+      "tag_cn_long": "起源中东的以腹部扭动为主的舞蹈。"
     },
     {
       "name": "Breakdancing",
@@ -228,9 +228,9 @@
       "wiki_url": "/wiki_pages/breakdance",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "霹雳舞",
+      "confidence": "A",
+      "tag_cn_long": "以地板动作为主的街舞风格。"
     },
     {
       "name": "Cancan",
@@ -238,9 +238,9 @@
       "wiki_url": "/wiki_pages/cancan_dance",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "康康舞",
+      "confidence": "A",
+      "tag_cn_long": "起源于法国的高踢腿舞蹈，通常由女性表演。"
     },
     {
       "name": "Cossack dance",
@@ -248,9 +248,9 @@
       "wiki_url": "/wiki_pages/cossack_dance",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哥萨克舞",
+      "confidence": "A",
+      "tag_cn_long": "源自乌克兰哥萨克的民间舞蹈，以蹲跳和踢腿动作为特征。"
     },
     {
       "name": "Dunhuang dancing",
@@ -258,9 +258,9 @@
       "wiki_url": "/wiki_pages/dunhuang_dance",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敦煌舞",
+      "confidence": "A",
+      "tag_cn_long": "模仿敦煌壁画中飞天和舞女姿态的中国古典舞蹈。"
     },
     {
       "name": "Flamenco",
@@ -268,9 +268,9 @@
       "wiki_url": "/wiki_pages/flamenco",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "弗拉门戈",
+      "confidence": "A",
+      "tag_cn_long": "西班牙安达卢西亚地区的舞蹈，以吉他伴奏、拍手和跺脚为特色。"
     },
     {
       "name": "Folk dancing",
@@ -278,9 +278,9 @@
       "wiki_url": "/wiki_pages/folk_dance",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "民间舞",
+      "confidence": "A",
+      "tag_cn_long": "各民族或地区传统民间舞蹈的统称。"
     },
     {
       "name": "Gato",
@@ -288,9 +288,9 @@
       "wiki_url": "/wiki_pages/gato_dance",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "加托舞",
+      "confidence": "B",
+      "tag_cn_long": "阿根廷高乔人的一种传统民间舞蹈，节奏明快。"
     },
     {
       "name": "Hula",
@@ -298,9 +298,9 @@
       "wiki_url": "/wiki_pages/hula",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草裙舞",
+      "confidence": "A",
+      "tag_cn_long": "夏威夷传统舞蹈，用手势和身体动作演绎歌曲故事。"
     },
     {
       "name": "Lap dance",
@@ -308,9 +308,9 @@
       "wiki_url": "/wiki_pages/lap_dance",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝上舞",
+      "confidence": "A",
+      "tag_cn_long": "表演者在客人膝上或附近进行的挑逗性舞蹈。"
     },
     {
       "name": "Para Para",
@@ -318,9 +318,9 @@
       "wiki_url": "/wiki_pages/para_para",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Para Para",
+      "confidence": "A",
+      "tag_cn_long": "日本舞蹈风格，以手部动作为主，配合Eurobeat音乐。"
     },
     {
       "name": "Pole dancing",
@@ -328,9 +328,9 @@
       "wiki_url": "/wiki_pages/pole_dancing",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "钢管舞",
+      "confidence": "A",
+      "tag_cn_long": "一种利用钢管进行性感舞蹈的表演形式。"
     },
     {
       "name": "Samba",
@@ -338,9 +338,9 @@
       "wiki_url": "/wiki_pages/samba",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "桑巴舞",
+      "confidence": "A",
+      "tag_cn_long": "巴西舞蹈，节奏强烈，服装华丽。"
     },
     {
       "name": "Tango",
@@ -348,9 +348,9 @@
       "wiki_url": "/wiki_pages/tango",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "探戈",
+      "confidence": "A",
+      "tag_cn_long": "源自阿根廷的激情浪漫双人舞蹈，动作紧凑。"
     },
     {
       "name": "Tap dancing",
@@ -358,9 +358,9 @@
       "wiki_url": "/wiki_pages/tap_dance",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "踢踏舞",
+      "confidence": "A",
+      "tag_cn_long": "以鞋底金属片敲击地面发出节奏声的舞蹈。"
     },
     {
       "name": "Taue Odori",
@@ -368,9 +368,9 @@
       "wiki_url": "/wiki_pages/taue_odori",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "田植踊",
+      "confidence": "A",
+      "tag_cn_long": "日本东北地区插秧时表演的民间舞蹈，舞者戴花笠。"
     },
     {
       "name": "Waltz",
@@ -378,9 +378,9 @@
       "wiki_url": "/wiki_pages/waltz_%28dance%29",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "华尔兹",
+      "confidence": "A",
+      "tag_cn_long": "优雅的三拍子双人舞蹈，步伐旋转流畅。"
     },
     {
       "name": "Wotagei",
@@ -388,9 +388,9 @@
       "wiki_url": "/wiki_pages/wotagei",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Wotagei",
+      "confidence": "B",
+      "tag_cn_long": "日本御宅族在演唱会中进行的应援舞蹈，包含呼喊、挥动荧光棒等动作。"
     },
     {
       "name": "Yosakoi",
@@ -398,9 +398,9 @@
       "wiki_url": "/wiki_pages/yosakoi",
       "category_path": "Dance styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夜来舞",
+      "confidence": "A",
+      "tag_cn_long": "日本高知县起源的舞蹈，舞者穿法被或浴衣，手持鸣子。"
     },
     {
       "name": "Dance Robot Dance",
@@ -408,9 +408,9 @@
       "wiki_url": "/wiki_pages/dance_robot_dance_%28vocaloid%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "机器人舞",
+      "confidence": "B",
+      "tag_cn_long": "模仿机器人僵硬、机械化动作的舞蹈。"
     },
     {
       "name": "Easy Breezy",
@@ -418,9 +418,9 @@
       "wiki_url": "/wiki_pages/easy_breezy",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Easy Breezy",
+      "confidence": "B",
+      "tag_cn_long": "动画《别对映像研出手！》片头曲的舞蹈。"
     },
     {
       "name": "Hanamaru Sensation",
@@ -428,9 +428,9 @@
       "wiki_url": "/wiki_pages/hanamaru_sensation",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Hanamaru Sensation",
+      "confidence": "B",
+      "tag_cn_long": "《LoveLive! Sunshine!!》中的歌曲及对应舞蹈。"
     },
     {
       "name": "Hare Hare Yukai",
@@ -438,9 +438,9 @@
       "wiki_url": "/wiki_pages/hare_hare_yukai",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "晴天好心情",
+      "confidence": "A",
+      "tag_cn_long": "《凉宫春日的忧郁》片尾曲的标志性舞蹈。"
     },
     {
       "name": "Hoshino Ruby dance",
@@ -448,9 +448,9 @@
       "wiki_url": "/wiki_pages/hoshino_ruby_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星野露比舞",
+      "confidence": "A",
+      "tag_cn_long": "星野露比在《我推的孩子》第二季OP中表演的循环舞蹈。"
     },
     {
       "name": "Icchae Popotan",
@@ -458,9 +458,9 @@
       "wiki_url": "/wiki_pages/icchae_popotan",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伊恰波波坦舞",
+      "confidence": "C",
+      "tag_cn_long": "来自动画《Popotan》的歌曲，角色喊出“Icchau!!”并跳舞。"
     },
     {
       "name": "Internet Overdose",
@@ -468,9 +468,9 @@
       "wiki_url": "/wiki_pages/internet_overdose",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网络过量舞",
+      "confidence": "B",
+      "tag_cn_long": "游戏《Needy Girl Overdose》主题曲，超绝最可爱天使酱跳的Para Para舞。"
     },
     {
       "name": "Internet Yamero",
@@ -478,9 +478,9 @@
       "wiki_url": "/wiki_pages/internet_yamero",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "网络住手舞",
+      "confidence": "B",
+      "tag_cn_long": "游戏《Needy Girl Overdose》第二主题曲，类似Internet Overdose的舞蹈。"
     },
     {
       "name": "Kill Me dance",
@@ -488,9 +488,9 @@
       "wiki_url": "/wiki_pages/kill_me_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Kill Me舞",
+      "confidence": "A",
+      "tag_cn_long": "《Kill Me Baby》片尾曲中索尼娅和亚丝娜表演的奇怪舞蹈。"
     },
     {
       "name": "LOVE&amp;JOY",
@@ -498,9 +498,9 @@
       "wiki_url": "/wiki_pages/love%26joy",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "LOVE&JOY",
+      "confidence": "C",
+      "tag_cn_long": "特定舞蹈编舞的名称。"
     },
     {
       "name": "Macarena",
@@ -508,9 +508,9 @@
       "wiki_url": "/wiki_pages/macarena_%28dance%29",
       "category_path": "Specific choreographies",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玛卡莲娜舞",
+      "confidence": "A",
+      "tag_cn_long": "源自西班牙歌曲《Macarena》的经典舞蹈。"
     },
     {
       "name": "Mesmerizer",
@@ -518,9 +518,9 @@
       "wiki_url": "/wiki_pages/mesmerizer_%28vocaloid%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷魂者舞",
+      "confidence": "C",
+      "tag_cn_long": "一首歌曲的舞蹈，具体来源不明。"
     },
     {
       "name": "Motteke! Serafuku",
@@ -528,9 +528,9 @@
       "wiki_url": "/wiki_pages/motteke%21_serafuku",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拿去吧！水手服舞",
+      "confidence": "A",
+      "tag_cn_long": "《Lucky Star》片头曲中的舞蹈。"
     },
     {
       "name": "Oddloop",
@@ -538,9 +538,9 @@
       "wiki_url": "/wiki_pages/oddloop",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Oddloop舞",
+      "confidence": "C",
+      "tag_cn_long": "Frederic歌曲《oddloop》音乐视频中的舞蹈。"
     },
     {
       "name": "Roulette Roulette",
@@ -548,9 +548,9 @@
       "wiki_url": "/wiki_pages/roulette_roulette",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "轮盘轮盘舞",
+      "confidence": "B",
+      "tag_cn_long": "《Pani Poni Dash!》第二片头曲中的舞蹈。"
     },
     {
       "name": "Shukusei!! Loli-kami Requiem",
@@ -558,9 +558,9 @@
       "wiki_url": "/wiki_pages/shukusei%21%21_loli-kami_requiem",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肃清！！萝莉神安魂曲舞",
+      "confidence": "A",
+      "tag_cn_long": "时雨羽衣原创歌曲的音乐视频中的舞蹈。"
     },
     {
       "name": "Soran Bushi",
@@ -568,9 +568,9 @@
       "wiki_url": "/wiki_pages/soran_bushi",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "索兰舞",
+      "confidence": "A",
+      "tag_cn_long": "源自日本北海道的传统渔民舞蹈。"
     },
     {
       "name": "Sugar Song and Bitter Step",
@@ -578,9 +578,9 @@
       "wiki_url": "/wiki_pages/sugar_song_and_bitter_step",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "糖歌与苦步舞",
+      "confidence": "B",
+      "tag_cn_long": "《血界战线》第一季片尾曲中的舞蹈。"
     },
     {
       "name": "Turing Love",
@@ -588,9 +588,9 @@
       "wiki_url": "/wiki_pages/turing_love",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "图灵之爱舞",
+      "confidence": "B",
+      "tag_cn_long": "《理科生坠入情网》片尾曲中的舞蹈。"
     },
     {
       "name": "Ugoku Ugoku",
@@ -598,9 +598,9 @@
       "wiki_url": "/wiki_pages/ugoku_ugoku",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动动舞",
+      "confidence": "B",
+      "tag_cn_long": "《少女终末旅行》片头曲中的舞蹈。"
     },
     {
       "name": "Meme",
@@ -608,9 +608,9 @@
       "wiki_url": "/wiki_pages/meme",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迷因舞",
+      "confidence": "C",
+      "tag_cn_long": "泛指作为迷因传播的舞蹈，具体形式多样。"
     },
     {
       "name": "Anglerfish dance",
@@ -618,9 +618,9 @@
       "wiki_url": "/wiki_pages/anglerfish_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "安康鱼舞",
+      "confidence": "A",
+      "tag_cn_long": "《少女与战车》OVA中穿着安康鱼服装表演的舞蹈。"
     },
     {
       "name": "Aris dance",
@@ -628,9 +628,9 @@
       "wiki_url": "/wiki_pages/aris_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱丽丝舞",
+      "confidence": "D",
+      "tag_cn_long": "可能指角色爱丽丝的舞蹈，具体来源不确定，需人工审校。"
     },
     {
       "name": "Basilisk Time",
@@ -638,9 +638,9 @@
       "wiki_url": "/wiki_pages/basilisk_time",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Basilisk Time舞",
+      "confidence": "B",
+      "tag_cn_long": "来自《Basilisk》柏青哥系列的迷因舞蹈。"
     },
     {
       "name": "Brazil Dog dance",
@@ -648,9 +648,9 @@
       "wiki_url": "/wiki_pages/brazil_dog_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴西狗舞",
+      "confidence": "C",
+      "tag_cn_long": "一种源自巴西的舞蹈，模仿狗的动作，但具体舞步不明确。"
     },
     {
       "name": "Buri Hamachi",
@@ -658,9 +658,9 @@
       "wiki_url": "/wiki_pages/buri_hamachi",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "𫚕鱼舞",
+      "confidence": "B",
+      "tag_cn_long": "源自游戏《阿尔托涅利科3》中Saki手持𫚕鱼跳舞的网络迷因。"
     },
     {
       "name": "Caipirinha",
@@ -668,9 +668,9 @@
       "wiki_url": "/wiki_pages/caipirinha_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡伊皮里尼亚舞",
+      "confidence": "B",
+      "tag_cn_long": "一种巴西舞蹈，名称源自同名鸡尾酒。"
     },
     {
       "name": "Caipirinha DearS dance",
@@ -678,9 +678,9 @@
       "wiki_url": "/wiki_pages/caipirinha_dears_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡伊皮里尼亚DearS舞",
+      "confidence": "B",
+      "tag_cn_long": "源自《DearS》角色表演的卡伊皮里尼亚舞版本。"
     },
     {
       "name": "Caramelldansen",
@@ -688,9 +688,9 @@
       "wiki_url": "/wiki_pages/caramelldansen",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "焦糖舞",
+      "confidence": "A",
+      "tag_cn_long": "瑞典歌曲Caramell的加速版舞蹈，常与《波波坦》角色结合，是著名的网络迷因。"
     },
     {
       "name": "Carson Shearer's dance",
@@ -698,9 +698,9 @@
       "wiki_url": "/wiki_pages/carson_shearer%27s_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡森·希勒之舞",
+      "confidence": "C",
+      "tag_cn_long": "可能指名为Carson Shearer的人物表演的舞蹈，具体背景不明确。"
     },
     {
       "name": "Cat Breakdancing",
@@ -708,9 +708,9 @@
       "wiki_url": "/wiki_pages/cat_breakdancing_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫咪霹雳舞",
+      "confidence": "A",
+      "tag_cn_long": "描绘猫咪表演霹雳舞的可爱动作。"
     },
     {
       "name": "Chads Dancing to California Gurls",
@@ -718,9 +718,9 @@
       "wiki_url": "/wiki_pages/chads_dancing_to_california_gurls_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "查德们跳加州女孩舞",
+      "confidence": "C",
+      "tag_cn_long": "一群名为Chad的角色随着歌曲《California Gurls》跳舞的网络迷因。"
     },
     {
       "name": "Chipi Chipi Chapa Chapa",
@@ -728,9 +728,9 @@
       "wiki_url": "/wiki_pages/chipi_chipi_chapa_chapa_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奇皮奇皮查帕查帕",
+      "confidence": "A",
+      "tag_cn_long": "一种伴随重复歌词的轻快舞蹈，常见于网络迷因。"
     },
     {
       "name": "Club Penguin dance",
@@ -738,9 +738,9 @@
       "wiki_url": "/wiki_pages/club_penguin_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "企鹅俱乐部舞",
+      "confidence": "A",
+      "tag_cn_long": "源自游戏《企鹅俱乐部》中角色跳舞的动作。"
     },
     {
       "name": "Dancing Kasukabe Tsumugi",
@@ -748,9 +748,9 @@
       "wiki_url": "/wiki_pages/dancing_kasukabe_tsumugi_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "春日部紬之舞",
+      "confidence": "B",
+      "tag_cn_long": "角色春日部紬表演的舞蹈。"
     },
     {
       "name": "Dancing Pallbearers",
@@ -758,9 +758,9 @@
       "wiki_url": "/wiki_pages/dancing_pallbearers_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "抬棺舞",
+      "confidence": "A",
+      "tag_cn_long": "源自加纳抬棺人跳舞送葬仪式的网络迷因。"
     },
     {
       "name": "Dancing Toothless",
@@ -768,9 +768,9 @@
       "wiki_url": "/wiki_pages/dancing_toothless_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无牙仔跳舞",
+      "confidence": "A",
+      "tag_cn_long": "《驯龙高手》中的龙无牙仔跳舞的可爱动作。"
     },
     {
       "name": "Daten Route",
@@ -778,9 +778,9 @@
       "wiki_url": "/wiki_pages/daten_route",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "达天路线舞",
+      "confidence": "C",
+      "tag_cn_long": "游戏《主播女孩重度依赖》中天使酱换装跳舞的动画舞蹈。"
     },
     {
       "name": "Default Fortnite dance",
@@ -788,9 +788,9 @@
       "wiki_url": "/wiki_pages/default_fortnite_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "堡垒之夜默认舞",
+      "confidence": "A",
+      "tag_cn_long": "游戏《堡垒之夜》中默认的跳舞动作。"
     },
     {
       "name": "Distraction dance",
@@ -798,9 +798,9 @@
       "wiki_url": "/wiki_pages/distraction_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分散注意力舞",
+      "confidence": "A",
+      "tag_cn_long": "Henry Stickmin跳的滑稽舞蹈，用于分散他人注意力。"
     },
     {
       "name": "Donbei dance",
@@ -808,9 +808,9 @@
       "wiki_url": "/wiki_pages/donbei_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "咚兵卫舞",
+      "confidence": "A",
+      "tag_cn_long": "日清咚兵卫方便面广告中的舞蹈，因与《兽娘动物园》联动而流行。"
     },
     {
       "name": "Fukkireta",
@@ -818,9 +818,9 @@
       "wiki_url": "/wiki_pages/fukkireta",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福基雷塔舞",
+      "confidence": "B",
+      "tag_cn_long": "源自NicoNico的舞蹈迷因，角色8头身或重音Teto摇头动作，又称恶作剧功能舞。"
     },
     {
       "name": "Gangnam Style",
@@ -828,9 +828,9 @@
       "wiki_url": "/wiki_pages/gangnam_style",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "江南Style",
+      "confidence": "A",
+      "tag_cn_long": "PSY的歌曲及对应的骑马舞，全球知名的网络迷因。"
     },
     {
       "name": "Get Down",
@@ -838,9 +838,9 @@
       "wiki_url": "/wiki_pages/get_down_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蹲下舞",
+      "confidence": "B",
+      "tag_cn_long": "一种上下蹲起并摆动的舞蹈动作，常用于网络迷因。"
     },
     {
       "name": "Hamster dance",
@@ -848,9 +848,9 @@
       "wiki_url": "/wiki_pages/hamster_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "仓鼠舞",
+      "confidence": "A",
+      "tag_cn_long": "模仿仓鼠的舞蹈动作，源自90年代末的网络迷因。"
     },
     {
       "name": "Helltaker dance",
@@ -858,9 +858,9 @@
       "wiki_url": "/wiki_pages/helltaker_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "地狱舞",
+      "confidence": "B",
+      "tag_cn_long": "模仿游戏《Helltaker》中恶魔角色摇摆臀部的舞蹈。"
     },
     {
       "name": "Kitsune dance",
@@ -868,9 +868,9 @@
       "wiki_url": "/wiki_pages/kitsune_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狐狸舞",
+      "confidence": "A",
+      "tag_cn_long": "日本啦啦队表演的狐狸舞步，配合歌曲《The Fox》。"
     },
     {
       "name": "Koi dance",
@@ -878,9 +878,9 @@
       "wiki_url": "/wiki_pages/koi_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "恋舞",
+      "confidence": "A",
+      "tag_cn_long": "日剧《逃避虽可耻但有用》片尾曲《恋》的舞蹈。"
     },
     {
       "name": "Nyan-nyan dance",
@@ -888,9 +888,9 @@
       "wiki_url": "/wiki_pages/nyan-nyan_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喵喵舞",
+      "confidence": "A",
+      "tag_cn_long": "《超时空要塞F》中兰卡·李表演的喵喵餐厅广告舞蹈。"
     },
     {
       "name": "Maitake dance",
@@ -898,9 +898,9 @@
       "wiki_url": "/wiki_pages/maitake_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "舞茸舞",
+      "confidence": "C",
+      "tag_cn_long": "一种以舞茸（蘑菇）命名的舞蹈动作。"
     },
     {
       "name": "Marcille Breakdance",
@@ -908,9 +908,9 @@
       "wiki_url": "/wiki_pages/marcille_breakdance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马赛尔霹雳舞",
+      "confidence": "B",
+      "tag_cn_long": "角色马赛尔表演的霹雳舞动作。"
     },
     {
       "name": "ME!ME!ME! dance",
@@ -918,9 +918,9 @@
       "wiki_url": "/wiki_pages/me%21me%21me%21_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "ME!ME!ME!舞",
+      "confidence": "A",
+      "tag_cn_long": "日本音乐视频《ME!ME!ME!》中的舞蹈。"
     },
     {
       "name": "Mochi Mochi dance",
@@ -928,9 +928,9 @@
       "wiki_url": "/wiki_pages/mochi_mochi_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "麻糬舞",
+      "confidence": "B",
+      "tag_cn_long": "《宝可梦 朱/紫》中被桃歹郎控制后跳的傻气舞蹈。"
     },
     {
       "name": "Nekonyan dance",
@@ -938,9 +938,9 @@
       "wiki_url": "/wiki_pages/nekonyan_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猫喵舞",
+      "confidence": "B",
+      "tag_cn_long": "一种模仿猫动作的舞蹈。"
     },
     {
       "name": "No One's Around to Help",
@@ -948,9 +948,9 @@
       "wiki_url": "/wiki_pages/no_one%27s_around_to_help_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无人相助舞",
+      "confidence": "C",
+      "tag_cn_long": "一种舞蹈动作，名称意为“无人相助”。"
     },
     {
       "name": "Numa Numa",
@@ -958,9 +958,9 @@
       "wiki_url": "/wiki_pages/numa_numa_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "努马努马舞",
+      "confidence": "A",
+      "tag_cn_long": "源自罗马尼亚歌曲《Dragostea din Tei》的网络舞蹈迷因。"
     },
     {
       "name": "Orange Justice",
@@ -968,9 +968,9 @@
       "wiki_url": "/wiki_pages/orange_justice_%28dance%29",
       "category_path": "Specific choreographies",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色正义舞",
+      "confidence": "A",
+      "tag_cn_long": "《堡垒之夜》中流行的舞蹈，模仿橙色正义挑战。"
     },
     {
       "name": "Paffendorf",
@@ -978,9 +978,9 @@
       "wiki_url": "/wiki_pages/paffendorf",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帕芬多夫舞",
+      "confidence": "B",
+      "tag_cn_long": "源自德国组合Paffendorf的舞蹈动作，双手画圈并上下跳动。"
     },
     {
       "name": "Pen-Pineapple-Apple-Pen",
@@ -988,9 +988,9 @@
       "wiki_url": "/wiki_pages/pen-pineapple-apple-pen",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "PPAP舞",
+      "confidence": "A",
+      "tag_cn_long": "日本搞笑艺人Piko-Tarou的歌曲《Pen-Pineapple-Apple-Pen》中的舞蹈。"
     },
     {
       "name": "Pokedance",
@@ -998,9 +998,9 @@
       "wiki_url": "/wiki_pages/pokedance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宝可梦舞",
+      "confidence": "A",
+      "tag_cn_long": "《宝可梦》系列中角色跳的舞蹈。"
     },
     {
       "name": "Pumpkin dance",
@@ -1008,9 +1008,9 @@
       "wiki_url": "/wiki_pages/pumpkin_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "南瓜舞",
+      "confidence": "B",
+      "tag_cn_long": "一种模仿南瓜的舞蹈，常见于万圣节主题。"
     },
     {
       "name": "Ran Ran Ru",
@@ -1018,9 +1018,9 @@
       "wiki_url": "/wiki_pages/ran_ran_ru",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兰兰鲁舞",
+      "confidence": "B",
+      "tag_cn_long": "日本麦当劳广告中朗纳·麦当劳跳的舞蹈，动作有三步。"
     },
     {
       "name": "Raccoon Dancing in a Circle",
@@ -1028,9 +1028,9 @@
       "wiki_url": "/wiki_pages/raccoon_dancing_in_a_circle_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "转圈浣熊舞",
+      "confidence": "B",
+      "tag_cn_long": "模仿浣熊转圈跳舞的舞蹈动作。"
     },
     {
       "name": "Rin Stripper Dance",
@@ -1038,9 +1038,9 @@
       "wiki_url": "/wiki_pages/rin_stripper_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凛脱衣舞",
+      "confidence": "C",
+      "tag_cn_long": "角色凛表演的脱衣舞风格舞蹈。"
     },
     {
       "name": "Sad Cat dance",
@@ -1048,9 +1048,9 @@
       "wiki_url": "/wiki_pages/sad_cat_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "悲伤猫舞",
+      "confidence": "A",
+      "tag_cn_long": "一种网络迷因舞蹈，动作模仿悲伤的猫。"
     },
     {
       "name": "Shikairo Days dance",
@@ -1058,9 +1058,9 @@
       "wiki_url": "/wiki_pages/shikairo_days_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Shikairo Days舞",
+      "confidence": "B",
+      "tag_cn_long": "源自动画《鬼灭之刃》的舞蹈迷因？实为特定编舞动作。"
     },
     {
       "name": "Shoot dance",
@@ -1068,9 +1068,9 @@
       "wiki_url": "/wiki_pages/shoot_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "射击舞",
+      "confidence": "A",
+      "tag_cn_long": "模仿射击动作的舞蹈。"
     },
     {
       "name": "Soda Shake",
@@ -1078,9 +1078,9 @@
       "wiki_url": "/wiki_pages/soda_shake_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摇苏打舞",
+      "confidence": "A",
+      "tag_cn_long": "摇晃苏打饮料瓶的舞蹈动作。"
     },
     {
       "name": "Spooky dance",
@@ -1088,9 +1088,9 @@
       "wiki_url": "/wiki_pages/spooky_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "惊悚舞",
+      "confidence": "A",
+      "tag_cn_long": "模仿幽灵或惊吓效果的舞蹈。"
     },
     {
       "name": "Toca Toca Toca dance",
@@ -1098,9 +1098,9 @@
       "wiki_url": "/wiki_pages/toca_toca_toca_dance_%28meme%29",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "托卡托卡托卡舞",
+      "confidence": "B",
+      "tag_cn_long": "源自歌曲《Toca Toca》的舞蹈。"
     },
     {
       "name": "Torture dance",
@@ -1108,9 +1108,9 @@
       "wiki_url": "/wiki_pages/torture_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拷问舞",
+      "confidence": "A",
+      "tag_cn_long": "《JOJO的奇妙冒险》第五部中角色表演的舞蹈。"
     },
     {
       "name": "Zui Zui dance",
@@ -1118,9 +1118,9 @@
       "wiki_url": "/wiki_pages/zui_zui_dance",
       "category_path": "Specific choreographies",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Zui Zui舞",
+      "confidence": "A",
+      "tag_cn_long": "出自《舰队Collection》瑞鹤与瑞凤的迷因舞蹈。"
     }
   ],
   "total_tags": 108,

@@ -1,0 +1,6 @@
+{
+  "tag": "holding card",
+  "tag_cn": "手持卡片",
+  "confidence": "A",
+  "tag_cn_long": "角色手中持有一张或多张卡片（如扑克牌、游戏卡等）。"
+}

@@ -30,9 +30,9 @@
       "wiki_url": "/wiki_pages/afghanistan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿富汗",
+      "confidence": "A",
+      "tag_cn_long": "亚洲内陆国家，位于中亚和南亚的交界处。"
     },
     {
       "name": "Algeria",
@@ -40,9 +40,9 @@
       "wiki_url": "/wiki_pages/algeria",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿尔及利亚",
+      "confidence": "A",
+      "tag_cn_long": "北非马格里布地区的国家，非洲面积最大的国家。"
     },
     {
       "name": "Argentina",
@@ -50,9 +50,9 @@
       "wiki_url": "/wiki_pages/argentina",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿根廷",
+      "confidence": "A",
+      "tag_cn_long": "南美洲国家，官方语言为西班牙语，以意大利裔人口为主。"
     },
     {
       "name": "Armenia",
@@ -60,9 +60,9 @@
       "wiki_url": "/wiki_pages/armenia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "亚美尼亚",
+      "confidence": "A",
+      "tag_cn_long": "西亚内陆国，位于亚美尼亚高原。"
     },
     {
       "name": "Australia",
@@ -70,9 +70,9 @@
       "wiki_url": "/wiki_pages/australia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "澳大利亚",
+      "confidence": "A",
+      "tag_cn_long": "大洋洲国家，包括澳大利亚大陆、塔斯马尼亚岛及众多小岛。"
     },
     {
       "name": "Melbourne",
@@ -80,9 +80,9 @@
       "wiki_url": "/wiki_pages/melbourne",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "墨尔本",
+      "confidence": "A",
+      "tag_cn_long": "澳大利亚维多利亚州首府，全国第二大城市。"
     },
     {
       "name": "Sydney",
@@ -90,9 +90,9 @@
       "wiki_url": "/wiki_pages/sydney",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "悉尼",
+      "confidence": "A",
+      "tag_cn_long": "澳大利亚人口最多的城市，新南威尔士州首府，拥有悉尼歌剧院。"
     },
     {
       "name": "Austria",
@@ -100,9 +100,9 @@
       "wiki_url": "/wiki_pages/austria",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥地利",
+      "confidence": "A",
+      "tag_cn_long": "中欧国家，官方语言为德语。"
     },
     {
       "name": "Vienna",
@@ -110,9 +110,9 @@
       "wiki_url": "/wiki_pages/vienna",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "维也纳",
+      "confidence": "A",
+      "tag_cn_long": "奥地利首都，位于多瑙河畔。"
     },
     {
       "name": "Azerbaijan",
@@ -120,9 +120,9 @@
       "wiki_url": "/wiki_pages/azerbaijan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿塞拜疆",
+      "confidence": "A",
+      "tag_cn_long": "西亚外高加索地区国家。"
     },
     {
       "name": "Baku",
@@ -130,9 +130,9 @@
       "wiki_url": "/wiki_pages/baku_%28azerbaijan%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴库",
+      "confidence": "A",
+      "tag_cn_long": "阿塞拜疆首都，里海沿岸城市。"
     },
     {
       "name": "Bahrain",
@@ -140,9 +140,9 @@
       "wiki_url": "/wiki_pages/bahrain",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴林",
+      "confidence": "A",
+      "tag_cn_long": "波斯湾岛国，位于中东。"
     },
     {
       "name": "Bangladesh",
@@ -150,9 +150,9 @@
       "wiki_url": "/wiki_pages/bangladesh",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "孟加拉国",
+      "confidence": "A",
+      "tag_cn_long": "南亚国家，位于孟加拉湾北部。"
     },
     {
       "name": "Belarus",
@@ -160,9 +160,9 @@
       "wiki_url": "/wiki_pages/belarus",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白俄罗斯",
+      "confidence": "A",
+      "tag_cn_long": "东欧内陆国家。"
     },
     {
       "name": "Belgium",
@@ -170,9 +170,9 @@
       "wiki_url": "/wiki_pages/belgium",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比利时",
+      "confidence": "A",
+      "tag_cn_long": "西欧国家，位于荷兰和法国之间。"
     },
     {
       "name": "Bolivia",
@@ -180,9 +180,9 @@
       "wiki_url": "/wiki_pages/bolivia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玻利维亚",
+      "confidence": "A",
+      "tag_cn_long": "南美洲内陆国家。"
     },
     {
       "name": "Bosnia and Herzegovina",
@@ -190,9 +190,9 @@
       "wiki_url": "/wiki_pages/bosnia_and_herzegovina",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波黑",
+      "confidence": "A",
+      "tag_cn_long": "巴尔干半岛国家，前南斯拉夫成员国。"
     },
     {
       "name": "Brazil",
@@ -200,9 +200,9 @@
       "wiki_url": "/wiki_pages/brazil",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴西",
+      "confidence": "A",
+      "tag_cn_long": "南美洲最大国家，官方语言为葡萄牙语，以足球和亚马逊雨林闻名。"
     },
     {
       "name": "Rio de Janeiro",
@@ -210,9 +210,9 @@
       "wiki_url": "/wiki_pages/rio_de_janeiro",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "里约热内卢",
+      "confidence": "A",
+      "tag_cn_long": "巴西第二大城市，以基督像和科帕卡巴纳海滩闻名。"
     },
     {
       "name": "Bulgaria",
@@ -220,9 +220,9 @@
       "wiki_url": "/wiki_pages/bulgaria",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "保加利亚",
+      "confidence": "A",
+      "tag_cn_long": "位于东南欧的斯拉夫国家，西里尔字母的发源地。"
     },
     {
       "name": "Burkina Faso",
@@ -230,9 +230,9 @@
       "wiki_url": "/wiki_pages/burkina_faso",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布基纳法索",
+      "confidence": "A",
+      "tag_cn_long": "位于西非的内陆国家。"
     },
     {
       "name": "Cambodia",
@@ -240,9 +240,9 @@
       "wiki_url": "/wiki_pages/cambodia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "柬埔寨",
+      "confidence": "A",
+      "tag_cn_long": "位于东南亚中南半岛南部的国家。"
     },
     {
       "name": "Cameroon",
@@ -250,9 +250,9 @@
       "wiki_url": "/wiki_pages/cameroon",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喀麦隆",
+      "confidence": "A",
+      "tag_cn_long": "位于西非和中非交界处的国家。"
     },
     {
       "name": "Canada",
@@ -260,9 +260,9 @@
       "wiki_url": "/wiki_pages/canada",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "加拿大",
+      "confidence": "A",
+      "tag_cn_long": "北美洲国家，官方语言为英语和法语，首都渥太华。"
     },
     {
       "name": "Nova Scotia",
@@ -270,9 +270,9 @@
       "wiki_url": "/wiki_pages/nova_scotia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新斯科舍省",
+      "confidence": "A",
+      "tag_cn_long": "加拿大东部的一个省份。"
     },
     {
       "name": "Quebec",
@@ -280,9 +280,9 @@
       "wiki_url": "/wiki_pages/quebec",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "魁北克省",
+      "confidence": "A",
+      "tag_cn_long": "加拿大东部以法语为主的省份。"
     },
     {
       "name": "Toronto",
@@ -290,9 +290,9 @@
       "wiki_url": "/wiki_pages/toronto",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多伦多",
+      "confidence": "A",
+      "tag_cn_long": "加拿大安大略省的首府城市。"
     },
     {
       "name": "Chile",
@@ -300,9 +300,9 @@
       "wiki_url": "/wiki_pages/chile",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "智利",
+      "confidence": "A",
+      "tag_cn_long": "南美洲西部的狭长国家，首都圣地亚哥。"
     },
     {
       "name": "Easter Island",
@@ -310,9 +310,9 @@
       "wiki_url": "/wiki_pages/easter_island",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "复活节岛",
+      "confidence": "A",
+      "tag_cn_long": "智利管辖的太平洋岛屿，以摩艾石像闻名。"
     },
     {
       "name": "China",
@@ -320,9 +320,9 @@
       "wiki_url": "/wiki_pages/china",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中国",
+      "confidence": "A",
+      "tag_cn_long": "中华人民共和国，位于东亚的国家。"
     },
     {
       "name": "Beijing",
@@ -330,9 +330,9 @@
       "wiki_url": "/wiki_pages/beijing",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "北京",
+      "confidence": "A",
+      "tag_cn_long": "中华人民共和国的首都。"
     },
     {
       "name": "Shanghai",
@@ -340,9 +340,9 @@
       "wiki_url": "/wiki_pages/shanghai",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "上海",
+      "confidence": "A",
+      "tag_cn_long": "中国东部沿海的直辖市，世界级大都市。"
     },
     {
       "name": "Hong Kong",
@@ -350,9 +350,9 @@
       "wiki_url": "/wiki_pages/hong_kong",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "香港",
+      "confidence": "A",
+      "tag_cn_long": "中国的特别行政区，前英国殖民地，以密集建筑和霓虹灯闻名。"
     },
     {
       "name": "Macau",
@@ -360,9 +360,9 @@
       "wiki_url": "/wiki_pages/macau",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "澳门",
+      "confidence": "A",
+      "tag_cn_long": "中国的特别行政区，前葡萄牙殖民地，以博彩业闻名。"
     },
     {
       "name": "Shenzhen",
@@ -370,9 +370,9 @@
       "wiki_url": "/wiki_pages/shenzhen",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "深圳",
+      "confidence": "A",
+      "tag_cn_long": "中国广东省的城市，以科技研发著称。"
     },
     {
       "name": "Colombia",
@@ -380,9 +380,9 @@
       "wiki_url": "/wiki_pages/colombia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哥伦比亚",
+      "confidence": "A",
+      "tag_cn_long": "南美洲国家，拥有丰富的文化遗产。"
     },
     {
       "name": "Costa Rica",
@@ -390,9 +390,9 @@
       "wiki_url": "/wiki_pages/costa_rica",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哥斯达黎加",
+      "confidence": "A",
+      "tag_cn_long": "中美洲国家，以稳定的民主和废除军队著称。"
     },
     {
       "name": "Cote d'Ivoire",
@@ -400,9 +400,9 @@
       "wiki_url": "/wiki_pages/cote_d%27ivoire",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科特迪瓦",
+      "confidence": "A",
+      "tag_cn_long": "西非国家，位于非洲西海岸。"
     },
     {
       "name": "Croatia",
@@ -410,9 +410,9 @@
       "wiki_url": "/wiki_pages/croatia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "克罗地亚",
+      "confidence": "A",
+      "tag_cn_long": "位于巴尔干半岛的国家，前南斯拉夫的一部分，首都萨格勒布。"
     },
     {
       "name": "Cuba",
@@ -420,9 +420,9 @@
       "wiki_url": "/wiki_pages/cuba",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "古巴",
+      "confidence": "A",
+      "tag_cn_long": "位于加勒比海的岛国，首都哈瓦那。"
     },
     {
       "name": "Cyprus",
@@ -430,9 +430,9 @@
       "wiki_url": "/wiki_pages/cyprus",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "塞浦路斯",
+      "confidence": "A",
+      "tag_cn_long": "地中海东部的岛国。"
     },
     {
       "name": "Czech Republic",
@@ -440,9 +440,9 @@
       "wiki_url": "/wiki_pages/czech_republic",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捷克共和国",
+      "confidence": "A",
+      "tag_cn_long": "中欧国家，又名捷克。"
     },
     {
       "name": "Prague",
@@ -450,9 +450,9 @@
       "wiki_url": "/wiki_pages/prague",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布拉格",
+      "confidence": "A",
+      "tag_cn_long": "捷克共和国的首都。"
     },
     {
       "name": "Denmark",
@@ -460,9 +460,9 @@
       "wiki_url": "/wiki_pages/denmark",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "丹麦",
+      "confidence": "A",
+      "tag_cn_long": "北欧斯堪的纳维亚国家。"
     },
     {
       "name": "Greenland",
@@ -470,9 +470,9 @@
       "wiki_url": "/wiki_pages/greenland",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格陵兰",
+      "confidence": "A",
+      "tag_cn_long": "丹麦王国的自治领土，位于北美洲。"
     },
     {
       "name": "Dominican Republic",
@@ -480,9 +480,9 @@
       "wiki_url": "/wiki_pages/dominican_republic",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多米尼加共和国",
+      "confidence": "A",
+      "tag_cn_long": "位于加勒比海的岛国，首都圣多明各。"
     },
     {
       "name": "Ecuador",
@@ -490,9 +490,9 @@
       "wiki_url": "/wiki_pages/ecuador",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "厄瓜多尔",
+      "confidence": "A",
+      "tag_cn_long": "南美洲西北部国家，首都基多。"
     },
     {
       "name": "Egypt",
@@ -500,9 +500,9 @@
       "wiki_url": "/wiki_pages/egypt",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "埃及",
+      "confidence": "A",
+      "tag_cn_long": "位于非洲东北部的国家，以古文明闻名。"
     },
     {
       "name": "El Salvador",
@@ -510,9 +510,9 @@
       "wiki_url": "/wiki_pages/el_salvador",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "萨尔瓦多",
+      "confidence": "A",
+      "tag_cn_long": "中美洲国家，首都圣萨尔瓦多。"
     },
     {
       "name": "Estonia",
@@ -520,9 +520,9 @@
       "wiki_url": "/wiki_pages/estonia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱沙尼亚",
+      "confidence": "A",
+      "tag_cn_long": "波罗的海沿岸的北欧国家。"
     },
     {
       "name": "Ethiopia",
@@ -530,9 +530,9 @@
       "wiki_url": "/wiki_pages/ethiopia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "埃塞俄比亚",
+      "confidence": "A",
+      "tag_cn_long": "东非内陆国家，非洲第二人口大国。"
     },
     {
       "name": "Finland",
@@ -540,9 +540,9 @@
       "wiki_url": "/wiki_pages/finland",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芬兰",
+      "confidence": "A",
+      "tag_cn_long": "北欧国家，首都赫尔辛基。"
     },
     {
       "name": "France",
@@ -550,9 +550,9 @@
       "wiki_url": "/wiki_pages/france",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法国",
+      "confidence": "A",
+      "tag_cn_long": "西欧国家，首都巴黎。"
     },
     {
       "name": "Corsica",
@@ -560,9 +560,9 @@
       "wiki_url": "/wiki_pages/corsica",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科西嘉",
+      "confidence": "A",
+      "tag_cn_long": "法国地中海岛屿。"
     },
     {
       "name": "French Guiana",
@@ -570,9 +570,9 @@
       "wiki_url": "/wiki_pages/french_guiana",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法属圭亚那",
+      "confidence": "A",
+      "tag_cn_long": "南美洲的法国海外领地。"
     },
     {
       "name": "Paris",
@@ -580,9 +580,9 @@
       "wiki_url": "/wiki_pages/paris",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴黎",
+      "confidence": "A",
+      "tag_cn_long": "法国首都，以埃菲尔铁塔和凯旋门闻名。"
     },
     {
       "name": "Marseille",
@@ -590,9 +590,9 @@
       "wiki_url": "/wiki_pages/marseille",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马赛",
+      "confidence": "A",
+      "tag_cn_long": "法国第二大城市，位于地中海沿岸。"
     },
     {
       "name": "Georgia",
@@ -600,9 +600,9 @@
       "wiki_url": "/wiki_pages/georgia_%28country%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格鲁吉亚",
+      "confidence": "A",
+      "tag_cn_long": "位于高加索地区的国家。"
     },
     {
       "name": "Germany",
@@ -610,9 +610,9 @@
       "wiki_url": "/wiki_pages/germany",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德国",
+      "confidence": "A",
+      "tag_cn_long": "德国是位于中欧的国家，首都为柏林。"
     },
     {
       "name": "Berlin",
@@ -620,9 +620,9 @@
       "wiki_url": "/wiki_pages/berlin",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "柏林",
+      "confidence": "A",
+      "tag_cn_long": "柏林是德国的首都和最大城市。"
     },
     {
       "name": "Ghana",
@@ -630,9 +630,9 @@
       "wiki_url": "/wiki_pages/ghana",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "加纳",
+      "confidence": "A",
+      "tag_cn_long": "加纳是西非的一个国家，濒临大西洋。"
     },
     {
       "name": "Greece",
@@ -640,9 +640,9 @@
       "wiki_url": "/wiki_pages/greece",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "希腊",
+      "confidence": "A",
+      "tag_cn_long": "希腊是东南欧的一个国家，被认为是西方文明的发源地。"
     },
     {
       "name": "Guatemala",
@@ -650,9 +650,9 @@
       "wiki_url": "/wiki_pages/guatemala",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "危地马拉",
+      "confidence": "A",
+      "tag_cn_long": "危地马拉是中美洲的一个国家。"
     },
     {
       "name": "Guyana",
@@ -660,9 +660,9 @@
       "wiki_url": "/wiki_pages/guyana",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圭亚那",
+      "confidence": "A",
+      "tag_cn_long": "圭亚那是南美洲东北部的一个国家。"
     },
     {
       "name": "Haiti",
@@ -670,9 +670,9 @@
       "wiki_url": "/wiki_pages/haiti",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海地",
+      "confidence": "A",
+      "tag_cn_long": "海地是加勒比海地区的一个国家，位于伊斯帕尼奥拉岛西部。"
     },
     {
       "name": "Honduras",
@@ -680,9 +680,9 @@
       "wiki_url": "/wiki_pages/honduras",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洪都拉斯",
+      "confidence": "A",
+      "tag_cn_long": "洪都拉斯是中美洲的一个国家。"
     },
     {
       "name": "Hungary",
@@ -690,9 +690,9 @@
       "wiki_url": "/wiki_pages/hungary",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "匈牙利",
+      "confidence": "A",
+      "tag_cn_long": "匈牙利是中欧的一个内陆国家。"
     },
     {
       "name": "Iceland",
@@ -700,9 +700,9 @@
       "wiki_url": "/wiki_pages/iceland",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冰岛",
+      "confidence": "A",
+      "tag_cn_long": "冰岛是北大西洋中的一个北欧岛国。"
     },
     {
       "name": "India",
@@ -710,9 +710,9 @@
       "wiki_url": "/wiki_pages/india",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印度",
+      "confidence": "A",
+      "tag_cn_long": "印度是南亚的一个国家，是世界上人口最多的国家之一。"
     },
     {
       "name": "Indonesia",
@@ -720,9 +720,9 @@
       "wiki_url": "/wiki_pages/indonesia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印度尼西亚",
+      "confidence": "A",
+      "tag_cn_long": "印度尼西亚是东南亚的一个群岛国家。"
     },
     {
       "name": "Iran",
@@ -730,9 +730,9 @@
       "wiki_url": "/wiki_pages/iran",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伊朗",
+      "confidence": "A",
+      "tag_cn_long": "伊朗是西亚的一个国家，历史上称为波斯。"
     },
     {
       "name": "Iraq",
@@ -740,9 +740,9 @@
       "wiki_url": "/wiki_pages/iraq",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伊拉克",
+      "confidence": "A",
+      "tag_cn_long": "伊拉克是中东的一个国家，位于两河流域。"
     },
     {
       "name": "Baghdad",
@@ -750,9 +750,9 @@
       "wiki_url": "/wiki_pages/baghdad",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴格达",
+      "confidence": "A",
+      "tag_cn_long": "巴格达是伊拉克的首都和最大城市。"
     },
     {
       "name": "Ireland",
@@ -760,9 +760,9 @@
       "wiki_url": "/wiki_pages/ireland",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱尔兰",
+      "confidence": "A",
+      "tag_cn_long": "爱尔兰是北大西洋中的一个岛国，位于不列颠岛以西。"
     },
     {
       "name": "Dublin",
@@ -770,9 +770,9 @@
       "wiki_url": "/wiki_pages/dublin",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "都柏林",
+      "confidence": "A",
+      "tag_cn_long": "都柏林是爱尔兰的首都和最大城市。"
     },
     {
       "name": "Israel",
@@ -780,9 +780,9 @@
       "wiki_url": "/wiki_pages/israel",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "以色列",
+      "confidence": "A",
+      "tag_cn_long": "以色列是中东的一个国家，位于地中海东岸。"
     },
     {
       "name": "West Jerusalem",
@@ -790,9 +790,9 @@
       "wiki_url": "/wiki_pages/jerusalem",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西耶路撒冷",
+      "confidence": "A",
+      "tag_cn_long": "西耶路撒冷是以色列实际控制的城市区域，为耶路撒冷的一部分。"
     },
     {
       "name": "Italy",
@@ -800,9 +800,9 @@
       "wiki_url": "/wiki_pages/italy",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "意大利",
+      "confidence": "A",
+      "tag_cn_long": "意大利是南欧的一个国家，首都为罗马。"
     },
     {
       "name": "Florence",
@@ -810,9 +810,9 @@
       "wiki_url": "/wiki_pages/florence_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佛罗伦萨",
+      "confidence": "A",
+      "tag_cn_long": "意大利中部托斯卡纳大区的城市，文艺复兴的发源地。"
     },
     {
       "name": "Milan",
@@ -820,9 +820,9 @@
       "wiki_url": "/wiki_pages/milan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "米兰",
+      "confidence": "A",
+      "tag_cn_long": "意大利北部伦巴第大区的城市，时尚与设计之都。"
     },
     {
       "name": "Naples",
@@ -830,9 +830,9 @@
       "wiki_url": "/wiki_pages/naples",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "那不勒斯",
+      "confidence": "A",
+      "tag_cn_long": "意大利南部坎帕尼亚大区的城市，靠近维苏威火山。"
     },
     {
       "name": "Rome",
@@ -840,9 +840,9 @@
       "wiki_url": "/wiki_pages/rome_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗马",
+      "confidence": "A",
+      "tag_cn_long": "意大利首都，拉齐奥大区的城市，古罗马遗址所在地。"
     },
     {
       "name": "Venice",
@@ -850,9 +850,9 @@
       "wiki_url": "/wiki_pages/venice",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "威尼斯",
+      "confidence": "A",
+      "tag_cn_long": "意大利东北部威尼托大区的城市，以运河和贡多拉闻名。"
     },
     {
       "name": "Jamaica",
@@ -860,9 +860,9 @@
       "wiki_url": "/wiki_pages/jamaica",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "牙买加",
+      "confidence": "A",
+      "tag_cn_long": "加勒比海地区的岛国，首都为金斯敦。"
     },
     {
       "name": "Japan",
@@ -870,9 +870,9 @@
       "wiki_url": "/wiki_pages/japan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "日本",
+      "confidence": "A",
+      "tag_cn_long": "东亚岛国，首都东京，拥有丰富的传统文化与现代文化。"
     },
     {
       "name": "Aichi Prefecture",
@@ -880,9 +880,9 @@
       "wiki_url": "/wiki_pages/aichi_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱知县",
+      "confidence": "A",
+      "tag_cn_long": "日本中部地方的一个县，县厅所在地为名古屋市。"
     },
     {
       "name": "Nagoya",
@@ -890,9 +890,9 @@
       "wiki_url": "/wiki_pages/nagoya_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "名古屋",
+      "confidence": "A",
+      "tag_cn_long": "日本爱知县的县厅所在地，中部地方的重要城市。"
     },
     {
       "name": "Tokoname City",
@@ -900,9 +900,9 @@
       "wiki_url": "/wiki_pages/tokoname_city",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "常滑市",
+      "confidence": "A",
+      "tag_cn_long": "日本爱知县的一个城市，以陶瓷和中部国际机场闻名。"
     },
     {
       "name": "Akita Prefecture",
@@ -910,9 +910,9 @@
       "wiki_url": "/wiki_pages/akita_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "秋田县",
+      "confidence": "A",
+      "tag_cn_long": "日本东北地方的一个县，县厅所在地为秋田市。"
     },
     {
       "name": "Aomori Prefecture",
@@ -920,9 +920,9 @@
       "wiki_url": "/wiki_pages/aomori_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "青森县",
+      "confidence": "A",
+      "tag_cn_long": "日本东北地方最北端的县，县厅所在地为青森市。"
     },
     {
       "name": "Chiba Prefecture",
@@ -930,9 +930,9 @@
       "wiki_url": "/wiki_pages/chiba_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "千叶县",
+      "confidence": "A",
+      "tag_cn_long": "日本关东地方的一个县，县厅所在地为千叶市。"
     },
     {
       "name": "Chiba",
@@ -940,9 +940,9 @@
       "wiki_url": "/wiki_pages/chiba_%28city%29",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "千叶市",
+      "confidence": "A",
+      "tag_cn_long": "日本千叶县的县厅所在地，位于东京湾东岸。"
     },
     {
       "name": "Kamogawa",
@@ -950,9 +950,9 @@
       "wiki_url": "/wiki_pages/kamogawa_%28chiba%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸭川市",
+      "confidence": "A",
+      "tag_cn_long": "日本千叶县的一个城市，以鸭川海洋世界和海岸风景闻名。"
     },
     {
       "name": "Matsudo",
@@ -960,9 +960,9 @@
       "wiki_url": "/wiki_pages/matsudo_%28chiba%29",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "松户市",
+      "confidence": "A",
+      "tag_cn_long": "日本千叶县西北部的一个城市，毗邻东京。"
     },
     {
       "name": "Ehime Prefecture",
@@ -970,9 +970,9 @@
       "wiki_url": "/wiki_pages/ehime_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱媛县",
+      "confidence": "A",
+      "tag_cn_long": "日本四国地方的一个县，县厅所在地为松山市。"
     },
     {
       "name": "Matsuyama",
@@ -980,9 +980,9 @@
       "wiki_url": "/wiki_pages/matsuyama_%28ehime%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "松山市",
+      "confidence": "A",
+      "tag_cn_long": "日本爱媛县的县厅所在地，以道后温泉和松山城闻名。"
     },
     {
       "name": "Fukui Prefecture",
@@ -990,9 +990,9 @@
       "wiki_url": "/wiki_pages/fukui_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福井县",
+      "confidence": "A",
+      "tag_cn_long": "日本中部地方的一个县，县厅所在地为福井市。"
     },
     {
       "name": "Fukuoka Prefecture",
@@ -1000,9 +1000,9 @@
       "wiki_url": "/wiki_pages/fukuoka_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福冈县",
+      "confidence": "A",
+      "tag_cn_long": "日本九州地方的一个县，县厅所在地为福冈市。"
     },
     {
       "name": "Fukuoka",
@@ -1010,9 +1010,9 @@
       "wiki_url": "/wiki_pages/fukuoka_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福冈市",
+      "confidence": "A",
+      "tag_cn_long": "日本福冈县的主要城市，位于九州北部。"
     },
     {
       "name": "Fukushima Prefecture",
@@ -1020,9 +1020,9 @@
       "wiki_url": "/wiki_pages/fukushima_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福岛县",
+      "confidence": "A",
+      "tag_cn_long": "日本东北地方的县，因福岛第一核电站事故而闻名。"
     },
     {
       "name": "Gifu Prefecture",
@@ -1030,9 +1030,9 @@
       "wiki_url": "/wiki_pages/gifu_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "岐阜县",
+      "confidence": "A",
+      "tag_cn_long": "日本中部地方的县，位于本州岛中部。"
     },
     {
       "name": "Gunma Prefecture",
@@ -1040,9 +1040,9 @@
       "wiki_url": "/wiki_pages/gunma_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "群马县",
+      "confidence": "A",
+      "tag_cn_long": "日本关东地方的内陆县。"
     },
     {
       "name": "Hiroshima Prefecture",
@@ -1050,9 +1050,9 @@
       "wiki_url": "/wiki_pages/hiroshima_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "广岛县",
+      "confidence": "A",
+      "tag_cn_long": "日本中国地方的县，面向濑户内海。"
     },
     {
       "name": "Hiroshima",
@@ -1060,9 +1060,9 @@
       "wiki_url": "/wiki_pages/hiroshima",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "广岛市",
+      "confidence": "A",
+      "tag_cn_long": "日本广岛县的主要城市，1945年成为世界上第一个原子弹爆炸地。"
     },
     {
       "name": "Kure",
@@ -1070,9 +1070,9 @@
       "wiki_url": "/wiki_pages/kure_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吴市",
+      "confidence": "A",
+      "tag_cn_long": "日本广岛县的城市，历史上是重要军港。"
     },
     {
       "name": "Onomichi",
@@ -1080,9 +1080,9 @@
       "wiki_url": "/wiki_pages/onomichi_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尾道市",
+      "confidence": "A",
+      "tag_cn_long": "日本广岛县的城市，位于尾道湾，以坡道和寺庙闻名。"
     },
     {
       "name": "Takehara",
@@ -1090,9 +1090,9 @@
       "wiki_url": "/wiki_pages/takehara_%28hiroshima%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竹原市",
+      "confidence": "A",
+      "tag_cn_long": "日本广岛县的城市，以保存完好的古街道著称。"
     },
     {
       "name": "Hokkaido",
@@ -1100,9 +1100,9 @@
       "wiki_url": "/wiki_pages/hokkaido",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "北海道",
+      "confidence": "A",
+      "tag_cn_long": "日本最北端的岛屿和一级行政区，面积最大的地方。"
     },
     {
       "name": "Hakodate",
@@ -1110,9 +1110,9 @@
       "wiki_url": "/wiki_pages/hakodate_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "函馆市",
+      "confidence": "A",
+      "tag_cn_long": "日本北海道南部的港口城市，以函馆山夜景闻名。"
     },
     {
       "name": "Otaru",
@@ -1120,9 +1120,9 @@
       "wiki_url": "/wiki_pages/otaru_%28hokkaido%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小樽市",
+      "confidence": "A",
+      "tag_cn_long": "日本北海道西部的港口城市，以运河和玻璃工艺闻名。"
     },
     {
       "name": "Sapporo",
@@ -1130,9 +1130,9 @@
       "wiki_url": "/wiki_pages/sapporo_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "札幌市",
+      "confidence": "A",
+      "tag_cn_long": "日本北海道首府，最大的城市，以雪祭和拉面闻名。"
     },
     {
       "name": "Wakkanai",
@@ -1140,9 +1140,9 @@
       "wiki_url": "/wiki_pages/wakkanai",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "稚内市",
+      "confidence": "A",
+      "tag_cn_long": "日本北海道最北端的城市，宗谷支厅所在地。"
     },
     {
       "name": "Hyogo Prefecture",
@@ -1150,9 +1150,9 @@
       "wiki_url": "/wiki_pages/hyogo_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "兵库县",
+      "confidence": "A",
+      "tag_cn_long": "日本近畿地方的县，首府是神户市。"
     },
     {
       "name": "Kobe",
@@ -1160,9 +1160,9 @@
       "wiki_url": "/wiki_pages/kobe",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "神户市",
+      "confidence": "A",
+      "tag_cn_long": "日本兵库县首府，重要港口城市，以神户牛肉闻名。"
     },
     {
       "name": "Ibaraki Prefecture",
@@ -1170,9 +1170,9 @@
       "wiki_url": "/wiki_pages/ibaraki_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "茨城县",
+      "confidence": "A",
+      "tag_cn_long": "日本关东地方的县，位于东京东北部。"
     },
     {
       "name": "Ooarai",
@@ -1180,9 +1180,9 @@
       "wiki_url": "/wiki_pages/ooarai_%28ibaraki%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大洗町",
+      "confidence": "A",
+      "tag_cn_long": "日本茨城县的一个町，以海洋和动画《少女与战车》的舞台而知名。"
     },
     {
       "name": "Ishikawa Prefecture",
@@ -1190,9 +1190,9 @@
       "wiki_url": "/wiki_pages/ishikawa_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "石川县",
+      "confidence": "A",
+      "tag_cn_long": "日本中部地方的县，位于北陆地区。"
     },
     {
       "name": "Kanazawa",
@@ -1200,9 +1200,9 @@
       "wiki_url": "/wiki_pages/kanazawa_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金泽市",
+      "confidence": "A",
+      "tag_cn_long": "日本石川县首府，以古街、兼六园和金箔工艺闻名。"
     },
     {
       "name": "Iwate Prefecture",
@@ -1210,9 +1210,9 @@
       "wiki_url": "/wiki_pages/iwate_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "岩手县",
+      "confidence": "A",
+      "tag_cn_long": "日本东北地区的一个县。"
     },
     {
       "name": "Morioka",
@@ -1220,9 +1220,9 @@
       "wiki_url": "/wiki_pages/morioka",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "盛冈",
+      "confidence": "A",
+      "tag_cn_long": "日本岩手县的首府城市。"
     },
     {
       "name": "Kagawa Prefecture",
@@ -1230,9 +1230,9 @@
       "wiki_url": "/wiki_pages/kagawa_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "香川县",
+      "confidence": "A",
+      "tag_cn_long": "日本四国地区的一个县。"
     },
     {
       "name": "Kagoshima Prefecture",
@@ -1240,9 +1240,9 @@
       "wiki_url": "/wiki_pages/kagoshima_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鹿儿岛县",
+      "confidence": "A",
+      "tag_cn_long": "日本九州地区的一个县。"
     },
     {
       "name": "Kanagawa",
@@ -1250,9 +1250,9 @@
       "wiki_url": "/wiki_pages/kanagawa",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "神奈川县",
+      "confidence": "A",
+      "tag_cn_long": "日本关东地区的一个县，属于东京都市圈。"
     },
     {
       "name": "Fujisawa",
@@ -1260,9 +1260,9 @@
       "wiki_url": "/wiki_pages/fujisawa_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "藤泽",
+      "confidence": "A",
+      "tag_cn_long": "日本神奈川县的一个城市。"
     },
     {
       "name": "Kamakura",
@@ -1270,9 +1270,9 @@
       "wiki_url": "/wiki_pages/kamakura_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "镰仓",
+      "confidence": "A",
+      "tag_cn_long": "日本神奈川县的一个城市，以历史古迹闻名。"
     },
     {
       "name": "Kawasaki",
@@ -1280,9 +1280,9 @@
       "wiki_url": "/wiki_pages/kawasaki_%28kanagawa%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "川崎",
+      "confidence": "A",
+      "tag_cn_long": "日本摩托车和重工制造商。"
     },
     {
       "name": "Yokohama",
@@ -1290,9 +1290,9 @@
       "wiki_url": "/wiki_pages/yokohama",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "横滨",
+      "confidence": "A",
+      "tag_cn_long": "日本神奈川县的首府，大型港口城市。"
     },
     {
       "name": "Yokosuka",
@@ -1300,9 +1300,9 @@
       "wiki_url": "/wiki_pages/yokosuka",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "横须贺",
+      "confidence": "A",
+      "tag_cn_long": "日本神奈川县的一个城市，以海军基地闻名。"
     },
     {
       "name": "Kochi Prefecture",
@@ -1310,9 +1310,9 @@
       "wiki_url": "/wiki_pages/kochi_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高知县",
+      "confidence": "A",
+      "tag_cn_long": "日本四国地区的一个县。"
     },
     {
       "name": "Kumamoto Prefecture",
@@ -1320,9 +1320,9 @@
       "wiki_url": "/wiki_pages/kumamoto_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊本县",
+      "confidence": "A",
+      "tag_cn_long": "日本九州地区的一个县。"
     },
     {
       "name": "Kyoto Prefecture",
@@ -1330,9 +1330,9 @@
       "wiki_url": "/wiki_pages/kyoto_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "京都府",
+      "confidence": "A",
+      "tag_cn_long": "日本近畿地区的一个府，首府京都市。"
     },
     {
       "name": "Kyoto",
@@ -1340,9 +1340,9 @@
       "wiki_url": "/wiki_pages/kyoto",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "京都市",
+      "confidence": "A",
+      "tag_cn_long": "日本京都府的首府，历史悠久的古都。"
     },
     {
       "name": "Maizuru",
@@ -1350,9 +1350,9 @@
       "wiki_url": "/wiki_pages/maizuru_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "舞鹤",
+      "confidence": "B",
+      "tag_cn_long": "日本京都府的一个城市，也是《迷宫饭》中一个角色的名字。"
     },
     {
       "name": "Mie Prefecture",
@@ -1360,9 +1360,9 @@
       "wiki_url": "/wiki_pages/mie_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三重县",
+      "confidence": "A",
+      "tag_cn_long": "日本近畿地区的一个县。"
     },
     {
       "name": "Miyagi Prefecture",
@@ -1370,9 +1370,9 @@
       "wiki_url": "/wiki_pages/miyagi_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宫城县",
+      "confidence": "A",
+      "tag_cn_long": "日本东北地区的一个县。"
     },
     {
       "name": "Sendai",
@@ -1380,9 +1380,9 @@
       "wiki_url": "/wiki_pages/sendai_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "仙台",
+      "confidence": "A",
+      "tag_cn_long": "日本宫城县的首府城市。"
     },
     {
       "name": "Miyazaki Prefecture",
@@ -1390,9 +1390,9 @@
       "wiki_url": "/wiki_pages/miyazaki_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宫崎县",
+      "confidence": "A",
+      "tag_cn_long": "日本九州地区的一个县。"
     },
     {
       "name": "Nagano Prefecture",
@@ -1400,9 +1400,9 @@
       "wiki_url": "/wiki_pages/nagano_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长野县",
+      "confidence": "A",
+      "tag_cn_long": "日本中部地区的一个县。"
     },
     {
       "name": "Okaya City",
@@ -1410,9 +1410,9 @@
       "wiki_url": "/wiki_pages/okaya_city",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冈谷市",
+      "confidence": "A",
+      "tag_cn_long": "日本长野县的一个城市。"
     },
     {
       "name": "Suwa City",
@@ -1420,9 +1420,9 @@
       "wiki_url": "/wiki_pages/suwa_city",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "诹访市",
+      "confidence": "A",
+      "tag_cn_long": "日本长野县的一个城市，以诹访湖闻名。"
     },
     {
       "name": "Nagasaki Prefecture",
@@ -1430,9 +1430,9 @@
       "wiki_url": "/wiki_pages/nagasaki_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长崎县",
+      "confidence": "A",
+      "tag_cn_long": "日本九州地区的一个县，位于九州岛西部。"
     },
     {
       "name": "Nagasaki",
@@ -1440,9 +1440,9 @@
       "wiki_url": "/wiki_pages/nagasaki",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长崎市",
+      "confidence": "A",
+      "tag_cn_long": "日本长崎县的首府，历史上是贸易港口，二战期间遭受原子弹轰炸。"
     },
     {
       "name": "Sasebo",
@@ -1450,9 +1450,9 @@
       "wiki_url": "/wiki_pages/sasebo",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佐世保市",
+      "confidence": "A",
+      "tag_cn_long": "日本长崎县的一个城市，拥有日本海上自卫队和美国海军基地。"
     },
     {
       "name": "Nara Prefecture",
@@ -1460,9 +1460,9 @@
       "wiki_url": "/wiki_pages/nara_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奈良县",
+      "confidence": "A",
+      "tag_cn_long": "日本近畿地区的一个县，以古都奈良和佛教寺庙闻名。"
     },
     {
       "name": "Nara",
@@ -1470,9 +1470,9 @@
       "wiki_url": "/wiki_pages/nara_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奈良市",
+      "confidence": "A",
+      "tag_cn_long": "日本奈良县的首府，曾是日本首都，拥有众多世界遗产。"
     },
     {
       "name": "Niigata Prefecture",
@@ -1480,9 +1480,9 @@
       "wiki_url": "/wiki_pages/niigata_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新潟县",
+      "confidence": "A",
+      "tag_cn_long": "日本本州岛北部的一个县，面向日本海。"
     },
     {
       "name": "Oita Prefecture",
@@ -1490,9 +1490,9 @@
       "wiki_url": "/wiki_pages/oita_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大分县",
+      "confidence": "A",
+      "tag_cn_long": "日本九州地区的一个县，以温泉和别府市闻名。"
     },
     {
       "name": "Okayama Prefecture",
@@ -1500,9 +1500,9 @@
       "wiki_url": "/wiki_pages/okayama_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冈山县",
+      "confidence": "A",
+      "tag_cn_long": "日本中国地区的一个县，以冈山城和桃太郎传说闻名。"
     },
     {
       "name": "Okinawa",
@@ -1510,9 +1510,9 @@
       "wiki_url": "/wiki_pages/okinawa",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "冲绳县",
+      "confidence": "A",
+      "tag_cn_long": "日本最南端的县，由冲绳本岛和琉球群岛组成，具有独特的文化。"
     },
     {
       "name": "Naha City",
@@ -1520,9 +1520,9 @@
       "wiki_url": "/wiki_pages/naha_city",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "那霸市",
+      "confidence": "A",
+      "tag_cn_long": "日本冲绳县的首府，位于冲绳本岛南部。"
     },
     {
       "name": "Osaka Prefecture",
@@ -1530,9 +1530,9 @@
       "wiki_url": "/wiki_pages/osaka_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大阪府",
+      "confidence": "A",
+      "tag_cn_long": "日本近畿地区的一个府，以大阪市为中心。"
     },
     {
       "name": "Osaka",
@@ -1540,9 +1540,9 @@
       "wiki_url": "/wiki_pages/osaka_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大阪市",
+      "confidence": "A",
+      "tag_cn_long": "日本大阪府的首府，重要商业和工业城市。"
     },
     {
       "name": "Saga Prefecture",
@@ -1550,9 +1550,9 @@
       "wiki_url": "/wiki_pages/saga_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佐贺县",
+      "confidence": "A",
+      "tag_cn_long": "日本九州地区的一个县，位于福冈县和长崎县之间。"
     },
     {
       "name": "Saitama Prefecture",
@@ -1560,9 +1560,9 @@
       "wiki_url": "/wiki_pages/saitama_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "埼玉县",
+      "confidence": "A",
+      "tag_cn_long": "日本关东地区的一个县，位于东京都北部。"
     },
     {
       "name": "Kawagoe",
@@ -1570,9 +1570,9 @@
       "wiki_url": "/wiki_pages/kawagoe_%28saitama%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "川越市",
+      "confidence": "A",
+      "tag_cn_long": "日本埼玉县的一个城市，以江户时代风貌的街道闻名。"
     },
     {
       "name": "Saitama",
@@ -1580,9 +1580,9 @@
       "wiki_url": "/wiki_pages/saitama_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "埼玉市",
+      "confidence": "A",
+      "tag_cn_long": "日本埼玉县的首府，位于东京以北。"
     },
     {
       "name": "Shiga Prefecture",
@@ -1590,9 +1590,9 @@
       "wiki_url": "/wiki_pages/shiga_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "滋贺县",
+      "confidence": "A",
+      "tag_cn_long": "日本近畿地区的一个县，以日本最大的湖泊琵琶湖闻名。"
     },
     {
       "name": "Kusatsu",
@@ -1600,9 +1600,9 @@
       "wiki_url": "/wiki_pages/kusatsu_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "草津市",
+      "confidence": "A",
+      "tag_cn_long": "日本滋贺县的一个城市，位于琵琶湖东岸。"
     },
     {
       "name": "Otsu",
@@ -1610,9 +1610,9 @@
       "wiki_url": "/wiki_pages/otsu_%28city%29",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大津市",
+      "confidence": "A",
+      "tag_cn_long": "日本滋贺县的首府，位于琵琶湖南端。"
     },
     {
       "name": "Shimane Prefecture",
@@ -1620,9 +1620,9 @@
       "wiki_url": "/wiki_pages/shimane_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "岛根县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于中国地区。"
     },
     {
       "name": "Shizuoka Prefecture",
@@ -1630,9 +1630,9 @@
       "wiki_url": "/wiki_pages/shizuoka_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "静冈县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于本州岛中部。"
     },
     {
       "name": "Atami",
@@ -1640,9 +1640,9 @@
       "wiki_url": "/wiki_pages/atami_%28shizuoka%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "热海",
+      "confidence": "A",
+      "tag_cn_long": "日本静冈县的一个城市，以温泉闻名。"
     },
     {
       "name": "Numazu",
@@ -1650,9 +1650,9 @@
       "wiki_url": "/wiki_pages/numazu",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "沼津",
+      "confidence": "A",
+      "tag_cn_long": "日本静冈县的一个城市，以温泉和海岸线闻名，也是《Love Live! Sunshine!!》的主要舞台。"
     },
     {
       "name": "Tochigi Prefecture",
@@ -1660,9 +1660,9 @@
       "wiki_url": "/wiki_pages/tochigi_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "栃木县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于关东地区。"
     },
     {
       "name": "Tokushima Prefecture",
@@ -1670,9 +1670,9 @@
       "wiki_url": "/wiki_pages/tokushima_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德岛县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于四国地区。"
     },
     {
       "name": "Tokyo Prefecture",
@@ -1680,9 +1680,9 @@
       "wiki_url": "/wiki_pages/tokyo_prefecture",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京都",
+      "confidence": "A",
+      "tag_cn_long": "日本的首都，是一个都级行政区。"
     },
     {
       "name": "Fuchu",
@@ -1690,9 +1690,9 @@
       "wiki_url": "/wiki_pages/fuchu_%28tokyo%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "府中",
+      "confidence": "A",
+      "tag_cn_long": "日本东京都的一个市。"
     },
     {
       "name": "Tokyo",
@@ -1700,9 +1700,9 @@
       "wiki_url": "/wiki_pages/tokyo_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京",
+      "confidence": "A",
+      "tag_cn_long": "日本的首都，为一座大城市。"
     },
     {
       "name": "Tachikawa",
@@ -1710,9 +1710,9 @@
       "wiki_url": "/wiki_pages/tachikawa_%28tokyo%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立川",
+      "confidence": "A",
+      "tag_cn_long": "日本东京都的一个市。"
     },
     {
       "name": "Tottori Prefecture",
@@ -1720,9 +1720,9 @@
       "wiki_url": "/wiki_pages/tottori_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鸟取县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于中国地区。"
     },
     {
       "name": "Toyama Prefecture",
@@ -1730,9 +1730,9 @@
       "wiki_url": "/wiki_pages/toyama_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "富山县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于北陆地区。"
     },
     {
       "name": "Toyama City",
@@ -1740,9 +1740,9 @@
       "wiki_url": "/wiki_pages/toyama_city",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "富山市",
+      "confidence": "A",
+      "tag_cn_long": "富山县的县厅所在地。"
     },
     {
       "name": "Wakayama Prefecture",
@@ -1750,9 +1750,9 @@
       "wiki_url": "/wiki_pages/wakayama_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和歌山县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于近畿地区。"
     },
     {
       "name": "Kudoyama",
@@ -1760,9 +1760,9 @@
       "wiki_url": "/wiki_pages/kudoyama_%28town%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "九度山",
+      "confidence": "A",
+      "tag_cn_long": "日本和歌山县的一个町。"
     },
     {
       "name": "Yamagata Prefecture",
@@ -1770,9 +1770,9 @@
       "wiki_url": "/wiki_pages/yamagata_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山形县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于东北地区。"
     },
     {
       "name": "Yamaguchi Prefecture",
@@ -1780,9 +1780,9 @@
       "wiki_url": "/wiki_pages/yamaguchi_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山口县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于中国地区。"
     },
     {
       "name": "Yamanashi Prefecture",
@@ -1790,9 +1790,9 @@
       "wiki_url": "/wiki_pages/yamanashi_prefecture",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山梨县",
+      "confidence": "A",
+      "tag_cn_long": "日本的一个县，位于中部地区。"
     },
     {
       "name": "Jordan",
@@ -1800,9 +1800,9 @@
       "wiki_url": "/wiki_pages/jordan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "约旦",
+      "confidence": "A",
+      "tag_cn_long": "西亚的一个国家，以死海和古老遗迹闻名。"
     },
     {
       "name": "Kazakhstan",
@@ -1810,9 +1810,9 @@
       "wiki_url": "/wiki_pages/kazakhstan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哈萨克斯坦",
+      "confidence": "A",
+      "tag_cn_long": "中亚的一个国家，是世界上最大的内陆国。"
     },
     {
       "name": "Kenya",
@@ -1820,9 +1820,9 @@
       "wiki_url": "/wiki_pages/kenya",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肯尼亚",
+      "confidence": "A",
+      "tag_cn_long": "东非国家，首都内罗毕。"
     },
     {
       "name": "Korea",
@@ -1830,9 +1830,9 @@
       "wiki_url": "/wiki_pages/korea",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "韩国",
+      "confidence": "B",
+      "tag_cn_long": "指朝鲜半岛上的国家，通常指南朝鲜或整个朝鲜地区。"
     },
     {
       "name": "North Korea",
@@ -1840,9 +1840,9 @@
       "wiki_url": "/wiki_pages/north_korea",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "朝鲜",
+      "confidence": "A",
+      "tag_cn_long": "朝鲜半岛北部的社会主义国家，正式名称为朝鲜民主主义人民共和国。"
     },
     {
       "name": "South Korea",
@@ -1850,9 +1850,9 @@
       "wiki_url": "/wiki_pages/south_korea",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "韩国",
+      "confidence": "A",
+      "tag_cn_long": "朝鲜半岛南部的民主国家，正式名称为大韩民国。"
     },
     {
       "name": "Seoul",
@@ -1860,9 +1860,9 @@
       "wiki_url": "/wiki_pages/seoul",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "首尔",
+      "confidence": "A",
+      "tag_cn_long": "韩国首都，韩国最大城市。"
     },
     {
       "name": "Kosovo",
@@ -1870,9 +1870,9 @@
       "wiki_url": "/wiki_pages/kosovo",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科索沃",
+      "confidence": "A",
+      "tag_cn_long": "欧洲巴尔干半岛上的一个主权争议地区，部分国家承认其独立。"
     },
     {
       "name": "Kyrgyzstan",
@@ -1880,9 +1880,9 @@
       "wiki_url": "/wiki_pages/kyrgyzstan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉尔吉斯斯坦",
+      "confidence": "A",
+      "tag_cn_long": "中亚内陆国家，首都比什凯克。"
     },
     {
       "name": "Laos",
@@ -1890,9 +1890,9 @@
       "wiki_url": "/wiki_pages/laos",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "老挝",
+      "confidence": "A",
+      "tag_cn_long": "东南亚内陆国家，首都万象。"
     },
     {
       "name": "Latvia",
@@ -1900,9 +1900,9 @@
       "wiki_url": "/wiki_pages/latvia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉脱维亚",
+      "confidence": "A",
+      "tag_cn_long": "波罗的海沿岸国家，首都里加。"
     },
     {
       "name": "Liberia",
@@ -1910,9 +1910,9 @@
       "wiki_url": "/wiki_pages/liberia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "利比里亚",
+      "confidence": "A",
+      "tag_cn_long": "西非国家，首都蒙罗维亚。"
     },
     {
       "name": "Libya",
@@ -1920,9 +1920,9 @@
       "wiki_url": "/wiki_pages/libya",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "利比亚",
+      "confidence": "A",
+      "tag_cn_long": "北非国家，首都的黎波里。"
     },
     {
       "name": "Lithuania",
@@ -1930,9 +1930,9 @@
       "wiki_url": "/wiki_pages/lithuania",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "立陶宛",
+      "confidence": "A",
+      "tag_cn_long": "波罗的海沿岸国家，首都维尔纽斯。"
     },
     {
       "name": "Luxembourg",
@@ -1940,9 +1940,9 @@
       "wiki_url": "/wiki_pages/luxembourg",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卢森堡",
+      "confidence": "A",
+      "tag_cn_long": "西欧内陆小国，首都卢森堡市。"
     },
     {
       "name": "Madagascar",
@@ -1950,9 +1950,9 @@
       "wiki_url": "/wiki_pages/madagascar",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马达加斯加",
+      "confidence": "A",
+      "tag_cn_long": "印度洋岛国，世界第二大岛国，首都塔那那利佛。"
     },
     {
       "name": "Malawi",
@@ -1960,9 +1960,9 @@
       "wiki_url": "/wiki_pages/malawi",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马拉维",
+      "confidence": "A",
+      "tag_cn_long": "非洲东南部内陆国家，首都利隆圭。"
     },
     {
       "name": "Malaysia",
@@ -1970,9 +1970,9 @@
       "wiki_url": "/wiki_pages/malaysia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马来西亚",
+      "confidence": "A",
+      "tag_cn_long": "东南亚国家，由西马和东马组成，首都吉隆坡。"
     },
     {
       "name": "Kuala Lumpur",
@@ -1980,9 +1980,9 @@
       "wiki_url": "/wiki_pages/kuala_lumpur",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉隆坡",
+      "confidence": "A",
+      "tag_cn_long": "马来西亚首都，最大城市。"
     },
     {
       "name": "Mexico",
@@ -1990,9 +1990,9 @@
       "wiki_url": "/wiki_pages/mexico",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "墨西哥",
+      "confidence": "A",
+      "tag_cn_long": "北美洲南部国家，首都墨西哥城。"
     },
     {
       "name": "Mexico City",
@@ -2000,9 +2000,9 @@
       "wiki_url": "/wiki_pages/mexico_city",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "墨西哥城",
+      "confidence": "A",
+      "tag_cn_long": "墨西哥首都，北美人口最多的城市。"
     },
     {
       "name": "Moldova",
@@ -2010,9 +2010,9 @@
       "wiki_url": "/wiki_pages/moldova",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摩尔多瓦",
+      "confidence": "A",
+      "tag_cn_long": "东欧内陆国家，首都基希讷乌。"
     },
     {
       "name": "Monaco",
@@ -2020,9 +2020,9 @@
       "wiki_url": "/wiki_pages/monaco_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摩纳哥",
+      "confidence": "A",
+      "tag_cn_long": "欧洲西南部的一个城邦国家，以赌博和旅游业闻名。"
     },
     {
       "name": "Mongolia",
@@ -2030,9 +2030,9 @@
       "wiki_url": "/wiki_pages/mongolia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒙古",
+      "confidence": "A",
+      "tag_cn_long": "东亚内陆国家，以游牧文化闻名。"
     },
     {
       "name": "Montenegro",
@@ -2040,9 +2040,9 @@
       "wiki_url": "/wiki_pages/montenegro",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑山",
+      "confidence": "A",
+      "tag_cn_long": "巴尔干半岛南斯拉夫地区国家，濒临亚得里亚海。"
     },
     {
       "name": "Morocco",
@@ -2050,9 +2050,9 @@
       "wiki_url": "/wiki_pages/morocco",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摩洛哥",
+      "confidence": "A",
+      "tag_cn_long": "北非马格里布地区最西北国家，文化融合柏柏尔、阿拉伯和欧洲。"
     },
     {
       "name": "Mozambique",
@@ -2060,9 +2060,9 @@
       "wiki_url": "/wiki_pages/mozambique",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莫桑比克",
+      "confidence": "A",
+      "tag_cn_long": "东南非洲国家。"
     },
     {
       "name": "Myanmar",
@@ -2070,9 +2070,9 @@
       "wiki_url": "/wiki_pages/myanmar",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缅甸",
+      "confidence": "A",
+      "tag_cn_long": "东南亚国家。"
     },
     {
       "name": "Namibia",
@@ -2080,9 +2080,9 @@
       "wiki_url": "/wiki_pages/namibia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纳米比亚",
+      "confidence": "A",
+      "tag_cn_long": "非洲西南部国家。"
     },
     {
       "name": "Nepal",
@@ -2090,9 +2090,9 @@
       "wiki_url": "/wiki_pages/nepal",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尼泊尔",
+      "confidence": "A",
+      "tag_cn_long": "南亚内陆国家，佛陀诞生地，拥有珠穆朗玛峰。"
     },
     {
       "name": "Netherlands",
@@ -2100,9 +2100,9 @@
       "wiki_url": "/wiki_pages/netherlands",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷兰",
+      "confidence": "A",
+      "tag_cn_long": "西欧国家，以风车、郁金香、运河闻名。"
     },
     {
       "name": "New Zealand",
@@ -2110,9 +2110,9 @@
       "wiki_url": "/wiki_pages/new_zealand",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新西兰",
+      "confidence": "A",
+      "tag_cn_long": "太平洋西南岛国，由北岛和南岛组成。"
     },
     {
       "name": "Nicaragua",
@@ -2120,9 +2120,9 @@
       "wiki_url": "/wiki_pages/nicaragua",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尼加拉瓜",
+      "confidence": "A",
+      "tag_cn_long": "中美洲最大国家，官方语言西班牙语。"
     },
     {
       "name": "Nigeria",
@@ -2130,9 +2130,9 @@
       "wiki_url": "/wiki_pages/nigeria",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尼日利亚",
+      "confidence": "A",
+      "tag_cn_long": "非洲人口最多的国家之一。"
     },
     {
       "name": "North Macedonia",
@@ -2140,9 +2140,9 @@
       "wiki_url": "/wiki_pages/north_macedonia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "北马其顿",
+      "confidence": "A",
+      "tag_cn_long": "巴尔干半岛内陆国家。"
     },
     {
       "name": "Norway",
@@ -2150,9 +2150,9 @@
       "wiki_url": "/wiki_pages/norway",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "挪威",
+      "confidence": "A",
+      "tag_cn_long": "北欧国家，斯堪的纳维亚半岛西部，以维京文化闻名。"
     },
     {
       "name": "Pakistan",
@@ -2160,9 +2160,9 @@
       "wiki_url": "/wiki_pages/pakistan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴基斯坦",
+      "confidence": "A",
+      "tag_cn_long": "南亚国家，世界第五人口大国。"
     },
     {
       "name": "Palestine",
@@ -2170,9 +2170,9 @@
       "wiki_url": "/wiki_pages/palestine",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴勒斯坦",
+      "confidence": "A",
+      "tag_cn_long": "中东地区，包括约旦河西岸和加沙地带。"
     },
     {
       "name": "Gaza Strip",
@@ -2180,9 +2180,9 @@
       "wiki_url": "/wiki_pages/gaza",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "加沙地带",
+      "confidence": "A",
+      "tag_cn_long": "巴勒斯坦的一个沿海地区。"
     },
     {
       "name": "East Jerusalem",
@@ -2190,9 +2190,9 @@
       "wiki_url": "/wiki_pages/jerusalem",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东耶路撒冷",
+      "confidence": "A",
+      "tag_cn_long": "耶路撒冷东部地区，存在主权争议。"
     },
     {
       "name": "Panama",
@@ -2200,9 +2200,9 @@
       "wiki_url": "/wiki_pages/panama",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴拿马",
+      "confidence": "A",
+      "tag_cn_long": "中美洲国家，以巴拿马运河闻名。"
     },
     {
       "name": "Paraguay",
@@ -2210,9 +2210,9 @@
       "wiki_url": "/wiki_pages/paraguay",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴拉圭",
+      "confidence": "A",
+      "tag_cn_long": "南美洲内陆国家，多数人口讲瓜拉尼语和西班牙语。"
     },
     {
       "name": "Peru",
@@ -2220,9 +2220,9 @@
       "wiki_url": "/wiki_pages/peru",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "秘鲁",
+      "confidence": "A",
+      "tag_cn_long": "南美洲西部的一个国家，拥有多样的地理环境，从太平洋沿岸干旱平原到安第斯山脉再到亚马逊雨林。"
     },
     {
       "name": "Philippines",
@@ -2230,9 +2230,9 @@
       "wiki_url": "/wiki_pages/philippines",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菲律宾",
+      "confidence": "A",
+      "tag_cn_long": "东南亚的一个群岛国家，官方语言为菲律宾语、英语和西班牙语。"
     },
     {
       "name": "Poland",
@@ -2240,9 +2240,9 @@
       "wiki_url": "/wiki_pages/poland",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波兰",
+      "confidence": "A",
+      "tag_cn_long": "东欧的一个国家，以其翼骑兵、香肠和历史上的多次被侵略而闻名。"
     },
     {
       "name": "Portugal",
@@ -2250,9 +2250,9 @@
       "wiki_url": "/wiki_pages/portugal",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "葡萄牙",
+      "confidence": "A",
+      "tag_cn_long": "西欧的一个国家，与西班牙接壤，官方语言为葡萄牙语。"
     },
     {
       "name": "Qatar",
@@ -2260,9 +2260,9 @@
       "wiki_url": "/wiki_pages/qatar",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡塔尔",
+      "confidence": "A",
+      "tag_cn_long": "西亚的一个国家，位于阿拉伯半岛东海岸。"
     },
     {
       "name": "Romania",
@@ -2270,9 +2270,9 @@
       "wiki_url": "/wiki_pages/romania",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗马尼亚",
+      "confidence": "A",
+      "tag_cn_long": "东南欧的一个罗曼语系国家，首都布加勒斯特，因特兰西瓦尼亚与吸血鬼传说有关联。"
     },
     {
       "name": "Russia",
@@ -2280,9 +2280,9 @@
       "wiki_url": "/wiki_pages/russia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俄罗斯",
+      "confidence": "A",
+      "tag_cn_long": "世界上面积最大的国家，横跨欧亚大陆北部。"
     },
     {
       "name": "Moscow",
@@ -2290,9 +2290,9 @@
       "wiki_url": "/wiki_pages/moscow",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莫斯科",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯的首都，是该国主要的政治、经济、文化和科学中心。"
     },
     {
       "name": "Saint Petersburg",
@@ -2300,9 +2300,9 @@
       "wiki_url": "/wiki_pages/saint_petersburg",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣彼得堡",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯的联邦城市，位于波罗的海沿岸，是重要的文化中心。"
     },
     {
       "name": "Vladivostok",
@@ -2310,9 +2310,9 @@
       "wiki_url": "/wiki_pages/vladivostok",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "符拉迪沃斯托克",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯远东地区的一个重要港口城市，濒临日本海。"
     },
     {
       "name": "Saudi Arabia",
@@ -2320,9 +2320,9 @@
       "wiki_url": "/wiki_pages/saudi_arabia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "沙特阿拉伯",
+      "confidence": "A",
+      "tag_cn_long": "西亚的一个国家，占据阿拉伯半岛大部分地区，是伊斯兰教两大圣地麦加和麦地那所在地。"
     },
     {
       "name": "Senegal",
@@ -2330,9 +2330,9 @@
       "wiki_url": "/wiki_pages/senegal",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "塞内加尔",
+      "confidence": "A",
+      "tag_cn_long": "西非的一个国家。"
     },
     {
       "name": "Serbia",
@@ -2340,9 +2340,9 @@
       "wiki_url": "/wiki_pages/serbia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "塞尔维亚",
+      "confidence": "A",
+      "tag_cn_long": "巴尔干地区的一个斯拉夫国家，前南斯拉夫成员国，首都贝尔格莱德。"
     },
     {
       "name": "Singapore",
@@ -2350,9 +2350,9 @@
       "wiki_url": "/wiki_pages/singapore",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新加坡",
+      "confidence": "A",
+      "tag_cn_long": "东南亚的一个主权岛屿城邦，位于马来半岛南端。"
     },
     {
       "name": "Slovakia",
@@ -2360,9 +2360,9 @@
       "wiki_url": "/wiki_pages/slovakia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斯洛伐克",
+      "confidence": "A",
+      "tag_cn_long": "中欧的一个国家，是世界上人均汽车产量最大的国家。"
     },
     {
       "name": "Slovenia",
@@ -2370,9 +2370,9 @@
       "wiki_url": "/wiki_pages/slovenia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斯洛文尼亚",
+      "confidence": "A",
+      "tag_cn_long": "巴尔干地区的一个国家，前南斯拉夫成员国，与奥地利和意大利接壤。"
     },
     {
       "name": "South Africa",
@@ -2380,9 +2380,9 @@
       "wiki_url": "/wiki_pages/south_africa",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "南非",
+      "confidence": "A",
+      "tag_cn_long": "非洲大陆南部的一个国家，人口由班图人和白种人混合组成。"
     },
     {
       "name": "Spain",
@@ -2390,9 +2390,9 @@
       "wiki_url": "/wiki_pages/spain",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西班牙",
+      "confidence": "A",
+      "tag_cn_long": "西欧的一个国家，位于伊比利亚半岛，首都马德里。"
     },
     {
       "name": "Barcelona",
@@ -2400,9 +2400,9 @@
       "wiki_url": "/wiki_pages/barcelona",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴塞罗那",
+      "confidence": "A",
+      "tag_cn_long": "西班牙加泰罗尼亚自治区的首府，是重要的港口和文化城市。"
     },
     {
       "name": "Madrid",
@@ -2410,9 +2410,9 @@
       "wiki_url": "/wiki_pages/madrid",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马德里",
+      "confidence": "A",
+      "tag_cn_long": "西班牙的首都。"
     },
     {
       "name": "Sweden",
@@ -2420,9 +2420,9 @@
       "wiki_url": "/wiki_pages/sweden",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瑞典",
+      "confidence": "A",
+      "tag_cn_long": "北欧斯堪的纳维亚半岛国家，首都斯德哥尔摩。"
     },
     {
       "name": "Stockholm",
@@ -2430,9 +2430,9 @@
       "wiki_url": "/wiki_pages/stockholm",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斯德哥尔摩",
+      "confidence": "A",
+      "tag_cn_long": "瑞典首都，位于该国东海岸。"
     },
     {
       "name": "Visby",
@@ -2440,9 +2440,9 @@
       "wiki_url": "/wiki_pages/visby",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "维斯比",
+      "confidence": "B",
+      "tag_cn_long": "瑞典哥特兰岛上的城市，以中世纪城墙闻名。"
     },
     {
       "name": "Switzerland",
@@ -2450,9 +2450,9 @@
       "wiki_url": "/wiki_pages/switzerland",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瑞士",
+      "confidence": "A",
+      "tag_cn_long": "中欧内陆国家，以中立和阿尔卑斯山风光著称。"
     },
     {
       "name": "Syria",
@@ -2460,9 +2460,9 @@
       "wiki_url": "/wiki_pages/syria",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叙利亚",
+      "confidence": "A",
+      "tag_cn_long": "西亚国家，曾长期陷入内战。"
     },
     {
       "name": "Taiwan",
@@ -2470,9 +2470,9 @@
       "wiki_url": "/wiki_pages/taiwan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "台湾",
+      "confidence": "A",
+      "tag_cn_long": "东亚岛屿，正式名称为中华民国，实际控制台湾岛及周边岛屿。"
     },
     {
       "name": "Taipei",
@@ -2480,9 +2480,9 @@
       "wiki_url": "/wiki_pages/taipei",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "台北",
+      "confidence": "A",
+      "tag_cn_long": "台湾（中华民国）的首都，位于台湾岛北部。"
     },
     {
       "name": "Kaohsiung",
@@ -2490,9 +2490,9 @@
       "wiki_url": "/wiki_pages/kaohsiung",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高雄",
+      "confidence": "A",
+      "tag_cn_long": "台湾南部的重要港口城市。"
     },
     {
       "name": "Tajikistan",
@@ -2500,9 +2500,9 @@
       "wiki_url": "/wiki_pages/tajikistan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "塔吉克斯坦",
+      "confidence": "A",
+      "tag_cn_long": "中亚内陆国家，首都杜尚别。"
     },
     {
       "name": "Thailand",
@@ -2510,9 +2510,9 @@
       "wiki_url": "/wiki_pages/thailand",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泰国",
+      "confidence": "A",
+      "tag_cn_long": "东南亚国家，旧称暹罗，以佛教文化和旅游闻名。"
     },
     {
       "name": "Trinidad and Tobago",
@@ -2520,9 +2520,9 @@
       "wiki_url": "/wiki_pages/trinidad_and_tobago",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "特立尼达和多巴哥",
+      "confidence": "A",
+      "tag_cn_long": "加勒比海岛国，由特立尼达岛和多巴哥岛组成。"
     },
     {
       "name": "Tunisia",
@@ -2530,9 +2530,9 @@
       "wiki_url": "/wiki_pages/tunisia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "突尼斯",
+      "confidence": "A",
+      "tag_cn_long": "北非马格里布地区国家，最北端的非洲国家。"
     },
     {
       "name": "Turkey",
@@ -2540,9 +2540,9 @@
       "wiki_url": "/wiki_pages/turkey_%28country%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火鸡",
+      "confidence": "C",
+      "tag_cn_long": "一种大型家禽，常用于感恩节等节日烹饪的肉类，但也指鸟或国家，此处按食物解释。"
     },
     {
       "name": "Istanbul",
@@ -2550,9 +2550,9 @@
       "wiki_url": "/wiki_pages/istanbul",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伊斯坦布尔",
+      "confidence": "A",
+      "tag_cn_long": "土耳其最大城市，横跨欧亚两洲，历史名城。"
     },
     {
       "name": "Turkmenistan",
@@ -2560,9 +2560,9 @@
       "wiki_url": "/wiki_pages/turkmenistan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "土库曼斯坦",
+      "confidence": "A",
+      "tag_cn_long": "中亚内陆国家，首都阿什哈巴德。"
     },
     {
       "name": "Ukraine",
@@ -2570,9 +2570,9 @@
       "wiki_url": "/wiki_pages/ukraine",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌克兰",
+      "confidence": "A",
+      "tag_cn_long": "东欧国家，欧洲面积第二大，首都基辅。"
     },
     {
       "name": "Chernobyl",
@@ -2580,9 +2580,9 @@
       "wiki_url": "/wiki_pages/chernobyl",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "切尔诺贝利",
+      "confidence": "A",
+      "tag_cn_long": "乌克兰北部废弃城市，因1986年核事故闻名。"
     },
     {
       "name": "Pripyat",
@@ -2590,9 +2590,9 @@
       "wiki_url": "/wiki_pages/pripyat",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "普里皮亚季",
+      "confidence": "B",
+      "tag_cn_long": "乌克兰靠近切尔诺贝利的废弃城镇，核事故后撤离。"
     },
     {
       "name": "United Arab Emirates",
@@ -2600,9 +2600,9 @@
       "wiki_url": "/wiki_pages/united_arab_emirates",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿联酋",
+      "confidence": "A",
+      "tag_cn_long": "阿拉伯联合酋长国，西亚国家，由七个酋长国组成，以迪拜和阿布扎比闻名。"
     },
     {
       "name": "Dubai",
@@ -2610,9 +2610,9 @@
       "wiki_url": "/wiki_pages/dubai",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迪拜",
+      "confidence": "A",
+      "tag_cn_long": "阿联酋人口最多的城市，全球旅游和商业中心。"
     },
     {
       "name": "United Kingdom",
@@ -2620,9 +2620,9 @@
       "wiki_url": "/wiki_pages/united_kingdom",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "英国",
+      "confidence": "A",
+      "tag_cn_long": "大不列颠及北爱尔兰联合王国，西北欧岛国，首都伦敦。"
     },
     {
       "name": "England",
@@ -2630,9 +2630,9 @@
       "wiki_url": "/wiki_pages/england",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "英格兰",
+      "confidence": "A",
+      "tag_cn_long": "英国的一个构成国，位于大不列颠岛南部。"
     },
     {
       "name": "London",
@@ -2640,9 +2640,9 @@
       "wiki_url": "/wiki_pages/london",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伦敦",
+      "confidence": "A",
+      "tag_cn_long": "英国的首都，位于英格兰东南部泰晤士河畔。"
     },
     {
       "name": "Falkland Islands",
@@ -2650,9 +2650,9 @@
       "wiki_url": "/wiki_pages/falkland_islands",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "福克兰群岛",
+      "confidence": "A",
+      "tag_cn_long": "南大西洋的英国海外领土，首府为斯坦利。"
     },
     {
       "name": "Northern Ireland",
@@ -2660,9 +2660,9 @@
       "wiki_url": "/wiki_pages/northern_ireland",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "北爱尔兰",
+      "confidence": "A",
+      "tag_cn_long": "英国的一部分，位于爱尔兰岛东北部。"
     },
     {
       "name": "Scotland",
@@ -2670,9 +2670,9 @@
       "wiki_url": "/wiki_pages/scotland",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苏格兰",
+      "confidence": "A",
+      "tag_cn_long": "英国的一个构成国，占据大不列颠岛北部。"
     },
     {
       "name": "Edinburgh",
@@ -2680,9 +2680,9 @@
       "wiki_url": "/wiki_pages/edinburgh_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱丁堡",
+      "confidence": "A",
+      "tag_cn_long": "苏格兰的首府，位于苏格兰东部。"
     },
     {
       "name": "Wales",
@@ -2690,9 +2690,9 @@
       "wiki_url": "/wiki_pages/wales",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "威尔士",
+      "confidence": "A",
+      "tag_cn_long": "英国的一个构成国，位于大不列颠岛西南部。"
     },
     {
       "name": "United States",
@@ -2700,9 +2700,9 @@
       "wiki_url": "/wiki_pages/united_states",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美国",
+      "confidence": "A",
+      "tag_cn_long": "北美洲的一个国家，正式名称为美利坚合众国。"
     },
     {
       "name": "Alaska",
@@ -2710,9 +2710,9 @@
       "wiki_url": "/wiki_pages/alaska",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿拉斯加",
+      "confidence": "A",
+      "tag_cn_long": "美国的一个州，位于北美大陆西北端。"
     },
     {
       "name": "Arizona",
@@ -2720,9 +2720,9 @@
       "wiki_url": "/wiki_pages/arizona_%28state%29",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "亚利桑那",
+      "confidence": "A",
+      "tag_cn_long": "美国西南部的一个州。"
     },
     {
       "name": "California",
@@ -2730,9 +2730,9 @@
       "wiki_url": "/wiki_pages/california",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "加利福尼亚",
+      "confidence": "A",
+      "tag_cn_long": "美国西部的一个州，太平洋沿岸，以科技和娱乐业闻名。"
     },
     {
       "name": "Los Angeles",
@@ -2740,9 +2740,9 @@
       "wiki_url": "/wiki_pages/los_angeles",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洛杉矶",
+      "confidence": "A",
+      "tag_cn_long": "美国加利福尼亚州南部的一座城市，以好莱坞闻名。"
     },
     {
       "name": "San Francisco",
@@ -2750,9 +2750,9 @@
       "wiki_url": "/wiki_pages/san_francisco",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "旧金山",
+      "confidence": "A",
+      "tag_cn_long": "美国加利福尼亚州西部的一座城市，以金门大桥著称。"
     },
     {
       "name": "Chicago",
@@ -2760,9 +2760,9 @@
       "wiki_url": "/wiki_pages/chicago",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芝加哥",
+      "confidence": "A",
+      "tag_cn_long": "美国伊利诺伊州的一座城市，位于密歇根湖畔。"
     },
     {
       "name": "Colorado",
@@ -2770,9 +2770,9 @@
       "wiki_url": "/wiki_pages/colorado",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科罗拉多",
+      "confidence": "A",
+      "tag_cn_long": "美国西部的一个州，以落基山脉闻名。"
     },
     {
       "name": "Florida",
@@ -2780,9 +2780,9 @@
       "wiki_url": "/wiki_pages/florida_%28location%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佛罗里达",
+      "confidence": "A",
+      "tag_cn_long": "美国东南部的一个州，半岛形状，以海滩和主题公园闻名。"
     },
     {
       "name": "Miami",
@@ -2790,9 +2790,9 @@
       "wiki_url": "/wiki_pages/miami",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "迈阿密",
+      "confidence": "A",
+      "tag_cn_long": "美国佛罗里达州东南部的一座城市，以海滩和拉丁文化闻名。"
     },
     {
       "name": "Georgia",
@@ -2800,9 +2800,9 @@
       "wiki_url": "/wiki_pages/georgia_%28state%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格鲁吉亚",
+      "confidence": "A",
+      "tag_cn_long": "位于高加索地区的国家。"
     },
     {
       "name": "Atlanta",
@@ -2810,9 +2810,9 @@
       "wiki_url": "/wiki_pages/atlanta_%28city%29",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "亚特兰大",
+      "confidence": "A",
+      "tag_cn_long": "美国佐治亚州的首府，位于该州北部。"
     },
     {
       "name": "Hawaii",
@@ -2820,9 +2820,9 @@
       "wiki_url": "/wiki_pages/hawaii",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夏威夷",
+      "confidence": "A",
+      "tag_cn_long": "美国的一个州，由太平洋中的群岛组成。"
     },
     {
       "name": "Indiana",
@@ -2830,9 +2830,9 @@
       "wiki_url": "/wiki_pages/indiana",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印第安纳",
+      "confidence": "A",
+      "tag_cn_long": "美国中西部的一个州。"
     },
     {
       "name": "Iowa",
@@ -2840,9 +2840,9 @@
       "wiki_url": "/wiki_pages/iowa",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱荷华州",
+      "confidence": "A",
+      "tag_cn_long": "美国中西部的一个州。"
     },
     {
       "name": "Louisiana",
@@ -2850,9 +2850,9 @@
       "wiki_url": "/wiki_pages/louisiana",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "路易斯安那州",
+      "confidence": "A",
+      "tag_cn_long": "美国南部的一个州，位于墨西哥湾沿岸。"
     },
     {
       "name": "Maryland",
@@ -2860,9 +2860,9 @@
       "wiki_url": "/wiki_pages/maryland",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马里兰州",
+      "confidence": "A",
+      "tag_cn_long": "美国东部的一个州，位于大西洋沿岸。"
     },
     {
       "name": "Massachusetts",
@@ -2870,9 +2870,9 @@
       "wiki_url": "/wiki_pages/massachusetts",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马萨诸塞州",
+      "confidence": "A",
+      "tag_cn_long": "美国东北部的一个州，又称麻省。"
     },
     {
       "name": "Boston",
@@ -2880,9 +2880,9 @@
       "wiki_url": "/wiki_pages/boston",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波士顿",
+      "confidence": "A",
+      "tag_cn_long": "美国马萨诸塞州的首府和最大城市。"
     },
     {
       "name": "Michigan",
@@ -2890,9 +2890,9 @@
       "wiki_url": "/wiki_pages/michigan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "密歇根州",
+      "confidence": "A",
+      "tag_cn_long": "美国中北部的一个州，位于五大湖地区。"
     },
     {
       "name": "Minnesota",
@@ -2900,9 +2900,9 @@
       "wiki_url": "/wiki_pages/minnesota",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "明尼苏达州",
+      "confidence": "A",
+      "tag_cn_long": "美国中西部的一个州，北接加拿大。"
     },
     {
       "name": "Nevada",
@@ -2910,9 +2910,9 @@
       "wiki_url": "/wiki_pages/nevada",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "内华达州",
+      "confidence": "A",
+      "tag_cn_long": "美国西部的一个州，以沙漠和赌城著称。"
     },
     {
       "name": "Las Vegas",
@@ -2920,9 +2920,9 @@
       "wiki_url": "/wiki_pages/las_vegas",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉斯维加斯",
+      "confidence": "A",
+      "tag_cn_long": "美国内华达州的最大城市，以赌场和娱乐业闻名。"
     },
     {
       "name": "New York City",
@@ -2930,9 +2930,9 @@
       "wiki_url": "/wiki_pages/new_york_city",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纽约市",
+      "confidence": "A",
+      "tag_cn_long": "美国最大城市，位于纽约州，是世界重要的商业和文化中心。"
     },
     {
       "name": "North Carolina",
@@ -2940,9 +2940,9 @@
       "wiki_url": "/wiki_pages/north_carolina",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "北卡罗来纳州",
+      "confidence": "A",
+      "tag_cn_long": "美国东南部的一个州，位于大西洋沿岸。"
     },
     {
       "name": "Ohio",
@@ -2950,9 +2950,9 @@
       "wiki_url": "/wiki_pages/ohio",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俄亥俄州",
+      "confidence": "A",
+      "tag_cn_long": "美国中西部的一个州，位于五大湖地区。"
     },
     {
       "name": "Oregon",
@@ -2960,9 +2960,9 @@
       "wiki_url": "/wiki_pages/oregon",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俄勒冈州",
+      "confidence": "A",
+      "tag_cn_long": "美国西北部的一个州，濒临太平洋。"
     },
     {
       "name": "Portland",
@@ -2970,9 +2970,9 @@
       "wiki_url": "/wiki_pages/portland_%28oregon%29",
       "category_path": "Countries",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波特兰",
+      "confidence": "A",
+      "tag_cn_long": "美国俄勒冈州的最大城市。"
     },
     {
       "name": "Puerto Rico",
@@ -2980,9 +2980,9 @@
       "wiki_url": "/wiki_pages/puerto_rico",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波多黎各",
+      "confidence": "A",
+      "tag_cn_long": "美国在加勒比海的自由邦，非正式领土。"
     },
     {
       "name": "Seattle",
@@ -2990,9 +2990,9 @@
       "wiki_url": "/wiki_pages/seattle",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西雅图",
+      "confidence": "A",
+      "tag_cn_long": "美国华盛顿州的最大城市，位于太平洋沿岸。"
     },
     {
       "name": "Texas",
@@ -3000,9 +3000,9 @@
       "wiki_url": "/wiki_pages/texas",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "得克萨斯州",
+      "confidence": "A",
+      "tag_cn_long": "美国南部的一个州，面积和人口均居前列。"
     },
     {
       "name": "Houston",
@@ -3010,9 +3010,9 @@
       "wiki_url": "/wiki_pages/houston",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "休斯顿",
+      "confidence": "A",
+      "tag_cn_long": "美国得克萨斯州的最大城市，以航天和石油工业闻名。"
     },
     {
       "name": "Utah",
@@ -3020,9 +3020,9 @@
       "wiki_url": "/wiki_pages/utah",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "犹他州",
+      "confidence": "A",
+      "tag_cn_long": "美国西部的一个州，以其自然地貌和摩门教文化闻名。"
     },
     {
       "name": "Washington D.C.",
@@ -3030,9 +3030,9 @@
       "wiki_url": "/wiki_pages/washington_d.c.",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "华盛顿特区",
+      "confidence": "A",
+      "tag_cn_long": "美国首都，全称华盛顿哥伦比亚特区。"
     },
     {
       "name": "Wyoming",
@@ -3040,9 +3040,9 @@
       "wiki_url": "/wiki_pages/wyoming",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "怀俄明州",
+      "confidence": "A",
+      "tag_cn_long": "美国的一个州，位于西部山区。"
     },
     {
       "name": "Uruguay",
@@ -3050,9 +3050,9 @@
       "wiki_url": "/wiki_pages/uruguay",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌拉圭",
+      "confidence": "A",
+      "tag_cn_long": "南美洲东南部的一个国家，以足球和畜牧业闻名。"
     },
     {
       "name": "Uzbekistan",
@@ -3060,9 +3060,9 @@
       "wiki_url": "/wiki_pages/uzbekistan",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌兹别克斯坦",
+      "confidence": "A",
+      "tag_cn_long": "中亚的一个内陆国，历史悠久，曾是丝绸之路上的重要枢纽。"
     },
     {
       "name": "Vatican City",
@@ -3070,9 +3070,9 @@
       "wiki_url": "/wiki_pages/vatican",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梵蒂冈",
+      "confidence": "A",
+      "tag_cn_long": "位于罗马市内的小型主权国家，是天主教教廷所在地。"
     },
     {
       "name": "Venezuela",
@@ -3080,9 +3080,9 @@
       "wiki_url": "/wiki_pages/venezuela",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "委内瑞拉",
+      "confidence": "A",
+      "tag_cn_long": "南美洲北部国家，拥有丰富的石油资源。"
     },
     {
       "name": "Vietnam",
@@ -3090,9 +3090,9 @@
       "wiki_url": "/wiki_pages/vietnam",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "越南",
+      "confidence": "A",
+      "tag_cn_long": "东南亚的一个国家，位于印度支那半岛东部。"
     },
     {
       "name": "Zimbabwe",
@@ -3100,9 +3100,9 @@
       "wiki_url": "/wiki_pages/zimbabwe",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "津巴布韦",
+      "confidence": "A",
+      "tag_cn_long": "非洲南部的一个内陆国，旧称罗得西亚。"
     },
     {
       "name": "Austria-Hungary",
@@ -3110,9 +3110,9 @@
       "wiki_url": "/wiki_pages/austria-hungary",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥匈帝国",
+      "confidence": "A",
+      "tag_cn_long": "1867年至1918年存在的二元君主国，由奥地利帝国和匈牙利王国组成。"
     },
     {
       "name": "Byzantine Empire",
@@ -3120,9 +3120,9 @@
       "wiki_url": "/wiki_pages/byzantine_empire",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拜占庭帝国",
+      "confidence": "A",
+      "tag_cn_long": "公元5世纪至1453年存在的东罗马帝国，首都君士坦丁堡。"
     },
     {
       "name": "Confederate States",
@@ -3130,9 +3130,9 @@
       "wiki_url": "/wiki_pages/confederate_states_of_america",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美利坚联盟国",
+      "confidence": "A",
+      "tag_cn_long": "美国内战期间脱离联邦的南方各州组成的政权。"
     },
     {
       "name": "Czechoslovakia",
@@ -3140,9 +3140,9 @@
       "wiki_url": "/wiki_pages/czechoslovakia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捷克斯洛伐克",
+      "confidence": "A",
+      "tag_cn_long": "1918年至1992年存在的中欧国家，由捷克和斯洛伐克组成。"
     },
     {
       "name": "German Democratic Republic",
@@ -3150,9 +3150,9 @@
       "wiki_url": "/wiki_pages/east_germany",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德意志民主共和国",
+      "confidence": "A",
+      "tag_cn_long": "1949年至1990年存在的东德社会主义国家。"
     },
     {
       "name": "Holy Roman Empire",
@@ -3160,9 +3160,9 @@
       "wiki_url": "/wiki_pages/holy_roman_empire",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "神圣罗马帝国",
+      "confidence": "A",
+      "tag_cn_long": "中世纪至1806年存在的欧洲多民族帝国，以德意志地区为主。"
     },
     {
       "name": "Ottoman Empire",
@@ -3170,9 +3170,9 @@
       "wiki_url": "/wiki_pages/ottoman_empire",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "奥斯曼帝国",
+      "confidence": "A",
+      "tag_cn_long": "1299年至1922年存在的土耳其帝国，横跨欧亚非三洲。"
     },
     {
       "name": "Prussia",
@@ -3180,9 +3180,9 @@
       "wiki_url": "/wiki_pages/prussia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "普鲁士",
+      "confidence": "A",
+      "tag_cn_long": "历史上德意志地区的一个王国，以军事力量著称。"
     },
     {
       "name": "Rhodesia",
@@ -3190,9 +3190,9 @@
       "wiki_url": "/wiki_pages/rhodesia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗得西亚",
+      "confidence": "A",
+      "tag_cn_long": "1965年至1979年未受承认的非洲国家，后成为津巴布韦。"
     },
     {
       "name": "Roman Empire",
@@ -3200,9 +3200,9 @@
       "wiki_url": "/wiki_pages/roman_empire",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗马帝国",
+      "confidence": "A",
+      "tag_cn_long": "公元前27年至公元476年存在的古代帝国，统治地中海周边地区。"
     },
     {
       "name": "Russian Empire",
@@ -3210,9 +3210,9 @@
       "wiki_url": "/wiki_pages/russian_empire",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俄罗斯帝国",
+      "confidence": "A",
+      "tag_cn_long": "1721年至1917年存在的沙皇俄国，是俄罗斯的帝国时期。"
     },
     {
       "name": "Soviet Union",
@@ -3220,9 +3220,9 @@
       "wiki_url": "/wiki_pages/soviet",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苏联",
+      "confidence": "A",
+      "tag_cn_long": "1922年至1991年存在的社会主义联邦国家，全称苏维埃社会主义共和国联盟。"
     },
     {
       "name": "Yugoslavia",
@@ -3230,9 +3230,9 @@
       "wiki_url": "/wiki_pages/yugoslavia",
       "category_path": "Countries",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "南斯拉夫",
+      "confidence": "A",
+      "tag_cn_long": "1918年至1990年代初存在的巴尔干国家，后解体为多个独立国。"
     },
     {
       "name": "Alcatraz",
@@ -3240,9 +3240,9 @@
       "wiki_url": "/wiki_pages/alcatraz",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "恶魔岛",
+      "confidence": "A",
+      "tag_cn_long": "美国旧金山湾内的一座岛屿，曾为联邦监狱所在地。"
     },
     {
       "name": "Angel de la Independencia",
@@ -3250,9 +3250,9 @@
       "wiki_url": "/wiki_pages/angel_de_la_independencia",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "独立天使纪念碑",
+      "confidence": "A",
+      "tag_cn_long": "墨西哥城的一座胜利柱，纪念墨西哥独立战争。"
     },
     {
       "name": "Bradley Center",
@@ -3260,9 +3260,9 @@
       "wiki_url": "/wiki_pages/bradley_center",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布拉德利中心",
+      "confidence": "A",
+      "tag_cn_long": "位于美国威斯康星州密尔沃基的室内体育馆。"
     },
     {
       "name": "Brooklyn Bridge",
@@ -3270,9 +3270,9 @@
       "wiki_url": "/wiki_pages/brooklyn_bridge",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布鲁克林大桥",
+      "confidence": "A",
+      "tag_cn_long": "美国纽约市连接曼哈顿与布鲁克林的悬索桥。"
     },
     {
       "name": "Chrysler building",
@@ -3280,9 +3280,9 @@
       "wiki_url": "/wiki_pages/chrysler_building",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "克莱斯勒大厦",
+      "confidence": "A",
+      "tag_cn_long": "美国纽约曼哈顿的装饰艺术风格摩天大楼。"
     },
     {
       "name": "CN Tower",
@@ -3290,9 +3290,9 @@
       "wiki_url": "/wiki_pages/cn_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "CN塔",
+      "confidence": "A",
+      "tag_cn_long": "加拿大多伦多的地标性高塔，曾为世界最高自立式建筑。"
     },
     {
       "name": "Coors Field",
@@ -3300,9 +3300,9 @@
       "wiki_url": "/wiki_pages/coors_field",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "库尔斯球场",
+      "confidence": "A",
+      "tag_cn_long": "美国科罗拉多州丹佛的棒球场，科罗拉多洛矶队主场。"
     },
     {
       "name": "Crypto.com Arena",
@@ -3310,9 +3310,9 @@
       "wiki_url": "/wiki_pages/crypto.com_arena",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Crypto.com体育馆",
+      "confidence": "B",
+      "tag_cn_long": "美国洛杉矶的室内体育馆，原称斯台普斯中心。"
     },
     {
       "name": "Dodger Stadium",
@@ -3320,9 +3320,9 @@
       "wiki_url": "/wiki_pages/dodger_stadium",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "道奇体育场",
+      "confidence": "A",
+      "tag_cn_long": "美国洛杉矶的棒球场，洛杉矶道奇队主场。"
     },
     {
       "name": "El Castillo",
@@ -3330,9 +3330,9 @@
       "wiki_url": "/wiki_pages/el_castillo",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卡斯蒂略金字塔",
+      "confidence": "A",
+      "tag_cn_long": "墨西哥奇琴伊察的玛雅金字塔，又称羽蛇神金字塔。"
     },
     {
       "name": "Empire State Building",
@@ -3340,9 +3340,9 @@
       "wiki_url": "/wiki_pages/empire_state_building",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帝国大厦",
+      "confidence": "A",
+      "tag_cn_long": "美国纽约曼哈顿的摩天大楼，1931年至1970年为世界最高建筑。"
     },
     {
       "name": "Fenway Park",
@@ -3350,9 +3350,9 @@
       "wiki_url": "/wiki_pages/fenway_park",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芬威公园",
+      "confidence": "A",
+      "tag_cn_long": "美国波士顿的棒球场，波士顿红袜队主场。"
     },
     {
       "name": "Golden Gate Bridge",
@@ -3360,9 +3360,9 @@
       "wiki_url": "/wiki_pages/golden_gate_bridge",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "金门大桥",
+      "confidence": "A",
+      "tag_cn_long": "美国旧金山湾区的悬索桥，连接旧金山半岛与马林县。"
     },
     {
       "name": "Grand Canyon",
@@ -3370,9 +3370,9 @@
       "wiki_url": "/wiki_pages/grand_canyon",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大峡谷",
+      "confidence": "A",
+      "tag_cn_long": "美国亚利桑那州的著名峡谷自然景观。"
     },
     {
       "name": "Hard Rock Stadium",
@@ -3380,9 +3380,9 @@
       "wiki_url": "/wiki_pages/hard_rock_stadium",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "硬石体育场",
+      "confidence": "A",
+      "tag_cn_long": "美国迈阿密的多用途体育场，迈阿密海豚队主场。"
     },
     {
       "name": "Homey Airport",
@@ -3390,9 +3390,9 @@
       "wiki_url": "/wiki_pages/area_51",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "霍米机场",
+      "confidence": "D",
+      "tag_cn_long": "可能指《侠盗猎车手》系列中的虚构机场，或真实世界中的未知小型机场。"
     },
     {
       "name": "Hollywood",
@@ -3400,9 +3400,9 @@
       "wiki_url": "/wiki_pages/hollywood_sign",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "好莱坞",
+      "confidence": "A",
+      "tag_cn_long": "美国加州洛杉矶的著名电影工业区。"
     },
     {
       "name": "Lombard Street",
@@ -3410,9 +3410,9 @@
       "wiki_url": "/wiki_pages/lombard_street",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伦巴底街",
+      "confidence": "A",
+      "tag_cn_long": "美国旧金山以陡峭弯道闻名的街道。"
     },
     {
       "name": "Lumen Field",
@@ -3420,9 +3420,9 @@
       "wiki_url": "/wiki_pages/lumen_field",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "流明体育场",
+      "confidence": "A",
+      "tag_cn_long": "美国西雅图的多用途体育场，西雅图海鹰队主场。"
     },
     {
       "name": "Mount Rushmore",
@@ -3430,9 +3430,9 @@
       "wiki_url": "/wiki_pages/mount_rushmore",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拉什莫尔山",
+      "confidence": "A",
+      "tag_cn_long": "美国南达科他州的山峰，刻有四位美国总统巨型石雕。"
     },
     {
       "name": "Niagara Falls",
@@ -3440,9 +3440,9 @@
       "wiki_url": "/wiki_pages/niagara_falls",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尼亚加拉瀑布",
+      "confidence": "A",
+      "tag_cn_long": "位于美国和加拿大边境的著名瀑布群。"
     },
     {
       "name": "One World Trade Center",
@@ -3450,9 +3450,9 @@
       "wiki_url": "/wiki_pages/one_world_trade_center",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "世界贸易中心一号楼",
+      "confidence": "A",
+      "tag_cn_long": "取代双子塔的摩天大楼，位于纽约世贸中心遗址。"
     },
     {
       "name": "World Trade Center",
@@ -3460,9 +3460,9 @@
       "wiki_url": "/wiki_pages/world_trade_center",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "世界贸易中心",
+      "confidence": "A",
+      "tag_cn_long": "纽约曼哈顿的建筑群，原双子塔在911事件中被毁。"
     },
     {
       "name": "Oracle Park",
@@ -3470,9 +3470,9 @@
       "wiki_url": "/wiki_pages/oracle_park",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "甲骨文球场",
+      "confidence": "A",
+      "tag_cn_long": "旧金山巨人队的主场棒球场。"
     },
     {
       "name": "Rockefeller Center",
@@ -3480,9 +3480,9 @@
       "wiki_url": "/wiki_pages/rockefeller_center",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洛克菲勒中心",
+      "confidence": "A",
+      "tag_cn_long": "纽约曼哈顿的著名商业和娱乐建筑群。"
     },
     {
       "name": "Space Needle",
@@ -3490,9 +3490,9 @@
       "wiki_url": "/wiki_pages/space_needle",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太空针塔",
+      "confidence": "A",
+      "tag_cn_long": "西雅图的地标性观景塔。"
     },
     {
       "name": "Statue of Liberty",
@@ -3500,9 +3500,9 @@
       "wiki_url": "/wiki_pages/statue_of_liberty",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自由女神像",
+      "confidence": "A",
+      "tag_cn_long": "纽约港的巨型雕塑，象征自由。"
     },
     {
       "name": "Times Square",
@@ -3510,9 +3510,9 @@
       "wiki_url": "/wiki_pages/times_square",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "时代广场",
+      "confidence": "A",
+      "tag_cn_long": "纽约曼哈顿的繁华商业区与娱乐中心。"
     },
     {
       "name": "Transamerica Pyramid",
@@ -3520,9 +3520,9 @@
       "wiki_url": "/wiki_pages/transamerica_pyramid",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泛美金字塔",
+      "confidence": "A",
+      "tag_cn_long": "旧金山的地标性金字塔形摩天大楼。"
     },
     {
       "name": "Tropicana Field",
@@ -3530,9 +3530,9 @@
       "wiki_url": "/wiki_pages/tropicana_field",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纯品康纳球场",
+      "confidence": "A",
+      "tag_cn_long": "坦帕湾光芒队的主场棒球场。"
     },
     {
       "name": "Trump Tower",
@@ -3540,9 +3540,9 @@
       "wiki_url": "/wiki_pages/trump_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "特朗普大厦",
+      "confidence": "A",
+      "tag_cn_long": "纽约曼哈顿的摩天大楼，特朗普集团总部。"
     },
     {
       "name": "United States Capitol",
@@ -3550,9 +3550,9 @@
       "wiki_url": "/wiki_pages/united_states_capitol",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美国国会大厦",
+      "confidence": "A",
+      "tag_cn_long": "美国国会所在地，位于华盛顿特区。"
     },
     {
       "name": "Washington Monument",
@@ -3560,9 +3560,9 @@
       "wiki_url": "/wiki_pages/washington_monument",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "华盛顿纪念碑",
+      "confidence": "A",
+      "tag_cn_long": "华盛顿特区的地标性方尖碑。"
     },
     {
       "name": "White House",
@@ -3570,9 +3570,9 @@
       "wiki_url": "/wiki_pages/white_house",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白宫",
+      "confidence": "A",
+      "tag_cn_long": "美国总统的官邸和办公地点。"
     },
     {
       "name": "Willis Tower",
@@ -3580,9 +3580,9 @@
       "wiki_url": "/wiki_pages/willis_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "威利斯大厦",
+      "confidence": "A",
+      "tag_cn_long": "芝加哥的摩天大楼，曾名西尔斯大厦。"
     },
     {
       "name": "Christ the Redeemer",
@@ -3590,9 +3590,9 @@
       "wiki_url": "/wiki_pages/christ_the_redeemer",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "基督救世主雕像",
+      "confidence": "A",
+      "tag_cn_long": "里约热内卢科科瓦多山顶的巨型耶稣雕像。"
     },
     {
       "name": "Easter Island",
@@ -3600,9 +3600,9 @@
       "wiki_url": "/wiki_pages/easter_island",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "复活节岛",
+      "confidence": "A",
+      "tag_cn_long": "智利管辖的太平洋岛屿，以摩艾石像闻名。"
     },
     {
       "name": "Machu Picchu",
@@ -3610,9 +3610,9 @@
       "wiki_url": "/wiki_pages/machu_picchu",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马丘比丘",
+      "confidence": "A",
+      "tag_cn_long": "秘鲁的印加古城遗址。"
     },
     {
       "name": "Nazca lines",
@@ -3620,9 +3620,9 @@
       "wiki_url": "/wiki_pages/nazca_lines",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纳斯卡线条",
+      "confidence": "A",
+      "tag_cn_long": "秘鲁纳斯卡地区的巨型地画。"
     },
     {
       "name": "Our Lady of the Assumption",
@@ -3630,9 +3630,9 @@
       "wiki_url": "/wiki_pages/our_lady_of_the_assumption",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣母升天教堂",
+      "confidence": "B",
+      "tag_cn_long": "一座供奉圣母升天的天主教教堂。"
     },
     {
       "name": "Salar de Uyuni",
@@ -3640,9 +3640,9 @@
       "wiki_url": "/wiki_pages/salar_de_uyuni",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌尤尼盐沼",
+      "confidence": "A",
+      "tag_cn_long": "玻利维亚的世界最大盐滩，天空之镜。"
     },
     {
       "name": "Al-Masjid al-Nabawi",
@@ -3650,9 +3650,9 @@
       "wiki_url": "/wiki_pages/al-masjid_al-nabawi",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "先知清真寺",
+      "confidence": "A",
+      "tag_cn_long": "位于沙特阿拉伯麦地那的伊斯兰教第二大圣寺。"
     },
     {
       "name": "Angkor Wat",
@@ -3660,9 +3660,9 @@
       "wiki_url": "/wiki_pages/angkor_wat",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吴哥窟",
+      "confidence": "A",
+      "tag_cn_long": "柬埔寨吴哥地区的佛教/印度教寺庙群，世界上最大的宗教建筑群。"
     },
     {
       "name": "Bank of China Tower",
@@ -3670,9 +3670,9 @@
       "wiki_url": "/wiki_pages/bank_of_china_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中银大厦",
+      "confidence": "A",
+      "tag_cn_long": "香港中环的一栋摩天大楼，由贝聿铭设计。"
     },
     {
       "name": "Borobudur Temple",
@@ -3680,9 +3680,9 @@
       "wiki_url": "/wiki_pages/borobudur_temple",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "婆罗浮屠",
+      "confidence": "A",
+      "tag_cn_long": "印度尼西亚爪哇岛的世界最大佛教寺庙遗址。"
     },
     {
       "name": "Burj Al Arab",
@@ -3690,9 +3690,9 @@
       "wiki_url": "/wiki_pages/burj_al_arab",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿拉伯塔酒店",
+      "confidence": "A",
+      "tag_cn_long": "迪拜的七星级帆船形酒店。"
     },
     {
       "name": "Burj Khalifa",
@@ -3700,9 +3700,9 @@
       "wiki_url": "/wiki_pages/burj_khalifa",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哈利法塔",
+      "confidence": "A",
+      "tag_cn_long": "迪拜的摩天大楼，目前世界最高建筑，高828米。"
     },
     {
       "name": "Canton Tower",
@@ -3710,9 +3710,9 @@
       "wiki_url": "/wiki_pages/canton_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "广州塔",
+      "confidence": "A",
+      "tag_cn_long": "广州市的地标性电视塔，高600米。"
     },
     {
       "name": "Chubu Centrair International Airport",
@@ -3720,9 +3720,9 @@
       "wiki_url": "/wiki_pages/chubu_centrair_international_airport",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "中部国际机场",
+      "confidence": "A",
+      "tag_cn_long": "日本爱知县常滑市的人工岛机场，为名古屋主要空港。"
     },
     {
       "name": "Dome of the Rock",
@@ -3730,9 +3730,9 @@
       "wiki_url": "/wiki_pages/dome_of_the_rock",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆顶清真寺",
+      "confidence": "A",
+      "tag_cn_long": "耶路撒冷圣殿山上的伊斯兰教圣地，金色圆顶建筑。"
     },
     {
       "name": "Forbidden City",
@@ -3740,9 +3740,9 @@
       "wiki_url": "/wiki_pages/forbidden_city",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "故宫",
+      "confidence": "A",
+      "tag_cn_long": "北京中心的明清皇宫，现为故宫博物院。"
     },
     {
       "name": "Fushimi Inari Taisha",
@@ -3750,9 +3750,9 @@
       "wiki_url": "/wiki_pages/fushimi_inari_taisha",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伏见稻荷大社",
+      "confidence": "A",
+      "tag_cn_long": "日本京都市的稻荷神社总本社，以千本鸟居闻名。"
     },
     {
       "name": "Ginza Wako",
@@ -3760,9 +3760,9 @@
       "wiki_url": "/wiki_pages/ginza_wako",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "银座和光",
+      "confidence": "A",
+      "tag_cn_long": "东京银座的地标钟楼建筑，知名百货公司。"
     },
     {
       "name": "Great Wall of China",
@@ -3770,9 +3770,9 @@
       "wiki_url": "/wiki_pages/great_wall_of_china",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长城",
+      "confidence": "A",
+      "tag_cn_long": "中国北方的古代军事防御工程，世界文化遗产。"
     },
     {
       "name": "Himeji Castle",
@@ -3780,9 +3780,9 @@
       "wiki_url": "/wiki_pages/himeji_castle",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "姬路城",
+      "confidence": "A",
+      "tag_cn_long": "日本兵库县姬路市的白色城堡，日本国宝和世界遗产。"
     },
     {
       "name": "Hiroshima Peace Memorial",
@@ -3790,9 +3790,9 @@
       "wiki_url": "/wiki_pages/hiroshima_peace_memorial",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "广岛和平纪念碑",
+      "confidence": "A",
+      "tag_cn_long": "广岛原子弹爆炸遗迹，原广岛县产业奖励馆残骸。"
     },
     {
       "name": "JR Central Towers",
@@ -3800,9 +3800,9 @@
       "wiki_url": "/wiki_pages/jr_central_towers",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "JR中央塔",
+      "confidence": "A",
+      "tag_cn_long": "日本名古屋站上方的双塔建筑，含办公、酒店和商业设施。"
     },
     {
       "name": "Kaminarimon",
@@ -3810,9 +3810,9 @@
       "wiki_url": "/wiki_pages/kaminarimon",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雷门",
+      "confidence": "A",
+      "tag_cn_long": "东京浅草寺的正门，悬挂巨大灯笼。"
     },
     {
       "name": "Kanda Shrine",
@@ -3820,9 +3820,9 @@
       "wiki_url": "/wiki_pages/kanda_shrine",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "神田神社",
+      "confidence": "A",
+      "tag_cn_long": "东京千代田区的神社，以动漫文化关联闻名。"
     },
     {
       "name": "Kumamoto Castle",
@@ -3830,9 +3830,9 @@
       "wiki_url": "/wiki_pages/kumamoto_castle",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "熊本城",
+      "confidence": "A",
+      "tag_cn_long": "日本熊本县的古城，以黑色城墙和天守闻名。"
     },
     {
       "name": "Matsue Castle",
@@ -3840,9 +3840,9 @@
       "wiki_url": "/wiki_pages/matsue_castle",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "松江城",
+      "confidence": "A",
+      "tag_cn_long": "日本岛根县松江市的古城，日本国宝之一。"
     },
     {
       "name": "Mode Gakuen Cocoon Tower",
@@ -3850,9 +3850,9 @@
       "wiki_url": "/wiki_pages/mode_gakuen_cocoon_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "模式学园茧塔",
+      "confidence": "A",
+      "tag_cn_long": "东京新宿的茧形超高层建筑，高204米，内设时尚、科技等职业学校。"
     },
     {
       "name": "Mount Fuji",
@@ -3860,9 +3860,9 @@
       "wiki_url": "/wiki_pages/mount_fuji",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "富士山",
+      "confidence": "A",
+      "tag_cn_long": "日本最高峰（3776米），是象征性的活火山。"
     },
     {
       "name": "Nagoya Castle",
@@ -3870,9 +3870,9 @@
       "wiki_url": "/wiki_pages/nagoya_castle",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "名古屋城",
+      "confidence": "A",
+      "tag_cn_long": "日本爱知县名古屋市的著名城堡，金鯱装饰闻名。"
     },
     {
       "name": "Nanzen-ji Aqueduct",
@@ -3880,9 +3880,9 @@
       "wiki_url": "/wiki_pages/nanzen-ji_aqueduct",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "南禅寺水路阁",
+      "confidence": "A",
+      "tag_cn_long": "京都南禅寺内的砖造引水桥，建于明治时期。"
     },
     {
       "name": "National Diet Building",
@@ -3890,9 +3890,9 @@
       "wiki_url": "/wiki_pages/national_diet_building",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "国会议事堂",
+      "confidence": "A",
+      "tag_cn_long": "日本国会所在地，位于东京永田町的庄严建筑。"
     },
     {
       "name": "New National Stadium",
@@ -3900,9 +3900,9 @@
       "wiki_url": "/wiki_pages/new_national_stadium",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新国立竞技场",
+      "confidence": "A",
+      "tag_cn_long": "东京2020年奥运会主体育场，位于新宿区。"
     },
     {
       "name": "NTT Docomo Yoyogi Building",
@@ -3910,9 +3910,9 @@
       "wiki_url": "/wiki_pages/ntt_docomo_yoyogi_building",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "NTT Docomo代代木大楼",
+      "confidence": "A",
+      "tag_cn_long": "东京代代木的电信公司大楼，高240米的地标。"
     },
     {
       "name": "Ooarai Marine Tower",
@@ -3920,9 +3920,9 @@
       "wiki_url": "/wiki_pages/ooarai_marine_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大洗海洋塔",
+      "confidence": "A",
+      "tag_cn_long": "茨城县大洗町的观光塔，因《少女与战车》取景而知名。"
     },
     {
       "name": "Oriental Pearl Tower",
@@ -3930,9 +3930,9 @@
       "wiki_url": "/wiki_pages/oriental_pearl_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东方明珠塔",
+      "confidence": "A",
+      "tag_cn_long": "上海浦东陆家嘴的电视塔，高468米，有球体观景台。"
     },
     {
       "name": "Osaka Castle",
@@ -3940,9 +3940,9 @@
       "wiki_url": "/wiki_pages/osaka_castle",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大阪城",
+      "confidence": "A",
+      "tag_cn_long": "日本大阪市的著名城堡，天守阁金碧辉煌，历史悠久。"
     },
     {
       "name": "Penghu Tianho Temple",
@@ -3950,9 +3950,9 @@
       "wiki_url": "/wiki_pages/penghu_tianho_temple",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "澎湖天后宫",
+      "confidence": "A",
+      "tag_cn_long": "台湾澎湖的妈祖庙，建于明朝，是当地重要信仰中心。"
     },
     {
       "name": "Petra",
@@ -3960,9 +3960,9 @@
       "wiki_url": "/wiki_pages/petra_%28jordan%29",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佩特拉",
+      "confidence": "B",
+      "tag_cn_long": "约旦古城，以岩石雕刻的建筑闻名，世界遗产。"
     },
     {
       "name": "Petronas Twin Towers",
@@ -3970,9 +3970,9 @@
       "wiki_url": "/wiki_pages/petronas_twin_towers",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双子星塔",
+      "confidence": "A",
+      "tag_cn_long": "马来西亚吉隆坡的摩天大楼，高452米，曾是世界最高双塔。"
     },
     {
       "name": "Presidential Office Building",
@@ -3980,9 +3980,9 @@
       "wiki_url": "/wiki_pages/presidential_office_building",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "总统府",
+      "confidence": "A",
+      "tag_cn_long": "台湾总统的办公场所，位于台北市中正区，日治时期建筑。"
     },
     {
       "name": "Rei no Pool",
@@ -3990,9 +3990,9 @@
       "wiki_url": "/wiki_pages/rei_no_pool",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "例之泳池",
+      "confidence": "B",
+      "tag_cn_long": "东京新宿某建筑顶层的室内泳池，常用于成人影片拍摄。"
     },
     {
       "name": "Saw Sawing",
@@ -4000,9 +4000,9 @@
       "wiki_url": "/wiki_pages/saw_sawing",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锯锯雕塑",
+      "confidence": "C",
+      "tag_cn_long": "东京Big Sight附近的巨大锯子造型雕塑，高约15米。"
     },
     {
       "name": "Shibuya 109",
@@ -4010,9 +4010,9 @@
       "wiki_url": "/wiki_pages/shibuya_109",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "涩谷109",
+      "confidence": "A",
+      "tag_cn_long": "东京涩谷区的地标性购物中心，以年轻潮流时尚著称。"
     },
     {
       "name": "Shinjuku Park Tower",
@@ -4020,9 +4020,9 @@
       "wiki_url": "/wiki_pages/shinjuku_park_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新宿公园塔",
+      "confidence": "A",
+      "tag_cn_long": "东京新宿的摩天大楼，高235米，内有酒店和办公区。"
     },
     {
       "name": "Taipei 101",
@@ -4030,9 +4030,9 @@
       "wiki_url": "/wiki_pages/taipei_101",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "台北101",
+      "confidence": "A",
+      "tag_cn_long": "台湾台北的摩天大楼，高509米，曾是世界最高建筑。"
     },
     {
       "name": "Taj Mahal",
@@ -4040,9 +4040,9 @@
       "wiki_url": "/wiki_pages/taj_mahal",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泰姬陵",
+      "confidence": "A",
+      "tag_cn_long": "印度阿格拉的白色大理石陵墓，莫卧儿帝国建筑杰作。"
     },
     {
       "name": "Tiananmen Square",
@@ -4050,9 +4050,9 @@
       "wiki_url": "/wiki_pages/tiananmen_square",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天安门广场",
+      "confidence": "A",
+      "tag_cn_long": "位于中国北京市中心的大型广场，是重要的政治和历史地标。"
     },
     {
       "name": "Togetsukyou Bridge",
@@ -4060,9 +4060,9 @@
       "wiki_url": "/wiki_pages/togetsukyou_bridge",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渡月桥",
+      "confidence": "A",
+      "tag_cn_long": "日本京都岚山地区一座著名的木桥，横跨桂川。"
     },
     {
       "name": "Tokyo Big Sight",
@@ -4070,9 +4070,9 @@
       "wiki_url": "/wiki_pages/tokyo_big_sight",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京Big Sight",
+      "confidence": "A",
+      "tag_cn_long": "东京国际展览中心的俗称，以其倒金字塔形会议塔闻名，是Comiket等动漫展会举办地。"
     },
     {
       "name": "Tokyo City Hall",
@@ -4080,9 +4080,9 @@
       "wiki_url": "/wiki_pages/tokyo_city_hall",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京都厅",
+      "confidence": "A",
+      "tag_cn_long": "位于东京新宿的东京都政府总部大楼。"
     },
     {
       "name": "Tokyo Skytree",
@@ -4090,9 +4090,9 @@
       "wiki_url": "/wiki_pages/tokyo_skytree",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京晴空塔",
+      "confidence": "A",
+      "tag_cn_long": "日本东京的一座高634米的广播和观景塔，是世界最高的塔之一。"
     },
     {
       "name": "Tokyo Tower",
@@ -4100,9 +4100,9 @@
       "wiki_url": "/wiki_pages/tokyo_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "东京塔",
+      "confidence": "A",
+      "tag_cn_long": "东京的一座红色和白色钢制通信和观景塔，仿埃菲尔铁塔而建。"
     },
     {
       "name": "Tower of the Sun",
@@ -4110,9 +4110,9 @@
       "wiki_url": "/wiki_pages/tower_of_the_sun",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "太阳之塔",
+      "confidence": "A",
+      "tag_cn_long": "日本大阪万博纪念公园内的一座标志性雕塑，由冈本太郎创作。"
     },
     {
       "name": "Tsutenkaku",
@@ -4120,9 +4120,9 @@
       "wiki_url": "/wiki_pages/tsutenkaku",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "通天阁",
+      "confidence": "A",
+      "tag_cn_long": "日本大阪的一座观景塔，是大阪的象征性地标之一。"
     },
     {
       "name": "Umeda Sky Building",
@@ -4130,9 +4130,9 @@
       "wiki_url": "/wiki_pages/umeda_sky_building",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梅田蓝天大厦",
+      "confidence": "A",
+      "tag_cn_long": "日本大阪梅田地区的一座摩天大楼，以其空中庭园观景台闻名。"
     },
     {
       "name": "Washinomiya Shrine",
@@ -4140,9 +4140,9 @@
       "wiki_url": "/wiki_pages/washinomiya_shrine",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鹫宫神社",
+      "confidence": "A",
+      "tag_cn_long": "日本埼玉县久喜市的一座神社，因动画《幸运星》而知名。"
     },
     {
       "name": "Yasukuni Shrine",
@@ -4150,9 +4150,9 @@
       "wiki_url": "/wiki_pages/yasukuni_shrine",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "靖国神社",
+      "confidence": "A",
+      "tag_cn_long": "日本东京的一座神社，供奉为日本战死的军人，因政治争议而闻名。"
     },
     {
       "name": "Yokohama Landmark Tower",
@@ -4160,9 +4160,9 @@
       "wiki_url": "/wiki_pages/yokohama_landmark_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "横滨地标塔",
+      "confidence": "A",
+      "tag_cn_long": "日本横滨的一座296米高的摩天大楼，是横滨的地标建筑。"
     },
     {
       "name": "Allianz Arena",
@@ -4170,9 +4170,9 @@
       "wiki_url": "/wiki_pages/allianz_arena",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "安联球场",
+      "confidence": "A",
+      "tag_cn_long": "德国慕尼黑的一座足球场，拜仁慕尼黑的主场，以其充气外墙闻名。"
     },
     {
       "name": "Anfield",
@@ -4180,9 +4180,9 @@
       "wiki_url": "/wiki_pages/anfield_%28stadium%29",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "安菲尔德球场",
+      "confidence": "A",
+      "tag_cn_long": "英格兰利物浦的一座足球场，利物浦足球俱乐部的主场。"
     },
     {
       "name": "Arc de Triomphe",
@@ -4190,9 +4190,9 @@
       "wiki_url": "/wiki_pages/arc_de_triomphe",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凯旋门",
+      "confidence": "A",
+      "tag_cn_long": "法国巴黎的一座巨大凯旋门，为纪念拿破仑的胜利而建。"
     },
     {
       "name": "Berlaymont Building",
@@ -4200,9 +4200,9 @@
       "wiki_url": "/wiki_pages/berlaymont_building",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "贝拉蒙大厦",
+      "confidence": "B",
+      "tag_cn_long": "比利时布鲁塞尔的一座建筑，是欧盟委员会的总部所在地。"
     },
     {
       "name": "Berlin Wall",
@@ -4210,9 +4210,9 @@
       "wiki_url": "/wiki_pages/berlin_wall",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "柏林墙",
+      "confidence": "A",
+      "tag_cn_long": "1961年至1989年分隔东西柏林的一道围墙，是冷战象征。"
     },
     {
       "name": "Berliner Fernsehturm",
@@ -4220,9 +4220,9 @@
       "wiki_url": "/wiki_pages/berliner_fernsehturm",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "柏林电视塔",
+      "confidence": "A",
+      "tag_cn_long": "德国柏林的一座368米高的电视塔，是柏林的地标和最高建筑。"
     },
     {
       "name": "Bramall Lane",
@@ -4230,9 +4230,9 @@
       "wiki_url": "/wiki_pages/bramall_lane",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "布拉莫巷球场",
+      "confidence": "B",
+      "tag_cn_long": "英格兰谢菲尔德的一座足球场，谢菲尔德联队的主场。"
     },
     {
       "name": "Brandenburg Gate",
@@ -4240,9 +4240,9 @@
       "wiki_url": "/wiki_pages/brandenburg_gate",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "勃兰登堡门",
+      "confidence": "A",
+      "tag_cn_long": "德国柏林的一座新古典主义风格纪念碑，是柏林的重要象征。"
     },
     {
       "name": "Buckingham Palace",
@@ -4250,9 +4250,9 @@
       "wiki_url": "/wiki_pages/buckingham_palace",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白金汉宫",
+      "confidence": "A",
+      "tag_cn_long": "英国君主在伦敦的官方官邸和行政总部。"
     },
     {
       "name": "Camp Nou",
@@ -4260,9 +4260,9 @@
       "wiki_url": "/wiki_pages/camp_nou",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "诺坎普球场",
+      "confidence": "A",
+      "tag_cn_long": "巴塞罗那足球俱乐部的主场体育场。"
     },
     {
       "name": "Cathedral of Santa Eulalia",
@@ -4270,9 +4270,9 @@
       "wiki_url": "/wiki_pages/cathedral_of_santa_eulalia",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣埃乌拉利亚主教座堂",
+      "confidence": "A",
+      "tag_cn_long": "位于西班牙巴塞罗那的哥特式主教座堂。"
     },
     {
       "name": "Chernobyl NPP",
@@ -4280,9 +4280,9 @@
       "wiki_url": "/wiki_pages/chernobyl_npp",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "切尔诺贝利核电站",
+      "confidence": "A",
+      "tag_cn_long": "乌克兰切尔诺贝利的核电站，因1986年核事故而闻名。"
     },
     {
       "name": "Church of the Savior on Blood",
@@ -4290,9 +4290,9 @@
       "wiki_url": "/wiki_pages/church_of_the_savior_on_blood",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "滴血救世主教堂",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯圣彼得堡的一座洋葱顶东正教教堂。"
     },
     {
       "name": "Cologne Cathedral",
@@ -4300,9 +4300,9 @@
       "wiki_url": "/wiki_pages/cologne_cathedral",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "科隆大教堂",
+      "confidence": "A",
+      "tag_cn_long": "德国科隆的哥特式天主教主教座堂，拥有双塔。"
     },
     {
       "name": "Colosseum",
@@ -4310,9 +4310,9 @@
       "wiki_url": "/wiki_pages/colosseum",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗马斗兽场",
+      "confidence": "A",
+      "tag_cn_long": "意大利罗马的椭圆形古罗马竞技场，著名遗迹。"
     },
     {
       "name": "Eiffel Tower",
@@ -4320,9 +4320,9 @@
       "wiki_url": "/wiki_pages/eiffel_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "埃菲尔铁塔",
+      "confidence": "A",
+      "tag_cn_long": "法国巴黎的锻铁塔，世界著名地标。"
     },
     {
       "name": "Elizabeth Tower",
@@ -4330,9 +4330,9 @@
       "wiki_url": "/wiki_pages/elizabeth_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "伊丽莎白塔",
+      "confidence": "A",
+      "tag_cn_long": "伦敦威斯敏斯特宫的钟楼，俗称大本钟。"
     },
     {
       "name": "Estadio Santiago Bernabeu",
@@ -4340,9 +4340,9 @@
       "wiki_url": "/wiki_pages/estadio_santiago_bernabeu",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣地亚哥·伯纳乌球场",
+      "confidence": "A",
+      "tag_cn_long": "皇家马德里足球俱乐部的主场体育场。"
     },
     {
       "name": "Florence Cathedral",
@@ -4350,9 +4350,9 @@
       "wiki_url": "/wiki_pages/florence_cathedral",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "佛罗伦萨主教座堂",
+      "confidence": "A",
+      "tag_cn_long": "意大利佛罗伦萨的圣母百花大教堂，拥有著名穹顶。"
     },
     {
       "name": "Hagia Sophia",
@@ -4360,9 +4360,9 @@
       "wiki_url": "/wiki_pages/hagia_sophia",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣索菲亚大教堂",
+      "confidence": "A",
+      "tag_cn_long": "土耳其伊斯坦布尔的巨大穹顶建筑，曾为教堂、清真寺和博物馆。"
     },
     {
       "name": "Leaning Tower of Pisa",
@@ -4370,9 +4370,9 @@
       "wiki_url": "/wiki_pages/leaning_tower_of_pisa",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "比萨斜塔",
+      "confidence": "A",
+      "tag_cn_long": "意大利比萨的钟楼，因倾斜而闻名。"
     },
     {
       "name": "Louvre Pyramid",
@@ -4380,9 +4380,9 @@
       "wiki_url": "/wiki_pages/louvre_pyramid",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卢浮宫金字塔",
+      "confidence": "A",
+      "tag_cn_long": "巴黎卢浮宫前的玻璃金字塔入口。"
     },
     {
       "name": "Luxor Obelisk",
@@ -4390,9 +4390,9 @@
       "wiki_url": "/wiki_pages/luxor_obelisk",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卢克索方尖碑",
+      "confidence": "A",
+      "tag_cn_long": "埃及古卢克索神庙的方尖碑，现位于巴黎协和广场。"
     },
     {
       "name": "Milan Cathedral",
@@ -4400,9 +4400,9 @@
       "wiki_url": "/wiki_pages/milan_cathedral",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "米兰大教堂",
+      "confidence": "A",
+      "tag_cn_long": "意大利米兰的哥特式主教座堂，装饰华丽。"
     },
     {
       "name": "Mont St-Michel",
@@ -4410,9 +4410,9 @@
       "wiki_url": "/wiki_pages/mont_st-michel",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣米歇尔山",
+      "confidence": "A",
+      "tag_cn_long": "法国诺曼底的潮汐岛和修道院，世界遗产。"
     },
     {
       "name": "Moscow Kremlin",
@@ -4420,9 +4420,9 @@
       "wiki_url": "/wiki_pages/moscow_kremlin",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "莫斯科克里姆林宫",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯莫斯科的城堡建筑群，总统官邸所在地。"
     },
     {
       "name": "Neuschwanstein Castle",
@@ -4430,9 +4430,9 @@
       "wiki_url": "/wiki_pages/neuschwanstein_castle",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "新天鹅堡",
+      "confidence": "A",
+      "tag_cn_long": "德国巴伐利亚的童话风格城堡，迪士尼城堡原型。"
     },
     {
       "name": "Notre Dame de Paris",
@@ -4440,9 +4440,9 @@
       "wiki_url": "/wiki_pages/notre_dame_de_paris",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巴黎圣母院",
+      "confidence": "A",
+      "tag_cn_long": "法国巴黎的哥特式天主教主教座堂，曾遭火灾。"
     },
     {
       "name": "Old Town Square",
@@ -4450,9 +4450,9 @@
       "wiki_url": "/wiki_pages/old_town_square_%28prague%29",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "老城广场",
+      "confidence": "A",
+      "tag_cn_long": "欧洲许多城市的历史中心广场，常作为公共聚会和地标。"
     },
     {
       "name": "Palace of the Parliament",
@@ -4460,9 +4460,9 @@
       "wiki_url": "/wiki_pages/palace_of_the_parliament",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "议会宫",
+      "confidence": "A",
+      "tag_cn_long": "罗马尼亚布加勒斯特的巨型建筑，原为独裁者齐奥塞斯库建造，现为议会所在地。"
     },
     {
       "name": "Palacio de Carlos V",
@@ -4470,9 +4470,9 @@
       "wiki_url": "/wiki_pages/palacio_de_carlos_v",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "查理五世宫",
+      "confidence": "A",
+      "tag_cn_long": "西班牙格拉纳达阿尔罕布拉宫内的文艺复兴风格宫殿。"
     },
     {
       "name": "Parthenon",
@@ -4480,9 +4480,9 @@
       "wiki_url": "/wiki_pages/parthenon",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帕特农神庙",
+      "confidence": "A",
+      "tag_cn_long": "古希腊雅典卫城上的雅典娜女神神庙，现为著名遗址。"
     },
     {
       "name": "Reichstag",
@@ -4490,9 +4490,9 @@
       "wiki_url": "/wiki_pages/reichstag",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "国会大厦",
+      "confidence": "A",
+      "tag_cn_long": "德国柏林的议会建筑，现为联邦议院所在地。"
     },
     {
       "name": "Sagrada Familia",
@@ -4500,9 +4500,9 @@
       "wiki_url": "/wiki_pages/sagrada_familia",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣家堂",
+      "confidence": "A",
+      "tag_cn_long": "西班牙巴塞罗那的天主教大教堂，由高迪设计，尚未完工。"
     },
     {
       "name": "Sant'Elmo",
@@ -4510,9 +4510,9 @@
       "wiki_url": "/wiki_pages/sant%27elmo",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣埃尔莫城堡",
+      "confidence": "A",
+      "tag_cn_long": "意大利那不勒斯的一座城堡，现为博物馆。"
     },
     {
       "name": "Sanssouci Palace",
@@ -4520,9 +4520,9 @@
       "wiki_url": "/wiki_pages/sanssouci_palace",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无忧宫",
+      "confidence": "A",
+      "tag_cn_long": "德国波茨坦的洛可可风格宫殿，腓特烈大帝的夏宫。"
     },
     {
       "name": "Schoenbrunn Palace",
@@ -4530,9 +4530,9 @@
       "wiki_url": "/wiki_pages/schoenbrunn_palace",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美泉宫",
+      "confidence": "A",
+      "tag_cn_long": "奥地利维也纳的巴洛克皇宫，曾是哈布斯堡王朝的夏宫。"
     },
     {
       "name": "Spasskaya Tower",
@@ -4540,9 +4540,9 @@
       "wiki_url": "/wiki_pages/spasskaya_tower",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斯巴斯克塔",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯莫斯科克里姆林宫的钟楼，以钟声和红星装饰闻名。"
     },
     {
       "name": "St. Basil's Cathedral",
@@ -4550,9 +4550,9 @@
       "wiki_url": "/wiki_pages/st._basil%27s_cathedral",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣瓦西里大教堂",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯莫斯科红场的东正教教堂，以彩色洋葱顶著称。"
     },
     {
       "name": "St. Peter's Basilica",
@@ -4560,9 +4560,9 @@
       "wiki_url": "/wiki_pages/st._peter%27s_basilica",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣彼得大教堂",
+      "confidence": "A",
+      "tag_cn_long": "梵蒂冈的天主教宗座圣殿，世界上最大的教堂之一。"
     },
     {
       "name": "St. Peter's Square",
@@ -4570,9 +4570,9 @@
       "wiki_url": "/wiki_pages/st._peter%27s_square",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圣彼得广场",
+      "confidence": "A",
+      "tag_cn_long": "梵蒂冈圣彼得大教堂前的椭圆形广场，由柱廊环绕。"
     },
     {
       "name": "Stonehenge",
@@ -4580,9 +4580,9 @@
       "wiki_url": "/wiki_pages/stonehenge",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巨石阵",
+      "confidence": "A",
+      "tag_cn_long": "英国威尔特郡的史前巨石遗迹，建于公元前3000年左右。"
     },
     {
       "name": "Trafalgar Square",
@@ -4590,9 +4590,9 @@
       "wiki_url": "/wiki_pages/trafalgar_square",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "特拉法加广场",
+      "confidence": "A",
+      "tag_cn_long": "英国伦敦市中心广场，以纳尔逊纪念柱和狮子雕像闻名。"
     },
     {
       "name": "Nelson's Column",
@@ -4600,9 +4600,9 @@
       "wiki_url": "/wiki_pages/nelson%27s_column",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纳尔逊纪念柱",
+      "confidence": "A",
+      "tag_cn_long": "英国伦敦特拉法加广场上为纪念海军上将纳尔逊而建的圆柱形纪念碑。"
     },
     {
       "name": "Westminster Palace",
@@ -4610,9 +4610,9 @@
       "wiki_url": "/wiki_pages/westminster_palace",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "威斯敏斯特宫",
+      "confidence": "A",
+      "tag_cn_long": "英国伦敦泰晤士河畔的议会大厦，哥特复兴式建筑，包含大本钟。"
     },
     {
       "name": "Abu Simbel",
@@ -4620,9 +4620,9 @@
       "wiki_url": "/wiki_pages/abu_simbel",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿布辛贝神庙",
+      "confidence": "A",
+      "tag_cn_long": "埃及的古代神庙，由拉美西斯二世建造，以巨型雕像著称。"
     },
     {
       "name": "Great Pyramid of Giza",
@@ -4630,9 +4630,9 @@
       "wiki_url": "/wiki_pages/great_pyramid_of_giza",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉萨大金字塔",
+      "confidence": "A",
+      "tag_cn_long": "埃及吉萨的胡夫金字塔，古代世界七大奇迹之一。"
     },
     {
       "name": "Great Sphinx of Giza",
@@ -4640,9 +4640,9 @@
       "wiki_url": "/wiki_pages/great_sphinx_of_giza",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吉萨大狮身人面像",
+      "confidence": "A",
+      "tag_cn_long": "埃及吉萨的石灰岩雕像，具有狮身人面，位于金字塔群附近。"
     },
     {
       "name": "Moai",
@@ -4650,9 +4650,9 @@
       "wiki_url": "/wiki_pages/moai",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摩艾石像",
+      "confidence": "A",
+      "tag_cn_long": "复活节岛著名的人形石雕像。"
     },
     {
       "name": "Sydney Harbour Bridge",
@@ -4660,9 +4660,9 @@
       "wiki_url": "/wiki_pages/sydney_harbour_bridge",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "悉尼海港大桥",
+      "confidence": "A",
+      "tag_cn_long": "澳大利亚悉尼的一座钢拱桥，是城市标志性建筑。"
     },
     {
       "name": "Sydney Opera House",
@@ -4670,9 +4670,9 @@
       "wiki_url": "/wiki_pages/sydney_opera_house",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "悉尼歌剧院",
+      "confidence": "A",
+      "tag_cn_long": "澳大利亚悉尼的著名表演艺术中心，以帆形外观闻名。"
     },
     {
       "name": "Uluru",
@@ -4680,9 +4680,9 @@
       "wiki_url": "/wiki_pages/uluru",
       "category_path": "Buildings and Landmarks",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌鲁鲁巨岩",
+      "confidence": "A",
+      "tag_cn_long": "澳大利亚中部巨大的红色砂岩，又称艾尔斯岩。"
     },
     {
       "name": "location request",
@@ -4690,9 +4690,9 @@
       "wiki_url": "/wiki_pages/location_request",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "地点请求",
+      "confidence": "B",
+      "tag_cn_long": "提醒需要为图片添加真实地理位置标签。"
     }
   ],
   "total_tags": 467,

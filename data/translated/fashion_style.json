@@ -48,9 +48,9 @@
       "wiki_url": "/wiki_pages/1950s_fashion",
       "category_path": "General/Decades",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "1950年代时尚",
+      "confidence": "A",
+      "tag_cn_long": "20世纪50年代的流行服饰风格。"
     },
     {
       "name": "1960s fashion",
@@ -58,9 +58,9 @@
       "wiki_url": "/wiki_pages/1960s_fashion",
       "category_path": "General/Decades",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "1960年代时尚",
+      "confidence": "A",
+      "tag_cn_long": "20世纪60年代的流行服饰风格。"
     },
     {
       "name": "1970s fashion",
@@ -68,9 +68,9 @@
       "wiki_url": "/wiki_pages/1970s_fashion",
       "category_path": "General/Decades",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "1970年代时尚",
+      "confidence": "A",
+      "tag_cn_long": "20世纪70年代的流行服饰风格。"
     },
     {
       "name": "1980s fashion",
@@ -78,9 +78,9 @@
       "wiki_url": "/wiki_pages/1980s_fashion",
       "category_path": "General/Decades",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "1980年代时尚",
+      "confidence": "A",
+      "tag_cn_long": "20世纪80年代的流行服饰风格。"
     },
     {
       "name": "1990s fashion",
@@ -88,9 +88,9 @@
       "wiki_url": "/wiki_pages/1990s_fashion",
       "category_path": "General/Decades",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "1990年代时尚",
+      "confidence": "A",
+      "tag_cn_long": "20世纪90年代的流行服饰风格。"
     },
     {
       "name": "Y2K fashion",
@@ -98,9 +98,9 @@
       "wiki_url": "/wiki_pages/y2k_fashion",
       "category_path": "General/Decades",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Y2K时尚",
+      "confidence": "A",
+      "tag_cn_long": "20世纪90年代末至21世纪初的复古未来主义服饰风格。"
     },
     {
       "name": "Bodycon",
@@ -108,9 +108,9 @@
       "wiki_url": "/wiki_pages/bodycon",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紧身装",
+      "confidence": "A",
+      "tag_cn_long": "一种日本时尚风格，穿着紧身合体的衣物，如短连衣裙，常配手扇。"
     },
     {
       "name": "Choco Girl",
@@ -118,9 +118,9 @@
       "wiki_url": "/wiki_pages/choco_girl",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巧克力女孩",
+      "confidence": "C",
+      "tag_cn_long": "一种日本时尚风格，可能涉及巧克力色或甜美装扮，具体不详。"
     },
     {
       "name": "Cyber fashion",
@@ -128,9 +128,9 @@
       "wiki_url": "/wiki_pages/cyber_fashion",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "赛博时尚",
+      "confidence": "B",
+      "tag_cn_long": "起源于1990年代原宿的日本时尚风格，强调人造材质、透明、发光等未来感元素。"
     },
     {
       "name": "Decora",
@@ -138,9 +138,9 @@
       "wiki_url": "/wiki_pages/decora",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "装饰系",
+      "confidence": "A",
+      "tag_cn_long": "一种以大量鲜艳配饰和叠穿为特点的日本原宿时尚风格。"
     },
     {
       "name": "Fairy Kei",
@@ -148,9 +148,9 @@
       "wiki_url": "/wiki_pages/fairy_kei",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "精灵系",
+      "confidence": "A",
+      "tag_cn_long": "一种以柔和色彩、童话主题和怀旧元素为特征的甜美日本时尚风格。"
     },
     {
       "name": "French Girly",
@@ -158,9 +158,9 @@
       "wiki_url": "/wiki_pages/french_girly",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法式少女",
+      "confidence": "A",
+      "tag_cn_long": "融合法式优雅与甜美少女感的日本时尚风格，常使用蕾丝、蝴蝶结等元素。"
     },
     {
       "name": "Gothic Punk",
@@ -168,9 +168,9 @@
       "wiki_url": "/wiki_pages/gothic_punk",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哥特朋克",
+      "confidence": "A",
+      "tag_cn_long": "结合哥特暗黑与朋克叛逆的时尚风格，常见黑色、铆钉、皮革等元素。"
     },
     {
       "name": "Gurokawa",
@@ -178,9 +178,9 @@
       "wiki_url": "/wiki_pages/gurokawa",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "血腥可爱",
+      "confidence": "B",
+      "tag_cn_long": "一种将血腥恐怖元素与可爱风格结合的反差时尚，常见道具如假血、绷带。"
     },
     {
       "name": "Hadeko",
@@ -188,9 +188,9 @@
       "wiki_url": "/wiki_pages/hadeko",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "华丽系",
+      "confidence": "B",
+      "tag_cn_long": "以鲜艳色彩、华丽装饰和强烈视觉冲击为特点的日本少女时尚风格。"
     },
     {
       "name": "Heisei Retro",
@@ -198,9 +198,9 @@
       "wiki_url": "/wiki_pages/heisei_retro",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "平成复古",
+      "confidence": "A",
+      "tag_cn_long": "基于对平成时代（90-00年代）怀旧的时尚风格，常见彩虹、动物、闪光等元素。"
     },
     {
       "name": "Himekaji",
@@ -208,9 +208,9 @@
       "wiki_url": "/wiki_pages/himekaji",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "公主休闲",
+      "confidence": "A",
+      "tag_cn_long": "一种优雅又休闲的日本女性时尚，融合公主风格的蕾丝、荷叶边与日常单品。"
     },
     {
       "name": "Idol clothes",
@@ -218,9 +218,9 @@
       "wiki_url": "/wiki_pages/idol_clothes",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "偶像服装",
+      "confidence": "A",
+      "tag_cn_long": "日本偶像表演时穿着的华丽舞台服饰，女性多为蓬裙，男性多为西装。"
     },
     {
       "name": "Jersey Maid",
@@ -238,9 +238,9 @@
       "wiki_url": "/wiki_pages/jirai_kei",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "地雷系",
+      "confidence": "A",
+      "tag_cn_long": "一种以粉黑配色、双马尾、口罩和短裙为特征的日本时尚风格，源于歌舞伎町。"
     },
     {
       "name": "Mori Kei",
@@ -248,9 +248,9 @@
       "wiki_url": "/wiki_pages/mori_kei",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "森系",
+      "confidence": "A",
+      "tag_cn_long": "模仿森林居住感觉的日本时尚风格，使用自然材质、蕾丝、多层宽松服装。"
     },
     {
       "name": "Ouji fashion",
@@ -258,9 +258,9 @@
       "wiki_url": "/wiki_pages/ouji_fashion",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "王子系",
+      "confidence": "A",
+      "tag_cn_long": "Lolita时尚的男性对应风格，基于维多利亚时期贵族男装，常搭配礼帽、披风。"
     },
     {
       "name": "Shinora",
@@ -268,9 +268,9 @@
       "wiki_url": "/wiki_pages/shinora",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "品良系",
+      "confidence": "D",
+      "tag_cn_long": "一种来源不明的日本时尚风格，需进一步查证。"
     },
     {
       "name": "Tenshi Kaiwai",
@@ -278,9 +278,9 @@
       "wiki_url": "/wiki_pages/tenshi_kaiwai",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "天使系",
+      "confidence": "B",
+      "tag_cn_long": "以浅蓝和白色为主色调的日本时尚风格，常带有天使、水、科技元素。"
     },
     {
       "name": "Visual Kei",
@@ -288,9 +288,9 @@
       "wiki_url": "/wiki_pages/visual_kei",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "视觉系",
+      "confidence": "A",
+      "tag_cn_long": "日本音乐与时尚风格，强调华丽妆容、发型和哥特式服装。"
     },
     {
       "name": "Yami Kawaii",
@@ -298,9 +298,9 @@
       "wiki_url": "/wiki_pages/yami_kawaii",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "病态可爱",
+      "confidence": "A",
+      "tag_cn_long": "以‘病态可爱’为主题，使用假枪、注射器、绷带等道具表现的时尚风格。"
     },
     {
       "name": "Yume Kawaii",
@@ -308,9 +308,9 @@
       "wiki_url": "/wiki_pages/yume_kawaii",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "梦幻可爱",
+      "confidence": "A",
+      "tag_cn_long": "以梦幻、漂浮感为特点的日本时尚风格，常用柔和粉彩和复古少女漫画元素。"
     },
     {
       "name": "Gyaru",
@@ -328,9 +328,9 @@
       "wiki_url": "/wiki_pages/agejo_gyaru",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "姬辣",
+      "confidence": "B",
+      "tag_cn_long": "Gyaru的一种子风格，强调华丽公主感，常见于夜店女公关的装扮。"
     },
     {
       "name": "Amekaji Gyaru",
@@ -338,9 +338,9 @@
       "wiki_url": "/wiki_pages/amekaji_gyaru",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美式休闲辣妹",
+      "confidence": "B",
+      "tag_cn_long": "一种融合美式休闲服装风格的辣妹时尚，常搭配宽松上衣和牛仔裤等。"
     },
     {
       "name": "Amesuku Gyaru",
@@ -348,9 +348,9 @@
       "wiki_url": "/wiki_pages/amesuku_gyaru",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美国学校辣妹",
+      "confidence": "B",
+      "tag_cn_long": "一种极端辣妹风格，校服上衣敞开系在腰间，露出内衣，短裙极短，强调身体曲线。"
     },
     {
       "name": "Ganguro",
@@ -358,9 +358,9 @@
       "wiki_url": "/wiki_pages/ganguro",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "颜黑辣妹",
+      "confidence": "A",
+      "tag_cn_long": "一种辣妹分支，以深色晒黑皮肤、浅色漂染头发（橙色、金色或银灰）为特征，搭配鲜艳服饰。"
     },
     {
       "name": "Gyaruo",
@@ -368,9 +368,9 @@
       "wiki_url": "/wiki_pages/gyaruo",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "男辣妹",
+      "confidence": "A",
+      "tag_cn_long": "辣妹风格的男性版本，通常有晒黑皮肤、金发和宽松时尚的着装。"
     },
     {
       "name": "Hime Gyaru",
@@ -378,9 +378,9 @@
       "wiki_url": "/wiki_pages/hime_gyaru",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "公主辣妹",
+      "confidence": "A",
+      "tag_cn_long": "一种强调华丽公主风格的辣妹时尚，常搭配皇冠、蓬裙和精致妆容。"
     },
     {
       "name": "Kogal",
@@ -388,9 +388,9 @@
       "wiki_url": "/wiki_pages/kogal",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "高中辣妹",
+      "confidence": "A",
+      "tag_cn_long": "日本女高中生中的辣妹风格，校服裙子改短，浓妆，染发，使用特殊俚语。"
     },
     {
       "name": "Manba Gyaru",
@@ -398,9 +398,9 @@
       "wiki_url": "/wiki_pages/manba_gyaru",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "曼巴辣妹",
+      "confidence": "B",
+      "tag_cn_long": "一种极端的辣妹风格，肤色极深，眼妆和唇妆为白色，搭配荧光色服饰。"
     },
     {
       "name": "Onee Gyaru",
@@ -408,9 +408,9 @@
       "wiki_url": "/wiki_pages/onee_gyaru",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "姐姐辣妹",
+      "confidence": "A",
+      "tag_cn_long": "面向成年女性的辣妹风格，更显成熟性感，妆容和服饰较为优雅。"
     },
     {
       "name": "Lolita fashion",
@@ -428,9 +428,9 @@
       "wiki_url": "/wiki_pages/classic_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "古典洛丽塔",
+      "confidence": "A",
+      "tag_cn_long": "洛丽塔的一个分支，基于历史服饰，色调沉稳，印花精致，风格成熟优雅。"
     },
     {
       "name": "Country Lolita",
@@ -438,9 +438,9 @@
       "wiki_url": "/wiki_pages/country_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "田园洛丽塔",
+      "confidence": "A",
+      "tag_cn_long": "融合田园元素的洛丽塔风格，常使用碎花、草帽、篮子等配件，色调柔和自然。"
     },
     {
       "name": "Gothic Lolita",
@@ -448,9 +448,9 @@
       "wiki_url": "/wiki_pages/gothic_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哥特洛丽塔",
+      "confidence": "A",
+      "tag_cn_long": "结合哥特风格的洛丽塔，主色调为黑、暗红等，常见十字架、蕾丝、蝴蝶结等装饰。"
     },
     {
       "name": "Hime Lolita",
@@ -458,9 +458,9 @@
       "wiki_url": "/wiki_pages/hime_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "公主洛丽塔",
+      "confidence": "A",
+      "tag_cn_long": "洛丽塔中的公主风格，大量运用皇冠、珍珠、缎带等贵族元素，裙摆华丽。"
     },
     {
       "name": "Jo Lolita",
@@ -468,9 +468,9 @@
       "wiki_url": "/wiki_pages/jo_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乔洛丽塔",
+      "confidence": "C",
+      "tag_cn_long": "一种中性或男性化的洛丽塔风格，具体定义较模糊，可能指融合男装元素的洛丽塔。"
     },
     {
       "name": "Military Lolita",
@@ -478,9 +478,9 @@
       "wiki_url": "/wiki_pages/military_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "军事洛丽塔",
+      "confidence": "A",
+      "tag_cn_long": "融入军装元素的洛丽塔风格，常见肩章、军帽、腰带等，兼具硬朗与可爱。"
     },
     {
       "name": "Punk Lolita",
@@ -488,9 +488,9 @@
       "wiki_url": "/wiki_pages/punk_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "朋克洛丽塔",
+      "confidence": "A",
+      "tag_cn_long": "结合朋克风格的洛丽塔，使用铆钉、破洞、格纹、链子等元素，带有反叛感。"
     },
     {
       "name": "Qi Lolita",
@@ -498,9 +498,9 @@
       "wiki_url": "/wiki_pages/qi_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "齐胸洛丽塔",
+      "confidence": "B",
+      "tag_cn_long": "融合中国齐胸襦裙或旗袍元素的洛丽塔风格，常见立领、盘扣、侧开衩等。"
     },
     {
       "name": "Sweet Lolita",
@@ -508,9 +508,9 @@
       "wiki_url": "/wiki_pages/sweet_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "甜系洛丽塔",
+      "confidence": "A",
+      "tag_cn_long": "洛丽塔中最甜美的一支，以粉、白、浅蓝等柔和色为主，大量使用蕾丝、蝴蝶结、糖果图案。"
     },
     {
       "name": "Viet Lolita",
@@ -518,9 +518,9 @@
       "wiki_url": "/wiki_pages/viet_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "越南洛丽塔",
+      "confidence": "B",
+      "tag_cn_long": "融入越南传统服饰（如奥黛）元素的洛丽塔风格，常见流苏、刺绣等细节。"
     },
     {
       "name": "Wa Lolita",
@@ -528,9 +528,9 @@
       "wiki_url": "/wiki_pages/wa_lolita",
       "category_path": "Japanese fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "和风洛丽塔",
+      "confidence": "A",
+      "tag_cn_long": "结合日本和服、浴衣等传统服装元素的洛丽塔风格，常见腰带、和式花纹等。"
     },
     {
       "name": "Balletcore",
@@ -538,9 +538,9 @@
       "wiki_url": "/wiki_pages/balletcore",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "芭蕾风",
+      "confidence": "A",
+      "tag_cn_long": "一种以芭蕾舞服装元素为灵感的时尚风格，强调柔美、优雅的轮廓和细节。"
     },
     {
       "name": "Beatnik",
@@ -548,9 +548,9 @@
       "wiki_url": "/wiki_pages/beatnik",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "垮掉派风",
+      "confidence": "A",
+      "tag_cn_long": "源自20世纪50年代“垮掉的一代”的时尚风格，常穿黑色高领衫、贝雷帽，追求反主流文化。"
     },
     {
       "name": "Cybergoth",
@@ -558,9 +558,9 @@
       "wiki_url": "/wiki_pages/cybergoth",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "赛博哥特风",
+      "confidence": "A",
+      "tag_cn_long": "结合赛博朋克与哥特风格的时尚，常使用荧光色、护目镜、厚底靴等元素。"
     },
     {
       "name": "E-Kid fashion",
@@ -568,9 +568,9 @@
       "wiki_url": "/wiki_pages/e-kid_fashion",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "E-Kid风",
+      "confidence": "B",
+      "tag_cn_long": "一种受互联网亚文化影响的时尚风格，常穿宽松卫衣、格纹裤、彩色发片等。"
     },
     {
       "name": "Emo fashion",
@@ -578,9 +578,9 @@
       "wiki_url": "/wiki_pages/emo_fashion",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Emo风",
+      "confidence": "A",
+      "tag_cn_long": "源自2000年代情绪摇滚亚文化的时尚风格，以黑色或深色衣物、紧身牛仔裤、厚刘海、眼线等为特征。"
     },
     {
       "name": "Greaser fashion",
@@ -588,9 +588,9 @@
       "wiki_url": "/wiki_pages/greaser_fashion",
       "category_path": "Western fashion styles",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "油头风",
+      "confidence": "A",
+      "tag_cn_long": "源自1950年代美国街头文化，以皮夹克、白T恤、牛仔裤、油头为标志。"
     },
     {
       "name": "Grunge",
@@ -598,9 +598,9 @@
       "wiki_url": "/wiki_pages/grunge_%28fashion%29",
       "category_path": "Western fashion styles",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "垃圾摇滚风",
+      "confidence": "A",
+      "tag_cn_long": "源自1990年代西雅图垃圾摇滚音乐的时尚，以破洞牛仔裤、法兰绒衬衫、不修边幅为特点。"
     },
     {
       "name": "Hipster",
@@ -608,9 +608,9 @@
       "wiki_url": "/wiki_pages/hipster",
       "category_path": "Western fashion styles",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嬉皮风格",
+      "confidence": "B",
+      "tag_cn_long": "一种追求独立、复古、非主流的时尚风格，常戴黑框眼镜、穿格子衫、窄腿裤等。"
     },
     {
       "name": "McBling",
@@ -618,9 +618,9 @@
       "wiki_url": "/wiki_pages/mcbling",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "麦克布林风",
+      "confidence": "C",
+      "tag_cn_long": "一种21世纪初的时尚风格，混合了嘻哈、闪亮配饰及廉价快时尚元素。"
     },
     {
       "name": "Military Goth",
@@ -628,9 +628,9 @@
       "wiki_url": "/wiki_pages/military_goth",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "军事哥特风",
+      "confidence": "A",
+      "tag_cn_long": "融合军事制服元素与哥特风格的时尚，常见军装夹克、靴子、暗色调配金属装饰。"
     },
     {
       "name": "Mod fashion",
@@ -638,9 +638,9 @@
       "wiki_url": "/wiki_pages/mod_fashion",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "摩登风格",
+      "confidence": "A",
+      "tag_cn_long": "1960年代英国流行的现代风格，以超短裙、几何图案、彩色紧身衣、及膝靴为特征。"
     },
     {
       "name": "Office Siren",
@@ -648,9 +648,9 @@
       "wiki_url": "/wiki_pages/office_siren",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "办公室海妖风",
+      "confidence": "C",
+      "tag_cn_long": "一种将职场正装与性感元素结合的时尚风格，如紧身裙、高跟鞋、利落发型。"
     },
     {
       "name": "Pastel Goth",
@@ -658,9 +658,9 @@
       "wiki_url": "/wiki_pages/pastel_goth",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "柔和哥特风",
+      "confidence": "A",
+      "tag_cn_long": "哥特风格的柔和变体，使用粉彩色调但保留哥特元素如骷髅、蝙蝠纹样。"
     },
     {
       "name": "Perky Goth",
@@ -668,9 +668,9 @@
       "wiki_url": "/wiki_pages/perky_goth",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "活泼哥特风",
+      "confidence": "B",
+      "tag_cn_long": "一种较轻松明亮的哥特时尚，保留哥特色彩但加入更多活泼图案和可爱配饰。"
     },
     {
       "name": "Rockabilly",
@@ -678,9 +678,9 @@
       "wiki_url": "/wiki_pages/rockabilly",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "山地摇滚风",
+      "confidence": "A",
+      "tag_cn_long": "融合1950年代摇滚与乡村音乐的时尚风格，以紧身牛仔裤、皮夹克、蓬松卷发、纹身为特点。"
     },
     {
       "name": "Scene fashion",
@@ -688,9 +688,9 @@
       "wiki_url": "/wiki_pages/scene_fashion",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Scene风",
+      "confidence": "A",
+      "tag_cn_long": "一种色彩鲜艳、夸张的亚文化时尚，源自Emo风但更花哨，强调蓬松彩色头发和卡通图案配饰。"
     },
     {
       "name": "Steampunk",
@@ -698,9 +698,9 @@
       "wiki_url": "/wiki_pages/steampunk",
       "category_path": "Western fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒸汽朋克风",
+      "confidence": "A",
+      "tag_cn_long": "以维多利亚时代蒸汽动力为背景的科幻时尚，包含礼帽、护目镜、齿轮、紧身胸衣等元素。"
     },
     {
       "name": "Wishcore",
@@ -708,9 +708,9 @@
       "wiki_url": "/wiki_pages/wishcore",
       "category_path": "Chinese &amp; Korean fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "愿望核风",
+      "confidence": "D",
+      "tag_cn_long": "一种新兴的网络时尚风格，强调梦幻、憧憬的视觉氛围，可能与韩国流行文化相关。"
     },
     {
       "name": "Yabi fashion",
@@ -718,9 +718,9 @@
       "wiki_url": "/wiki_pages/yabi_fashion",
       "category_path": "Chinese &amp; Korean fashion styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雅比风",
+      "confidence": "D",
+      "tag_cn_long": "一种结合街头与简约的韩国时尚风格，注重廓形和质感。"
     },
     {
       "name": "African clothes",
@@ -728,9 +728,9 @@
       "wiki_url": "/wiki_pages/african_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "非洲服饰",
+      "confidence": "A",
+      "tag_cn_long": "各种传统或现代风格的非洲服装，包括色彩鲜艳的印花布、长袍等。"
     },
     {
       "name": "Ainu clothes",
@@ -738,9 +738,9 @@
       "wiki_url": "/wiki_pages/ainu_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿伊努服装",
+      "confidence": "A",
+      "tag_cn_long": "日本北海道原住民阿伊努族的传统服饰，特色为独特的图案和剪裁。"
     },
     {
       "name": "Ancient Egyptian clothes",
@@ -748,9 +748,9 @@
       "wiki_url": "/wiki_pages/ancient_egyptian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "古埃及服装",
+      "confidence": "A",
+      "tag_cn_long": "基于古埃及文化的服饰，常搭配珠宝、黄金及荷鲁斯之眼等符号元素。"
     },
     {
       "name": "Arabian clothes",
@@ -758,9 +758,9 @@
       "wiki_url": "/wiki_pages/arabian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿拉伯服装",
+      "confidence": "A",
+      "tag_cn_long": "基于阿拉伯或中东传统风格的服饰，包括现实和幻想中的款式，如头巾、长袍等。"
     },
     {
       "name": "Chinese clothes",
@@ -778,9 +778,9 @@
       "wiki_url": "/wiki_pages/colombian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哥伦比亚服装",
+      "confidence": "B",
+      "tag_cn_long": "哥伦比亚民族传统服饰，常见色彩鲜艳的编织和宽松样式。"
     },
     {
       "name": "Dunhuang style",
@@ -788,9 +788,9 @@
       "wiki_url": "/wiki_pages/dunhuang_style",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "敦煌风格",
+      "confidence": "A",
+      "tag_cn_long": "源自敦煌壁画的艺术风格，常见飞天（Apsara）服饰，包括抹胸、裤子、披帛等。"
     },
     {
       "name": "Dutch clothes",
@@ -798,9 +798,9 @@
       "wiki_url": "/wiki_pages/dutch_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "荷兰服装",
+      "confidence": "B",
+      "tag_cn_long": "荷兰传统民族服饰，如木鞋、蕾丝帽等特色装束。"
     },
     {
       "name": "Flapper Girl",
@@ -808,9 +808,9 @@
       "wiki_url": "/wiki_pages/flapper_girl",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "飞女郎",
+      "confidence": "A",
+      "tag_cn_long": "1920年代西方摩登女郎风格，标志性元素为短发、低腰连衣裙、流苏和头饰。"
     },
     {
       "name": "French clothes",
@@ -818,9 +818,9 @@
       "wiki_url": "/wiki_pages/french_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "法国服装",
+      "confidence": "B",
+      "tag_cn_long": "法国传统服饰或法式风格服装，如贝雷帽、条纹衫等经典元素。"
     },
     {
       "name": "German clothes",
@@ -828,9 +828,9 @@
       "wiki_url": "/wiki_pages/german_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "德国服装",
+      "confidence": "A",
+      "tag_cn_long": "德国传统服饰，包括Dirndl连衣裙和Lederhosen皮裤等啤酒节常见装束。"
     },
     {
       "name": "Greco-Roman clothes",
@@ -838,9 +838,9 @@
       "wiki_url": "/wiki_pages/greco-roman_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "希腊罗马服装",
+      "confidence": "A",
+      "tag_cn_long": "古希腊和古罗马风格的服饰，如长袍（chiton）、披肩（peplos）和月桂花冠。"
     },
     {
       "name": "Hawaiian clothes",
@@ -848,9 +848,9 @@
       "wiki_url": "/wiki_pages/hawaiian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "夏威夷服装",
+      "confidence": "A",
+      "tag_cn_long": "夏威夷风格服饰，如夏威夷衬衫、草裙、花环等热带度假装束。"
     },
     {
       "name": "Asian Indian clothes",
@@ -858,9 +858,9 @@
       "wiki_url": "/wiki_pages/asian_indian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印度服装",
+      "confidence": "A",
+      "tag_cn_long": "印度传统服饰，包括纱丽、旁遮普服、托蒂等充满民族特色的服装。"
     },
     {
       "name": "Indonesian clothes",
@@ -868,9 +868,9 @@
       "wiki_url": "/wiki_pages/indonesian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印度尼西亚服装",
+      "confidence": "A",
+      "tag_cn_long": "印尼传统服饰，如可巴雅（kebaya）、巴迪克蜡染服等。"
     },
     {
       "name": "Italian clothes",
@@ -878,9 +878,9 @@
       "wiki_url": "/wiki_pages/italian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "意大利服装",
+      "confidence": "B",
+      "tag_cn_long": "意大利传统服饰或意式风格服装，如威尼斯面具、罗马式长袍等元素。"
     },
     {
       "name": "Japanese clothes",
@@ -898,9 +898,9 @@
       "wiki_url": "/wiki_pages/kazakh_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "哈萨克服装",
+      "confidence": "B",
+      "tag_cn_long": "哈萨克民族传统服饰，如长袍、高帽、刺绣丰富的衣装。"
     },
     {
       "name": "Korean clothes",
@@ -918,9 +918,9 @@
       "wiki_url": "/wiki_pages/malaysian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马来西亚服装",
+      "confidence": "B",
+      "tag_cn_long": "马来西亚各民族传统服饰，如马来人的Baju Kurung、华人的旗袍等。"
     },
     {
       "name": "Manchu clothes",
@@ -928,9 +928,9 @@
       "wiki_url": "/wiki_pages/manchu_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "满族服装",
+      "confidence": "A",
+      "tag_cn_long": "中国满族传统服饰，包括长袍、马褂、旗袍等“旗装”。"
     },
     {
       "name": "Mayan clothes",
@@ -938,9 +938,9 @@
       "wiki_url": "/wiki_pages/mayan_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玛雅服饰",
+      "confidence": "A",
+      "tag_cn_long": "玛雅文明的传统服饰。"
     },
     {
       "name": "Mexican clothes",
@@ -948,9 +948,9 @@
       "wiki_url": "/wiki_pages/mexican_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "墨西哥服饰",
+      "confidence": "A",
+      "tag_cn_long": "墨西哥民族的传统服装。"
     },
     {
       "name": "Miao clothes",
@@ -958,9 +958,9 @@
       "wiki_url": "/wiki_pages/miao_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "苗族服饰",
+      "confidence": "A",
+      "tag_cn_long": "苗族/赫蒙族的传统服饰。"
     },
     {
       "name": "Minoan clothes",
@@ -968,9 +968,9 @@
       "wiki_url": "/wiki_pages/minoan_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "米诺斯服饰",
+      "confidence": "A",
+      "tag_cn_long": "米诺斯文明的传统服饰，男性常裸露上身，女性穿开胸裙。"
     },
     {
       "name": "Mongolian clothes",
@@ -978,9 +978,9 @@
       "wiki_url": "/wiki_pages/mongolian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒙古服饰",
+      "confidence": "A",
+      "tag_cn_long": "蒙古族的传统服饰，如德勒（Deel）。"
     },
     {
       "name": "Native American clothes",
@@ -988,9 +988,9 @@
       "wiki_url": "/wiki_pages/native_american_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "美洲原住民服饰",
+      "confidence": "A",
+      "tag_cn_long": "美洲原住民部落的传统服装。"
     },
     {
       "name": "Polish clothes",
@@ -998,9 +998,9 @@
       "wiki_url": "/wiki_pages/polish_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波兰服饰",
+      "confidence": "A",
+      "tag_cn_long": "波兰的传统民族服装。"
     },
     {
       "name": "Renaissance clothes",
@@ -1008,9 +1008,9 @@
       "wiki_url": "/wiki_pages/renaissance_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "文艺复兴服饰",
+      "confidence": "A",
+      "tag_cn_long": "文艺复兴时期（14-17世纪）的欧洲服装风格。"
     },
     {
       "name": "Rococo movement",
@@ -1018,9 +1018,9 @@
       "wiki_url": "/wiki_pages/rococo_movement",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "洛可可风格",
+      "confidence": "A",
+      "tag_cn_long": "18世纪盛行的华丽装饰艺术风格，影响服饰，以曲线、花卉、粉彩为特征。"
     },
     {
       "name": "Russian clothes",
@@ -1028,9 +1028,9 @@
       "wiki_url": "/wiki_pages/russian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "俄罗斯服饰",
+      "confidence": "A",
+      "tag_cn_long": "俄罗斯的传统民族服装。"
     },
     {
       "name": "Slavic clothes",
@@ -1038,9 +1038,9 @@
       "wiki_url": "/wiki_pages/slavic_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斯拉夫服饰",
+      "confidence": "A",
+      "tag_cn_long": "斯拉夫民族的传统服装风格。"
     },
     {
       "name": "Spanish clothes",
@@ -1048,9 +1048,9 @@
       "wiki_url": "/wiki_pages/spanish_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "西班牙服饰",
+      "confidence": "A",
+      "tag_cn_long": "西班牙的传统民族服装。"
     },
     {
       "name": "Swedish clothes",
@@ -1058,9 +1058,9 @@
       "wiki_url": "/wiki_pages/swedish_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瑞典服饰",
+      "confidence": "A",
+      "tag_cn_long": "瑞典的传统民族服装，不同地区有各自特色。"
     },
     {
       "name": "Thai clothes",
@@ -1068,9 +1068,9 @@
       "wiki_url": "/wiki_pages/thai_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泰国服饰",
+      "confidence": "A",
+      "tag_cn_long": "泰国的传统服装，如绊尾幔（chong kraben）和纱笼（pha nung）。"
     },
     {
       "name": "Tibetan clothes",
@@ -1078,9 +1078,9 @@
       "wiki_url": "/wiki_pages/tibetan_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "藏族服饰",
+      "confidence": "A",
+      "tag_cn_long": "藏族人民的传统服装。"
     },
     {
       "name": "Turkish clothes",
@@ -1088,9 +1088,9 @@
       "wiki_url": "/wiki_pages/turkish_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "土耳其服饰",
+      "confidence": "A",
+      "tag_cn_long": "土耳其的传统民族服装。"
     },
     {
       "name": "Ukrainian clothes",
@@ -1098,9 +1098,9 @@
       "wiki_url": "/wiki_pages/ukrainian_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乌克兰服饰",
+      "confidence": "A",
+      "tag_cn_long": "乌克兰的传统民族服装，如刺绣衬衫（Vyshyvanka）。"
     },
     {
       "name": "Victorian",
@@ -1108,9 +1108,9 @@
       "wiki_url": "/wiki_pages/victorian",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "维多利亚风格",
+      "confidence": "A",
+      "tag_cn_long": "维多利亚时代（1837-1901）的服饰风格，以华丽长裙和高帽为特征。"
     },
     {
       "name": "Vietnamese clothes",
@@ -1118,9 +1118,9 @@
       "wiki_url": "/wiki_pages/vietnamese_clothes",
       "category_path": "Cultural and historical styles",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "越南服饰",
+      "confidence": "A",
+      "tag_cn_long": "越南的传统服装，如奥黛（ao dai）和阮朝服饰。"
     },
     {
       "name": "Fashion",
@@ -1138,9 +1138,9 @@
       "wiki_url": "/wiki_pages/fashion_style_request",
       "category_path": "See also",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "时尚风格请求",
+      "confidence": "B",
+      "tag_cn_long": "用于请求特定时尚风格的标签。"
     }
   ],
   "total_tags": 110,

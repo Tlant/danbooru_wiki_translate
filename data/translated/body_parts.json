@@ -36,9 +36,9 @@
       "wiki_url": "/wiki_pages/ear_focus",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "耳朵特写",
+      "confidence": "A",
+      "tag_cn_long": "图像中重点突出耳朵。"
     },
     {
       "name": "eyebrows",
@@ -46,9 +46,9 @@
       "wiki_url": "/wiki_pages/eyebrows",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眉毛",
+      "confidence": "A",
+      "tag_cn_long": "角色眉毛的描绘，用于强调不寻常的眉毛。"
     },
     {
       "name": "eyelashes",
@@ -56,9 +56,9 @@
       "wiki_url": "/wiki_pages/eyelashes",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛",
+      "confidence": "A",
+      "tag_cn_long": "角色睫毛被特别关注的描绘。"
     },
     {
       "name": "forehead",
@@ -66,9 +66,9 @@
       "wiki_url": "/wiki_pages/forehead",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "额头",
+      "confidence": "A",
+      "tag_cn_long": "图像中强调角色的额头。"
     },
     {
       "name": "forehead mark",
@@ -76,9 +76,9 @@
       "wiki_url": "/wiki_pages/forehead_mark",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "额饰",
+      "confidence": "A",
+      "tag_cn_long": "额头上的装饰性标记，可能是一个点或复杂图案。"
     },
     {
       "name": "beard",
@@ -86,9 +86,9 @@
       "wiki_url": "/wiki_pages/beard",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胡子",
+      "confidence": "A",
+      "tag_cn_long": "生长在脸颊、下巴和颈部的胡须。"
     },
     {
       "name": "mustache",
@@ -96,9 +96,9 @@
       "wiki_url": "/wiki_pages/mustache",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小胡子",
+      "confidence": "A",
+      "tag_cn_long": "上唇处生长的胡须。"
     },
     {
       "name": "nose",
@@ -106,9 +106,9 @@
       "wiki_url": "/wiki_pages/nose",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "鼻子",
+      "confidence": "A",
+      "tag_cn_long": "被画得比典型动漫风格更突出的鼻子。"
     },
     {
       "name": "head wings",
@@ -116,9 +116,9 @@
       "wiki_url": "/wiki_pages/head_wings",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头翼",
+      "confidence": "A",
+      "tag_cn_long": "附着在头部的翅膀，常见于恶魔娘等角色。"
     },
     {
       "name": "lips",
@@ -126,9 +126,9 @@
       "wiki_url": "/wiki_pages/lips",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "嘴唇",
+      "confidence": "A",
+      "tag_cn_long": "嘴部周围的柔软褶皱。"
     },
     {
       "name": "nape",
@@ -136,9 +136,9 @@
       "wiki_url": "/wiki_pages/nape",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "后颈",
+      "confidence": "A",
+      "tag_cn_long": "脖子后部，日本艺术中常视为美感焦点。"
     },
     {
       "name": "tongue",
@@ -146,9 +146,9 @@
       "wiki_url": "/wiki_pages/tongue",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "舌头",
+      "confidence": "A",
+      "tag_cn_long": "能清楚看到或突出的舌头。"
     },
     {
       "name": "long tongue",
@@ -156,9 +156,9 @@
       "wiki_url": "/wiki_pages/long_tongue",
       "category_path": "Head",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长舌头",
+      "confidence": "A",
+      "tag_cn_long": "延伸时超过下巴的长舌头。"
     },
     {
       "name": "areolae",
@@ -166,9 +166,9 @@
       "wiki_url": "/wiki_pages/areolae",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳晕",
+      "confidence": "A",
+      "tag_cn_long": "乳头周围的有色区域。"
     },
     {
       "name": "large areolae",
@@ -176,9 +176,9 @@
       "wiki_url": "/wiki_pages/large_areolae",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大乳晕",
+      "confidence": "A",
+      "tag_cn_long": "乳晕很大，占乳房面积一半以上。"
     },
     {
       "name": "glands of montgomery",
@@ -186,9 +186,9 @@
       "wiki_url": "/wiki_pages/glands_of_montgomery",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒙哥马利腺",
+      "confidence": "B",
+      "tag_cn_long": "乳晕上可见的小凸起，分泌油脂保护乳头。"
     },
     {
       "name": "armpits",
@@ -196,9 +196,9 @@
       "wiki_url": "/wiki_pages/armpits",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腋下",
+      "confidence": "A",
+      "tag_cn_long": "手臂与躯干连接处的下方区域，常在抬臂时显露。"
     },
     {
       "name": "back",
@@ -206,9 +206,9 @@
       "wiki_url": "/wiki_pages/back",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背部",
+      "confidence": "A",
+      "tag_cn_long": "从肩膀到臀部上方的身体后侧。"
     },
     {
       "name": "median furrow",
@@ -216,9 +216,9 @@
       "wiki_url": "/wiki_pages/median_furrow",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "背沟",
+      "confidence": "A",
+      "tag_cn_long": "背部中央的纵向凹陷线。"
     },
     {
       "name": "breasts",
@@ -226,9 +226,9 @@
       "wiki_url": "/wiki_pages/breasts",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳房",
+      "confidence": "A",
+      "tag_cn_long": "明显可见的胸部（排除平胸角色）。"
     },
     {
       "name": "collarbone",
@@ -236,9 +236,9 @@
       "wiki_url": "/wiki_pages/collarbone",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "锁骨",
+      "confidence": "A",
+      "tag_cn_long": "位于肩部与胸部之间的骨头，显露时具有性感意味。"
     },
     {
       "name": "heart",
@@ -246,9 +246,9 @@
       "wiki_url": "/wiki_pages/heart_%28organ%29",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爱心",
+      "confidence": "A",
+      "tag_cn_long": "心形符号♥，代表爱情或喜爱。"
     },
     {
       "name": "lungs",
@@ -256,9 +256,9 @@
       "wiki_url": "/wiki_pages/lungs",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肺",
+      "confidence": "A",
+      "tag_cn_long": "负责呼吸、交换氧气和二氧化碳的身体器官。"
     },
     {
       "name": "neck",
@@ -266,9 +266,9 @@
       "wiki_url": "/wiki_pages/neck",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脖子",
+      "confidence": "A",
+      "tag_cn_long": "连接头部与躯干的部分，若被强调则标注。"
     },
     {
       "name": "long neck",
@@ -276,9 +276,9 @@
       "wiki_url": "/wiki_pages/long_neck",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长颈",
+      "confidence": "B",
+      "tag_cn_long": "异常修长的脖子，常出现在夸张画风中。"
     },
     {
       "name": "nipples",
@@ -286,9 +286,9 @@
       "wiki_url": "/wiki_pages/nipples",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳房上的小突起。"
     },
     {
       "name": "covered nipples",
@@ -296,9 +296,9 @@
       "wiki_url": "/wiki_pages/covered_nipples",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凸点",
+      "confidence": "A",
+      "tag_cn_long": "乳头透过衣物明显凸起。"
     },
     {
       "name": "inverted nipples",
@@ -306,9 +306,9 @@
       "wiki_url": "/wiki_pages/inverted_nipples",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凹陷乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳头向内凹陷而非向外突出。"
     },
     {
       "name": "no nipples",
@@ -316,9 +316,9 @@
       "wiki_url": "/wiki_pages/no_nipples",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无乳头",
+      "confidence": "A",
+      "tag_cn_long": "胸部裸露但缺少乳头。"
     },
     {
       "name": "puffy nipples",
@@ -326,9 +326,9 @@
       "wiki_url": "/wiki_pages/puffy_nipples",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肿胀乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳头和乳晕明显肿胀突出。"
     },
     {
       "name": "small nipples",
@@ -336,9 +336,9 @@
       "wiki_url": "/wiki_pages/small_nipples",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小乳头",
+      "confidence": "A",
+      "tag_cn_long": "乳头或乳晕比正常小。"
     },
     {
       "name": "pectorals",
@@ -346,9 +346,9 @@
       "wiki_url": "/wiki_pages/pectorals",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胸肌",
+      "confidence": "A",
+      "tag_cn_long": "男性胸部肌肉。"
     },
     {
       "name": "ribs",
@@ -356,9 +356,9 @@
       "wiki_url": "/wiki_pages/ribs",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肋骨",
+      "confidence": "A",
+      "tag_cn_long": "可见的肋骨轮廓。"
     },
     {
       "name": "anus",
@@ -366,9 +366,9 @@
       "wiki_url": "/wiki_pages/anus",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肛门",
+      "confidence": "A",
+      "tag_cn_long": "直肠的对外开口。"
     },
     {
       "name": "ass",
@@ -376,9 +376,9 @@
       "wiki_url": "/wiki_pages/ass",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "臀部",
+      "confidence": "A",
+      "tag_cn_long": "指人体臀部，常被视为吸引人的身体部位。"
     },
     {
       "name": "cloaca",
@@ -386,9 +386,9 @@
       "wiki_url": "/wiki_pages/cloaca",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泄殖腔",
+      "confidence": "A",
+      "tag_cn_long": "某些动物共有的排泄和生殖开口。"
     },
     {
       "name": "dimples of venus",
@@ -396,9 +396,9 @@
       "wiki_url": "/wiki_pages/dimples_of_venus",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腰窝",
+      "confidence": "A",
+      "tag_cn_long": "后腰上方的对称凹陷。"
     },
     {
       "name": "groin",
@@ -406,9 +406,9 @@
       "wiki_url": "/wiki_pages/groin",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹股沟",
+      "confidence": "A",
+      "tag_cn_long": "腹部与大腿连接处的凹陷。"
     },
     {
       "name": "hip dips",
@@ -416,9 +416,9 @@
       "wiki_url": "/wiki_pages/hip_dips",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "髋部凹陷",
+      "confidence": "A",
+      "tag_cn_long": "腰部到臀部曲线不连续形成的凹陷。"
     },
     {
       "name": "wide hips",
@@ -426,9 +426,9 @@
       "wiki_url": "/wiki_pages/wide_hips",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "宽臀",
+      "confidence": "A",
+      "tag_cn_long": "臀部明显宽于正常。"
     },
     {
       "name": "intestines",
@@ -436,9 +436,9 @@
       "wiki_url": "/wiki_pages/intestines",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肠道",
+      "confidence": "A",
+      "tag_cn_long": "消化管的一部分，可见时使用。"
     },
     {
       "name": "linea alba",
@@ -446,9 +446,9 @@
       "wiki_url": "/wiki_pages/linea_alba",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹白线",
+      "confidence": "A",
+      "tag_cn_long": "腹部中间的一条垂直结缔组织线。"
     },
     {
       "name": "liver",
@@ -456,9 +456,9 @@
       "wiki_url": "/wiki_pages/liver",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肝脏",
+      "confidence": "A",
+      "tag_cn_long": "楔形器官，可见时使用。"
     },
     {
       "name": "narrow waist",
@@ -466,9 +466,9 @@
       "wiki_url": "/wiki_pages/narrow_waist",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "细腰",
+      "confidence": "A",
+      "tag_cn_long": "腰部比身体其他部分明显更窄。"
     },
     {
       "name": "pubic hair",
@@ -476,9 +476,9 @@
       "wiki_url": "/wiki_pages/pubic_hair",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴毛",
+      "confidence": "A",
+      "tag_cn_long": "覆盖在耻骨区域的毛发。"
     },
     {
       "name": "pussy",
@@ -486,9 +486,9 @@
       "wiki_url": "/wiki_pages/pussy",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴部",
+      "confidence": "A",
+      "tag_cn_long": "女性外生殖器的俗称，包括阴唇、阴蒂等。"
     },
     {
       "name": "cleft of venus",
@@ -496,9 +496,9 @@
       "wiki_url": "/wiki_pages/cleft_of_venus",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "维纳斯之缝",
+      "confidence": "B",
+      "tag_cn_long": "女性外阴大阴唇之间的缝隙，呈细长形。"
     },
     {
       "name": "clitoris",
@@ -506,9 +506,9 @@
       "wiki_url": "/wiki_pages/clitoris",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴蒂",
+      "confidence": "A",
+      "tag_cn_long": "女性主要的性敏感器官，位于阴唇上方。"
     },
     {
       "name": "fat mons",
@@ -516,9 +516,9 @@
       "wiki_url": "/wiki_pages/fat_mons",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肥厚阴阜",
+      "confidence": "B",
+      "tag_cn_long": "阴阜区域明显丰满凸起。"
     },
     {
       "name": "labia",
@@ -526,9 +526,9 @@
       "wiki_url": "/wiki_pages/labia",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴唇",
+      "confidence": "B",
+      "tag_cn_long": "女性外生殖器的两侧皮肤皱襞。此标签已被弃用，请使用更具体的标签。"
     },
     {
       "name": "mons pubis",
@@ -536,9 +536,9 @@
       "wiki_url": "/wiki_pages/mons_pubis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴阜",
+      "confidence": "A",
+      "tag_cn_long": "耻骨上方的脂肪垫，青春期后会生长阴毛。"
     },
     {
       "name": "no pussy",
@@ -546,9 +546,9 @@
       "wiki_url": "/wiki_pages/no_pussy",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无阴部",
+      "confidence": "A",
+      "tag_cn_long": "女性角色裆部可见但未绘制外阴，类似芭比娃娃。"
     },
     {
       "name": "penis",
@@ -556,9 +556,9 @@
       "wiki_url": "/wiki_pages/penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阴茎",
+      "confidence": "A",
+      "tag_cn_long": "男性性器官，用于排尿和交配。"
     },
     {
       "name": "animal penis",
@@ -566,9 +566,9 @@
       "wiki_url": "/wiki_pages/animal_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "动物阴茎",
+      "confidence": "A",
+      "tag_cn_long": "画面中出现动物类型的阴茎。"
     },
     {
       "name": "dog penis",
@@ -576,9 +576,9 @@
       "wiki_url": "/wiki_pages/dog_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "狗阴茎",
+      "confidence": "A",
+      "tag_cn_long": "狗的阴茎，包括球状腺体。"
     },
     {
       "name": "dolphin penis",
@@ -586,9 +586,9 @@
       "wiki_url": "/wiki_pages/dolphin_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "海豚阴茎",
+      "confidence": "B",
+      "tag_cn_long": "海豚的阴茎。"
     },
     {
       "name": "horse penis",
@@ -596,9 +596,9 @@
       "wiki_url": "/wiki_pages/horse_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "马阴茎",
+      "confidence": "A",
+      "tag_cn_long": "马的阴茎。"
     },
     {
       "name": "knotted penis",
@@ -606,9 +606,9 @@
       "wiki_url": "/wiki_pages/knotted_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "打结阴茎",
+      "confidence": "B",
+      "tag_cn_long": "犬科等动物阴茎上的球状腺体，交配时膨胀锁定。"
     },
     {
       "name": "pig penis",
@@ -616,9 +616,9 @@
       "wiki_url": "/wiki_pages/pig_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "猪阴茎",
+      "confidence": "A",
+      "tag_cn_long": "猪的阴茎。"
     },
     {
       "name": "snake penis",
@@ -626,9 +626,9 @@
       "wiki_url": "/wiki_pages/snake_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蛇阴茎",
+      "confidence": "B",
+      "tag_cn_long": "蛇的阴茎（实际为半阴茎）。"
     },
     {
       "name": "spiked penis",
@@ -636,9 +636,9 @@
       "wiki_url": "/wiki_pages/spiked_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "带刺阴茎",
+      "confidence": "B",
+      "tag_cn_long": "表面有刺状、钉状或倒钩突起的阴茎。"
     },
     {
       "name": "bulge",
@@ -646,9 +646,9 @@
       "wiki_url": "/wiki_pages/bulge",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凸起",
+      "confidence": "A",
+      "tag_cn_long": "衣服下因阴茎或睾丸隆起形成的轮廓。"
     },
     {
       "name": "covered penis",
@@ -656,9 +656,9 @@
       "wiki_url": "/wiki_pages/covered_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮盖阴茎",
+      "confidence": "B",
+      "tag_cn_long": "阴茎在衣物下可见清晰的形状轮廓。"
     },
     {
       "name": "erection under clothes",
@@ -666,9 +666,9 @@
       "wiki_url": "/wiki_pages/erection_under_clothes",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "衣下勃起",
+      "confidence": "A",
+      "tag_cn_long": "阴茎在衣服下呈现勃起状态。"
     },
     {
       "name": "disembodied penis",
@@ -676,9 +676,9 @@
       "wiki_url": "/wiki_pages/disembodied_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分离阴茎",
+      "confidence": "B",
+      "tag_cn_long": "漂浮在空中、与身体分离的阴茎，通常以魔法形式出现。"
     },
     {
       "name": "erection",
@@ -686,9 +686,9 @@
       "wiki_url": "/wiki_pages/erection",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "勃起",
+      "confidence": "A",
+      "tag_cn_long": "阴茎处于勃起状态。"
     },
     {
       "name": "extra penises",
@@ -696,9 +696,9 @@
       "wiki_url": "/wiki_pages/extra_penises",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多阴茎",
+      "confidence": "A",
+      "tag_cn_long": "单个角色拥有超过一个阴茎。"
     },
     {
       "name": "foreskin",
@@ -706,9 +706,9 @@
       "wiki_url": "/wiki_pages/foreskin",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "包皮",
+      "confidence": "A",
+      "tag_cn_long": "覆盖阴茎龟头的可伸缩皮肤层。"
     },
     {
       "name": "phimosis",
@@ -716,9 +716,9 @@
       "wiki_url": "/wiki_pages/phimosis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "包茎",
+      "confidence": "A",
+      "tag_cn_long": "包皮无法完全退缩露出龟头的状况。"
     },
     {
       "name": "flaccid",
@@ -726,9 +726,9 @@
       "wiki_url": "/wiki_pages/flaccid",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "疲软",
+      "confidence": "A",
+      "tag_cn_long": "阴茎处于非勃起、松弛的状态。"
     },
     {
       "name": "gigantic penis",
@@ -736,9 +736,9 @@
       "wiki_url": "/wiki_pages/gigantic_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巨型阴茎",
+      "confidence": "B",
+      "tag_cn_long": "与身体比例极不相称、长度或粗度堪比躯干的异常巨大的阴茎。"
     },
     {
       "name": "huge penis",
@@ -746,9 +746,9 @@
       "wiki_url": "/wiki_pages/huge_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超大阴茎",
+      "confidence": "A",
+      "tag_cn_long": "比角色前臂更长或更粗，但小于躯干的非常大的阴茎。"
     },
     {
       "name": "large penis",
@@ -756,9 +756,9 @@
       "wiki_url": "/wiki_pages/large_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大阴茎",
+      "confidence": "A",
+      "tag_cn_long": "大于平均尺寸，勃起时可达肚脐但不超过前臂的阴茎。"
     },
     {
       "name": "multiple penises",
@@ -766,9 +766,9 @@
       "wiki_url": "/wiki_pages/multiple_penises",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多个阴茎",
+      "confidence": "A",
+      "tag_cn_long": "画面中包含多个阴茎（来自不同角色或同一角色周围）。"
     },
     {
       "name": "small penis",
@@ -776,9 +776,9 @@
       "wiki_url": "/wiki_pages/small_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小阴茎",
+      "confidence": "A",
+      "tag_cn_long": "比正常成年男性小的阴茎，长度通常不长于角色的中指。"
     },
     {
       "name": "veiny penis",
@@ -786,9 +786,9 @@
       "wiki_url": "/wiki_pages/veiny_penis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "青筋阴茎",
+      "confidence": "B",
+      "tag_cn_long": "表面血管（青筋）异常明显突出的阴茎。"
     },
     {
       "name": "perineum",
@@ -796,9 +796,9 @@
       "wiki_url": "/wiki_pages/perineum",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "会阴",
+      "confidence": "A",
+      "tag_cn_long": "生殖器与肛门之间的区域，俗称“会阴部”。"
     },
     {
       "name": "prostate",
@@ -806,9 +806,9 @@
       "wiki_url": "/wiki_pages/prostate",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "前列腺",
+      "confidence": "A",
+      "tag_cn_long": "男性腺体，分泌精液成分，刺激可导致强烈高潮。"
     },
     {
       "name": "pseudopenis",
@@ -816,9 +816,9 @@
       "wiki_url": "/wiki_pages/pseudopenis",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假阴茎",
+      "confidence": "A",
+      "tag_cn_long": "外观类似阴茎但功能不同的器官，如肥大的阴蒂或鸟类泄殖腔。"
     },
     {
       "name": "stomach",
@@ -826,9 +826,9 @@
       "wiki_url": "/wiki_pages/stomach",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹部",
+      "confidence": "A",
+      "tag_cn_long": "暴露的腹部前侧，肚脐周围区域。"
     },
     {
       "name": "abs",
@@ -836,9 +836,9 @@
       "wiki_url": "/wiki_pages/abs",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹肌",
+      "confidence": "A",
+      "tag_cn_long": "发达的腹部肌肉，即六块腹肌。"
     },
     {
       "name": "belly",
@@ -846,9 +846,9 @@
       "wiki_url": "/wiki_pages/belly",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小肚子",
+      "confidence": "A",
+      "tag_cn_long": "稍微丰满、圆润的腹部。"
     },
     {
       "name": "navel",
@@ -856,9 +856,9 @@
       "wiki_url": "/wiki_pages/navel",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肚脐",
+      "confidence": "A",
+      "tag_cn_long": "肚脐显露的状态。"
     },
     {
       "name": "covered navel",
@@ -866,9 +866,9 @@
       "wiki_url": "/wiki_pages/covered_navel",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "隐现肚脐",
+      "confidence": "B",
+      "tag_cn_long": "透过紧身衣服可见肚脐轮廓。"
     },
     {
       "name": "obliques",
@@ -876,9 +876,9 @@
       "wiki_url": "/wiki_pages/obliques",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹外斜肌",
+      "confidence": "A",
+      "tag_cn_long": "发达的腹外斜肌，形成人鱼线或鱼鳃线。"
     },
     {
       "name": "stomach_(organ)",
@@ -886,9 +886,9 @@
       "wiki_url": "/wiki_pages/stomach_%28organ%29",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "胃（器官）",
+      "confidence": "A",
+      "tag_cn_long": "消化器官，分泌胃酸用于消化。"
     },
     {
       "name": "testicles",
@@ -896,9 +896,9 @@
       "wiki_url": "/wiki_pages/testicles",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睾丸",
+      "confidence": "A",
+      "tag_cn_long": "男性生殖腺，产生精子和雄性激素。"
     },
     {
       "name": "covered testicles",
@@ -906,9 +906,9 @@
       "wiki_url": "/wiki_pages/covered_testicles",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮住的睾丸",
+      "confidence": "A",
+      "tag_cn_long": "睾丸被衣物包裹而不可见，但能看出轮廓。"
     },
     {
       "name": "no testicles",
@@ -916,9 +916,9 @@
       "wiki_url": "/wiki_pages/no_testicles",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无睾丸",
+      "confidence": "A",
+      "tag_cn_long": "男孩或扶她角色没有睾丸，可能是由于错误解剖或割除。"
     },
     {
       "name": "small testicles",
@@ -926,9 +926,9 @@
       "wiki_url": "/wiki_pages/small_testicles",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "小睾丸",
+      "confidence": "A",
+      "tag_cn_long": "睾丸尺寸比正常小。"
     },
     {
       "name": "large testicles",
@@ -936,9 +936,9 @@
       "wiki_url": "/wiki_pages/large_testicles",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大睾丸",
+      "confidence": "A",
+      "tag_cn_long": "睾丸比正常大，但未达到巨大的程度。"
     },
     {
       "name": "huge testicles",
@@ -946,9 +946,9 @@
       "wiki_url": "/wiki_pages/huge_testicles",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巨大睾丸",
+      "confidence": "A",
+      "tag_cn_long": "睾丸非常大，但仍不如超巨大夸张。"
     },
     {
       "name": "gigantic testicles",
@@ -956,9 +956,9 @@
       "wiki_url": "/wiki_pages/gigantic_testicles",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超巨大睾丸",
+      "confidence": "A",
+      "tag_cn_long": "睾丸异常庞大，比巨大更夸张且不成比例。"
     },
     {
       "name": "uterus",
@@ -966,9 +966,9 @@
       "wiki_url": "/wiki_pages/uterus",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "子宫",
+      "confidence": "A",
+      "tag_cn_long": "女性生殖器官，怀孕时容纳并滋养胎儿。"
     },
     {
       "name": "cervix",
@@ -976,9 +976,9 @@
       "wiki_url": "/wiki_pages/cervix",
       "category_path": "Torso",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "子宫颈",
+      "confidence": "A",
+      "tag_cn_long": "子宫的入口，位于阴道内部。"
     },
     {
       "name": "thick arms",
@@ -986,9 +986,9 @@
       "wiki_url": "/wiki_pages/thick_arms",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粗手臂",
+      "confidence": "A",
+      "tag_cn_long": "手臂被画得比正常更粗壮，可能包括前臂或上臂。"
     },
     {
       "name": "biceps",
@@ -996,9 +996,9 @@
       "wiki_url": "/wiki_pages/biceps",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "肱二头肌",
+      "confidence": "A",
+      "tag_cn_long": "上臂前侧的大块肌肉，位于肩与肘之间。"
     },
     {
       "name": "feet",
@@ -1006,9 +1006,9 @@
       "wiki_url": "/wiki_pages/feet",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚",
+      "confidence": "A",
+      "tag_cn_long": "角色的脚部被突出显示或细致描绘，包括部分遮盖但可见的情况。"
     },
     {
       "name": "bad feet",
@@ -1016,9 +1016,9 @@
       "wiki_url": "/wiki_pages/bad_feet",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚部画崩",
+      "confidence": "B",
+      "tag_cn_long": "绘制质量低劣的脚部。"
     },
     {
       "name": "barefoot",
@@ -1026,9 +1026,9 @@
       "wiki_url": "/wiki_pages/barefoot",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "赤脚",
+      "confidence": "A",
+      "tag_cn_long": "角色双脚完全裸露，未穿鞋袜等任何覆盖物。"
     },
     {
       "name": "dirty feet",
@@ -1036,9 +1036,9 @@
       "wiki_url": "/wiki_pages/dirty_feet",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脏脚",
+      "confidence": "A",
+      "tag_cn_long": "脚底或脚部沾满污垢或灰尘，通常因赤脚行走所致。"
     },
     {
       "name": "soles",
@@ -1046,9 +1046,9 @@
       "wiki_url": "/wiki_pages/soles",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚底",
+      "confidence": "A",
+      "tag_cn_long": "脚的底部，通常指可见的脚掌部分，即使穿着紧身袜也算。"
     },
     {
       "name": "palms",
@@ -1056,9 +1056,9 @@
       "wiki_url": "/wiki_pages/palms",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手掌",
+      "confidence": "A",
+      "tag_cn_long": "手的内侧面，从手腕到手指根部。用于手掌被突出显示时。"
     },
     {
       "name": "doll joints",
@@ -1066,9 +1066,9 @@
       "wiki_url": "/wiki_pages/doll_joints",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "娃娃关节",
+      "confidence": "A",
+      "tag_cn_long": "角色的身体关节类似人偶，连接处有明显缝隙，常见于蔷薇少女风格。"
     },
     {
       "name": "robot joints",
@@ -1076,9 +1076,9 @@
       "wiki_url": "/wiki_pages/robot_joints",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "机器人关节",
+      "confidence": "A",
+      "tag_cn_long": "角色的手臂或腿部关节呈机械结构，具有金属质感。"
     },
     {
       "name": "knees",
@@ -1086,9 +1086,9 @@
       "wiki_url": "/wiki_pages/knees",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝盖",
+      "confidence": "A",
+      "tag_cn_long": "人类大腿与小腿之间的关节。"
     },
     {
       "name": "kneepits",
@@ -1096,9 +1096,9 @@
       "wiki_url": "/wiki_pages/kneepits",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "膝窝",
+      "confidence": "A",
+      "tag_cn_long": "膝盖后方的凹陷处，类似腋窝的位置。"
     },
     {
       "name": "legs",
@@ -1106,9 +1106,9 @@
       "wiki_url": "/wiki_pages/legs",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腿",
+      "confidence": "A",
+      "tag_cn_long": "指以腿部为主要焦点的图像。"
     },
     {
       "name": "long legs",
@@ -1116,9 +1116,9 @@
       "wiki_url": "/wiki_pages/long_legs",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长腿",
+      "confidence": "A",
+      "tag_cn_long": "明显比平均更长的腿部。"
     },
     {
       "name": "reverse-jointed_legs",
@@ -1126,9 +1126,9 @@
       "wiki_url": "/wiki_pages/reverse-jointed_legs",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "反关节腿",
+      "confidence": "B",
+      "tag_cn_long": "指膝关节向后弯曲的腿，常见于动物或怪物角色。"
     },
     {
       "name": "slim legs",
@@ -1136,9 +1136,9 @@
       "wiki_url": "/wiki_pages/slim_legs",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "细腿",
+      "confidence": "A",
+      "tag_cn_long": "比通常更纤细的腿部。"
     },
     {
       "name": "tail",
@@ -1146,9 +1146,9 @@
       "wiki_url": "/wiki_pages/tail",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "尾巴",
+      "confidence": "A",
+      "tag_cn_long": "从下背部延伸出的长附属物，常见于兽娘角色。"
     },
     {
       "name": "tentacles",
@@ -1156,9 +1156,9 @@
       "wiki_url": "/wiki_pages/tentacles",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "触手",
+      "confidence": "A",
+      "tag_cn_long": "像章鱼等无脊椎动物拥有的细长柔软器官。"
     },
     {
       "name": "thighs",
@@ -1166,9 +1166,9 @@
       "wiki_url": "/wiki_pages/thighs",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大腿",
+      "confidence": "A",
+      "tag_cn_long": "腿部上方部位，图像中突出显示的大腿。"
     },
     {
       "name": "groin tendon",
@@ -1176,9 +1176,9 @@
       "wiki_url": "/wiki_pages/groin_tendon",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "腹股沟肌腱",
+      "confidence": "B",
+      "tag_cn_long": "大腿内侧可见的肌腱线条，常见于肌肉发达的角色。"
     },
     {
       "name": "thick thighs",
@@ -1186,9 +1186,9 @@
       "wiki_url": "/wiki_pages/thick_thighs",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粗大腿",
+      "confidence": "A",
+      "tag_cn_long": "比正常更粗壮的大腿。"
     },
     {
       "name": "toes",
@@ -1196,9 +1196,9 @@
       "wiki_url": "/wiki_pages/toes",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "脚趾",
+      "confidence": "A",
+      "tag_cn_long": "脚部的趾头。"
     },
     {
       "name": "ninja toes",
@@ -1206,9 +1206,9 @@
       "wiki_url": "/wiki_pages/ninja_toes",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "忍者脚趾",
+      "confidence": "B",
+      "tag_cn_long": "脚部只勾勒出大拇趾，类似分趾袜的样式。"
     },
     {
       "name": "wings",
@@ -1216,9 +1216,9 @@
       "wiki_url": "/wiki_pages/wings",
       "category_path": "Appendages",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翅膀",
+      "confidence": "A",
+      "tag_cn_long": "角色背部生长的或作为装饰的翅膀。"
     }
   ],
   "total_tags": 119,

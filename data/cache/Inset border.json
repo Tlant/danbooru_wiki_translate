@@ -1,0 +1,6 @@
+{
+  "tag": "Inset border",
+  "tag_cn": "内嵌边框",
+  "confidence": "A",
+  "tag_cn_long": "图像内部额外的边框线，与图像边缘有间距。"
+}

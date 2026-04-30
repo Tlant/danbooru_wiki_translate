@@ -1,0 +1,6 @@
+{
+  "tag": "Tileable",
+  "tag_cn": "可平铺",
+  "confidence": "A",
+  "tag_cn_long": "图像中的图案可以裁剪后作为平铺背景，无缝重复且无可见边缘。"
+}

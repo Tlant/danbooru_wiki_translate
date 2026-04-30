@@ -84,9 +84,9 @@
       "wiki_url": "/wiki_pages/aqua_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水蓝眼",
+      "confidence": "A",
+      "tag_cn_long": "蓝绿色的眼眸。"
     },
     {
       "name": "black eyes",
@@ -94,9 +94,9 @@
       "wiki_url": "/wiki_pages/black_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有黑色的眼睛或瞳孔。"
     },
     {
       "name": "blue eyes",
@@ -104,9 +104,9 @@
       "wiki_url": "/wiki_pages/blue_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有蓝色的眼睛或瞳孔。"
     },
     {
       "name": "brown eyes",
@@ -114,9 +114,9 @@
       "wiki_url": "/wiki_pages/brown_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有棕色的眼睛或瞳孔。"
     },
     {
       "name": "green eyes",
@@ -124,9 +124,9 @@
       "wiki_url": "/wiki_pages/green_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有绿色的眼睛或瞳孔。"
     },
     {
       "name": "grey eyes",
@@ -134,9 +134,9 @@
       "wiki_url": "/wiki_pages/grey_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有灰色的眼睛或瞳孔。"
     },
     {
       "name": "orange eyes",
@@ -144,9 +144,9 @@
       "wiki_url": "/wiki_pages/orange_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有橙色的眼睛或瞳孔。"
     },
     {
       "name": "purple eyes",
@@ -154,9 +154,9 @@
       "wiki_url": "/wiki_pages/purple_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有紫色的眼睛或瞳孔。"
     },
     {
       "name": "pink eyes",
@@ -164,9 +164,9 @@
       "wiki_url": "/wiki_pages/pink_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有粉色的眼睛或瞳孔。"
     },
     {
       "name": "red eyes",
@@ -174,9 +174,9 @@
       "wiki_url": "/wiki_pages/red_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有红色的眼睛或瞳孔。"
     },
     {
       "name": "white eyes",
@@ -184,9 +184,9 @@
       "wiki_url": "/wiki_pages/white_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有白色的眼睛或瞳孔。注意与全白眼睛（无瞳孔）区分。"
     },
     {
       "name": "yellow eyes",
@@ -194,9 +194,9 @@
       "wiki_url": "/wiki_pages/yellow_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄瞳",
+      "confidence": "A",
+      "tag_cn_long": "角色有黄色的眼睛或瞳孔。"
     },
     {
       "name": "heterochromia",
@@ -204,9 +204,9 @@
       "wiki_url": "/wiki_pages/heterochromia",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "异色瞳",
+      "confidence": "A",
+      "tag_cn_long": "两只眼睛虹膜颜色不同的现象，即虹膜异色症。"
     },
     {
       "name": "multicolored eyes",
@@ -214,9 +214,9 @@
       "wiki_url": "/wiki_pages/multicolored_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色瞳",
+      "confidence": "B",
+      "tag_cn_long": "同一只眼睛的虹膜有不止一种颜色。"
     },
     {
       "name": "gradient eyes",
@@ -224,9 +224,9 @@
       "wiki_url": "/wiki_pages/gradient_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛颜色呈现平滑渐变过渡的效果。"
     },
     {
       "name": "two-tone eyes",
@@ -234,9 +234,9 @@
       "wiki_url": "/wiki_pages/two-tone_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色眼",
+      "confidence": "B",
+      "tag_cn_long": "同一只眼睛的虹膜有界限分明的两种颜色区域。"
     },
     {
       "name": "rainbow eyes",
@@ -244,9 +244,9 @@
       "wiki_url": "/wiki_pages/rainbow_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩虹眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛虹膜呈现彩虹般的多彩颜色。"
     },
     {
       "name": "@ @",
@@ -254,9 +254,9 @@
       "wiki_url": "/wiki_pages/%40_%40",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "螺旋眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛呈现漩涡/螺旋状，表示困惑、眩晕或搞怪。"
     },
     {
       "name": "mismatched irises",
@@ -264,9 +264,9 @@
       "wiki_url": "/wiki_pages/mismatched_irises",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "虹膜不对称",
+      "confidence": "C",
+      "tag_cn_long": "两只眼睛的虹膜大小或形状有明显差异（如一只虹膜更大）。"
     },
     {
       "name": "dashed eyes",
@@ -274,9 +274,9 @@
       "wiki_url": "/wiki_pages/dashed_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "线眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛中央有一条横线穿过，通常表示极度愉悦或高潮。"
     },
     {
       "name": "Pac-man eyes",
@@ -284,9 +284,9 @@
       "wiki_url": "/wiki_pages/pac-man_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吃豆人眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛形状像吃豆人，圆形中有一个三角形缺口。"
     },
     {
       "name": "ringed eyes",
@@ -294,9 +294,9 @@
       "wiki_url": "/wiki_pages/ringed_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "环纹眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛的瞳孔和虹膜呈现多个同心环状结构，常用于表现疯狂或精神异常。"
     },
     {
       "name": "squiggle eyes",
@@ -304,9 +304,9 @@
       "wiki_url": "/wiki_pages/squiggle_eyes",
       "category_path": "Iris",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波浪眼",
+      "confidence": "B",
+      "tag_cn_long": "瞳孔呈波浪线形状，通常用来表现角色的痛苦或精神失常。"
     },
     {
       "name": "aqua pupils",
@@ -314,9 +314,9 @@
       "wiki_url": "/wiki_pages/aqua_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现水绿色或浅蓝绿色。"
     },
     {
       "name": "blue pupils",
@@ -324,9 +324,9 @@
       "wiki_url": "/wiki_pages/blue_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出蓝色。"
     },
     {
       "name": "brown pupils",
@@ -334,9 +334,9 @@
       "wiki_url": "/wiki_pages/brown_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出棕色。"
     },
     {
       "name": "green pupils",
@@ -344,9 +344,9 @@
       "wiki_url": "/wiki_pages/green_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出绿色。"
     },
     {
       "name": "grey pupils",
@@ -354,9 +354,9 @@
       "wiki_url": "/wiki_pages/grey_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出灰色。"
     },
     {
       "name": "orange pupils",
@@ -364,9 +364,9 @@
       "wiki_url": "/wiki_pages/orange_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出橙色。"
     },
     {
       "name": "pink pupils",
@@ -374,9 +374,9 @@
       "wiki_url": "/wiki_pages/pink_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出粉色。"
     },
     {
       "name": "purple pupils",
@@ -384,9 +384,9 @@
       "wiki_url": "/wiki_pages/purple_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出紫色。"
     },
     {
       "name": "red pupils",
@@ -394,9 +394,9 @@
       "wiki_url": "/wiki_pages/red_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出红色。"
     },
     {
       "name": "white pupils",
@@ -404,9 +404,9 @@
       "wiki_url": "/wiki_pages/white_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出白色而非通常的黑色。"
     },
     {
       "name": "yellow pupils",
@@ -414,9 +414,9 @@
       "wiki_url": "/wiki_pages/yellow_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈现出黄色。"
     },
     {
       "name": "constricted pupils",
@@ -424,9 +424,9 @@
       "wiki_url": "/wiki_pages/constricted_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瞳孔收缩",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔明显比正常情况小，常表现恐惧、震惊或强光反应。"
     },
     {
       "name": "dilated pupils",
@@ -434,9 +434,9 @@
       "wiki_url": "/wiki_pages/dilated_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瞳孔放大",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔明显比正常情况大，常表现深情、精神恍惚或暗环境。"
     },
     {
       "name": "extra pupils",
@@ -444,9 +444,9 @@
       "wiki_url": "/wiki_pages/extra_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "眼睛拥有不止一个瞳孔。"
     },
     {
       "name": "horizontal pupils",
@@ -454,9 +454,9 @@
       "wiki_url": "/wiki_pages/horizontal_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水平瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈水平矩形或水平椭圆形，常见于某些动物。"
     },
     {
       "name": "no pupils",
@@ -464,9 +464,9 @@
       "wiki_url": "/wiki_pages/no_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "角色眼睛没有画出瞳孔。"
     },
     {
       "name": "slit pupils",
@@ -474,9 +474,9 @@
       "wiki_url": "/wiki_pages/slit_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竖瞳",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈垂直或水平裂缝状，常见于猫科、蛇类等动物或奇幻生物。"
     },
     {
       "name": "symbol-shaped pupils",
@@ -484,9 +484,9 @@
       "wiki_url": "/wiki_pages/symbol-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "符号形瞳孔",
+      "confidence": "B",
+      "tag_cn_long": "瞳孔呈现出特定的符号、图案或物品形状，而非常规圆形。"
     },
     {
       "name": "diamond-shaped pupils",
@@ -494,9 +494,9 @@
       "wiki_url": "/wiki_pages/diamond-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "菱形瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈菱形（钻石形）形状。"
     },
     {
       "name": "flower-shaped pupils",
@@ -504,9 +504,9 @@
       "wiki_url": "/wiki_pages/flower-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "花形瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈花朵形状。"
     },
     {
       "name": "heart-shaped pupils",
@@ -514,9 +514,9 @@
       "wiki_url": "/wiki_pages/heart-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈心形，常表示心动或愉悦。"
     },
     {
       "name": "star-shaped pupils",
@@ -524,9 +524,9 @@
       "wiki_url": "/wiki_pages/star-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星形瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈星形。"
     },
     {
       "name": "solid circle pupils",
@@ -534,9 +534,9 @@
       "wiki_url": "/wiki_pages/solid_circle_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "实心圆瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔为黑色实心圆形，常见于惊讶或诡异表情。"
     },
     {
       "name": "cross-shaped pupils",
@@ -544,9 +544,9 @@
       "wiki_url": "/wiki_pages/cross-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "十字形瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈十字或十字架形状。"
     },
     {
       "name": "x-shaped pupils",
@@ -554,9 +554,9 @@
       "wiki_url": "/wiki_pages/x-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "X形瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈X形。"
     },
     {
       "name": "snowflakes-shaped_pupils",
@@ -564,9 +564,9 @@
       "wiki_url": "/wiki_pages/snowflakes-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "雪花形瞳孔",
+      "confidence": "B",
+      "tag_cn_long": "瞳孔呈雪花形状。"
     },
     {
       "name": "moon-shaped pupils",
@@ -574,9 +574,9 @@
       "wiki_url": "/wiki_pages/moon-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "月形瞳孔",
+      "confidence": "B",
+      "tag_cn_long": "瞳孔呈月亮形状（新月或满月）。"
     },
     {
       "name": "power symbol-shaped pupils",
@@ -584,9 +584,9 @@
       "wiki_url": "/wiki_pages/power_symbol-shaped_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "电源符号形瞳孔",
+      "confidence": "B",
+      "tag_cn_long": "瞳孔呈电源开关符号（⏻）形状。"
     },
     {
       "name": "crosshair pupils",
@@ -594,9 +594,9 @@
       "wiki_url": "/wiki_pages/crosshair_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "准星瞳孔",
+      "confidence": "B",
+      "tag_cn_long": "瞳孔呈瞄准镜十字准星形状。"
     },
     {
       "name": "mismatched pupils",
@@ -604,9 +604,9 @@
       "wiki_url": "/wiki_pages/mismatched_pupils",
       "category_path": "Pupils",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瞳孔不对称",
+      "confidence": "A",
+      "tag_cn_long": "左右瞳孔形状或大小不同。"
     },
     {
       "name": "blue sclera",
@@ -614,9 +614,9 @@
       "wiki_url": "/wiki_pages/blue_sclera",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝色巩膜",
+      "confidence": "A",
+      "tag_cn_long": "眼白部分为蓝色。"
     },
     {
       "name": "black sclera",
@@ -624,9 +624,9 @@
       "wiki_url": "/wiki_pages/black_sclera",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑色巩膜",
+      "confidence": "A",
+      "tag_cn_long": "眼白部分为黑色，常见于恶魔等角色。"
     },
     {
       "name": "blank eyes",
@@ -634,9 +634,9 @@
       "wiki_url": "/wiki_pages/blank_eyes",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "空白眼",
+      "confidence": "A",
+      "tag_cn_long": "只有眼白，没有虹膜和瞳孔的眼睛。"
     },
     {
       "name": "bloodshot eyes",
@@ -644,9 +644,9 @@
       "wiki_url": "/wiki_pages/bloodshot_eyes",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "血丝眼",
+      "confidence": "A",
+      "tag_cn_long": "眼白布满血丝，表示激动或疲劳。"
     },
     {
       "name": "green sclera",
@@ -654,9 +654,9 @@
       "wiki_url": "/wiki_pages/green_sclera",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色巩膜",
+      "confidence": "A",
+      "tag_cn_long": "眼白部分为绿色。"
     },
     {
       "name": "mismatched sclera",
@@ -664,9 +664,9 @@
       "wiki_url": "/wiki_pages/mismatched_sclera",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "巩膜异色",
+      "confidence": "A",
+      "tag_cn_long": "左右眼的巩膜颜色不同。"
     },
     {
       "name": "no sclera",
@@ -674,9 +674,9 @@
       "wiki_url": "/wiki_pages/no_sclera",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无巩膜眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛没有眼白部分，瞳孔直接位于肤色之上。"
     },
     {
       "name": "orange sclera",
@@ -684,9 +684,9 @@
       "wiki_url": "/wiki_pages/orange_sclera",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色巩膜",
+      "confidence": "A",
+      "tag_cn_long": "眼白部分为橙色。"
     },
     {
       "name": "red sclera",
@@ -694,9 +694,9 @@
       "wiki_url": "/wiki_pages/red_sclera",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色巩膜",
+      "confidence": "B",
+      "tag_cn_long": "眼白部分呈红色的状态。"
     },
     {
       "name": "yellow sclera",
@@ -704,9 +704,9 @@
       "wiki_url": "/wiki_pages/yellow_sclera",
       "category_path": "Sclera",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色巩膜",
+      "confidence": "B",
+      "tag_cn_long": "眼白部分呈黄色的状态。"
     },
     {
       "name": "bags under eyes",
@@ -714,9 +714,9 @@
       "wiki_url": "/wiki_pages/bags_under_eyes",
       "category_path": "Around the eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼袋",
+      "confidence": "A",
+      "tag_cn_long": "眼睛下方出现的黑眼圈或浮肿，常表示疲惫或压力。"
     },
     {
       "name": "aegyo sal",
@@ -724,9 +724,9 @@
       "wiki_url": "/wiki_pages/aegyo_sal",
       "category_path": "Around the eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼下卧蚕",
+      "confidence": "B",
+      "tag_cn_long": "眼睛下方丰满的脂肪垫，显得年轻可爱。"
     },
     {
       "name": "bruised eye",
@@ -734,9 +734,9 @@
       "wiki_url": "/wiki_pages/bruised_eye",
       "category_path": "Around the eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼周瘀伤",
+      "confidence": "A",
+      "tag_cn_long": "眼睛周围因受伤出现的瘀青。"
     },
     {
       "name": "electric eyes",
@@ -744,9 +744,9 @@
       "wiki_url": "/wiki_pages/electric_eyes",
       "category_path": "Around the eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "电光眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛或瞳孔周围散发出电光或闪电特效。"
     },
     {
       "name": "flaming eyes",
@@ -754,9 +754,9 @@
       "wiki_url": "/wiki_pages/flaming_eyes",
       "category_path": "Around the eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火焰眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛中冒出火焰，表示强烈情绪或使用能力。"
     },
     {
       "name": "glowing eyes",
@@ -764,9 +764,9 @@
       "wiki_url": "/wiki_pages/glowing_eyes",
       "category_path": "Around the eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "发光眼睛",
+      "confidence": "A",
+      "tag_cn_long": "双眼发出亮光，可能源自超自然或特殊能力。"
     },
     {
       "name": "glowing eye",
@@ -774,9 +774,9 @@
       "wiki_url": "/wiki_pages/glowing_eye",
       "category_path": "Around the eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单眼发光",
+      "confidence": "A",
+      "tag_cn_long": "只有一只眼睛在发光。"
     },
     {
       "name": "button eyes",
@@ -784,9 +784,9 @@
       "wiki_url": "/wiki_pages/button_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "纽扣眼",
+      "confidence": "A",
+      "tag_cn_long": "由纽扣制成的眼睛，常见于玩偶或拟人帽子。"
     },
     {
       "name": "cephalopod eyes",
@@ -794,9 +794,9 @@
       "wiki_url": "/wiki_pages/cephalopod_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头足类眼睛",
+      "confidence": "C",
+      "tag_cn_long": "类似章鱼或鱿鱼的瞳孔，呈近似“8”字形。"
     },
     {
       "name": "compound eyes",
@@ -804,9 +804,9 @@
       "wiki_url": "/wiki_pages/compound_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "复眼",
+      "confidence": "A",
+      "tag_cn_long": "由众多小眼组成的网状眼睛，常见于昆虫等节肢动物。"
     },
     {
       "name": "horizontal pupils",
@@ -814,9 +814,9 @@
       "wiki_url": "/wiki_pages/horizontal_pupils",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水平瞳孔",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔呈水平矩形或水平椭圆形，常见于某些动物。"
     },
     {
       "name": "lens eye",
@@ -824,9 +824,9 @@
       "wiki_url": "/wiki_pages/lens_eye",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "镜头眼",
+      "confidence": "A",
+      "tag_cn_long": "眼球呈现相机镜头外观，带有光圈环，多见于机器人或人造人。"
     },
     {
       "name": "pixel eyes",
@@ -834,9 +834,9 @@
       "wiki_url": "/wiki_pages/pixel_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "像素眼",
+      "confidence": "A",
+      "tag_cn_long": "由像素图形构成的电子显示眼睛。"
     },
     {
       "name": "bulging eyes",
@@ -844,9 +844,9 @@
       "wiki_url": "/wiki_pages/bulging_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凸眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛从眼眶中突出，通常表示极度惊讶或兴奋。"
     },
     {
       "name": "eye pop",
@@ -854,9 +854,9 @@
       "wiki_url": "/wiki_pages/eye_pop",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼球弹出",
+      "confidence": "A",
+      "tag_cn_long": "眼睛完全弹出眼眶，常见于夸张卡通喜剧效果。"
     },
     {
       "name": "crazy eyes",
@@ -864,9 +864,9 @@
       "wiki_url": "/wiki_pages/crazy_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "疯狂眼",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔异常放大或缩小，显示精神失常或恐怖状态。"
     },
     {
       "name": "empty eyes",
@@ -874,9 +874,9 @@
       "wiki_url": "/wiki_pages/empty_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "空洞眼神",
+      "confidence": "A",
+      "tag_cn_long": "眼睛无光泽或高光，表现失神、疯狂、死亡等状态。"
     },
     {
       "name": "dashed eyes",
@@ -884,9 +884,9 @@
       "wiki_url": "/wiki_pages/dashed_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "线眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛中央有一条横线穿过，通常表示极度愉悦或高潮。"
     },
     {
       "name": "heart-shaped eyes",
@@ -894,9 +894,9 @@
       "wiki_url": "/wiki_pages/heart-shaped_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "心形眼",
+      "confidence": "A",
+      "tag_cn_long": "眼球形状变为心形，表示极度迷恋或爱慕。"
     },
     {
       "name": "Nonowa",
@@ -904,9 +904,9 @@
       "wiki_url": "/wiki_pages/nonowa",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Nonowa",
+      "confidence": "B",
+      "tag_cn_long": "天海春香的脸部变形表情，由平假名ののワ组成。"
     },
     {
       "name": "solid circle eyes",
@@ -914,9 +914,9 @@
       "wiki_url": "/wiki_pages/solid_circle_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "实心圆眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛画成实心的黑色或彩色圆形，常见于Q版角色。"
     },
     {
       "name": "o o",
@@ -924,9 +924,9 @@
       "wiki_url": "/wiki_pages/o_o",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "瞪圆眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛画成带黑色粗边的白色实心圆，用于表达惊讶。"
     },
     {
       "name": "solid oval eyes",
@@ -934,9 +934,9 @@
       "wiki_url": "/wiki_pages/solid_oval_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "实心椭圆眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛画成实心黑色椭圆形，常见于Q版角色。"
     },
     {
       "name": "0 0",
@@ -944,9 +944,9 @@
       "wiki_url": "/wiki_pages/0_0",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竖椭圆眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛画成带黑色粗边的白色垂直椭圆，用于表达惊讶。"
     },
     {
       "name": "spiral-only eyes",
@@ -954,9 +954,9 @@
       "wiki_url": "/wiki_pages/spiral-only_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "螺旋眼",
+      "confidence": "A",
+      "tag_cn_long": "整只眼睛呈螺旋形状，通常表示眩晕或失去意识。"
     },
     {
       "name": "jitome",
@@ -964,9 +964,9 @@
       "wiki_url": "/wiki_pages/jitome",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半眯眼",
+      "confidence": "B",
+      "tag_cn_long": "上眼皮画成一条直线，表现冷漠、厌倦、嘲讽等表情。"
     },
     {
       "name": "tareme",
@@ -974,9 +974,9 @@
       "wiki_url": "/wiki_pages/tareme",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "垂眼",
+      "confidence": "A",
+      "tag_cn_long": "眼角下垂的眼睛，通常显得温柔、弱势。"
     },
     {
       "name": "tsurime",
@@ -984,9 +984,9 @@
       "wiki_url": "/wiki_pages/tsurime",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "吊眼",
+      "confidence": "A",
+      "tag_cn_long": "眼角上挑的眼睛，通常显得锐利、强势。"
     },
     {
       "name": "sanpaku",
@@ -994,9 +994,9 @@
       "wiki_url": "/wiki_pages/sanpaku",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "三白眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛在静止时明显露出上下或左右的眼白，表示愤怒、疲惫或危险。"
     },
     {
       "name": "sparkling eyes",
@@ -1004,9 +1004,9 @@
       "wiki_url": "/wiki_pages/sparkling_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛里出现星形闪光，通常表示兴奋或渴望。"
     },
     {
       "name": "Geass",
@@ -1014,9 +1014,9 @@
       "wiki_url": "/wiki_pages/geass",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Geass眼",
+      "confidence": "A",
+      "tag_cn_long": "来自《Code Geass》的能力，眼睛中出现紫色发光符号，代表使用或受其影响。"
     },
     {
       "name": "Code Geass",
@@ -1024,9 +1024,9 @@
       "wiki_url": "/wiki_pages/code_geass",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "Code Geass",
+      "confidence": "B",
+      "tag_cn_long": "日本动画系列《Code Geass 叛逆的鲁路修》，此处指角色眼睛中出现的Geass标志。"
     },
     {
       "name": "Sharingan",
@@ -1034,9 +1034,9 @@
       "wiki_url": "/wiki_pages/sharingan",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "写轮眼",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中宇智波一族的瞳术，红色瞳孔带勾玉图案。"
     },
     {
       "name": "Naruto",
@@ -1044,9 +1044,9 @@
       "wiki_url": "/wiki_pages/naruto_%28series%29",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火影忍者",
+      "confidence": "A",
+      "tag_cn_long": "日本动漫《火影忍者》，此处泛指作品中的特殊眼睛样式。"
     },
     {
       "name": "Mangekyou Sharingan",
@@ -1054,9 +1054,9 @@
       "wiki_url": "/wiki_pages/mangekyou_sharingan",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "万花筒写轮眼",
+      "confidence": "A",
+      "tag_cn_long": "写轮眼的进阶形态，眼睛图案独特并拥有特殊能力。"
     },
     {
       "name": "Rinnegan",
@@ -1064,9 +1064,9 @@
       "wiki_url": "/wiki_pages/rinnegan",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "轮回眼",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中三大瞳术之一，眼睛呈波纹状，拥有多种强大能力。"
     },
     {
       "name": "Byakugan",
@@ -1074,9 +1074,9 @@
       "wiki_url": "/wiki_pages/byakugan",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白眼",
+      "confidence": "A",
+      "tag_cn_long": "《火影忍者》中日向一族的瞳术，白色或淡紫色无纹理的眼睛。"
     },
     {
       "name": "Naruto",
@@ -1084,9 +1084,9 @@
       "wiki_url": "/wiki_pages/naruto_%28series%29",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "火影忍者",
+      "confidence": "A",
+      "tag_cn_long": "日本动漫《火影忍者》，此处泛指作品中的特殊眼睛样式。"
     },
     {
       "name": "eye reflection",
@@ -1094,9 +1094,9 @@
       "wiki_url": "/wiki_pages/eye_reflection",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼睛反射",
+      "confidence": "A",
+      "tag_cn_long": "眼睛里映出周围物体的倒影。"
     },
     {
       "name": "text in eyes",
@@ -1104,9 +1104,9 @@
       "wiki_url": "/wiki_pages/text_in_eyes",
       "category_path": "More appearance",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼中文字",
+      "confidence": "A",
+      "tag_cn_long": "瞳孔中写有文字，常用于表现角色的想法或状态。"
     },
     {
       "name": "missing eye",
@@ -1114,9 +1114,9 @@
       "wiki_url": "/wiki_pages/missing_eye",
       "category_path": "Number of eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缺眼",
+      "confidence": "A",
+      "tag_cn_long": "角色缺少一只眼睛（可能被遮挡、受伤或天生缺失）。"
     },
     {
       "name": "one-eyed",
@@ -1124,9 +1124,9 @@
       "wiki_url": "/wiki_pages/one-eyed",
       "category_path": "Number of eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "独眼",
+      "confidence": "A",
+      "tag_cn_long": "角色只有一只眼睛，包括天生独眼或后天失去。"
     },
     {
       "name": "third eye",
@@ -1134,9 +1134,9 @@
       "wiki_url": "/wiki_pages/third_eye",
       "category_path": "Number of eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "第三只眼",
+      "confidence": "A",
+      "tag_cn_long": "角色除双眼外还有一只额外的眼睛，可位于头部或其他部位。"
     },
     {
       "name": "extra eyes",
@@ -1144,9 +1144,9 @@
       "wiki_url": "/wiki_pages/extra_eyes",
       "category_path": "Number of eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多余的眼睛",
+      "confidence": "A",
+      "tag_cn_long": "角色身体上有多于两只的眼睛，必须长在身体上而非漂浮。"
     },
     {
       "name": "no eyes",
@@ -1154,9 +1154,9 @@
       "wiki_url": "/wiki_pages/no_eyes",
       "category_path": "Number of eyes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无眼",
+      "confidence": "A",
+      "tag_cn_long": "角色没有画出眼睛，常因头发遮挡、阴影效果或故意省略。"
     },
     {
       "name": "&gt; &lt;",
@@ -1214,9 +1214,9 @@
       "wiki_url": "/wiki_pages/0_0",
       "category_path": "Emotions and expressions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "竖椭圆眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛画成带黑色粗边的白色垂直椭圆，用于表达惊讶。"
     },
     {
       "name": "3 3",
@@ -1244,9 +1244,9 @@
       "wiki_url": "/wiki_pages/%40_%40",
       "category_path": "Emotions and expressions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "螺旋眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛呈现漩涡/螺旋状，表示困惑、眩晕或搞怪。"
     },
     {
       "name": "^ ^",
@@ -1274,9 +1274,9 @@
       "wiki_url": "/wiki_pages/%2B_%2B",
       "category_path": "Emotions and expressions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "星星眼",
+      "confidence": "A",
+      "tag_cn_long": "角色兴奋时眼中出现黄色四角星光，常伴有头部周围的光点。"
     },
     {
       "name": ". .",
@@ -1284,9 +1284,9 @@
       "wiki_url": "/wiki_pages/._.",
       "category_path": "Emotions and expressions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "豆豆眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛简化为两个小圆点，常见于Q版角色。"
     },
     {
       "name": "&lt;o&gt; &lt;o&gt;",
@@ -1294,9 +1294,9 @@
       "wiki_url": "/wiki_pages/%3Co%3E_%3Co%3E",
       "category_path": "Emotions and expressions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "圆圈眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛呈两个圆圈状，常表示惊讶或呆滞。"
     },
     {
       "name": "&lt;|&gt;_&lt;|&gt;",
@@ -1354,9 +1354,9 @@
       "wiki_url": "/wiki_pages/one_eye_closed",
       "category_path": "One or two eyes closed",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单眼闭合",
+      "confidence": "A",
+      "tag_cn_long": "角色闭上一只眼睛的动作。"
     },
     {
       "name": ";&lt;",
@@ -1364,9 +1364,9 @@
       "wiki_url": "/wiki_pages/%3B%3C",
       "category_path": "One or two eyes closed",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眯眼微笑",
+      "confidence": "B",
+      "tag_cn_long": "一种眯眼微笑的表情符号，表示闭眼且嘴微张。"
     },
     {
       "name": ";&gt;",
@@ -1374,9 +1374,9 @@
       "wiki_url": "/wiki_pages/%3B%3E",
       "category_path": "One or two eyes closed",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眯眼咧嘴",
+      "confidence": "B",
+      "tag_cn_long": "一种眯眼并咧嘴笑的表情符号。"
     },
     {
       "name": ";p",
@@ -1384,9 +1384,9 @@
       "wiki_url": "/wiki_pages/%3Bp",
       "category_path": "One or two eyes closed",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "闭眼吐舌",
+      "confidence": "A",
+      "tag_cn_long": "闭上一只眼并向下伸出舌头的调皮表情。"
     },
     {
       "name": "covering own eyes",
@@ -1394,9 +1394,9 @@
       "wiki_url": "/wiki_pages/covering_own_eyes",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "自遮双眼",
+      "confidence": "A",
+      "tag_cn_long": "用手或其他物体遮住自己的眼睛，通常表示羞耻或不想看。"
     },
     {
       "name": "hair over eyes",
@@ -1404,9 +1404,9 @@
       "wiki_url": "/wiki_pages/hair_over_eyes",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "头发遮眼",
+      "confidence": "A",
+      "tag_cn_long": "前发（刘海）覆盖住双眼，营造神秘或害羞的形象。"
     },
     {
       "name": "hair over one eye",
@@ -1414,9 +1414,9 @@
       "wiki_url": "/wiki_pages/hair_over_one_eye",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单眼遮发",
+      "confidence": "A",
+      "tag_cn_long": "头发垂下来遮住其中一只眼睛。"
     },
     {
       "name": "bandage over one eye",
@@ -1424,9 +1424,9 @@
       "wiki_url": "/wiki_pages/bandage_over_one_eye",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单眼绷带",
+      "confidence": "A",
+      "tag_cn_long": "用绷带或创可贴覆盖住一只眼睛，类似眼罩但为绷带材质。"
     },
     {
       "name": "blindfold",
@@ -1434,9 +1434,9 @@
       "wiki_url": "/wiki_pages/blindfold",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蒙眼布",
+      "confidence": "A",
+      "tag_cn_long": "遮住双眼的布条，用于阻止视线。"
     },
     {
       "name": "hat over eyes",
@@ -1444,9 +1444,9 @@
       "wiki_url": "/wiki_pages/hat_over_eyes",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "帽子遮眼",
+      "confidence": "A",
+      "tag_cn_long": "帽子戴得很低遮住了双眼。"
     },
     {
       "name": "eyepatch",
@@ -1454,9 +1454,9 @@
       "wiki_url": "/wiki_pages/eyepatch",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼罩",
+      "confidence": "A",
+      "tag_cn_long": "戴在眼睛上的小布片或罩子，用于保护或遮盖受伤的眼睛。"
     },
     {
       "name": "eyelashes",
@@ -1464,9 +1464,9 @@
       "wiki_url": "/wiki_pages/eyelashes",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛",
+      "confidence": "A",
+      "tag_cn_long": "角色睫毛被特别关注的描绘。"
     },
     {
       "name": "colored eyelashes",
@@ -1474,9 +1474,9 @@
       "wiki_url": "/wiki_pages/colored_eyelashes",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "彩色睫毛",
+      "confidence": "A",
+      "tag_cn_long": "非黑色的眼线或睫毛，通常带有颜色。"
     },
     {
       "name": "fake eyelashes",
@@ -1484,9 +1484,9 @@
       "wiki_url": "/wiki_pages/fake_eyelashes",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "假睫毛",
+      "confidence": "A",
+      "tag_cn_long": "人造的睫毛贴片，用于装饰。"
     },
     {
       "name": "eyes visible through hair",
@@ -1494,9 +1494,9 @@
       "wiki_url": "/wiki_pages/eyes_visible_through_hair",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透发见眼",
+      "confidence": "A",
+      "tag_cn_long": "尽管头发遮住，但眼睛仍隐约可见的绘画手法。"
     },
     {
       "name": "glasses",
@@ -1514,9 +1514,9 @@
       "wiki_url": "/wiki_pages/makeup",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "化妆",
+      "confidence": "A",
+      "tag_cn_long": "面部化妆，包括眼影、口红等。"
     },
     {
       "name": "eyeliner",
@@ -1524,9 +1524,9 @@
       "wiki_url": "/wiki_pages/eyeliner",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼线",
+      "confidence": "A",
+      "tag_cn_long": "沿眼睑边缘画的细线，用于突出眼部。"
     },
     {
       "name": "eyeshadow",
@@ -1534,9 +1534,9 @@
       "wiki_url": "/wiki_pages/eyeshadow",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼影",
+      "confidence": "A",
+      "tag_cn_long": "涂在眼睑上的有色粉状化妆品。"
     },
     {
       "name": "mascara",
@@ -1544,9 +1544,9 @@
       "wiki_url": "/wiki_pages/mascara",
       "category_path": "Accessories for the eyes; Eyes covered",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "睫毛膏",
+      "confidence": "A",
+      "tag_cn_long": "用于加厚或拉长睫毛的化妆品。"
     },
     {
       "name": "looking afar",
@@ -1554,9 +1554,9 @@
       "wiki_url": "/wiki_pages/looking_afar",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "远眺",
+      "confidence": "A",
+      "tag_cn_long": "角色看向远处，目光不聚焦于近处物体。"
     },
     {
       "name": "looking around",
@@ -1564,9 +1564,9 @@
       "wiki_url": "/wiki_pages/looking_around",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "环顾四周",
+      "confidence": "A",
+      "tag_cn_long": "角色转动头部或眼睛观察周围环境。"
     },
     {
       "name": "looking at another",
@@ -1574,9 +1574,9 @@
       "wiki_url": "/wiki_pages/looking_at_another",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向他人",
+      "confidence": "A",
+      "tag_cn_long": "角色正在注视另一个角色。"
     },
     {
       "name": "eye contact",
@@ -1594,9 +1594,9 @@
       "wiki_url": "/wiki_pages/looking_at_breasts",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "注视胸部",
+      "confidence": "A",
+      "tag_cn_long": "角色视线明显聚焦于他人胸部。"
     },
     {
       "name": "looking at creature",
@@ -1604,9 +1604,9 @@
       "wiki_url": "/wiki_pages/looking_at_creature",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向生物",
+      "confidence": "A",
+      "tag_cn_long": "角色正在注视一个生物，如动物或幻想生物。"
     },
     {
       "name": "looking at crotch",
@@ -1614,9 +1614,9 @@
       "wiki_url": "/wiki_pages/looking_at_crotch",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向胯部",
+      "confidence": "A",
+      "tag_cn_long": "角色在注视另一个角色的胯部区域。"
     },
     {
       "name": "looking at hand",
@@ -1624,9 +1624,9 @@
       "wiki_url": "/wiki_pages/looking_at_hand",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向手",
+      "confidence": "B",
+      "tag_cn_long": "角色在注视自己的手（单数）。"
     },
     {
       "name": "looking at hands",
@@ -1634,9 +1634,9 @@
       "wiki_url": "/wiki_pages/looking_at_hands",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向双手",
+      "confidence": "A",
+      "tag_cn_long": "角色在注视自己的双手。"
     },
     {
       "name": "looking at mirror",
@@ -1644,9 +1644,9 @@
       "wiki_url": "/wiki_pages/looking_at_mirror",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "照镜子",
+      "confidence": "A",
+      "tag_cn_long": "角色在镜中注视自己。"
     },
     {
       "name": "looking at object",
@@ -1654,9 +1654,9 @@
       "wiki_url": "/wiki_pages/looking_at_object",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向物体",
+      "confidence": "A",
+      "tag_cn_long": "角色在注视一个无生命的物体。"
     },
     {
       "name": "looking at penis",
@@ -1664,9 +1664,9 @@
       "wiki_url": "/wiki_pages/looking_at_penis",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向阴茎",
+      "confidence": "A",
+      "tag_cn_long": "角色直视阴茎。"
     },
     {
       "name": "looking at phone",
@@ -1674,9 +1674,9 @@
       "wiki_url": "/wiki_pages/looking_at_phone",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看手机",
+      "confidence": "A",
+      "tag_cn_long": "角色正在看手机。"
     },
     {
       "name": "looking at pussy",
@@ -1684,9 +1684,9 @@
       "wiki_url": "/wiki_pages/looking_at_pussy",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向阴部",
+      "confidence": "A",
+      "tag_cn_long": "角色直视女性阴部。"
     },
     {
       "name": "looking at self",
@@ -1694,9 +1694,9 @@
       "wiki_url": "/wiki_pages/looking_at_self",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看自己",
+      "confidence": "A",
+      "tag_cn_long": "角色在注视自己身体或镜像。"
     },
     {
       "name": "looking at viewer",
@@ -1704,9 +1704,9 @@
       "wiki_url": "/wiki_pages/looking_at_viewer",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "注视观众",
+      "confidence": "A",
+      "tag_cn_long": "角色直接看向观众/镜头。"
     },
     {
       "name": "looking afar",
@@ -1714,9 +1714,9 @@
       "wiki_url": "/wiki_pages/looking_afar",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "远眺",
+      "confidence": "A",
+      "tag_cn_long": "角色看向远处，目光不聚焦于近处物体。"
     },
     {
       "name": "looking back",
@@ -1724,9 +1724,9 @@
       "wiki_url": "/wiki_pages/looking_back",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "回头",
+      "confidence": "A",
+      "tag_cn_long": "角色扭头向后看。"
     },
     {
       "name": "looking down",
@@ -1734,9 +1734,9 @@
       "wiki_url": "/wiki_pages/looking_down",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "向下看",
+      "confidence": "A",
+      "tag_cn_long": "角色视线向下。"
     },
     {
       "name": "looking outside",
@@ -1744,9 +1744,9 @@
       "wiki_url": "/wiki_pages/looking_outside",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "向外看",
+      "confidence": "A",
+      "tag_cn_long": "角色从室内向外看。"
     },
     {
       "name": "looking over eyewear",
@@ -1754,9 +1754,9 @@
       "wiki_url": "/wiki_pages/looking_over_eyewear",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "从眼镜上方看",
+      "confidence": "A",
+      "tag_cn_long": "角色从眼镜或墨镜上方看出去。"
     },
     {
       "name": "looking through own legs",
@@ -1764,9 +1764,9 @@
       "wiki_url": "/wiki_pages/looking_through_own_legs",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "从双腿间看",
+      "confidence": "A",
+      "tag_cn_long": "角色弯腰通过自己双腿之间向后看。"
     },
     {
       "name": "looking to the side",
@@ -1774,9 +1774,9 @@
       "wiki_url": "/wiki_pages/looking_to_the_side",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "看向旁边",
+      "confidence": "A",
+      "tag_cn_long": "角色视线偏向一侧。"
     },
     {
       "name": "looking up",
@@ -1784,9 +1784,9 @@
       "wiki_url": "/wiki_pages/looking_up",
       "category_path": "Gazes",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "向上看",
+      "confidence": "A",
+      "tag_cn_long": "角色视线向上。"
     },
     {
       "name": "akanbe",
@@ -1794,9 +1794,9 @@
       "wiki_url": "/wiki_pages/akanbe",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "阿坎贝",
+      "confidence": "B",
+      "tag_cn_long": "一种日本式鬼脸，拉下眼皮并伸出舌头。"
     },
     {
       "name": "artificial eye",
@@ -1804,9 +1804,9 @@
       "wiki_url": "/wiki_pages/artificial_eye",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "义眼",
+      "confidence": "A",
+      "tag_cn_long": "人造的假眼，可能是装饰性义眼或功能性机械眼。"
     },
     {
       "name": "glass eye",
@@ -1814,9 +1814,9 @@
       "wiki_url": "/wiki_pages/glass_eye",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "玻璃眼",
+      "confidence": "A",
+      "tag_cn_long": "一种用玻璃制成的人造眼球。"
     },
     {
       "name": "single mechanical eye",
@@ -1824,9 +1824,9 @@
       "wiki_url": "/wiki_pages/single_mechanical_eye",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单机械眼",
+      "confidence": "A",
+      "tag_cn_long": "一只机械制作的眼睛，通常是假眼或增强视力的装置。"
     },
     {
       "name": "asymmetrical eyes",
@@ -1834,9 +1834,9 @@
       "wiki_url": "/wiki_pages/asymmetrical_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "异向眼",
+      "confidence": "B",
+      "tag_cn_long": "两只眼睛看向不同方向，常见于变色龙。"
     },
     {
       "name": "averting eyes",
@@ -1844,9 +1844,9 @@
       "wiki_url": "/wiki_pages/averting_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "移开视线",
+      "confidence": "A",
+      "tag_cn_long": "人物故意将目光从观看者或另一角色身上移开，通常因害羞、尴尬或紧张。"
     },
     {
       "name": "big eyes",
@@ -1854,9 +1854,9 @@
       "wiki_url": "/wiki_pages/big_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大眼睛",
+      "confidence": "A",
+      "tag_cn_long": "动漫中常见的大眼睛特征，此标签通常用于强调眼睛特别大。"
     },
     {
       "name": "blind",
@@ -1864,9 +1864,9 @@
       "wiki_url": "/wiki_pages/blind",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "失明",
+      "confidence": "A",
+      "tag_cn_long": "指角色无法用眼睛看见东西，完全失明。"
     },
     {
       "name": "partially blind",
@@ -1874,9 +1874,9 @@
       "wiki_url": "/wiki_pages/partially_blind",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半盲",
+      "confidence": "A",
+      "tag_cn_long": "仅一只眼睛失明或视力部分受损。"
     },
     {
       "name": "cross-eyed",
@@ -1884,9 +1884,9 @@
       "wiki_url": "/wiki_pages/cross-eyed",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斗鸡眼",
+      "confidence": "A",
+      "tag_cn_long": "双眼向内对焦，即斗鸡眼，可能是有意或无意。"
     },
     {
       "name": "drawn eyes",
@@ -1894,9 +1894,9 @@
       "wiki_url": "/wiki_pages/drawn_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "画眼",
+      "confidence": "A",
+      "tag_cn_long": "指角色的眼睛是画上去的，例如在玩具或图画中。"
     },
     {
       "name": "eyeball",
@@ -1904,9 +1904,9 @@
       "wiki_url": "/wiki_pages/eyeball",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼球",
+      "confidence": "A",
+      "tag_cn_long": "眼球，有时指脱离身体或单独出现的眼球。"
     },
     {
       "name": "eye beam",
@@ -1914,9 +1914,9 @@
       "wiki_url": "/wiki_pages/eye_beam",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼光束",
+      "confidence": "B",
+      "tag_cn_long": "从眼睛发射出的能量光束，常用于攻击。"
     },
     {
       "name": "eye focus",
@@ -1924,9 +1924,9 @@
       "wiki_url": "/wiki_pages/eye_focus",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼部焦点",
+      "confidence": "B",
+      "tag_cn_long": "画面重点聚焦于眼睛，或眼睛画得非常精细。"
     },
     {
       "name": "eye poke",
@@ -1934,9 +1934,9 @@
       "wiki_url": "/wiki_pages/eye_poke",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "戳眼",
+      "confidence": "A",
+      "tag_cn_long": "用手指或物体戳眼睛的动作。"
     },
     {
       "name": "eye pop",
@@ -1944,9 +1944,9 @@
       "wiki_url": "/wiki_pages/eye_pop",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼球弹出",
+      "confidence": "A",
+      "tag_cn_long": "眼睛完全弹出眼眶，常见于夸张卡通喜剧效果。"
     },
     {
       "name": "eye trail",
@@ -1954,9 +1954,9 @@
       "wiki_url": "/wiki_pages/eye_trail",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眼迹",
+      "confidence": "B",
+      "tag_cn_long": "眼睛后方留下的发光轨迹，常表示愤怒或决心。"
     },
     {
       "name": "googly eyes",
@@ -1964,9 +1964,9 @@
       "wiki_url": "/wiki_pages/googly_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凸眼",
+      "confidence": "B",
+      "tag_cn_long": "一种可转动的大眼睛，常用于玩具或搞怪表情。"
     },
     {
       "name": "half-closed eyes",
@@ -1974,9 +1974,9 @@
       "wiki_url": "/wiki_pages/half-closed_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "半闭眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛半闭着，表达困倦、诱惑或无聊等情绪。"
     },
     {
       "name": "narrowed eyes",
@@ -1984,9 +1984,9 @@
       "wiki_url": "/wiki_pages/narrowed_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眯眼",
+      "confidence": "A",
+      "tag_cn_long": "眼睛眯成细缝，表达怀疑、愤怒或专注。"
     },
     {
       "name": "lazy eye",
@@ -1994,9 +1994,9 @@
       "wiki_url": "/wiki_pages/lazy_eye",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "斜视",
+      "confidence": "A",
+      "tag_cn_long": "一只眼睛看向不同方向，可能是绘画错误或角色疯狂的表现。"
     },
     {
       "name": "persona eyes",
@@ -2004,9 +2004,9 @@
       "wiki_url": "/wiki_pages/persona_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "人格眼",
+      "confidence": "A",
+      "tag_cn_long": "角色召唤Persona时眼睛瞬间闪光的特效，表示攻击命中弱点。"
     },
     {
       "name": "pleading eyes",
@@ -2014,9 +2014,9 @@
       "wiki_url": "/wiki_pages/pleading_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "乞求眼",
+      "confidence": "A",
+      "tag_cn_long": "角色睁大双眼试图获得某物的表情，常强调眼睛高光。"
     },
     {
       "name": "rolling eyes",
@@ -2024,9 +2024,9 @@
       "wiki_url": "/wiki_pages/rolling_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "翻白眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛向上翻转，通常与极度快感或阿黑颜表情相关。"
     },
     {
       "name": "shading eyes",
@@ -2034,9 +2034,9 @@
       "wiki_url": "/wiki_pages/shading_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "遮眼",
+      "confidence": "A",
+      "tag_cn_long": "用手或物品挡住眼睛以阻挡阳光。"
     },
     {
       "name": "sideways glance",
@@ -2044,9 +2044,9 @@
       "wiki_url": "/wiki_pages/sideways_glance",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "侧目",
+      "confidence": "A",
+      "tag_cn_long": "从眼角向外看，通常是看向一侧或回头看。"
     },
     {
       "name": "squinting",
@@ -2054,9 +2054,9 @@
       "wiki_url": "/wiki_pages/squinting",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "眯眼",
+      "confidence": "A",
+      "tag_cn_long": "部分闭上眼睛，可能是为了看得更清或对强光的反应。"
     },
     {
       "name": "staring",
@@ -2064,9 +2064,9 @@
       "wiki_url": "/wiki_pages/staring",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "凝视",
+      "confidence": "A",
+      "tag_cn_long": "长时间直视，眼睛固定不动。"
     },
     {
       "name": "uneven eyes",
@@ -2074,9 +2074,9 @@
       "wiki_url": "/wiki_pages/uneven_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大小眼",
+      "confidence": "A",
+      "tag_cn_long": "双眼同时睁开但宽度不一致，如一只大睁一只半闭。"
     },
     {
       "name": "unusually open eyes",
@@ -2084,9 +2084,9 @@
       "wiki_url": "/wiki_pages/unusually_open_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罕见睁眼",
+      "confidence": "A",
+      "tag_cn_long": "对于通常闭眼的角色，本图中眼睛打开了。"
     },
     {
       "name": "upturned eyes",
@@ -2094,9 +2094,9 @@
       "wiki_url": "/wiki_pages/upturned_eyes",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "向上眼",
+      "confidence": "B",
+      "tag_cn_long": "眼睛朝上看向上方，常显得可爱、撒娇或顺从。"
     },
     {
       "name": "wall-eyed",
@@ -2104,9 +2104,9 @@
       "wiki_url": "/wiki_pages/wall-eyed",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "外斜眼",
+      "confidence": "A",
+      "tag_cn_long": "双眼向外侧偏斜，与对眼相反。"
     },
     {
       "name": "wide-eyed",
@@ -2114,9 +2114,9 @@
       "wiki_url": "/wiki_pages/wide-eyed",
       "category_path": "Misc / Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "大睁眼",
+      "confidence": "A",
+      "tag_cn_long": "完全睁开眼睛，眼白环绕虹膜可见。"
     },
     {
       "name": "wince",

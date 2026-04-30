@@ -1,0 +1,6 @@
+{
+  "tag": "Bad aspect ratio",
+  "tag_cn": "比例失调",
+  "confidence": "B",
+  "tag_cn_long": "图像长宽比被拉伸或压缩导致变形。"
+}

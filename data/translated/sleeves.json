@@ -72,9 +72,9 @@
       "wiki_url": "/wiki_pages/see-through_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "透明袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子材质透明，可透视皮肤或衣物。"
     },
     {
       "name": "Gradient sleeves",
@@ -82,9 +82,9 @@
       "wiki_url": "/wiki_pages/gradient_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渐变袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子颜色呈现渐变效果。"
     },
     {
       "name": "Two-tone sleeves",
@@ -92,9 +92,9 @@
       "wiki_url": "/wiki_pages/two-tone_sleeves",
       "category_path": "Colors",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双色袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子由两种颜色组成。"
     },
     {
       "name": "Multicolored sleeves",
@@ -102,9 +102,9 @@
       "wiki_url": "/wiki_pages/multicolored_sleeves",
       "category_path": "Colors",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "多色袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子有多种颜色。"
     },
     {
       "name": "Aqua sleeves",
@@ -112,9 +112,9 @@
       "wiki_url": "/wiki_pages/aqua_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "水色袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子为水蓝色或青色。"
     },
     {
       "name": "Black sleeves",
@@ -122,9 +122,9 @@
       "wiki_url": "/wiki_pages/black_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黑袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子为黑色，且与衣服主体颜色不同。"
     },
     {
       "name": "Blue sleeves",
@@ -132,9 +132,9 @@
       "wiki_url": "/wiki_pages/blue_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蓝袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子为蓝色，且与衣服主体颜色不同。"
     },
     {
       "name": "Brown sleeves",
@@ -142,9 +142,9 @@
       "wiki_url": "/wiki_pages/brown_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棕色袖子",
+      "confidence": "A",
+      "tag_cn_long": "一对棕色的袖子，需为分离袖子或与衣服主体颜色不同。"
     },
     {
       "name": "Green sleeves",
@@ -152,9 +152,9 @@
       "wiki_url": "/wiki_pages/green_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "绿色袖子",
+      "confidence": "A",
+      "tag_cn_long": "一对绿色的袖子，需为分离袖子或与衣服主体颜色不同。"
     },
     {
       "name": "Grey sleeves",
@@ -162,9 +162,9 @@
       "wiki_url": "/wiki_pages/grey_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "灰色袖子",
+      "confidence": "A",
+      "tag_cn_long": "一对灰色的袖子，需为分离袖子或与衣服主体颜色不同。"
     },
     {
       "name": "Orange sleeves",
@@ -172,9 +172,9 @@
       "wiki_url": "/wiki_pages/orange_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "橙色袖子",
+      "confidence": "A",
+      "tag_cn_long": "一对橙色的袖子，需为分离袖子或与衣服主体颜色不同。"
     },
     {
       "name": "Pink sleeves",
@@ -182,9 +182,9 @@
       "wiki_url": "/wiki_pages/pink_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "粉色袖子",
+      "confidence": "A",
+      "tag_cn_long": "一对粉色的袖子，需为分离袖子或与衣服主体颜色不同。"
     },
     {
       "name": "Purple sleeves",
@@ -192,9 +192,9 @@
       "wiki_url": "/wiki_pages/purple_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "紫色袖子",
+      "confidence": "A",
+      "tag_cn_long": "一对紫色的袖子，需为分离袖子或与衣服主体颜色不同。"
     },
     {
       "name": "Red sleeves",
@@ -202,9 +202,9 @@
       "wiki_url": "/wiki_pages/red_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "红色袖子",
+      "confidence": "A",
+      "tag_cn_long": "一对红色的袖子，需为分离袖子或与衣服主体颜色不同。"
     },
     {
       "name": "White sleeves",
@@ -212,9 +212,9 @@
       "wiki_url": "/wiki_pages/white_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "白色袖子",
+      "confidence": "A",
+      "tag_cn_long": "一对白色的袖子，需为分离袖子或与衣服主体颜色不同。"
     },
     {
       "name": "Yellow sleeves",
@@ -222,9 +222,9 @@
       "wiki_url": "/wiki_pages/yellow_sleeves",
       "category_path": "Colors",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "黄色袖子",
+      "confidence": "A",
+      "tag_cn_long": "一对黄色的袖子，需为分离袖子或与衣服主体颜色不同。"
     },
     {
       "name": "Checkered sleeves",
@@ -232,9 +232,9 @@
       "wiki_url": "/wiki_pages/checkered_sleeves",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "棋盘格袖子",
+      "confidence": "A",
+      "tag_cn_long": "带有棋盘格图案的袖子，需为分离袖子或与衣服主体图案不同。"
     },
     {
       "name": "Plaid sleeves",
@@ -242,9 +242,9 @@
       "wiki_url": "/wiki_pages/plaid_sleeves",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "格纹袖子",
+      "confidence": "A",
+      "tag_cn_long": "带有格纹图案的分离袖子，或与衣服主体图案不同。"
     },
     {
       "name": "Polka dot sleeves",
@@ -252,9 +252,9 @@
       "wiki_url": "/wiki_pages/polka_dot_sleeves",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "波点袖子",
+      "confidence": "A",
+      "tag_cn_long": "带有波点图案的袖子，需为分离袖子或与衣服主体图案不同。"
     },
     {
       "name": "Print sleeves",
@@ -262,9 +262,9 @@
       "wiki_url": "/wiki_pages/print_sleeves",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "印花袖子",
+      "confidence": "A",
+      "tag_cn_long": "带有印花图案的分离袖子或臂套，需与衣服主体图案不同。"
     },
     {
       "name": "Ribbed sleeves",
@@ -272,9 +272,9 @@
       "wiki_url": "/wiki_pages/ribbed_sleeves",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "罗纹袖子",
+      "confidence": "A",
+      "tag_cn_long": "带有罗纹纹理的袖子，需为分离袖子或与衣服主体纹理不同。"
     },
     {
       "name": "Striped sleeves",
@@ -282,9 +282,9 @@
       "wiki_url": "/wiki_pages/striped_sleeves",
       "category_path": "Patterns",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "条纹袖子",
+      "confidence": "A",
+      "tag_cn_long": "带有条纹图案的袖子，需为分离袖子或与衣服主体条纹不同。"
     },
     {
       "name": "Short sleeves",
@@ -292,9 +292,9 @@
       "wiki_url": "/wiki_pages/short_sleeves",
       "category_path": "Length",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短袖",
+      "confidence": "A",
+      "tag_cn_long": "袖长不超过肘部、不覆盖前臂的袖子。"
     },
     {
       "name": "Short over long sleeves",
@@ -302,9 +302,9 @@
       "wiki_url": "/wiki_pages/short_over_long_sleeves",
       "category_path": "Length",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短袖套长袖",
+      "confidence": "A",
+      "tag_cn_long": "在长袖外面再穿一件短袖的叠穿方式，通常为配色或图案搭配。"
     },
     {
       "name": "Three-quarter sleeves",
@@ -312,9 +312,9 @@
       "wiki_url": "/wiki_pages/three-quarter_sleeves",
       "category_path": "Length",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "七分袖",
+      "confidence": "A",
+      "tag_cn_long": "袖长介于短袖和长袖之间，约覆盖前臂三分之二。"
     },
     {
       "name": "Long sleeves",
@@ -322,9 +322,9 @@
       "wiki_url": "/wiki_pages/long_sleeves",
       "category_path": "Length",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "长袖",
+      "confidence": "A",
+      "tag_cn_long": "袖长至少覆盖到手腕的袖子。"
     },
     {
       "name": "Sleeves past wrists",
@@ -332,9 +332,9 @@
       "wiki_url": "/wiki_pages/sleeves_past_wrists",
       "category_path": "Length",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "超腕袖",
+      "confidence": "A",
+      "tag_cn_long": "袖长超过手腕、部分覆盖手部的袖子，常见于宽松或 oversized 服装。"
     },
     {
       "name": "Sleeves past fingers",
@@ -342,9 +342,9 @@
       "wiki_url": "/wiki_pages/sleeves_past_fingers",
       "category_path": "Length",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "过指袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子长到完全遮住手指甚至更长的袖子。"
     },
     {
       "name": "Uneven sleeves",
@@ -352,9 +352,9 @@
       "wiki_url": "/wiki_pages/uneven_sleeves",
       "category_path": "Length",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "不对称袖",
+      "confidence": "A",
+      "tag_cn_long": "两只袖子长度不同。"
     },
     {
       "name": "Detached sleeves",
@@ -372,9 +372,9 @@
       "wiki_url": "/wiki_pages/single_detached_sleeve",
       "category_path": "Style",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单侧分离袖",
+      "confidence": "A",
+      "tag_cn_long": "只穿戴一只分离式袖子。"
     },
     {
       "name": "Single sleeve",
@@ -382,9 +382,9 @@
       "wiki_url": "/wiki_pages/single_sleeve",
       "category_path": "Style",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "单袖",
+      "confidence": "A",
+      "tag_cn_long": "上衣只有一只袖子，另一侧无袖。"
     },
     {
       "name": "Sleeves pushed up",
@@ -412,9 +412,9 @@
       "wiki_url": "/wiki_pages/torn_sleeves",
       "category_path": "Style",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子被撕裂或有裂口。"
     },
     {
       "name": "Feather-trimmed sleeves",
@@ -422,9 +422,9 @@
       "wiki_url": "/wiki_pages/feather-trimmed_sleeves",
       "category_path": "Trim",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "羽饰袖",
+      "confidence": "A",
+      "tag_cn_long": "袖口有羽毛装饰的袖子。"
     },
     {
       "name": "Frilled sleeves",
@@ -432,9 +432,9 @@
       "wiki_url": "/wiki_pages/frilled_sleeves",
       "category_path": "Trim",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "褶边袖",
+      "confidence": "A",
+      "tag_cn_long": "袖口带有荷叶边或褶边的袖子。"
     },
     {
       "name": "Fur-trimmed sleeves",
@@ -442,9 +442,9 @@
       "wiki_url": "/wiki_pages/fur-trimmed_sleeves",
       "category_path": "Trim",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "毛皮饰边袖",
+      "confidence": "A",
+      "tag_cn_long": "袖口装饰有毛皮边的袖子。"
     },
     {
       "name": "Lace-trimmed sleeves",
@@ -452,9 +452,9 @@
       "wiki_url": "/wiki_pages/lace-trimmed_sleeves",
       "category_path": "Trim",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "蕾丝饰边袖",
+      "confidence": "A",
+      "tag_cn_long": "袖口有蕾丝花边装饰的袖子。"
     },
     {
       "name": "Ribbon-trimmed sleeves",
@@ -462,9 +462,9 @@
       "wiki_url": "/wiki_pages/ribbon-trimmed_sleeves",
       "category_path": "Trim",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "缎带饰边袖",
+      "confidence": "A",
+      "tag_cn_long": "袖口有缎带穿梭形成的装饰线。"
     },
     {
       "name": "Bell sleeves",
@@ -472,9 +472,9 @@
       "wiki_url": "/wiki_pages/bell_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "喇叭袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子底部向外展开呈钟形。"
     },
     {
       "name": "Compression sleeve",
@@ -482,9 +482,9 @@
       "wiki_url": "/wiki_pages/compression_sleeve",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "压缩袖",
+      "confidence": "A",
+      "tag_cn_long": "紧贴手臂的弹性袖套，用于肌肉支撑或保暖。"
     },
     {
       "name": "Cross-laced sleeves",
@@ -492,9 +492,9 @@
       "wiki_url": "/wiki_pages/cross-laced_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "交叉系带袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子带有交叉绑带或系绳。"
     },
     {
       "name": "Elbow sleeve",
@@ -512,9 +512,9 @@
       "wiki_url": "/wiki_pages/fishnet_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "渔网袖",
+      "confidence": "A",
+      "tag_cn_long": "由渔网状材料制成的袖子。"
     },
     {
       "name": "Furisode sleeves",
@@ -522,9 +522,9 @@
       "wiki_url": "/wiki_pages/furisode_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "振袖袖",
+      "confidence": "A",
+      "tag_cn_long": "类似日本振袖和服的宽大长袖。"
     },
     {
       "name": "Juliet sleeves",
@@ -532,9 +532,9 @@
       "wiki_url": "/wiki_pages/juliet_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "朱丽叶袖",
+      "confidence": "A",
+      "tag_cn_long": "上臂蓬松、前臂紧致的长袖，源于文艺复兴风格。"
     },
     {
       "name": "Layered sleeves",
@@ -542,9 +542,9 @@
       "wiki_url": "/wiki_pages/layered_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "叠袖",
+      "confidence": "B",
+      "tag_cn_long": "袖子有多层叠穿的效果，常见于魔法少女等服装。"
     },
     {
       "name": "Mismatched sleeves",
@@ -552,9 +552,9 @@
       "wiki_url": "/wiki_pages/mismatched_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "异色袖",
+      "confidence": "B",
+      "tag_cn_long": "左右袖子颜色或图案不同。"
     },
     {
       "name": "Paw sleeves",
@@ -562,9 +562,9 @@
       "wiki_url": "/wiki_pages/paw_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "爪袖",
+      "confidence": "A",
+      "tag_cn_long": "袖口设计成爪子形状的袖子。"
     },
     {
       "name": "Puff and slash sleeves",
@@ -572,9 +572,9 @@
       "wiki_url": "/wiki_pages/puff_and_slash_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泡泡开衩袖",
+      "confidence": "B",
+      "tag_cn_long": "泡泡袖上开有细长切口，露出内层颜色。"
     },
     {
       "name": "Puffy sleeves",
@@ -582,9 +582,9 @@
       "wiki_url": "/wiki_pages/puffy_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泡泡袖",
+      "confidence": "A",
+      "tag_cn_long": "袖管蓬松鼓起的设计，常见于多种服装。"
     },
     {
       "name": "Puffy detached sleeves",
@@ -592,9 +592,9 @@
       "wiki_url": "/wiki_pages/puffy_detached_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "分离式泡泡袖",
+      "confidence": "B",
+      "tag_cn_long": "不连接上衣的独立泡泡袖，穿在上臂。"
     },
     {
       "name": "Puffy long sleeves",
@@ -602,9 +602,9 @@
       "wiki_url": "/wiki_pages/puffy_long_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泡泡长袖",
+      "confidence": "A",
+      "tag_cn_long": "整条袖子宽松膨起的长度袖。"
     },
     {
       "name": "Puffy short sleeves",
@@ -612,9 +612,9 @@
       "wiki_url": "/wiki_pages/puffy_short_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "泡泡短袖",
+      "confidence": "A",
+      "tag_cn_long": "短款的泡泡袖。"
     },
     {
       "name": "Raglan sleeves",
@@ -632,9 +632,9 @@
       "wiki_url": "/wiki_pages/thumb_hole_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "拇指孔袖",
+      "confidence": "A",
+      "tag_cn_long": "袖口延伸过手腕且留有指孔让拇指伸出。"
     },
     {
       "name": "Torn sleeves",
@@ -642,9 +642,9 @@
       "wiki_url": "/wiki_pages/torn_sleeves",
       "category_path": "Type",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "破袖",
+      "confidence": "A",
+      "tag_cn_long": "袖子被撕裂或有裂口。"
     },
     {
       "name": "Wide sleeves",
@@ -662,9 +662,9 @@
       "wiki_url": "/wiki_pages/arm_out_of_sleeve",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "手臂出袖",
+      "confidence": "B",
+      "tag_cn_long": "穿着有袖衣物但手臂从袖子中伸出。"
     },
     {
       "name": "Hands in opposite sleeves",
@@ -672,9 +672,9 @@
       "wiki_url": "/wiki_pages/hands_in_opposite_sleeves",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "双手插对袖",
+      "confidence": "B",
+      "tag_cn_long": "双手分别插入对侧宽袖中。"
     },
     {
       "name": "Pinching sleeves",
@@ -682,9 +682,9 @@
       "wiki_url": "/wiki_pages/pinching_sleeves",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "捏袖",
+      "confidence": "B",
+      "tag_cn_long": "用手指捏住自己的袖口，通常是为了抬起过长的袖子。"
     },
     {
       "name": "Rolling sleeves up",
@@ -692,9 +692,9 @@
       "wiki_url": "/wiki_pages/rolling_sleeves_up",
       "category_path": "Actions",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "卷袖子",
+      "confidence": "A",
+      "tag_cn_long": "将袖子向上卷起。"
     },
     {
       "name": "Grabbing another's sleeve",
@@ -702,9 +702,9 @@
       "wiki_url": "/wiki_pages/grabbing_another%27s_sleeve",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "扯他人袖",
+      "confidence": "B",
+      "tag_cn_long": "抓住别人的袖子以引起注意。"
     },
     {
       "name": "Sleeveless",
@@ -742,9 +742,9 @@
       "wiki_url": "/wiki_pages/sleeveless_duster",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖长风衣",
+      "confidence": "B",
+      "tag_cn_long": "无袖的宽松长外套。"
     },
     {
       "name": "Sleeveless hoodie",
@@ -752,9 +752,9 @@
       "wiki_url": "/wiki_pages/sleeveless_hoodie",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖连帽衫",
+      "confidence": "A",
+      "tag_cn_long": "没有袖子的连帽衫。"
     },
     {
       "name": "Sleeveless jacket",
@@ -762,9 +762,9 @@
       "wiki_url": "/wiki_pages/sleeveless_jacket",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖夹克",
+      "confidence": "A",
+      "tag_cn_long": "一种没有袖子的夹克，通常有领子，比背心更防风。"
     },
     {
       "name": "Sleeveless kimono",
@@ -772,9 +772,9 @@
       "wiki_url": "/wiki_pages/sleeveless_kimono",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖和服",
+      "confidence": "A",
+      "tag_cn_long": "没有连接袖子的和服。"
     },
     {
       "name": "Sleeveless shirt",
@@ -792,9 +792,9 @@
       "wiki_url": "/wiki_pages/sleeveless_sweater",
       "category_path": "Actions",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无袖毛衣",
+      "confidence": "A",
+      "tag_cn_long": "没有袖子的毛衣，露出双臂。"
     },
     {
       "name": "Sleeveless turtleneck",
@@ -832,9 +832,9 @@
       "wiki_url": "/wiki_pages/sleeved_leotard",
       "category_path": "Clothing with abnormal sleeves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "有袖连体衣",
+      "confidence": "A",
+      "tag_cn_long": "一种带有袖子的连体紧身衣。"
     },
     {
       "name": "Short-sleeved coat",
@@ -842,9 +842,9 @@
       "wiki_url": "/wiki_pages/short-sleeved_coat",
       "category_path": "Clothing with abnormal sleeves",
       "wiki_exists": false,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短袖外套",
+      "confidence": "A",
+      "tag_cn_long": "一种袖子较短的外套。"
     },
     {
       "name": "Short-sleeved jacket",
@@ -852,9 +852,9 @@
       "wiki_url": "/wiki_pages/short-sleeved_jacket",
       "category_path": "Clothing with abnormal sleeves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短袖夹克",
+      "confidence": "A",
+      "tag_cn_long": "一种袖子较短的夹克。"
     },
     {
       "name": "Short-sleeved sweater",
@@ -862,9 +862,9 @@
       "wiki_url": "/wiki_pages/short-sleeved_sweater",
       "category_path": "Clothing with abnormal sleeves",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "短袖毛衣",
+      "confidence": "A",
+      "tag_cn_long": "一种袖子较短的毛衣，通常穿在衬衫外面。"
     },
     {
       "name": "Nipple sleeves",
@@ -882,9 +882,9 @@
       "wiki_url": "/wiki_pages/no_detached_sleeves",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "无分离袖",
+      "confidence": "A",
+      "tag_cn_long": "角色没有佩戴通常可见的分离式袖子。"
     },
     {
       "name": "Sleeve cuffs",
@@ -892,9 +892,9 @@
       "wiki_url": "/wiki_pages/sleeve_cuffs",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袖口",
+      "confidence": "A",
+      "tag_cn_long": "衣物袖子末端手腕处的装饰或结构层。"
     },
     {
       "name": "Up sleeve",
@@ -902,9 +902,9 @@
       "wiki_url": "/wiki_pages/up_sleeve",
       "category_path": "Miscellaneous",
       "wiki_exists": true,
-      "tag_cn": "",
-      "confidence": "",
-      "tag_cn_long": ""
+      "tag_cn": "袖内窥视",
+      "confidence": "B",
+      "tag_cn_long": "从袖子下方朝里看，通常能看到腋下。"
     }
   ],
   "total_tags": 84,
