@@ -1,0 +1,534 @@
+{
+  "group_name": "shoulders",
+  "display_name": "Tag group:shoulders",
+  "source_url": "/wiki_pages/tag_group%3Ashoulders",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ashoulders",
+  "categories": [
+    {
+      "h4": "Anatomy of shoulders",
+      "h5": null,
+      "path": "Anatomy of shoulders",
+      "tag_count": 3
+    },
+    {
+      "h4": "Attire for shoulders",
+      "h5": "Attire designed for shoulders",
+      "path": "Attire for shoulders/Attire designed for shoulders",
+      "tag_count": 4
+    },
+    {
+      "h4": "Attire for shoulders",
+      "h5": "Other attire, on shoulders",
+      "path": "Attire for shoulders/Other attire, on shoulders",
+      "tag_count": 2
+    },
+    {
+      "h4": "Attire for shoulders",
+      "h5": "Exposed shoulders",
+      "path": "Attire for shoulders/Exposed shoulders",
+      "tag_count": 3
+    },
+    {
+      "h4": "Attire for shoulders",
+      "h5": "Clothing physically designed to leave the shoulders bare",
+      "path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "tag_count": 25
+    },
+    {
+      "h4": "Shoulders with something else",
+      "h5": "Objects with shoulders",
+      "path": "Shoulders with something else/Objects with shoulders",
+      "tag_count": 3
+    },
+    {
+      "h4": "Shoulders with something else",
+      "h5": "Hands / arms with shoulders",
+      "path": "Shoulders with something else/Hands / arms with shoulders",
+      "tag_count": 9
+    },
+    {
+      "h4": "Shoulders with something else",
+      "h5": "People touching shoulders",
+      "path": "Shoulders with something else/People touching shoulders",
+      "tag_count": 5
+    },
+    {
+      "h4": "Shoulders with something else",
+      "h5": "Animals with shoulders",
+      "path": "Shoulders with something else/Animals with shoulders",
+      "tag_count": 7
+    },
+    {
+      "h4": "Shoulders with something else",
+      "h5": "Misc",
+      "path": "Shoulders with something else/Misc",
+      "tag_count": 4
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "Broad shoulders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/broad_shoulders",
+      "category_path": "Anatomy of shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nape",
+      "category_path": "Anatomy of shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shoulder blades",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_blades",
+      "category_path": "Anatomy of shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Epaulettes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/epaulettes",
+      "category_path": "Attire for shoulders/Attire designed for shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pauldrons",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pauldrons",
+      "category_path": "Attire for shoulders/Attire designed for shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Puffy sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puffy_sleeves",
+      "category_path": "Attire for shoulders/Attire designed for shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shoulder pads",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_pads",
+      "category_path": "Attire for shoulders/Attire designed for shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jacket on shoulders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jacket_on_shoulders",
+      "category_path": "Attire for shoulders/Other attire, on shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shirt on shoulders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shirt_on_shoulders",
+      "category_path": "Attire for shoulders/Other attire, on shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bare shoulders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bare_shoulders",
+      "category_path": "Attire for shoulders/Exposed shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Off shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off_shoulder",
+      "category_path": "Attire for shoulders/Exposed shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strap slip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strap_slip",
+      "category_path": "Attire for shoulders/Exposed shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Off-shoulder shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_shirt",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Off-shoulder dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_dress",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Off-shoulder sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_sweater",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Off-shoulder jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_jacket",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Off-shoulder coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_coat",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Off-shoulder bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_bikini",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Off-shoulder one-piece swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_one-piece_swimsuit",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Off-shoulder leotard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_leotard",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sleeveless",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sleeveless shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_shirt",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sleeveless dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_dress",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sleeveless sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_sweater",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sleeveless jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_jacket",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sleeveless coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_coat",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strapless",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tube top",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tube_top",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strapless shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_shirt",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strapless dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_dress",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strapless bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_bra",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strapless bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_bikini",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strapless one-piece swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_one-piece_swimsuit",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strapless leotard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_leotard",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Single-shoulder shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single-shoulder_shirt",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Single-shoulder dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single-shoulder_dress",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Single-shoulder sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single-shoulder_sweater",
+      "category_path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+      "wiki_exists": true
+    },
+    {
+      "name": "Towel around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/towel_around_neck",
+      "category_path": "Shoulders with something else/Objects with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Weapon over shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/weapon_over_shoulder",
+      "category_path": "Shoulders with something else/Objects with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sword over shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sword_over_shoulder",
+      "category_path": "Shoulders with something else/Objects with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Arm around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_around_neck",
+      "category_path": "Shoulders with something else/Hands / arms with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Arm on another's shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_on_another%27s_shoulder",
+      "category_path": "Shoulders with something else/Hands / arms with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hand on another's shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_another%27s_shoulder",
+      "category_path": "Shoulders with something else/Hands / arms with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hand on own shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_own_shoulder",
+      "category_path": "Shoulders with something else/Hands / arms with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hands on own shoulders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hands_on_own_shoulders",
+      "category_path": "Shoulders with something else/Hands / arms with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hand on another's shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_another%27s_shoulder",
+      "category_path": "Shoulders with something else/Hands / arms with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hands on another's shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hands_on_another%27s_shoulder",
+      "category_path": "Shoulders with something else/Hands / arms with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hands on another's shoulders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hands_on_another%27s_shoulders",
+      "category_path": "Shoulders with something else/Hands / arms with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shoulder massage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_massage",
+      "category_path": "Shoulders with something else/Hands / arms with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Carrying over shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carrying_over_shoulder",
+      "category_path": "Shoulders with something else/People touching shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fireman's carry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fireman%27s_carry",
+      "category_path": "Shoulders with something else/People touching shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Piggyback",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/piggyback",
+      "category_path": "Shoulders with something else/People touching shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shoulder carry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_carry",
+      "category_path": "Shoulders with something else/People touching shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Standing on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/standing_on_shoulder",
+      "category_path": "Shoulders with something else/People touching shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Animal on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_on_shoulder",
+      "category_path": "Shoulders with something else/Animals with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bird on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bird_on_shoulder",
+      "category_path": "Shoulders with something else/Animals with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cat on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_on_shoulder",
+      "category_path": "Shoulders with something else/Animals with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Creature on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/creature_on_shoulder",
+      "category_path": "Shoulders with something else/Animals with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dog on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dog_on_shoulder",
+      "category_path": "Shoulders with something else/Animals with shoulders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Pokemon on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pokemon_on_shoulder",
+      "category_path": "Shoulders with something else/Animals with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rabbit on shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_on_shoulder",
+      "category_path": "Shoulders with something else/Animals with shoulders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hair over shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_over_shoulder",
+      "category_path": "Shoulders with something else/Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "Over shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/over_shoulder",
+      "category_path": "Shoulders with something else/Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shoulder bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_bag",
+      "category_path": "Shoulders with something else/Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shoulder phone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_phone",
+      "category_path": "Shoulders with something else/Misc",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 65,
+  "total_categories": 11,
+  "html_file": "tag_group_shoulders.html"
+}

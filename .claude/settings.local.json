@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./.venv/Scripts/python read_data.py)",
+      "Bash(./.venv/Scripts/python -m pip install pandas pyarrow -q)",
+      "Bash(set HTTP_PROXY=http://127.0.0.1:10801)",
+      "Bash(set HTTPS_PROXY=http://127.0.0.1:10801)",
+      "Bash(.\\\\.venv\\\\Scripts\\\\python -m pip install pandas pyarrow -q)",
+      "Bash(./.venv/Scripts/python -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(/c/python/Python39/python -c ' *)",
+      "Bash(.venv/Scripts/python.exe -X utf8 -c ' *)",
+      "Bash(.venv/Scripts/pip install *)"
+    ]
+  }
+}

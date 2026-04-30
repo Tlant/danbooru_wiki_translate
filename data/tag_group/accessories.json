@@ -1,0 +1,2518 @@
+{
+  "group_name": "accessories",
+  "display_name": "Tag group:accessories",
+  "source_url": "/wiki_pages/tag_group%3Aaccessories",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aaccessories",
+  "categories": [
+    {
+      "h4": "By body part",
+      "h5": "Head",
+      "path": "By body part/Head",
+      "tag_count": 60
+    },
+    {
+      "h4": "By body part",
+      "h5": "Neck",
+      "path": "By body part/Neck",
+      "tag_count": 29
+    },
+    {
+      "h4": "By body part",
+      "h5": "Arms",
+      "path": "By body part/Arms",
+      "tag_count": 27
+    },
+    {
+      "h4": "By body part",
+      "h5": "Legs",
+      "path": "By body part/Legs",
+      "tag_count": 19
+    },
+    {
+      "h4": "By body part",
+      "h5": "Torso",
+      "path": "By body part/Torso",
+      "tag_count": 50
+    },
+    {
+      "h4": "Jewelry",
+      "h5": "General",
+      "path": "Jewelry/General",
+      "tag_count": 13
+    },
+    {
+      "h4": "Jewelry",
+      "h5": "Head",
+      "path": "Jewelry/Head",
+      "tag_count": 9
+    },
+    {
+      "h4": "Jewelry",
+      "h5": "Neck",
+      "path": "Jewelry/Neck",
+      "tag_count": 17
+    },
+    {
+      "h4": "Jewelry",
+      "h5": "Arms",
+      "path": "Jewelry/Arms",
+      "tag_count": 7
+    },
+    {
+      "h4": "Jewelry",
+      "h5": "Legs",
+      "path": "Jewelry/Legs",
+      "tag_count": 4
+    },
+    {
+      "h4": "Jewelry",
+      "h5": "Torso",
+      "path": "Jewelry/Torso",
+      "tag_count": 4
+    },
+    {
+      "h4": "Bags",
+      "h5": null,
+      "path": "Bags",
+      "tag_count": 34
+    },
+    {
+      "h4": "Decorations",
+      "h5": null,
+      "path": "Decorations",
+      "tag_count": 47
+    },
+    {
+      "h4": "Misc",
+      "h5": null,
+      "path": "Misc",
+      "tag_count": 25
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "bandana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandana",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "bindi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bindi",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "bonnet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bonnet",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "circlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/circlet",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "crown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crown",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "mini crown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_crown",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "ear covers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_covers",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "ear cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_cuffs",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "earmuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earmuffs",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "ear ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_ornament",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "fake animal ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fake_animal_ears",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "fascinator",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fascinator",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "goggles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/goggles",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glasses",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hairband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairband",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "chain hairband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chain_hairband",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "frilled hairband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_hairband",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair extensions",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_extensions",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "cyberlox",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cyberlox",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "raccoon tails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raccoon_tails_%28hairstyle%29",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "ring hair extensions",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ring_hair_extensions",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_ornament",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair beads",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_beads",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair bobbles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bobbles",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bow",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hairclip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairclip",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_flower",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hairpin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairpin",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_ribbon",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair scrunchie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_scrunchie",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair stick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_stick",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair tubes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_tubes",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "kanzashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kanzashi",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "mini hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_hat",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "headband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headband",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "chain headband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chain_headband",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "forehead protector",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forehead_protector",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hachimaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hachimaki",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweatband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweatband",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "head chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_chain",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "head-mounted display",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head-mounted_display",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "headpiece",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headpiece",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "headphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headphones",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "earphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earphones",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "earpiece",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earpiece",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "headset",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headset",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "headscarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headscarf",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hijab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hijab",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "head wreath",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_wreath",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "vinok",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vinok",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "horn ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/horn_ornament",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "lappet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lappet",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "laurel crown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/laurel_crown",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "safety glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/safety_glasses",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "sunglasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunglasses",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "tiara",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiara",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "triangular headpiece",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triangular_headpiece",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "veil",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/veil",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "wig",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wig",
+      "category_path": "By body part/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ascot",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "bib",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bib",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bowtie",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "changmingsuo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/changmingsuo",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "chinstrap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chinstrap",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choker",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "frilled choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_choker",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "tattoo choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tattoo_choker",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "collar chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar_chain_%28jewelry%29",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "collar tips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar_tips_%28jewelry%29",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross tie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_tie",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "dog tags",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dog_tags",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "feather boa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feather_boa",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "guimpe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guimpe",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "lapel pin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lapel_pin",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "lei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lei",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "neck ruff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ruff",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neckerchief",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necklace",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "neck ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ribbon",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "neck ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ring",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necktie",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "tie clip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tie_clip",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scarf",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "scarf choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scarf_choker",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "shawl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shawl",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "stole",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stole",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "usekh collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/usekh_collar",
+      "category_path": "By body part/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "armband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armband",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "arm belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_belt",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "arm garter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_garter",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "armlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armlet",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "arm ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_ribbon",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "arm warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_warmers",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "bracelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bracelet",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "bracer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bracer",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "bridal gauntlets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bridal_gauntlets",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "cuff links",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cuff_links",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "detached sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/detached_sleeves",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "elbow sleeve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/elbow_sleeve",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "epaulettes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/epaulettes",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "finger cots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/finger_cots",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gloves",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "fingerless gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fingerless_gloves",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "hand chains",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_chains",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "hand jewel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_jewel",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "mittens",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mittens",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "wristband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wristband",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "wrist cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wrist_cuffs",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "buttoned cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buttoned_cuffs",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "wrist flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wrist_flower",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "wrist ruff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wrist_ruff",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "wrist scrunchie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wrist_scrunchie",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "wrist straps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wrist_straps",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "wristwatch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wristwatch",
+      "category_path": "By body part/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "ankle garter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ankle_garter",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "ankle strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ankle_strap",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "anklet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anklet",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "barefoot sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barefoot_sandals_%28jewelry%29",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "calflet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/calflet",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "garter straps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garter_straps",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "knee strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knee_strap",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "leg belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_belt",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "leg ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_ribbon",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "thigh ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thigh_ribbon",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "leg warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_warmers",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "fur leg warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur_leg_warmers",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "legwear garter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/legwear_garter",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "loose socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loose_socks",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "shin strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shin_strap",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "spats",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spats_%28footwear%29",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "thighlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thighlet",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "thigh strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thigh_strap",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "frilled thigh strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_thigh_strap",
+      "category_path": "By body part/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "aiguillette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aiguillette",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "bandolier",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandolier",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "belly chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belly_chain",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "belt buckle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belt_buckle",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "belt charm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belt_charm",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "tail keychain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tail_keychain",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "belt skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belt_skirt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "chain belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chain_belt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "chatelaine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chatelaine",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "gem belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gem_belt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "loose belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loose_belt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "sam browne belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sam_browne_belt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "shoulder belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_belt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "studded belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/studded_belt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "wallet chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wallet_chain",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "body jewelry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/body_jewelry",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "boutonniere",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boutonniere",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "bustle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bustle",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "cape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cape",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "capelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/capelet",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "clothes around waist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothes_around_waist",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "corsage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corsage",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "corset",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corset",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "crinoline",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crinoline",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "fake tail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fake_tail",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "fanny pack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fanny_pack",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "garter belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garter_belt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "harness",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/harness",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "chest harness",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chest_harness",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "haori himo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/haori_himo",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "obi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/obi",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "inrou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/inrou",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "obiage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/obiage",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "obidome",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/obidome",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "obijime",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/obijime",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "pocket square",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pocket_square",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "sarong",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sarong",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "sash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sash",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "shoulder sash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_sash",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "waist sash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waist_sash",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "cummerbund",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cummerbund",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "shendyt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shendyt",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "shimenawa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shimenawa",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "shirt stay",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shirt_stay",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "suspenders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/suspenders",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweater guard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweater_guard",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "underbust",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underbust",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "waist cape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waist_cape",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "yaopei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yaopei",
+      "category_path": "By body part/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "bling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bling",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "body jewelry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/body_jewelry",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "brooch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brooch",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "cameo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cameo_%28jewelry%29",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "chatelaine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chatelaine",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "grills",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grills",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "medallion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/medallion",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "norigae",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/norigae",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ring",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "claw ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/claw_ring",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "middle ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/middle_ring",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "ornate ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ornate_ring",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "wedding ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wedding_ring",
+      "category_path": "Jewelry/General",
+      "wiki_exists": true
+    },
+    {
+      "name": "circlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/circlet",
+      "category_path": "Jewelry/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "earclip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earclip",
+      "category_path": "Jewelry/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "earrings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earrings",
+      "category_path": "Jewelry/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "crystal earrings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crystal_earrings",
+      "category_path": "Jewelry/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "hoop earrings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hoop_earrings",
+      "category_path": "Jewelry/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "stud earrings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stud_earrings",
+      "category_path": "Jewelry/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "face chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/face_chain",
+      "category_path": "Jewelry/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "head chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_chain",
+      "category_path": "Jewelry/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "headpiece",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headpiece",
+      "category_path": "Jewelry/Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "changmingsuo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/changmingsuo",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necklace",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "amulet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/amulet",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "bead necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bead_necklace",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "chain necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chain_necklace",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "festoon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/festoon_%28necklace%29",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "lariat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lariat_%28necklace%29",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "locket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/locket",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "pearl necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pearl_necklace",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "pendant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pendant",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "plastron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plastron_%28necklace%29",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "riviere",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/riviere_%28necklace%29",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "sautoir",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sautoir",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "shoulder necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_necklace",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "station necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/station_necklace",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "torc",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torc",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "neck ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ring",
+      "category_path": "Jewelry/Neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "armlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armlet",
+      "category_path": "Jewelry/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "bracelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bracelet",
+      "category_path": "Jewelry/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "bangle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bangle",
+      "category_path": "Jewelry/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "bead bracelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bead_bracelet",
+      "category_path": "Jewelry/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "chain bracelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chain_bracelet",
+      "category_path": "Jewelry/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "friendship bracelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/friendship_bracelet",
+      "category_path": "Jewelry/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "hand chains",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_chains",
+      "category_path": "Jewelry/Arms",
+      "wiki_exists": true
+    },
+    {
+      "name": "anklet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anklet",
+      "category_path": "Jewelry/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "barefoot sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barefoot_sandals_%28jewelry%29",
+      "category_path": "Jewelry/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "calflet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/calflet",
+      "category_path": "Jewelry/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "thighlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thighlet",
+      "category_path": "Jewelry/Legs",
+      "wiki_exists": true
+    },
+    {
+      "name": "belly chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belly_chain",
+      "category_path": "Jewelry/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "collar chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar_chain_%28jewelry%29",
+      "category_path": "Jewelry/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "collar tips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar_tips_%28jewelry%29",
+      "category_path": "Jewelry/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "yaopei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yaopei",
+      "category_path": "Jewelry/Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "backpack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backpack",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "randoseru",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/randoseru",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "briefcase",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/briefcase",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "character bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/character_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "character backpack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/character_backpack",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "clutch purse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clutch_purse",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "coin purse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coin_purse",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "drawstring bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drawstring_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "duffel bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/duffel_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "fanny pack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fanny_pack",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "food-themed bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food-themed_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "gigbag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gigbag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "handbag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/handbag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "barrel bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barrel_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "half moon bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/half_moon_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart-shaped bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart-shaped_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "itabag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/itabag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "leather bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leather_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "mesh bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mesh_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "omamori",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/omamori",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "pouch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pouch",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "belt pouch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belt_pouch",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "bokjumeoni",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bokjumeoni",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "round bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/round_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "saddlebags",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saddlebags",
+      "category_path": "Bags",
+      "wiki_exists": false
+    },
+    {
+      "name": "satchel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/satchel",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "school bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/school_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "shoulder bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "messenger bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/messenger_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "star-shaped bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star-shaped_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "suitcase",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/suitcase",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "tote bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tote_bag",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "waterskin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waterskin",
+      "category_path": "Bags",
+      "wiki_exists": true
+    },
+    {
+      "name": "badge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/badge",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "bandages",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandages",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "bandaid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandaid",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "beads",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beads",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "magatama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/magatama",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "prayer beads",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prayer_beads",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "rosary",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rosary",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "bell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bell",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "jingle bell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jingle_bell",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bow",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "buckle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buckle",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "buttons",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buttons",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "buttoned cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buttoned_cuffs",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "double-breasted",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double-breasted",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "button badge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/button_badge",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "charm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/charm_%28object%29",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "bag charm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bag_charm",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "belt charm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belt_charm",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "cellphone charm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cellphone_charm",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "character charm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/character_charm",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "chinese knot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chinese_knot",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "decoden",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/decoden",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_flower",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "flower trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_trim",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "frills",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frills",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "fur trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur_trim",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "gem",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gem",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "hand jewel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_jewel",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "rhinestone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rhinestone",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "nail art",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nail_art",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "fake nails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fake_nails",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "nail ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nail_ornament",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "o-ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/o-ring",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart o-ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_o-ring",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "pocket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pocket",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "pom pom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pom_pom_%28clothes%29",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbon",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_ribbon",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "neck ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ribbon",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "spikes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spikes",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "sticker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sticker",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "tassel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tassel",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "zipper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zipper",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "zipper pull tab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zipper_pull_tab",
+      "category_path": "Decorations",
+      "wiki_exists": true
+    },
+    {
+      "name": "cane",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cane",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "cellphone strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cellphone_strap",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "cigarette holder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cigarette_holder",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "MP3 player",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mp3_player",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "Digital Walkman",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/digital_walkman",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "iPod",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ipod",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "dust plug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dust_plug",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "hand fan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_fan",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "folding fan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/folding_fan",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "tuanshan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tuanshan",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "handkerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/handkerchief",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "muff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/muff",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "pencil case",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pencil_case",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "pop socket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pop_socket",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "tail ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tail_ornament",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "umbrella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/umbrella",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "folding umbrella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/folding_umbrella",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "parasol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parasol",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "virtual pet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/virtual_pet_%28toy%29",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "wallet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wallet",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "hakoseko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hakoseko",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "watch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/watch",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "wristwatch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wristwatch",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "pocket watch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pocket_watch",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "wing ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wing_ornament",
+      "category_path": "Misc",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 345,
+  "total_categories": 15,
+  "html_file": "tag_group_accessories.html"
+}

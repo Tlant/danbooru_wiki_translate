@@ -1,0 +1,427 @@
+{
+  "group_name": "ears_tags",
+  "display_name": "Tag group:ears tags",
+  "source_url": "/wiki_pages/tag_group%3Aears_tags",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aears_tags",
+  "categories": [
+    {
+      "h4": "Animal ears",
+      "h5": null,
+      "path": "Animal ears",
+      "tag_count": 32
+    },
+    {
+      "h4": "Other ears",
+      "h5": null,
+      "path": "Other ears",
+      "tag_count": 3
+    },
+    {
+      "h4": "Number of ears",
+      "h5": null,
+      "path": "Number of ears",
+      "tag_count": 1
+    },
+    {
+      "h4": "Objects for the ears; or, objects with ears",
+      "h5": null,
+      "path": "Objects for the ears; or, objects with ears",
+      "tag_count": 6
+    },
+    {
+      "h4": "Misc",
+      "h5": null,
+      "path": "Misc",
+      "tag_count": 12
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "animal ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "axolotl ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/axolotl_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "bat ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bat_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "bear ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bear_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "rabbit ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "cat ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "cow ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cow_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "deer ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/deer_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "dog ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dog_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "ferret ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ferret_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "fox ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fox_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "goat ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/goat_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "horse ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/horse_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "kemonomimi mode",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kemonomimi_mode",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "lion ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lion_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "monkey ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monkey_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "mouse ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mouse_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "panda ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panda_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "pikachu ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pikachu_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "pig ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pig_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "raccoon ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raccoon_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "sheep ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sheep_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "squirrel ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/squirrel_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "tiger ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiger_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "wolf ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wolf_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "fake animal ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fake_animal_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal ear headphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_ear_headphones",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "bear ear headphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bear_ear_headphones",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "cat ear headphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_ear_headphones",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "rabbit ear headphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_ear_headphones",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "floppy ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floppy_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_ears",
+      "category_path": "Animal ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "pointy ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pointy_ears",
+      "category_path": "Other ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "long pointy ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_pointy_ears",
+      "category_path": "Other ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "robot ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/robot_ears",
+      "category_path": "Other ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "extra ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/extra_ears",
+      "category_path": "Number of ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "ear piercing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_piercing",
+      "category_path": "Objects for the ears; or, objects with ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "ear protection",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_protection",
+      "category_path": "Objects for the ears; or, objects with ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "earrings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earrings",
+      "category_path": "Objects for the ears; or, objects with ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "single earring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_earring",
+      "category_path": "Objects for the ears; or, objects with ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "headphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headphones",
+      "category_path": "Objects for the ears; or, objects with ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "object behind ear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/object_behind_ear",
+      "category_path": "Objects for the ears; or, objects with ears",
+      "wiki_exists": true
+    },
+    {
+      "name": "covering own ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covering_own_ears",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "biting ear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/biting_ear",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "grabbing another's ear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grabbing_another%27s_ear",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "ear wiggle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_wiggle",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "ears down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ears_down",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "ears through headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ears_through_headwear",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "ears under headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ears_under_headwear",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "hand on own ear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_own_ear",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ears",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ears",
+      "category_path": "Misc",
+      "wiki_exists": false
+    },
+    {
+      "name": "licking ear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/licking_ear",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "notched ear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/notched_ear",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "one ear down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/one_ear_down",
+      "category_path": "Misc",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 54,
+  "total_categories": 6,
+  "html_file": "tag_group_ears_tags.html"
+}

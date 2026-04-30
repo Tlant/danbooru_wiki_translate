@@ -1,0 +1,2371 @@
+{
+  "group_name": "symbols",
+  "display_name": "Tag group:symbols",
+  "source_url": "/wiki_pages/tag_group%3Asymbols",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asymbols",
+  "categories": [
+    {
+      "h4": "Geometric shapes",
+      "h5": "Two-dimensional shapes",
+      "path": "Geometric shapes/Two-dimensional shapes",
+      "tag_count": 26
+    },
+    {
+      "h4": "Geometric shapes",
+      "h5": "Three-dimensional shapes",
+      "path": "Geometric shapes/Three-dimensional shapes",
+      "tag_count": 12
+    },
+    {
+      "h4": "Geometric shapes",
+      "h5": "Other",
+      "path": "Geometric shapes/Other",
+      "tag_count": 2
+    },
+    {
+      "h4": "Symbols of emotions",
+      "h5": null,
+      "path": "Symbols of emotions",
+      "tag_count": 21
+    },
+    {
+      "h4": "Musical symbols",
+      "h5": null,
+      "path": "Musical symbols",
+      "tag_count": 39
+    },
+    {
+      "h4": "Text, languages, letters, numbers, punctuation",
+      "h5": null,
+      "path": "Text, languages, letters, numbers, punctuation",
+      "tag_count": 27
+    },
+    {
+      "h4": "Currency symbols",
+      "h5": null,
+      "path": "Currency symbols",
+      "tag_count": 8
+    },
+    {
+      "h4": "Encodings",
+      "h5": null,
+      "path": "Encodings",
+      "tag_count": 25
+    },
+    {
+      "h4": "Misc symbols",
+      "h5": null,
+      "path": "Misc symbols",
+      "tag_count": 52
+    },
+    {
+      "h4": "Genders / Astronomical symbols",
+      "h5": "Solar system (tags organized in the astronomical order)",
+      "path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "tag_count": 9
+    },
+    {
+      "h4": "Genders / Astronomical symbols",
+      "h5": "Additional symbols for genders",
+      "path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "tag_count": 30
+    },
+    {
+      "h4": "Symbols from the real world",
+      "h5": "France",
+      "path": "Symbols from the real world/France",
+      "tag_count": 1
+    },
+    {
+      "h4": "Symbols from the real world",
+      "h5": "Japan",
+      "path": "Symbols from the real world/Japan",
+      "tag_count": 5
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Arknights",
+      "path": "Symbols of specific series/mangas/games/etc./Arknights",
+      "tag_count": 5
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Azur Lane",
+      "path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "tag_count": 9
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Blazblue",
+      "path": "Symbols of specific series/mangas/games/etc./Blazblue",
+      "tag_count": 1
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Bleach",
+      "path": "Symbols of specific series/mangas/games/etc./Bleach",
+      "tag_count": 2
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Fate (series)",
+      "path": "Symbols of specific series/mangas/games/etc./Fate (series)",
+      "tag_count": 1
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Fullmetal Alchemist",
+      "path": "Symbols of specific series/mangas/games/etc./Fullmetal Alchemist",
+      "tag_count": 2
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Gensou Suikoden",
+      "path": "Symbols of specific series/mangas/games/etc./Gensou Suikoden",
+      "tag_count": 1
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Girls und Panzer",
+      "path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "tag_count": 10
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Identity V",
+      "path": "Symbols of specific series/mangas/games/etc./Identity V",
+      "tag_count": 1
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Kemono Friends",
+      "path": "Symbols of specific series/mangas/games/etc./Kemono Friends",
+      "tag_count": 1
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Naruto",
+      "path": "Symbols of specific series/mangas/games/etc./Naruto",
+      "tag_count": 7
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "One Piece",
+      "path": "Symbols of specific series/mangas/games/etc./One Piece",
+      "tag_count": 1
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Shingeki no Kyojin",
+      "path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
+      "tag_count": 4
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Suite Precure",
+      "path": "Symbols of specific series/mangas/games/etc./Suite Precure",
+      "tag_count": 1
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "Tales of Xillia",
+      "path": "Symbols of specific series/mangas/games/etc./Tales of Xillia",
+      "tag_count": 1
+    },
+    {
+      "h4": "Symbols of specific series/mangas/games/etc.",
+      "h5": "World Witches Series",
+      "path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+      "tag_count": 8
+    }
+  ],
+  "tags": [
+    {
+      "name": "Circle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/circle",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crescent",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crescent",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Arrow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arrow_%28symbol%29",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heptagon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heptagon",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hexagon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hexagon",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Octagon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/octagon",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pentagon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pentagon_%28shape%29",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rectangle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rectangle",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Diamond",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diamond_%28shape%29",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Triangle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triangle",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Square",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/square",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Star",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_%28symbol%29",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "asterisk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asterisk_%28symbol%29",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "red star",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_star",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "spoken star",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_star",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pentagram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pentagram",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Druze star",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/druze_star",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "inverted pentagram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/inverted_pentagram",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hexagram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hexagram",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Star of David",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_of_david",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heptagram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heptagram",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Octagram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/octagram",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Star of Lakshmi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_of_lakshmi",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Enneagram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/enneagram",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Decagram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/decagram",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dodecagram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dodecagram",
+      "category_path": "Geometric shapes/Two-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cone_%28geometry%29",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tetrahedron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tetrahedron",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cube",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cube",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Octahedron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/octahedron",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dodecahedron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dodecahedron",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Icosahedron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/icosahedron",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Prism",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prism",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pyramid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pyramid_%28geometry%29",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orb",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orb",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Great dodecahedron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/great_dodecahedron",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": false
+    },
+    {
+      "name": "Small stellated dodecahedron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/small_stellated_dodecahedron",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stellated octahedron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stellated_octahedron",
+      "category_path": "Geometric shapes/Three-dimensional shapes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mobius strip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mobius_strip",
+      "category_path": "Geometric shapes/Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "Klein bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/klein_bottle",
+      "category_path": "Geometric shapes/Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "^^^",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%5E%5E%5E",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "+++",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%2B%2B%2B",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "puff of air",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puff_of_air",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anger vein",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anger_vein",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spoken anger vein",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_anger_vein",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spoken blush",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_blush",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Arrow through heart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arrow_through_heart",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Broken heart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/broken_heart",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spoken heart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_heart",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Notice lines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/notice_lines",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shout lines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shout_lines",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Smiley face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smiley_face",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Squiggle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/squiggle",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spoken squiggle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_squiggle",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Symbol BA-90",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/symbol_ba-90",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sweatdrop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweatdrop",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Comedic sweatdrop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/comedic_sweatdrop",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flying sweatdrops",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flying_sweatdrops",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spoken sweatdrop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_sweatdrop",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Squeans",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/squeans",
+      "category_path": "Symbols of emotions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bass clef",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bass_clef",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flat sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flat_sign",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Musical note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/musical_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "whole note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whole_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "whole rest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whole_rest",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "half note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/half_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "half rest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/half_rest",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "dotted half note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dotted_half_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "quarter note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quarter_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "quarter rest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quarter_rest",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "dotted quarter note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dotted_quarter_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "eighth note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eighth_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "beamed eighth notes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beamed_eighth_notes",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "eighth rest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eighth_rest",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "dotted eighth note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dotted_eighth_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "sixteenth note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sixteenth_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "beamed sixteenth notes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beamed_sixteenth_notes",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "sixteenth rest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sixteenth_rest",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "dotted sixteenth note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dotted_sixteenth_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "thirty-second note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thirty-second_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "beamed thirty-second notes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beamed_thirty-second_notes",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "thirty-second rest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thirty-second_rest",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "dotted thirty-second note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dotted_thirty-second_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "sixty-fourth note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sixty-fourth_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "beamed sixty-fourth notes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beamed_sixty-fourth_notes",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "ghost note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ghost_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "grace note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grace_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "spoken musical note",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_musical_note",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Natural sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/natural_sign",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sharp sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sharp_sign",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Musical staff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/musical_staff",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Time signature",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/time_signature",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Treble clef",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/treble_clef",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Playing Card",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/playing_card",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Clubs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/club_%28shape%29",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Diamonds",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diamond_%28shape%29",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hearts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spades",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spade_%28shape%29",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Playing card theme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/playing_card_theme",
+      "category_path": "Musical symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "!",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%21",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "spoken exclamation mark",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_exclamation_mark",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "!?",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%21%3F",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "spoken interrobang",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_interrobang",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "?",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%3F",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "spoken question mark",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_question_mark",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "...",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/...",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "spoken ellipsis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_ellipsis",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "@",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/%40_%28symbol%29",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Division sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/division_sign",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Equal sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/equal_sign",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Infinity symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/infinity_symbol",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Double Happiness",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double_happiness",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "shou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shou_%28symbol%29",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "good fortune symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/good_fortune_symbol",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dao Fu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dao_fu",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heaven kanji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heaven_%28kanji%29",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Two-legged horse kanji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-legged_horse_%28kanji%29",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Minus sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/minus_sign",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Omega symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/omega_symbol",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pi (math)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pi_%28math%29",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plus sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plus_sign",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Runes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/runes",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Siegrunen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/siegrunen",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Segment display",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/segment_display",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Seven-segment display",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seven-segment_display",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Z (Russian symbol)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/z_%28russian_symbol%29",
+      "category_path": "Text, languages, letters, numbers, punctuation",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dollar sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dollar_sign",
+      "category_path": "Currency symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Euro sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/euro_sign",
+      "category_path": "Currency symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Franc sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/franc_sign",
+      "category_path": "Currency symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Indian rupee sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/indian_rupee_sign",
+      "category_path": "Currency symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pound sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pound_sign",
+      "category_path": "Currency symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ruble sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ruble_sign",
+      "category_path": "Currency symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Won sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/won_sign",
+      "category_path": "Currency symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yen sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yen_sign",
+      "category_path": "Currency symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Barcode",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barcode",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "QR code",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/qr_code",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "arrow cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arrow_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Balkenkreuz",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/balkenkreuz",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Celtic cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/celtic_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross bottony",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_bottony",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross crosslet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_crosslet",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross fitchy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_fitchy",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross fleury",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_fleury",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross moline",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_moline",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross patonce",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_patonce",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross patty",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_patty",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross potent",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_potent",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "crucifix",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crucifix",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Greek cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/greek_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "red cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "inverted cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/inverted_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Iron Cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iron_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Latin cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/latin_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Maltese cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maltese_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orthodox cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orthodox_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "plus sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plus_sign",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sun cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sun_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "two-barred cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-barred_cross",
+      "category_path": "Encodings",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anarchy symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anarchy_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ankh",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ankh",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ars Goetia",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/ars_goetia",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Battery indicator",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/battery_indicator",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Biohazard symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/biohazard_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black Sun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_sun_%28symbol%29",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Caduceus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caduceus",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Compass rose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/compass_rose",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Digital rain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/digital_rain",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fasces",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fasces_%28object%29",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flammable symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flammable_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fleur-de-lis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fleur-de-lis",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fragile Symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fragile_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hammer and sickle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hammer_and_sickle",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kolovrat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kolovrat_%28symbol%29",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lightning bolt symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lightning_bolt_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "No symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "No entry sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_entry_sign",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "No smoking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_smoking",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Onsen symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/onsen_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Om",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/om_%28symbol%29",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ouroboros",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ouroboros",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Parental Advisory",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parental_advisory",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Peace symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peace_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Power symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/power_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Radiation symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/radiation_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Recycling symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/recycling_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Reichsadler",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reichsadler",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Restroom symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/restroom_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rod of Asclepius",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rod_of_asclepius",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Star of life",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_of_life",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sigil of Lucifer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sigil_of_lucifer",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Signal bar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/signal_bar",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Skull and crossbones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skull_and_crossbones",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jolly Roger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jolly_roger",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Totenkopf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/totenkopf",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Star and crescent",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_and_crescent",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Swastika",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swastika",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Trigram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trigram",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bagua",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bagua",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tryzub",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tryzub",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tomoe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tomoe_%28symbol%29",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mitsudomoe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mitsudomoe_%28shape%29",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Warning sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/warning_sign",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wheelchair sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wheelchair_sign",
+      "category_path": "Misc symbols",
+      "wiki_exists": false
+    },
+    {
+      "name": "Wheel of Dharma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wheel_of_dharma",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wi-Fi symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wi-fi_symbol",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wolfsangel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wolfsangel",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "X mark",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/x_%28symbol%29",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spoken X",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoken_x",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yin Yang",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yin_yang",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Zodiac",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zodiac",
+      "category_path": "Misc symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sun symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sun_symbol",
+      "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mercury symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mercury_symbol",
+      "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Venus symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/venus_symbol",
+      "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mars symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mars_symbol",
+      "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jupiter symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jupiter_symbol",
+      "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Saturn symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saturn_symbol",
+      "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Uranus symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uranus_symbol",
+      "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neptune symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neptune_symbol",
+      "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pluto symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pluto_symbol",
+      "category_path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Androgyne symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/androgyne_symbol",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Interlocked Mars symbols",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/interlocked_mars_symbols",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Interlocked Mars and Venus symbols",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/interlocked_mars_and_venus_symbols",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Interlocked Venus symbols",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/interlocked_venus_symbols",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Male-Female symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/male-female_symbol",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neutered symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neutered_symbol",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Transgender symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/transgender_symbol",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Road signs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/road_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bicycles only sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bicycles_only_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Bus stop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bus_stop",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Falling rocks sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/falling_rocks_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Motor vehicles only sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/motor_vehicles_only_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "No parking sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_parking_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "No pedestrian crossing sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_pedestrian_crossing_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "No stopping sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_stopping_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "No U-turn sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_u-turn_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "One way sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/one_way_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Parking permissive sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parking_permissive_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Pedestrian crossing sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pedestrian_crossing_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pedestrians only sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pedestrians_only_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Railroad crossing ahead sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/railroad_crossing_ahead_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Road closed to Vehicles sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/road_closed_to_vehicles_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Road narrows sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/road_narrows_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "School crossing sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/school_crossing_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Speed limit sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/speed_limit_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stop sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stop_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": true
+    },
+    {
+      "name": "Straight or left turn sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/straight_or_left_turn_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Straight or right turn sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/straight_or_right_turn_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Turn left sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turn_left_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Turn right sign",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turn_right_sign",
+      "category_path": "Genders / Astronomical symbols/Additional symbols for genders",
+      "wiki_exists": false
+    },
+    {
+      "name": "Fleur-de-lis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fleur-de-lis",
+      "category_path": "Symbols from the real world/France",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kikumon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kikumon",
+      "category_path": "Symbols from the real world/Japan",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mitsuba Aoi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mitsuba_aoi_%28tokugawa_mon%29",
+      "category_path": "Symbols from the real world/Japan",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oda Uri",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oda_uri",
+      "category_path": "Symbols from the real world/Japan",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sanada Clan (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sanada_clan_%28emblem%29",
+      "category_path": "Symbols from the real world/Japan",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sakamoto Clan (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sakamoto_clan_%28emblem%29",
+      "category_path": "Symbols from the real world/Japan",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lungmen logo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lungmen_logo",
+      "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
+      "wiki_exists": true
+    },
+    {
+      "name": "Penguin Logistics logo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penguin_logistics_logo",
+      "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rhine Lab logo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rhine_lab_logo",
+      "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rhodes Island logo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rhodes_island_logo_%28arknights%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ursus logo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ursus_logo",
+      "category_path": "Symbols of specific series/mangas/games/etc./Arknights",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dragon Empery (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dragon_empery_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eagle Union (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eagle_union_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "wiki_exists": true
+    },
+    {
+      "name": "Iris Libre (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iris_libre_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "wiki_exists": true
+    },
+    {
+      "name": "Iron Blood (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iron_blood_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "wiki_exists": true
+    },
+    {
+      "name": "Northern Parliament (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/northern_parliament_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sakura Empire (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sakura_empire_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "wiki_exists": true
+    },
+    {
+      "name": "Royal Navy Emblem",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/royal_navy_emblem_%28azur_lane%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sardegna Empire (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sardegna_empire_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "wiki_exists": true
+    },
+    {
+      "name": "Vichya Dominion (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vichya_dominion_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blazblue insignia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blazblue_insignia",
+      "category_path": "Symbols of specific series/mangas/games/etc./Blazblue",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shihouin symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shihouin_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Bleach",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shinigami daikou symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shinigami_daikou_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Bleach",
+      "wiki_exists": true
+    },
+    {
+      "name": "Command spell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/command_spell",
+      "category_path": "Symbols of specific series/mangas/games/etc./Fate (series)",
+      "wiki_exists": true
+    },
+    {
+      "name": "Amestris symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/amestris_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Fullmetal Alchemist",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flamel symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flamel_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Fullmetal Alchemist",
+      "wiki_exists": true
+    },
+    {
+      "name": "True Rune",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/true_rune",
+      "category_path": "Symbols of specific series/mangas/games/etc./Gensou Suikoden",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ooarai (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ooarai_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "St. Gloriana's (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/st._gloriana%27s_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "Saunders (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saunders_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anzio (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anzio_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pravda (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pravda_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kuromorimine (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kuromorimine_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chi-Hatan (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chi-hatan_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "Keizoku (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/keizoku_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "Selection University (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/selection_university_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "Japanese Tankery League (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/japanese_tankery_league_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+      "wiki_exists": true
+    },
+    {
+      "name": "Muse Mark",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/muse_mark_%28identity_v%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Identity V",
+      "wiki_exists": true
+    },
+    {
+      "name": "Japari symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/japari_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Kemono Friends",
+      "wiki_exists": true
+    },
+    {
+      "name": "Amegakure symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/amegakure_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
+      "wiki_exists": true
+    },
+    {
+      "name": "Iwagakure symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iwagakure_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
+      "wiki_exists": true
+    },
+    {
+      "name": "Konohagakure symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/konohagakure_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kirigakure symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kirigakure_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
+      "wiki_exists": true
+    },
+    {
+      "name": "Otogakure symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/otogakure_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sunagakure symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunagakure_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
+      "wiki_exists": true
+    },
+    {
+      "name": "Uchiha symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uchiha_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Naruto",
+      "wiki_exists": true
+    },
+    {
+      "name": "Straw Hats Jolly Roger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/straw_hats_jolly_roger",
+      "category_path": "Symbols of specific series/mangas/games/etc./One Piece",
+      "wiki_exists": true
+    },
+    {
+      "name": "Survey Corps (Emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/survey_corps_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
+      "wiki_exists": true
+    },
+    {
+      "name": "Garrison Regiment (Emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garrison_regiment_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
+      "wiki_exists": true
+    },
+    {
+      "name": "Military Police Brigade (Emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/military_police_brigade_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
+      "wiki_exists": true
+    },
+    {
+      "name": "Training Corps (Emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/training_corps_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
+      "wiki_exists": true
+    },
+    {
+      "name": "G-clef",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/g-clef_%28precure%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./Suite Precure",
+      "wiki_exists": true
+    },
+    {
+      "name": "Xillia Symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/xillia_symbol",
+      "category_path": "Symbols of specific series/mangas/games/etc./Tales of Xillia",
+      "wiki_exists": true
+    },
+    {
+      "name": "501st Joint Fighter Wing (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/501st_joint_fighter_wing_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+      "wiki_exists": false
+    },
+    {
+      "name": "502nd Joint Fighter Wing (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/502nd_joint_fighter_wing_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+      "wiki_exists": false
+    },
+    {
+      "name": "503rd Joint Fighter Wing (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/503rd_joint_fighter_wing_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+      "wiki_exists": false
+    },
+    {
+      "name": "504th Joint Fighter Wing (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/504th_joint_fighter_wing_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+      "wiki_exists": false
+    },
+    {
+      "name": "505th Joint Fighter Wing (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/505th_joint_fighter_wing_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+      "wiki_exists": false
+    },
+    {
+      "name": "506th Joint Fighter Wing (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/506th_joint_fighter_wing_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+      "wiki_exists": false
+    },
+    {
+      "name": "507th Joint Fighter Wing (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/507th_joint_fighter_wing_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+      "wiki_exists": false
+    },
+    {
+      "name": "508th Joint Fighter Wing (emblem)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/508th_joint_fighter_wing_%28emblem%29",
+      "category_path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+      "wiki_exists": false
+    }
+  ],
+  "total_tags": 312,
+  "total_categories": 29,
+  "html_file": "tag_group_symbols.html"
+}

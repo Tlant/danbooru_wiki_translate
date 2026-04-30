@@ -1,0 +1,554 @@
+{
+  "group_name": "sexual_attire",
+  "display_name": "Tag group:sexual attire",
+  "source_url": "/wiki_pages/tag_group%3Asexual_attire",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asexual_attire",
+  "categories": [
+    {
+      "h4": "Lingerie",
+      "h5": null,
+      "path": "Lingerie",
+      "tag_count": 29
+    },
+    {
+      "h4": "BDSM",
+      "h5": null,
+      "path": "BDSM",
+      "tag_count": 17
+    },
+    {
+      "h4": "Exposure",
+      "h5": null,
+      "path": "Exposure",
+      "tag_count": 23
+    },
+    {
+      "h4": "More / Miscellaneous",
+      "h5": null,
+      "path": "More / Miscellaneous",
+      "tag_count": 4
+    },
+    {
+      "h4": "Related tags",
+      "h5": null,
+      "path": "Related tags",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "lingerie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lingerie",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "babydoll",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/babydoll",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "bodystocking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bodystocking",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bra",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "bustier",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bustier",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "camisole",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camisole",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "chemise",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chemise",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "corset",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corset",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "fishnets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fishnets",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "garter straps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garter_straps",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "garter belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garter_belt",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "nightgown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nightgown",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panties",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "boyshort panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boyshort_panties",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "strapless bottom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_bottom",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "teddy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/teddy_%28lingerie%29",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thighhighs",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "thong",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thong",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "g-string",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/g-string",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "pearl thong",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pearl_thong",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "male underwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/male_underwear",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "ball bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ball_bra",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "boxers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boxers",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "briefs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/briefs",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "boxer briefs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boxer_briefs",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "bikini briefs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bikini_briefs",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "jockstrap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jockstrap",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "penis sheath",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penis_sheath",
+      "category_path": "Lingerie",
+      "wiki_exists": true
+    },
+    {
+      "name": "armbinder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armbinder",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "blindfold",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blindfold",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "bitchsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bitchsuit",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "bodysuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bodysuit",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "bondage mittens",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bondage_mittens",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "bondage outfit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bondage_outfit",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "chastity belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chastity_belt",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "chastity cage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chastity_cage",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cuffs",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "handcuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/handcuffs",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "shackles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shackles",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "gag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gag",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "gimp mask",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gimp_mask",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "gimp suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gimp_suit",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "latex",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/latex",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "nose hook",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nose_hook",
+      "category_path": "BDSM",
+      "wiki_exists": true
+    },
+    {
+      "name": "ass cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ass_cutout",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "assless swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/assless_swimsuit",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "backless panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backless_panties",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "backless pants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backless_pants",
+      "category_path": "Exposure",
+      "wiki_exists": false
+    },
+    {
+      "name": "anus cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anus_cutout",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "breast cutouts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breast_cutouts",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "breastless clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breastless_clothes",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "cupless bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cupless_bikini",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "cupless bra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cupless_bra",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "nippleless clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nippleless_clothes",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "nipple cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nipple_cutout",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "crotchless",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotchless",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "crotchless bloomers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotchless_bloomers",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "crotchless buruma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotchless_buruma",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "crotchless leotard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotchless_leotard",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "crotchless panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotchless_panties",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "crotchless pants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotchless_pants",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "crotchless pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotchless_pantyhose",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "crotchless swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crotchless_swimsuit",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "revealing clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/revealing_clothes",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "reverse outfit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reverse_outfit",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "reverse bikini armor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reverse_bikini_armor",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "reverse bunnysuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reverse_bunnysuit",
+      "category_path": "Exposure",
+      "wiki_exists": true
+    },
+    {
+      "name": "anal ball wear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anal_ball_wear",
+      "category_path": "More / Miscellaneous",
+      "wiki_exists": true
+    },
+    {
+      "name": "maebari",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maebari",
+      "category_path": "More / Miscellaneous",
+      "wiki_exists": true
+    },
+    {
+      "name": "nipple_ring_dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nipple_ring_dress",
+      "category_path": "More / Miscellaneous",
+      "wiki_exists": true
+    },
+    {
+      "name": "pasties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pasties",
+      "category_path": "More / Miscellaneous",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 73,
+  "total_categories": 5,
+  "html_file": "tag_group_sexual_attire.html"
+}

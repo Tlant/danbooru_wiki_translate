@@ -1,0 +1,922 @@
+{
+  "group_name": "backgrounds",
+  "display_name": "Tag group:backgrounds",
+  "source_url": "/wiki_pages/tag_group%3Abackgrounds",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abackgrounds",
+  "categories": [
+    {
+      "h4": "About",
+      "h5": null,
+      "path": "About",
+      "tag_count": 0
+    },
+    {
+      "h4": "Colors",
+      "h5": null,
+      "path": "Colors",
+      "tag_count": 14
+    },
+    {
+      "h4": "Multiple Colors",
+      "h5": null,
+      "path": "Multiple Colors",
+      "tag_count": 10
+    },
+    {
+      "h4": "Patterns",
+      "h5": null,
+      "path": "Patterns",
+      "tag_count": 21
+    },
+    {
+      "h4": "Descriptive",
+      "h5": null,
+      "path": "Descriptive",
+      "tag_count": 5
+    },
+    {
+      "h4": "Objects and Nouns",
+      "h5": null,
+      "path": "Objects and Nouns",
+      "tag_count": 54
+    },
+    {
+      "h4": "Mediums",
+      "h5": null,
+      "path": "Mediums",
+      "tag_count": 10
+    },
+    {
+      "h4": "Background Related",
+      "h5": null,
+      "path": "Background Related",
+      "tag_count": 9
+    }
+  ],
+  "tags": [
+    {
+      "name": "aqua background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "black background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "blue background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "brown background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "green background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "grey background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "orange background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "pink background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "purple background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "red background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "simple background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/simple_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "transparent background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/transparent_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "white background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "yellow background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_background",
+      "category_path": "Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "colorful background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colorful_background",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "gradient background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient_background",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "greyscale with colored background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/greyscale_with_colored_background",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "halftone background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/halftone_background",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "monochrome background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monochrome_background",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolored background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_background",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "rainbow background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rainbow_background",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "heaven condition",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heaven_condition",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "three-toned background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/three-toned_background",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "two-tone background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_background",
+      "category_path": "Multiple Colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "argyle background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/argyle_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "checkered background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "dithered background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dithered_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "dotted background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dotted_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "gingham background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gingham_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "grid background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grid_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "honeycomb background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honeycomb_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "marble background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marble_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "mosaic background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mosaic_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "patterned background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/patterned_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "plaid background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "polka dot background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "spiral background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiral_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "splatter background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/splatter_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "striped background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "diagonal-striped background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diagonal-striped_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "vertical-striped background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vertical-striped_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "sunburst background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunburst_background",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "triangle background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triangle_background",
+      "category_path": "Patterns",
+      "wiki_exists": false
+    },
+    {
+      "name": "abstract background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/abstract_background",
+      "category_path": "Descriptive",
+      "wiki_exists": true
+    },
+    {
+      "name": "blurry background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blurry_background",
+      "category_path": "Descriptive",
+      "wiki_exists": true
+    },
+    {
+      "name": "bright background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bright_background",
+      "category_path": "Descriptive",
+      "wiki_exists": true
+    },
+    {
+      "name": "dark background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dark_background",
+      "category_path": "Descriptive",
+      "wiki_exists": true
+    },
+    {
+      "name": "drama layer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drama_layer",
+      "category_path": "Descriptive",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "bow background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "bubble background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bubble_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "bubble",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bubble",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "butterfly background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butterfly_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "butterfly",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butterfly",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "card background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/card_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "playing card",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/playing_card",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "cloud background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cloud_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "cloud",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cloud",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "fiery background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fiery_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "fire",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fire",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "flag background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flag_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "flag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flag",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "floral background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floral_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "rose background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rose_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "rose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rose",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "food-themed background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food-themed_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "fruit background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "fruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "strawberry background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "strawberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "leaf background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaf_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "leaf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaf",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "lightning background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lightning_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "lightning",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lightning",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "paw print background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paw_print_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "paw print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paw_print",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "poke ball background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/poke_ball_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "poke ball",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/poke_ball",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "rabbit background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "rabbit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "snowflake background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snowflake_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "snowflakes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snowflakes",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sofmap background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sofmap_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sofmap",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sofmap",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "sparkle background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sparkle_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "sparkle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sparkle",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "spider web background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spider_web_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "spider web",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spider_web",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "star symbol background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_symbol_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "star (symbol)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_%28symbol%29",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "starry sky background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/starry_sky_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "star (sky)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_%28sky%29",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "text background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/text_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "text focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/text_focus",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "weapon background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/weapon_background",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "weapon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/weapon",
+      "category_path": "Objects and Nouns",
+      "wiki_exists": true
+    },
+    {
+      "name": "3D background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/3d_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "AI-generated background",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/ai-generated_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "collage background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collage_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "paneled background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paneled_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "photo background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/photo_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "game screenshot background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/game_screenshot_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "paper background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paper_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "screenshot background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/screenshot_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "sketch background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sketch_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "watercolor background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/watercolor_background",
+      "category_path": "Mediums",
+      "wiki_exists": true
+    },
+    {
+      "name": "backlighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backlighting",
+      "category_path": "Background Related",
+      "wiki_exists": true
+    },
+    {
+      "name": "blending",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blending",
+      "category_path": "Background Related",
+      "wiki_exists": true
+    },
+    {
+      "name": "border",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/border",
+      "category_path": "Background Related",
+      "wiki_exists": true
+    },
+    {
+      "name": "chibi inset",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chibi_inset",
+      "category_path": "Background Related",
+      "wiki_exists": true
+    },
+    {
+      "name": "horizon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/horizon",
+      "category_path": "Background Related",
+      "wiki_exists": true
+    },
+    {
+      "name": "imageboard colors",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/imageboard_colors",
+      "category_path": "Background Related",
+      "wiki_exists": true
+    },
+    {
+      "name": "projected inset",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/projected_inset",
+      "category_path": "Background Related",
+      "wiki_exists": true
+    },
+    {
+      "name": "step and repeat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/step_and_repeat",
+      "category_path": "Background Related",
+      "wiki_exists": true
+    },
+    {
+      "name": "zoom layer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zoom_layer",
+      "category_path": "Background Related",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 123,
+  "total_categories": 8,
+  "html_file": "tag_group_backgrounds.html"
+}

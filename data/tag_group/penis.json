@@ -1,0 +1,33 @@
+{
+  "group_name": "penis",
+  "display_name": "Tag group:penis",
+  "source_url": "/wiki_pages/tag_group%3Apenis",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apenis",
+  "categories": [
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 2
+    }
+  ],
+  "tags": [
+    {
+      "name": "futanari",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/futanari",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "penile fracture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penile_fracture",
+      "category_path": "See also",
+      "wiki_exists": false
+    }
+  ],
+  "total_tags": 2,
+  "total_categories": 1,
+  "html_file": "tag_group_penis.html"
+}

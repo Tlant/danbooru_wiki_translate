@@ -1,0 +1,2634 @@
+{
+  "group_name": "holding_tags",
+  "display_name": "Tag group:holding tags",
+  "source_url": "/wiki_pages/tag_group%3Aholding_tags",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aholding_tags",
+  "categories": [
+    {
+      "h4": "Attire and Accessories",
+      "h5": null,
+      "path": "Attire and Accessories",
+      "tag_count": 43
+    },
+    {
+      "h4": "Bedding",
+      "h5": null,
+      "path": "Bedding",
+      "tag_count": 3
+    },
+    {
+      "h4": "Body Part",
+      "h5": null,
+      "path": "Body Part",
+      "tag_count": 25
+    },
+    {
+      "h4": "Containers and Storage",
+      "h5": null,
+      "path": "Containers and Storage",
+      "tag_count": 5
+    },
+    {
+      "h4": "Electronics and Tech",
+      "h5": null,
+      "path": "Electronics and Tech",
+      "tag_count": 18
+    },
+    {
+      "h4": "Food and Drink",
+      "h5": null,
+      "path": "Food and Drink",
+      "tag_count": 33
+    },
+    {
+      "h4": "Hygiene",
+      "h5": null,
+      "path": "Hygiene",
+      "tag_count": 6
+    },
+    {
+      "h4": "Kitchenware and Utensils",
+      "h5": null,
+      "path": "Kitchenware and Utensils",
+      "tag_count": 20
+    },
+    {
+      "h4": "Lab and Research",
+      "h5": null,
+      "path": "Lab and Research",
+      "tag_count": 4
+    },
+    {
+      "h4": "Lighting",
+      "h5": null,
+      "path": "Lighting",
+      "tag_count": 5
+    },
+    {
+      "h4": "Medical Equipment",
+      "h5": null,
+      "path": "Medical Equipment",
+      "tag_count": 8
+    },
+    {
+      "h4": "Music ",
+      "h5": null,
+      "path": "Music ",
+      "tag_count": 14
+    },
+    {
+      "h4": "Nature",
+      "h5": null,
+      "path": "Nature",
+      "tag_count": 25
+    },
+    {
+      "h4": "Painting",
+      "h5": null,
+      "path": "Painting",
+      "tag_count": 6
+    },
+    {
+      "h4": "Paper and Documents ",
+      "h5": null,
+      "path": "Paper and Documents ",
+      "tag_count": 14
+    },
+    {
+      "h4": "Religious and Cultural",
+      "h5": null,
+      "path": "Religious and Cultural",
+      "tag_count": 8
+    },
+    {
+      "h4": "Sexual Intercourse",
+      "h5": null,
+      "path": "Sexual Intercourse",
+      "tag_count": 3
+    },
+    {
+      "h4": "Smoking ",
+      "h5": null,
+      "path": "Smoking ",
+      "tag_count": 5
+    },
+    {
+      "h4": "Sports and Recreation",
+      "h5": null,
+      "path": "Sports and Recreation",
+      "tag_count": 18
+    },
+    {
+      "h4": "Stationery",
+      "h5": null,
+      "path": "Stationery",
+      "tag_count": 9
+    },
+    {
+      "h4": "Tools",
+      "h5": null,
+      "path": "Tools",
+      "tag_count": 26
+    },
+    {
+      "h4": "Toys and Games",
+      "h5": null,
+      "path": "Toys and Games",
+      "tag_count": 12
+    },
+    {
+      "h4": "Weapons",
+      "h5": null,
+      "path": "Weapons",
+      "tag_count": 30
+    },
+    {
+      "h4": "Misc",
+      "h5": null,
+      "path": "Misc",
+      "tag_count": 7
+    },
+    {
+      "h4": "See Also",
+      "h5": null,
+      "path": "See Also",
+      "tag_count": 6
+    }
+  ],
+  "tags": [
+    {
+      "name": "holding unworn clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_clothes",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_coat",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_shirt",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_shorts",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_swimsuit",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding underwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_underwear",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding unworn cape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_cape",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding unworn dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_dress",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding unworn jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_jacket",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding unworn skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_skirt",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_collar",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mask",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mask",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding unworn hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_hat",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding unworn helmet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_helmet",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding unworn necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_necktie",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding unworn scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_unworn_scarf",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_boots",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_legwear",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sandals",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_shoes",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sock",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bag",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding briefcase",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_briefcase",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding suitcase",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_suitcase",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding wallet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_wallet",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding hair ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_hair_ornament",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding hair tie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_hair_tie",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding jewelry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_jewelry",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding earrings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_earrings",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_necklace",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ring",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pocket watch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pocket_watch",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding compact",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_compact",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding lipstick tube",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_lipstick_tube",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mirror",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mirror",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding comb",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_comb",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_belt",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cane",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cane",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding clothes hanger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_clothes_hanger",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding handkerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_handkerchief",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding tissue",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_tissue",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding umbrella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_umbrella",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding wig",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_wig",
+      "category_path": "Attire and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding blanket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_blanket",
+      "category_path": "Bedding",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pillow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pillow",
+      "category_path": "Bedding",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sheet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sheet",
+      "category_path": "Bedding",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's leg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_leg",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_legs",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's ankle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_ankle",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's arm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_arm",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's finger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_finger",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's foot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_foot",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_hair",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's leg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_leg",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's tail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_tail",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding another's tongue",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_tongue",
+      "category_path": "Body Part",
+      "wiki_exists": false
+    },
+    {
+      "name": "holding another's wrist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_another%27s_wrist",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding hands",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_hands",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding own ankle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_own_ankle",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "hand on own arm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_own_arm",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding own foot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_own_foot",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding own hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_own_hair",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding own leg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_own_leg",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding own tail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_own_tail",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding own wrist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_own_wrist",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bone",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding detached head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_detached_head",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding eyeball",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_eyeball",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding heart (organ)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_heart_%28organ%29",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding skull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_skull",
+      "category_path": "Body Part",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding basket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_basket",
+      "category_path": "Containers and Storage",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding box",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_box",
+      "category_path": "Containers and Storage",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cage",
+      "category_path": "Containers and Storage",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding halloween bucket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_halloween_bucket",
+      "category_path": "Containers and Storage",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sack",
+      "category_path": "Containers and Storage",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding earphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_earphones",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding headphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_headphones",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding megaphone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_megaphone",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding microphone stand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_microphone_stand",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding microphone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_microphone",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mp3 player",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mp3_player",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding phone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_phone",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding walkie-talkie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_walkie-talkie",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding handheld game console",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_handheld_game_console",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding laptop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_laptop",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding tablet pc",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_tablet_pc",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding computer mouse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_computer_mouse",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding computer keyboard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_computer_keyboard",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding controller",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_controller",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding camera",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_camera",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding tripod",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_tripod",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding photo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_photo",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding barcode scanner",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_barcode_scanner",
+      "category_path": "Electronics and Tech",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_food",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding drink",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_drink",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cake",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding candy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_candy",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding candy apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_candy_apple",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_chocolate",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cookie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cookie",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cotton candy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cotton_candy",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding crepe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_crepe",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding donut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_donut",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ice cream",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ice_cream",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ice cream cone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ice_cream_cone",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pocky",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pocky",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding popsicle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_popsicle",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding burger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_burger",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pizza",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pizza",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sandwich",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sandwich",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bento",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bento",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding skewer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_skewer",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding carrot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_carrot",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_egg",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding fruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_fruit",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mushroom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mushroom",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pumpkin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pumpkin",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding vegetable",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_vegetable",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bottle",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding can",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_can",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cup",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding drink carton",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_drink_carton",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding juice box",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_juice_box",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding milk carton",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_milk_carton",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding gourd",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_gourd",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding drinking straw",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_drinking_straw",
+      "category_path": "Food and Drink",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding hair brush",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_hair_brush",
+      "category_path": "Hygiene",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding hair dryer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_hair_dryer",
+      "category_path": "Hygiene",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding razor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_razor",
+      "category_path": "Hygiene",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding shower head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_shower_head",
+      "category_path": "Hygiene",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding toothbrush",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_toothbrush",
+      "category_path": "Hygiene",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding towel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_towel",
+      "category_path": "Hygiene",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bamboo steamer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bamboo_steamer",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding coffee pot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_coffee_pot",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cooking pot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cooking_pot",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding frying pan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_frying_pan",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding kettle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_kettle",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding teapot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_teapot",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding chopsticks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_chopsticks",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding fork",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_fork",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding spoon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_spoon",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding spork",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_spork",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cocktail shaker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cocktail_shaker",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ladle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ladle",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pastry bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pastry_bag",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding spatula",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_spatula",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding tongs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_tongs",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding whisk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_whisk",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bowl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bowl",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding plate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_plate",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding saucer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_saucer",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding tray",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_tray",
+      "category_path": "Kitchenware and Utensils",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding magnifying glass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_magnifying_glass",
+      "category_path": "Lab and Research",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding telescope",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_telescope",
+      "category_path": "Lab and Research",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding test tube",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_test_tube",
+      "category_path": "Lab and Research",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding vial",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_vial",
+      "category_path": "Lab and Research",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding candle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_candle",
+      "category_path": "Lighting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding candlestand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_candlestand",
+      "category_path": "Lighting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding flashlight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_flashlight",
+      "category_path": "Lighting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding lantern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_lantern",
+      "category_path": "Lighting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding torch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_torch",
+      "category_path": "Lighting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bandages",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bandages",
+      "category_path": "Medical Equipment",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bandaid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bandaid",
+      "category_path": "Medical Equipment",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pill",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pill",
+      "category_path": "Medical Equipment",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pregnancy test",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pregnancy_test",
+      "category_path": "Medical Equipment",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding scalpel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_scalpel",
+      "category_path": "Medical Equipment",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding stethoscope",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_stethoscope",
+      "category_path": "Medical Equipment",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding syringe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_syringe",
+      "category_path": "Medical Equipment",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding thermometer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_thermometer",
+      "category_path": "Medical Equipment",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bow (music)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bow_%28music%29",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding drumsticks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_drumsticks",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding instrument",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_instrument",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bass_guitar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bass_guitar",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding flute",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_flute",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding guitar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_guitar",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding lyre",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_lyre",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding maracas",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_maracas",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding saxophone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_saxophone",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding trombone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_trombone",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding trumpet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_trumpet",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ukulele",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ukulele",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding violin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_violin",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding plectrum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_plectrum",
+      "category_path": "Music ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding creature",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_creature",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bouquet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bouquet",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding branch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_branch",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding clover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_clover",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding flower pot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_flower_pot",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_flower",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding leaf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_leaf",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mistletoe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mistletoe",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding petal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_petal",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding plant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_plant",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding stick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_stick",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding wreath",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_wreath",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding animal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_animal",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bird",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bird",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cat",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding dog",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_dog",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding fish",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_fish",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding frog",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_frog",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding rabbit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_rabbit",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding snake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_snake",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding crystal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_crystal",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding gem",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_gem",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding rock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_rock",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding feather",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_feather",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding shell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_shell",
+      "category_path": "Nature",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding drawing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_drawing",
+      "category_path": "Painting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding drawing tablet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_drawing_tablet",
+      "category_path": "Painting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding paint palette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_paint_palette",
+      "category_path": "Painting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding paintbrush",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_paintbrush",
+      "category_path": "Painting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sketchbook",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sketchbook",
+      "category_path": "Painting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding stylus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_stylus",
+      "category_path": "Painting",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding paper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_paper",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding book",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_book",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding magazine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_magazine",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding manga",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_manga",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding newspaper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_newspaper",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding scroll",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_scroll",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding diploma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_diploma",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding id card",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_id_card",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ticket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ticket",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding envelope",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_envelope",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding letter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_letter",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding notebook",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_notebook",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding notepad",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_notepad",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding folder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_folder",
+      "category_path": "Paper and Documents ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ema",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ema",
+      "category_path": "Religious and Cultural",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding gohei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_gohei",
+      "category_path": "Religious and Cultural",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ofuda",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ofuda",
+      "category_path": "Religious and Cultural",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding omikuji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_omikuji",
+      "category_path": "Religious and Cultural",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding tanzaku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_tanzaku",
+      "category_path": "Religious and Cultural",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cross",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cross",
+      "category_path": "Religious and Cultural",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding crown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_crown",
+      "category_path": "Religious and Cultural",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding scepter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_scepter",
+      "category_path": "Religious and Cultural",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding condom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_condom",
+      "category_path": "Sexual Intercourse",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding riding crop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_riding_crop",
+      "category_path": "Sexual Intercourse",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sex toy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sex_toy",
+      "category_path": "Sexual Intercourse",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cigar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cigar",
+      "category_path": "Smoking ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cigarette pack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cigarette_pack",
+      "category_path": "Smoking ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cigarette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cigarette",
+      "category_path": "Smoking ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding lighter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_lighter",
+      "category_path": "Smoking ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding smoking pipe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_smoking_pipe",
+      "category_path": "Smoking ",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ball",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ball",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding dumbbell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_dumbbell",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding golf club",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_golf_club",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding jump rope",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_jump_rope",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding racket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_racket",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding badminton racket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_badminton_racket",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding tennis racket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_tennis_racket",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding skateboard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_skateboard",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding stopwatch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_stopwatch",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding surfboard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_surfboard",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding whistle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_whistle",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding butterfly net",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_butterfly_net",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding fishing rod",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_fishing_rod",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding oar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_oar",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding paddle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_paddle",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding swim ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_swim_ring",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pom poms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pom_poms",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding trophy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_trophy",
+      "category_path": "Sports and Recreation",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding chalk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_chalk",
+      "category_path": "Stationery",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding crayon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_crayon",
+      "category_path": "Stationery",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding marker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_marker",
+      "category_path": "Stationery",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pen",
+      "category_path": "Stationery",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pencil",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pencil",
+      "category_path": "Stationery",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding quill",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_quill",
+      "category_path": "Stationery",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ruler",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ruler",
+      "category_path": "Stationery",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding scissors",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_scissors",
+      "category_path": "Stationery",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pointer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pointer",
+      "category_path": "Stationery",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding weapon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_weapon",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding crowbar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_crowbar",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding hammer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_hammer",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mallet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mallet",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pickaxe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pickaxe",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding power drill",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_power_drill",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding saw",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_saw",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding screwdriver",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_screwdriver",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding shovel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_shovel",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding wrench",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_wrench",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding axe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_axe",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding chainsaw",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_chainsaw",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding broom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_broom",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bucket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bucket",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding duster",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_duster",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding dustpan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_dustpan",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mop",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sponge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sponge",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding hose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_hose",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pitchfork",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pitchfork",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sickle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sickle",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding trowel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_trowel",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding watering can",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_watering_can",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cable",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cable",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding nail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_nail",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding string",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_string",
+      "category_path": "Tools",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding card",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_card",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding chess piece",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_chess_piece",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding dice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_dice",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mahjong tile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mahjong_tile",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding doll",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_doll",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding pinwheel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pinwheel",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding rattle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_rattle",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding snow globe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_snow_globe",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding stuffed toy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_stuffed_toy",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding toy gun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_toy_gun",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding toy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_toy",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding water gun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_water_gun",
+      "category_path": "Toys and Games",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding weapon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_weapon",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding baton (weapon)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_baton_%28weapon%29",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding club",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_club",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cleaver",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cleaver",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding dagger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_dagger",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding flail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_flail",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding knife",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_knife",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding knife behind back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_knife_behind_back",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding kunai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_kunai",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding lead pipe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_lead_pipe",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mace",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding machete",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_machete",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding nunchaku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_nunchaku",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding polearm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_polearm",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sword",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sword",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bow (weapon)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bow_%28weapon%29",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding cannon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_cannon",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding crossbow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_crossbow",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding energy gun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_energy_gun",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding flamethrower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_flamethrower",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding grenade",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_grenade",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding gun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_gun",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding rocket launcher",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_rocket_launcher",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding slingshot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_slingshot",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding turret",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_turret",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding arrow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_arrow",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding bullet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_bullet",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding magazine (weapon)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_magazine_%28weapon%29",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding shield",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_shield",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding sheath",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_sheath",
+      "category_path": "Weapons",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding anchor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_anchor",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding coin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_coin",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding glowstick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_glowstick",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding key",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_key",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding mini person",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_mini_person",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding money",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_money",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_ribbon",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "between fingers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/between_fingers",
+      "category_path": "See Also",
+      "wiki_exists": true
+    },
+    {
+      "name": "between toes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/between_toes",
+      "category_path": "See Also",
+      "wiki_exists": true
+    },
+    {
+      "name": "grabbing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grabbing",
+      "category_path": "See Also",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding behind back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_behind_back",
+      "category_path": "See Also",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding with feet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_with_feet",
+      "category_path": "See Also",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding with tail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_with_tail",
+      "category_path": "See Also",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 353,
+  "total_categories": 25,
+  "html_file": "tag_group_holding_tags.html"
+}

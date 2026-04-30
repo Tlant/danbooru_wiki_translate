@@ -1,0 +1,4053 @@
+{
+  "group_name": "attire",
+  "display_name": "Tag group:attire",
+  "source_url": "/wiki_pages/tag_group%3Aattire",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire",
+  "categories": [
+    {
+      "h4": "About",
+      "h5": null,
+      "path": "About",
+      "tag_count": 0
+    },
+    {
+      "h4": "Headwear and Headgear",
+      "h5": null,
+      "path": "Headwear and Headgear",
+      "tag_count": 22
+    },
+    {
+      "h4": "Shirts and Topwear",
+      "h5": null,
+      "path": "Shirts and Topwear",
+      "tag_count": 70
+    },
+    {
+      "h4": "Pants and Bottomwear",
+      "h5": null,
+      "path": "Pants and Bottomwear",
+      "tag_count": 41
+    },
+    {
+      "h4": "Legs and Feet",
+      "h5": null,
+      "path": "Legs and Feet",
+      "tag_count": 14
+    },
+    {
+      "h4": "Shoes and Footwear",
+      "h5": null,
+      "path": "Shoes and Footwear",
+      "tag_count": 62
+    },
+    {
+      "h4": "Uniforms and Costumes",
+      "h5": null,
+      "path": "Uniforms and Costumes",
+      "tag_count": 69
+    },
+    {
+      "h4": "Swimsuits and Bodysuits",
+      "h5": null,
+      "path": "Swimsuits and Bodysuits",
+      "tag_count": 37
+    },
+    {
+      "h4": "Traditional Clothing",
+      "h5": null,
+      "path": "Traditional Clothing",
+      "tag_count": 42
+    },
+    {
+      "h4": "Jewelry and Accessories",
+      "h5": null,
+      "path": "Jewelry and Accessories",
+      "tag_count": 126
+    },
+    {
+      "h4": "Styles and Patterns",
+      "h5": null,
+      "path": "Styles and Patterns",
+      "tag_count": 59
+    },
+    {
+      "h4": "Other",
+      "h5": null,
+      "path": "Other",
+      "tag_count": 19
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 5
+    }
+  ],
+  "tags": [
+    {
+      "name": "balaclava",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/balaclava",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "coif",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coif",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "crown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crown",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "diadem",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diadem",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bow",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_ribbon",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair tie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_tie",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hairband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairband",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hat",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "headband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headband",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "forehead protector",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forehead_protector",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweatband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweatband",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hachimaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hachimaki",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "mongkhon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mongkhon",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "headdress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headdress",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "maid headdress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maid_headdress",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "headscarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headscarf",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hijab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hijab",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "tiara",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiara",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "veil",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/veil",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "honggaitou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honggaitou",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "wimple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wimple",
+      "category_path": "Headwear and Headgear",
+      "wiki_exists": true
+    },
+    {
+      "name": "blouse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blouse",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "frilled shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sleeveless shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "bustier",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bustier",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "crop top",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crop_top",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "camisole",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camisole",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cardigan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cardigan",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cardigan vest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cardigan_vest",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "duffel coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/duffel_coat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "fur coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur_coat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "fur-trimmed coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur-trimmed_coat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "long coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_coat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "overcoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/overcoat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "peacoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peacoat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "raincoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raincoat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "yellow raincoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_raincoat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "see-through raincoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_raincoat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "trench coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trench_coat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "winter coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/winter_coat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "compression shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/compression_shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "corset",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corset",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "deel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/deel",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "halterneck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/halterneck",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "criss-cross halter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/criss-cross_halter",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hoodie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hoodie",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jacket",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "blazer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blazer",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cropped jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cropped_jacket",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "letterman jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/letterman_jacket",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "safari jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/safari_jacket",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "suit jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/suit_jacket",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sukajan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sukajan",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "trench coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trench_coat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "nightgown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nightgown",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "muneate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/muneate",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "poncho",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/poncho",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "raglan sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raglan_sleeves",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "robe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/robe",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "thobe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thobe",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sash",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "shoulder sash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_sash",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "stole",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stole",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "scapular",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scapular",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "collared shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "dress shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "off-shoulder shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sleeveless shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "striped shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "t-shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/t-shirt",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "shrug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shrug_%28clothing%29",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "surcoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/surcoat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweater",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "turtleneck sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turtleneck_sweater",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sleeveless turtleneck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_turtleneck",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweater dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweater_dress",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "ribbed sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbed_sweater",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "aran sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aran_sweater",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "tabard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tabard",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "tailcoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tailcoat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "tank top",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tank_top",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "stringer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stringer",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "tube top",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tube_top",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "bandeau",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandeau",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "underbust",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underbust",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "vest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vest",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweater vest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweater_vest",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "waistcoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waistcoat",
+      "category_path": "Shirts and Topwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "bloomers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bloomers",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "buruma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buruma",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "chaps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chaps",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "kilt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kilt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pants",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "bell-bottoms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bell-bottoms",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "capri pants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/capri_pants",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "detached pants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/detached_pants",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "jeans",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jeans",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cutoff jeans",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cutoff_jeans",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "lowleg pants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lowleg_pants",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pants rolled up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pants_rolled_up",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "yoga pants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yoga_pants",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pelvic curtain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pelvic_curtain",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "petticoat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/petticoat",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sarong",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sarong",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shorts",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "bike shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bike_shorts",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "denim shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/denim_shorts",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "dolphin shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dolphin_shorts",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "gym shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gym_shorts",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "lowleg shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lowleg_shorts",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "micro shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/micro_shorts",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pleated shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pleated_shorts",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "short shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_shorts",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "shorts under skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shorts_under_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "bubble skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bubble_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "high-waist skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high-waist_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "high-low skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high-low_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "long skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "lowleg skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lowleg_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "microskirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/microskirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "miniskirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miniskirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "overall skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/overall_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "overskirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/overskirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "plaid skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pleated skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pleated_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "showgirl skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/showgirl_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "suspender skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/suspender_skirt",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "tutu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tutu",
+      "category_path": "Pants and Bottomwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "kneehighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kneehighs",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "leggings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leggings",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "leg warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_warmers",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "over-kneehighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/over-kneehighs",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pantyhose",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "thighband pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thighband_pantyhose",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/socks",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "ankle socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ankle_socks",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "bobby socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bobby_socks",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "loose socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loose_socks",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "tabi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tabi",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "toe socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toe_socks",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "tube socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tube_socks",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thighhighs",
+      "category_path": "Legs and Feet",
+      "wiki_exists": true
+    },
+    {
+      "name": "shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "ankle boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ankle_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "armored boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armored_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cowboy boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cowboy_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "spurs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spurs",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "high heel boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_heel_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "knee boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knee_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace-up boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-up_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "rubber boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rubber_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "thigh boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thigh_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "work boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/work_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "ankle lace-up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ankle_lace-up",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross-laced sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross-laced_sandals",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross-laced shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross-laced_shoes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross-laced slit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross-laced_slit",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace-up boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-up_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sneakers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sneakers",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "high tops",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_tops",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "converse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/converse",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "dress shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_shoes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "loafers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loafers",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "kiltie loafers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kiltie_loafers",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "oxfords",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oxfords",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "saddle shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saddle_shoes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "flats",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flats",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "footwear ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/footwear_ribbon",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "high heels",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_heels",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pumps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pumps",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "stiletto heels",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stiletto_heels",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "wedge heels",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wedge_heels",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "mary janes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mary_janes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "okobo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/okobo",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "platform boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/platform_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "platform heels",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/platform_heels",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "platform sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/platform_sandals",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "platform shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/platform_shoes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pointy boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pointy_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pointy shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pointy_shoes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sandals",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross-laced sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross-laced_sandals",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "flip-flops",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flip-flops",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "gladiator sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gladiator_sandals",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "geta",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/geta",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "okobo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/okobo",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sports sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sports_sandals",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "waraji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waraji",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "zouri",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zouri",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "monk shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monk_shoes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "open-toe boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open-toe_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "open-toe shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open-toe_shoes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "slippers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slippers",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal slippers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_slippers",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "ballet slippers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ballet_slippers",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "crocs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crocs",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "uwabaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uwabaki",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "spats",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spats_%28footwear%29",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "uwabaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uwabaki",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "winged boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/winged_boots",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "winged sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/winged_sandals",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "winged shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/winged_shoes",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "winged slippers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/winged_slippers",
+      "category_path": "Shoes and Footwear",
+      "wiki_exists": false
+    },
+    {
+      "name": "apron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apron",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "armor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armor",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "armored dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armored_dress",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "bikini armor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bikini_armor",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "band uniform",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/band_uniform",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "cape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cape",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "capelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/capelet",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "hood",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hood",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "side cape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side_cape",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "cassock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cassock",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "cheerleader",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheerleader",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "ghost costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ghost_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "formal clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/formal_clothes",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/suit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "business suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/business_suit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "pant suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pant_suit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "skirt suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skirt_suit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "tuxedo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tuxedo",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "g-suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/g-suit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "gym uniform",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gym_uniform",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "buruma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buruma",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "harem outfit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/harem_outfit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "loincloth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loincloth",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "hazmat suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hazmat_suit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "hev suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hev_suit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "kigurumi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kigurumi",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "bear costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bear_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "boar costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boar_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "cat costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "cow costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cow_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "dog costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dog_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "monkey costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monkey_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "mouse costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mouse_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "panda costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panda_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "penguin costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penguin_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "pig costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pig_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "rabbit costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "reindeer costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reindeer_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "seal costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seal_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "sheep costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sheep_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "tiger costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiger_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "maid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maid",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "jersey maid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jersey_maid",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "mecha pilot suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mecha_pilot_suit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "miko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miko",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "nontraditional miko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nontraditional_miko",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "military uniform",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/military_uniform",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "nun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nun",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "traditional nun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/traditional_nun",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "overalls",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/overalls",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "pajamas",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pajamas",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "plugsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plugsuit_%28evangelion%29",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "priest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/priest",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "sailor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "santa costume",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/santa_costume",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "school uniform",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/school_uniform",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "serafuku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/serafuku",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "sailor dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor_dress",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "gakuran",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gakuran",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "meiji schoolgirl uniform",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/meiji_schoolgirl_uniform",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "shosei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shosei",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "track suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/track_suit",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweatpants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweatpants",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweater",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "tutu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tutu",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "waitress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waitress",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "cowboy western",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cowboy_western",
+      "category_path": "Uniforms and Costumes",
+      "wiki_exists": true
+    },
+    {
+      "name": "bikesuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bikesuit",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "racing suit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/racing_suit",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "bodystocking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bodystocking",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "bodysuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bodysuit",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "jumpsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jumpsuit",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "short jumpsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_jumpsuit",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "leotard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leotard",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "see-through leotard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_leotard",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "strapless leotard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_leotard",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "playboy bunny",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/playboy_bunny",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swimsuit",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "competition swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/competition_swimsuit",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "slingshot swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slingshot_swimsuit",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "school swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/school_swimsuit",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bikini",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "leaf bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaf_bikini",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "string bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/string_bikini",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "micro bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/micro_bikini",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "side-tie bikini bottom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side-tie_bikini_bottom",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "lowleg bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lowleg_bikini",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "thong bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thong_bikini",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "venus bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/venus_bikini",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "sports bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sports_bikini",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "tankini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tankini",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "criss-cross halter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/criss-cross_halter",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "swim briefs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swim_briefs",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "jammers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jammers",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "legskin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/legskin",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "rash guard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rash_guard",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "robe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/robe",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "bathrobe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bathrobe",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "open robe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_robe",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "kesa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kesa",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "romper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/romper",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "sarong",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sarong",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "tunic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tunic",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "unitard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unitard",
+      "category_path": "Swimsuits and Bodysuits",
+      "wiki_exists": true
+    },
+    {
+      "name": "chinese clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chinese_clothes",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "changpao",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/changpao",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "china dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/china_dress",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "fengguan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fengguan",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "hanfu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hanfu",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "longpao",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/longpao",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "tangzhuang",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tangzhuang",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "dirndl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dirndl",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "japanese clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/japanese_clothes",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "fundoshi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fundoshi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "mizu happi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mizu_happi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "geta",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/geta",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "hakama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hakama",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "hakama skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hakama_skirt",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "hakama short skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hakama_short_skirt",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "hakama pants",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hakama_pants",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "kimono",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kimono",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "furisode",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/furisode",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "layered kimono",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/layered_kimono",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "short kimono",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_kimono",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "uchikake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uchikake",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "yukata",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yukata",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "haori",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/haori",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "happi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/happi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "chanchanko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chanchanko_%28clothes%29",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "dotera",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dotera_%28clothes%29",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "hanten",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hanten_%28clothes%29",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "kimono skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kimono_skirt",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "miko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miko",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "nontraditional miko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nontraditional_miko",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "sarashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sarashi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "Midriff sarashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/midriff_sarashi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chest sarashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chest_sarashi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "Budget sarashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/budget_sarashi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "Undone sarashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/undone_sarashi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "straw cape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/straw_cape",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "mino boushi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mino_boushi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "tabi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tabi",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "tasuki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tasuki",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "korean clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/korean_clothes",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "hanbok",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hanbok",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "ao dai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ao_dai",
+      "category_path": "Traditional Clothing",
+      "wiki_exists": true
+    },
+    {
+      "name": "circlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/circlet",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "ear covers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_covers",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "ear cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_cuffs",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "earrings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earrings",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "hoop earrings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hoop_earrings",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "stud earrings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stud_earrings",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "earclip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earclip",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "ear chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_chain",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "face chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/face_chain",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glasses",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "monocle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monocle",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_ornament",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "dianzi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dianzi",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair beads",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_beads",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair bobbles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bobbles",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "hairclip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairclip",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "hairpin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hairpin",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair scrunchie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_scrunchie",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair stick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_stick",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "kanzashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kanzashi",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "head chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_chain",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "headphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headphones",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "earphones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earphones",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "earpiece",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earpiece",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "headset",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headset",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "laurel crown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/laurel_crown",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "mask",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mask",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "plague doctor mask",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plague_doctor_mask",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "surgical mask",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/surgical_mask",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ascot",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bowtie",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choker",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross tie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_tie",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "epaulettes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/epaulettes",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "feather boa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feather_boa",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "guimpe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guimpe",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "lapels",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lapels",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "lapel pin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lapel_pin",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "neck ruff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ruff",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neckerchief",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necklace",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necktie",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "tie clip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tie_clip",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "neck ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ribbon",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scarf",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "scarf choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scarf_choker",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "shawl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shawl",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "stole",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stole",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "usekh collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/usekh_collar",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "ankle strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ankle_strap",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "anklet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anklet",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "arm belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_belt",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "arm guards",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_guards",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "armband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armband",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "armlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armlet",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "bracer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bracer",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "bracelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bracelet",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "bangle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bangle",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "spiked bracelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiked_bracelet",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "detached sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/detached_sleeves",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "arm warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_warmers",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "elbow sleeve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/elbow_sleeve",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "fingernails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fingernails",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "garter straps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garter_straps",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gloves",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "boxing gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boxing_gloves",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "elbow gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/elbow_gloves",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "fingerless gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fingerless_gloves",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "bridal gauntlets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bridal_gauntlets",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "spiked gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiked_gloves",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "yugake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yugake",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "mittens",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mittens",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "hand chains",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_chains",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "leg belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leg_belt",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "legwear garter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/legwear_garter",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ring",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "claw ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/claw_ring",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "wedding ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wedding_ring",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "shin guards",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shin_guards",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "shin strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shin_strap",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "thighlet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thighlet",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "thigh strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thigh_strap",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "frilled thigh strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_thigh_strap",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "wide sleeves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wide_sleeves",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "wristband",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wristband",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "wrist cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wrist_cuffs",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "wrist ruff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wrist_ruff",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "wrist scrunchie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wrist_scrunchie",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "aiguillette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aiguillette",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "badge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/badge",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "belly chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belly_chain",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belt",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "buckle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buckle",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "wallet chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wallet_chain",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "sam browne belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sam_browne_belt",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "shoulder belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_belt",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "cingulum militare",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cingulum_militare",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "boutonniere",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boutonniere",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "brooch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brooch",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "buttons",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buttons",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "large buttons",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/large_buttons",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "button badge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/button_badge",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "buttoned cuffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buttoned_cuffs",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "collar chain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar_chain_%28jewelry%29",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweater guard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweater_guard",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "corsage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corsage",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "crinoline",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crinoline",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "cuff links",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cuff_links",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "double-breasted",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double-breasted",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "fanny pack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fanny_pack",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "garter belt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garter_belt",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "harness",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/harness",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "pentacle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pentacle",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "piercing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/piercing",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "sarong",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sarong",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "sash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sash",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "shoulder sash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_sash",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "waist sash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waist_sash",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "shendyt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shendyt",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "suspenders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/suspenders",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "tassel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tassel",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "watch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/watch",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "pocket watch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pocket_watch",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "yaopei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yaopei",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "zipper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zipper",
+      "category_path": "Jewelry and Accessories",
+      "wiki_exists": true
+    },
+    {
+      "name": "argyle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/argyle",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "camouflage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camouflage",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "checkered",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "floral print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floral_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "gingham",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gingham",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "houndstooth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/houndstooth",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "pinstripe pattern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pinstripe_pattern",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "plaid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "polka dot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "striped",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolored stripes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_stripes",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "double vertical stripe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double_vertical_stripe",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "bat print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bat_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "bear print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bear_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "butterfly print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butterfly_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "cow print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cow_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "leopard print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leopard_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "tiger print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiger_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "snake print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snake_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "bone print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bone_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "clover print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clover_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "crescent print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crescent_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "floral print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floral_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "rose print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rose_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "camellia print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camellia_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "cherry blossom print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cherry_blossom_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "chrysanthemum print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chrysanthemum_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "lily print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lily_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "morning glory print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/morning_glory_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "peony print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peony_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "plum blossom print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plum_blossom_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "spider lily print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spider_lily_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "sunflower print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunflower_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "food print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "fruit pattern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit_pattern",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": false
+    },
+    {
+      "name": "apple print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apple_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "blueberry print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blueberry_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": false
+    },
+    {
+      "name": "cherry print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cherry_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "kiwi print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kiwi_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": false
+    },
+    {
+      "name": "lemon print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lemon_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "pineapple print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pineapple_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "orange print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "strawberry print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "watermelon print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/watermelon_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "leaf print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaf_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "maple leaf print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maple_leaf_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "moon print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moon_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "musical note print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/musical_note_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "paw print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paw_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "petal print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/petal_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": false
+    },
+    {
+      "name": "piano print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/piano_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "sparkle print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sparkle_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "triangle print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triangle_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "space print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/space_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "starry sky print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/starry_sky_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "star print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "wave print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wave_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "wing print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wing_print",
+      "category_path": "Styles and Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "buckle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buckle",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "chinese knot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chinese_knot",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "criss-cross straps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/criss-cross_straps",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "criss-cross back-straps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/criss-cross_back-straps",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "clothing cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothing_cutout",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "dress flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_flower",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "flower trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_trim",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "frills",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frills",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "fur trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur_trim",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "gathers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gathers",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "gold trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gold_trim",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace_trim",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "pom pom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pom_pom_%28clothes%29",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "ribbon trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbon_trim",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "see-through clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_clothes",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "silver trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/silver_trim",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "taut shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/taut_shirt",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "torn clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_clothes",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "white trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_trim",
+      "category_path": "Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "casual",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/casual",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "cosplay",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cosplay",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fashion",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "lolita fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lolita_fashion",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoes",
+      "category_path": "See also",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 566,
+  "total_categories": 13,
+  "html_file": "tag_group_attire.html"
+}

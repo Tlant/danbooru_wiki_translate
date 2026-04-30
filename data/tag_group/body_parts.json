@@ -1,0 +1,870 @@
+{
+  "group_name": "body_parts",
+  "display_name": "Tag group:body parts",
+  "source_url": "/wiki_pages/tag_group%3Abody_parts",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abody_parts",
+  "categories": [
+    {
+      "h4": "Head",
+      "h5": null,
+      "path": "Head",
+      "tag_count": 13
+    },
+    {
+      "h4": "Torso",
+      "h5": null,
+      "path": "Torso",
+      "tag_count": 82
+    },
+    {
+      "h4": "Appendages",
+      "h5": null,
+      "path": "Appendages",
+      "tag_count": 24
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "ear focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ear_focus",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyebrows",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyebrows",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyelashes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyelashes",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "forehead",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forehead",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "forehead mark",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forehead_mark",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "beard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beard",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "mustache",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mustache",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "nose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nose",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "head wings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_wings",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "lips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lips",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "nape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nape",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "tongue",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tongue",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "long tongue",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_tongue",
+      "category_path": "Head",
+      "wiki_exists": true
+    },
+    {
+      "name": "areolae",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/areolae",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "large areolae",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/large_areolae",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "glands of montgomery",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glands_of_montgomery",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "armpits",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armpits",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/back",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "median furrow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/median_furrow",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "breasts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breasts",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "collarbone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collarbone",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_%28organ%29",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "lungs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lungs",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "long neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_neck",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "nipples",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nipples",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "covered nipples",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covered_nipples",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "inverted nipples",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/inverted_nipples",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "no nipples",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_nipples",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "puffy nipples",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puffy_nipples",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "small nipples",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/small_nipples",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "pectorals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pectorals",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "ribs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribs",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "anus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anus",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "ass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ass",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "cloaca",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cloaca",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "dimples of venus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dimples_of_venus",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "groin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/groin",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "hip dips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hip_dips",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "wide hips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wide_hips",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "intestines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/intestines",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "linea alba",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/linea_alba",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "liver",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/liver",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "narrow waist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/narrow_waist",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "pubic hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pubic_hair",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "pussy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pussy",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "cleft of venus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cleft_of_venus",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "clitoris",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clitoris",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "fat mons",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fat_mons",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "labia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/labia",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "mons pubis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mons_pubis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "no pussy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_pussy",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "dog penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dog_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "dolphin penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dolphin_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "horse penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/horse_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "knotted penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knotted_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "pig penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pig_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "snake penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snake_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "spiked penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiked_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "bulge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bulge",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "covered penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covered_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "erection under clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/erection_under_clothes",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "disembodied penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/disembodied_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "erection",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/erection",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "extra penises",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/extra_penises",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "foreskin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/foreskin",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "phimosis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/phimosis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "flaccid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flaccid",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "gigantic penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gigantic_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "huge penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/huge_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "large penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/large_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "multiple penises",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_penises",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "small penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/small_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "veiny penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/veiny_penis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "perineum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/perineum",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "prostate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prostate",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "pseudopenis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pseudopenis",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "stomach",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stomach",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "abs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/abs",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "belly",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belly",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "navel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/navel",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "covered navel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covered_navel",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "obliques",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/obliques",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "stomach_(organ)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stomach_%28organ%29",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "testicles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/testicles",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "covered testicles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/covered_testicles",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "no testicles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_testicles",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "small testicles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/small_testicles",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "large testicles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/large_testicles",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "huge testicles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/huge_testicles",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "gigantic testicles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gigantic_testicles",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "uterus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uterus",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "cervix",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cervix",
+      "category_path": "Torso",
+      "wiki_exists": true
+    },
+    {
+      "name": "thick arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thick_arms",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "biceps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/biceps",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "feet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feet",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "bad feet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bad_feet",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "barefoot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barefoot",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "dirty feet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dirty_feet",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "soles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soles",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "palms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/palms",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "doll joints",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doll_joints",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "robot joints",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/robot_joints",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "knees",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knees",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "kneepits",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kneepits",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/legs",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "long legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_legs",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "reverse-jointed_legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reverse-jointed_legs",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "slim legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slim_legs",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "tail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tail",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "tentacles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tentacles",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "thighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thighs",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "groin tendon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/groin_tendon",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "thick thighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thick_thighs",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "toes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toes",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "ninja toes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ninja_toes",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    },
+    {
+      "name": "wings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wings",
+      "category_path": "Appendages",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 119,
+  "total_categories": 4,
+  "html_file": "tag_group_body_parts.html"
+}

@@ -1,0 +1,335 @@
+{
+  "group_name": "gender_nonconformity",
+  "display_name": "Tag group:gender nonconformity",
+  "source_url": "/wiki_pages/tag_group%3Agender_nonconformity",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Agender_nonconformity",
+  "categories": [
+    {
+      "h4": "Symbols",
+      "h5": null,
+      "path": "Symbols",
+      "tag_count": 2
+    },
+    {
+      "h4": "Appearance",
+      "h5": null,
+      "path": "Appearance",
+      "tag_count": 11
+    },
+    {
+      "h4": "Behavior",
+      "h5": null,
+      "path": "Behavior",
+      "tag_count": 2
+    },
+    {
+      "h4": "Anatomy",
+      "h5": null,
+      "path": "Anatomy",
+      "tag_count": 5
+    },
+    {
+      "h4": "Fetishes",
+      "h5": null,
+      "path": "Fetishes",
+      "tag_count": 13
+    },
+    {
+      "h4": "Culture",
+      "h5": null,
+      "path": "Culture",
+      "tag_count": 2
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 5
+    }
+  ],
+  "tags": [
+    {
+      "name": "androgyne symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/androgyne_symbol",
+      "category_path": "Symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "male-female symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/male-female_symbol",
+      "category_path": "Symbols",
+      "wiki_exists": true
+    },
+    {
+      "name": "crossdressing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crossdressing",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "crossdressing (mtf)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crossdressing_%28mtf%29",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "male maid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/male_maid",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "crossdressing (ftm)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crossdressing_%28ftm%29",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "female butler",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/female_butler",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "trap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trap",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "multiple traps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_traps",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "reverse trap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reverse_trap",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "multiple reverse traps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_reverse_traps",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "androgynous",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/androgynous",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "bishounen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bishounen",
+      "category_path": "Appearance",
+      "wiki_exists": true
+    },
+    {
+      "name": "girly boy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/girly_boy",
+      "category_path": "Behavior",
+      "wiki_exists": true
+    },
+    {
+      "name": "tomboy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tomboy",
+      "category_path": "Behavior",
+      "wiki_exists": true
+    },
+    {
+      "name": "male with breasts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/male_with_breasts",
+      "category_path": "Anatomy",
+      "wiki_exists": true
+    },
+    {
+      "name": "manboobs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/manboobs",
+      "category_path": "Anatomy",
+      "wiki_exists": true
+    },
+    {
+      "name": "gynecomastia",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gynecomastia",
+      "category_path": "Anatomy",
+      "wiki_exists": true
+    },
+    {
+      "name": "puffy chest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puffy_chest",
+      "category_path": "Anatomy",
+      "wiki_exists": true
+    },
+    {
+      "name": "small penis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/small_penis",
+      "category_path": "Anatomy",
+      "wiki_exists": true
+    },
+    {
+      "name": "feminization",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feminization",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "before feminization",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/before_feminization",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "forced feminization",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/forced_feminization",
+      "category_path": "Fetishes",
+      "wiki_exists": false
+    },
+    {
+      "name": "hormone replacement therapy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hormone_replacement_therapy",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "estrogen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/estrogen",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "estradiol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/estradiol",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "chastity cage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chastity_cage",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "small chastity cage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/small_chastity_cage",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "flat chastity cage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flat_chastity_cage",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "breast expansion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breast_expansion",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "penis reduction",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/penis_reduction",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "sexuality change",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sexuality_change",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "josou seme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/josou_seme",
+      "category_path": "Fetishes",
+      "wiki_exists": true
+    },
+    {
+      "name": "femboy hooters (meme)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/femboy_hooters_%28meme%29",
+      "category_path": "Culture",
+      "wiki_exists": true
+    },
+    {
+      "name": "boykisser",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/boykisser",
+      "category_path": "Culture",
+      "wiki_exists": false
+    },
+    {
+      "name": "genderswap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/genderswap",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "futanari",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/futanari",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "cuntboy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cuntboy",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "male futanari",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/male_futanari",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "bimbofication",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bimbofication",
+      "category_path": "See also",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 40,
+  "total_categories": 7,
+  "html_file": "tag_group_gender_nonconformity.html"
+}

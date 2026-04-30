@@ -1,0 +1,226 @@
+{
+  "group_name": "hair_color",
+  "display_name": "Tag group:hair color",
+  "source_url": "/wiki_pages/tag_group%3Ahair_color",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_color",
+  "categories": [
+    {
+      "h4": "Specific colors",
+      "h5": null,
+      "path": "Specific colors",
+      "tag_count": 12
+    },
+    {
+      "h4": "Multiple colors",
+      "h5": null,
+      "path": "Multiple colors",
+      "tag_count": 13
+    },
+    {
+      "h4": "Misc",
+      "h5": null,
+      "path": "Misc",
+      "tag_count": 2
+    },
+    {
+      "h4": "Related tag groups",
+      "h5": null,
+      "path": "Related tag groups",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "aqua hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "black hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "blonde hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blonde_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "blue hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "brown hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "green hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "grey hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "orange hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "pink hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "purple hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "red hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "white hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_hair",
+      "category_path": "Specific colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolored hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "colored inner hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colored_inner_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "colored tips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colored_tips",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "roots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/roots_%28hair%29",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "gradient hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "patterned hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/patterned_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "rainbow hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rainbow_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "split-color hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/split-color_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "spotted hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spotted_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "streaked hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/streaked_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "striped hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "raccoon tails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raccoon_tails_%28hairstyle%29",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "two-tone hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_hair",
+      "category_path": "Multiple colors",
+      "wiki_exists": true
+    },
+    {
+      "name": "alternate hair color",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alternate_hair_color",
+      "category_path": "Misc",
+      "wiki_exists": true
+    },
+    {
+      "name": "see-through hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_hair",
+      "category_path": "Misc",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 27,
+  "total_categories": 4,
+  "html_file": "tag_group_hair_color.html"
+}

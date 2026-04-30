@@ -1,0 +1,554 @@
+{
+  "group_name": "prints",
+  "display_name": "Tag group:prints",
+  "source_url": "/wiki_pages/tag_group%3Aprints",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aprints",
+  "categories": [
+    {
+      "h4": "Patterns",
+      "h5": null,
+      "path": "Patterns",
+      "tag_count": 21
+    },
+    {
+      "h4": "Specific prints",
+      "h5": null,
+      "path": "Specific prints",
+      "tag_count": 23
+    },
+    {
+      "h4": "Patterned things",
+      "h5": null,
+      "path": "Patterned things",
+      "tag_count": 4
+    },
+    {
+      "h4": "Print items",
+      "h5": null,
+      "path": "Print items",
+      "tag_count": 25
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "Argyle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/argyle",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Asa No Ha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asa_no_ha_%28pattern%29",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Camouflage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camouflage",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Checkered",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Honeycomb",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honeycomb_%28pattern%29",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Houndstooth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/houndstooth",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pinstripe pattern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pinstripe_pattern",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plaid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gingham",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gingham",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Polka dot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sayagata",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sayagata",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Seigaiha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seigaiha",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Striped",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Diagonal stripes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diagonal_stripes",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Vertical stripes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vertical_stripes",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Colored stripes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colored_stripes",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Multicolored stripes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_stripes",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tiger stripes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiger_stripes",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Double vertical stripe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double_vertical_stripe",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Invasion stripes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/invasion_stripes",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yagasuri",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yagasuri",
+      "category_path": "Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Animal print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bat print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bat_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bear print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bear_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bird print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bird_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cow print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cow_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Leopard print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leopard_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tiger print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiger_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Snake print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snake_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Zebra print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zebra_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fireworks print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fireworks_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flag print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flag_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Floral print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floral_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cherry blossom print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cherry_blossom_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Game controller print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/game_controller_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grid print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grid_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Moon print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moon_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crescent print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crescent_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Handprint",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/handprint",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Leaf print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaf_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Musical note print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/musical_note_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Piano print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/piano_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "Watermelon print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/watermelon_print",
+      "category_path": "Specific prints",
+      "wiki_exists": true
+    },
+    {
+      "name": "patterned hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/patterned_hair",
+      "category_path": "Patterned things",
+      "wiki_exists": true
+    },
+    {
+      "name": "patterned clothing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/patterned_clothing",
+      "category_path": "Patterned things",
+      "wiki_exists": true
+    },
+    {
+      "name": "patterned",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/patterned",
+      "category_path": "Patterned things",
+      "wiki_exists": true
+    },
+    {
+      "name": "patterned background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/patterned_background",
+      "category_path": "Patterned things",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_ascot",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print boots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_boots",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print bow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_bow",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_bowtie",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print eyepatch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_eyepatch",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print gloves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_gloves",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print hakama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_hakama",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_headwear",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print kimono",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_kimono",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print leggings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_leggings",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_necktie",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_neckerchief",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_panties",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_pantyhose",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_ribbon",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print sandals",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_sandals",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_shirt",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print shoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_shoes",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_shorts",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print slippers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_slippers",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_socks",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_swimsuit",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_bikini",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_thighhighs",
+      "category_path": "Print items",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print umbrella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_umbrella",
+      "category_path": "Print items",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 73,
+  "total_categories": 5,
+  "html_file": "tag_group_prints.html"
+}

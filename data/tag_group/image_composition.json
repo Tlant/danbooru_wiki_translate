@@ -1,0 +1,2401 @@
+{
+  "group_name": "image_composition",
+  "display_name": "Tag group:image composition",
+  "source_url": "/wiki_pages/tag_group%3Aimage_composition",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aimage_composition",
+  "categories": [
+    {
+      "h4": "View Angle",
+      "h5": null,
+      "path": "View Angle",
+      "tag_count": 10
+    },
+    {
+      "h4": "Perspective/Depth",
+      "h5": null,
+      "path": "Perspective/Depth",
+      "tag_count": 6
+    },
+    {
+      "h4": "Composition",
+      "h5": null,
+      "path": "Composition",
+      "tag_count": 45
+    },
+    {
+      "h4": "Format",
+      "h5": null,
+      "path": "Format",
+      "tag_count": 92
+    },
+    {
+      "h4": "Subject matter",
+      "h5": "Framing the body",
+      "path": "Subject matter/Framing the body",
+      "tag_count": 23
+    },
+    {
+      "h4": "Styles",
+      "h5": "Other",
+      "path": "Styles/Other",
+      "tag_count": 3
+    },
+    {
+      "h4": "Techniques",
+      "h5": null,
+      "path": "Techniques",
+      "tag_count": 54
+    },
+    {
+      "h4": "Traditional Japanese Patterns",
+      "h5": null,
+      "path": "Traditional Japanese Patterns",
+      "tag_count": 21
+    },
+    {
+      "h4": "Other Patterns",
+      "h5": null,
+      "path": "Other Patterns",
+      "tag_count": 21
+    },
+    {
+      "h4": "Flaws",
+      "h5": null,
+      "path": "Flaws",
+      "tag_count": 54
+    },
+    {
+      "h4": "Background/Color",
+      "h5": null,
+      "path": "Background/Color",
+      "tag_count": 0
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 1
+    },
+    {
+      "h4": "External links",
+      "h5": null,
+      "path": "External links",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "Dutch angle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dutch_angle",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "From above",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/from_above",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "From behind",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/from_behind",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "From below",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/from_below",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "From side",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/from_side",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "High up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_up",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "Multiple views",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_views",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sideways",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sideways",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "Straight-on",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/straight-on",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "Upside-down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/upside-down",
+      "category_path": "View Angle",
+      "wiki_exists": true
+    },
+    {
+      "name": "Atmospheric perspective",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/atmospheric_perspective",
+      "category_path": "Perspective/Depth",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fisheye",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fisheye",
+      "category_path": "Perspective/Depth",
+      "wiki_exists": true
+    },
+    {
+      "name": "Panorama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/panorama",
+      "category_path": "Perspective/Depth",
+      "wiki_exists": true
+    },
+    {
+      "name": "Perspective",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/perspective",
+      "category_path": "Perspective/Depth",
+      "wiki_exists": true
+    },
+    {
+      "name": "Vanishing point",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vanishing_point",
+      "category_path": "Perspective/Depth",
+      "wiki_exists": true
+    },
+    {
+      "name": "Variations",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/variations",
+      "category_path": "Perspective/Depth",
+      "wiki_exists": true
+    },
+    {
+      "name": "Afterimage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/afterimage",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Border",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/border",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fading border",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fading_border",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Inset border",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/inset_border",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ornate border",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ornate_border",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Outside border",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/outside_border",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rounded corners",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rounded_corners",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Viewfinder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/viewfinder",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chart",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bust chart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bust_chart",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Character chart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/character_chart",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Reference sheet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/reference_sheet",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Diagram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diagram",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Move chart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/move_chart",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Relationship graph",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/relationship_graph",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Seating chart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seating_chart",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stats",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stats",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collage",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Column lineup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/column_lineup",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Diorama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diorama",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Faux figurine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/faux_figurine",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "From outside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/from_outside",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Glitch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glitch",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Isometric",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/isometric",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Letterboxed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/letterboxed",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pillarboxed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pillarboxed",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lineup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lineup",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mosaic art",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mosaic_art",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Photomosaic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/photomosaic",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Negative space",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/negative_space",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Omake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/omake",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Out of frame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/out_of_frame",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fake scrollbar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fake_scrollbar",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Out-of-frame censoring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/out-of-frame_censoring",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Outside border",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/outside_border",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Partially underwater shot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/partially_underwater_shot",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "POV",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pov",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Social media composition",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/social_media_composition",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Symmetry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/symmetry",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Polar opposites",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polar_opposites",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rotational symmetry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rotational_symmetry",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tachi-e",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tachi-e",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Trim marks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trim_marks",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Zoom layer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zoom_layer",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "Projected inset",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/projected_inset",
+      "category_path": "Composition",
+      "wiki_exists": true
+    },
+    {
+      "name": "3D",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/3d",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Animated",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/animated",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Animated GIF",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/animated_gif",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "EasyToon",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/easytoon_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "FlipaClip",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/flipaclip_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Non-repeating animation",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/non-repeating_animation",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Animated PNG",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/animated_png",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flash",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/flash",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Live2D",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/live2d",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spine (medium)",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/spine_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Video",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/video",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Music video",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/music_video",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Looping animation",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/looping_animation",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Roulette animation",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/roulette_animation",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anime screenshot",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/anime_screenshot",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Artbook",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/artbook",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Calendar (medium)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/calendar_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Card (medium)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/card_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Comic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/comic",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "1koma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/1koma",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "2koma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/2koma",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "3koma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/3koma",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "4koma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/4koma",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Multiple 4koma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_4koma",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "5koma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/5koma",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Borderless panels",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/borderless_panels",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "comic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/comic",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Left-to-right manga",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/left-to-right_manga",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Right-to-left comic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/right-to-left_comic",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Silent comic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/silent_comic",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Corrupted file",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/corrupted_file",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Corrupted Twitter file",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/corrupted_twitter_file",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cover",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Album cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/album_cover",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Character single",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/character_single",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cover page",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cover_page",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Doujin cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doujin_cover",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "DVD cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dvd_cover",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fake cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fake_cover",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Magazine cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/magazine_cover",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Manga cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/manga_cover",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Video game cover",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/video_game_cover",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fake screenshot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fake_screenshot",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fake phone screenshot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fake_phone_screenshot",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Game CG",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/game_cg",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Game screenshot",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/game_screenshot",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gyotaku (medium)",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/gyotaku_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hidden file",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/hidden_file",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Highres",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/highres",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Absurdres",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/absurdres",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Incredibly absurdres",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/incredibly_absurdres",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lowres",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/lowres",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Icon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/icon_%28computing%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Logo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/logo",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kirigami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kirigami",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lineart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lineart",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "No lineart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_lineart",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Outline",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/outline",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mosaic art",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mosaic_art",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Photomosaic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/photomosaic",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oekaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oekaki",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Official art",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/official_art",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Phonecard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/phonecard_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Photo",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/photo_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Papercraft",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/papercraft",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Paper child",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paper_child",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Paper cutout",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paper_cutout",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pixel art",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pixel_art",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Postcard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/postcard",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Poster",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/poster_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Revision",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/revision",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Has bad revision",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/has_bad_revision",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Has adversarial noise revision",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/has_adversarial_noise_revision",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Has artifacted revision",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/has_artifacted_revision",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Has censored revision",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/has_censored_revision",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Has cropped revision",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/has_cropped_revision",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Has downscaled revision",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/has_downscaled_revision",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Has lossy revision",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/has_lossy_revision",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Has watermarked revision",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/has_watermarked_revision",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scan",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/scan",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shitajiki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shitajiki_%28medium%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tall image",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/tall_image",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tegaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tegaki",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Transparent background",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/transparent_background",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Triptych (art)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triptych_%28art%29",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Thumbnail collage",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/thumbnail_collage",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Vector trace",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/vector_trace",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Official wallpaper",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/official_wallpaper",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tileable",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tileable",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wallpaper forced",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/wallpaper_forced",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Widescreen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/widescreen",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wide image",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/wide_image",
+      "category_path": "Format",
+      "wiki_exists": true
+    },
+    {
+      "name": "Portrait",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/portrait",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Upper body",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/upper_body",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cowboy shot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cowboy_shot",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Feet out of frame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feet_out_of_frame",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Full body",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/full_body",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wide shot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wide_shot",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Very wide shot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/very_wide_shot",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lower body",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lower_body",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Head out of frame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/head_out_of_frame",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eyes out of frame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyes_out_of_frame",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Arm out of frame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_out_of_frame",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": false
+    },
+    {
+      "name": "Foot out of frame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/foot_out_of_frame",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Knees out of frame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knees_out_of_frame",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Close-up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/close-up",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cropped legs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cropped_legs",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cropped torso",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cropped_torso",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cropped arms",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cropped_arms",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cropped shoulders",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cropped_shoulders",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cropped head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cropped_head",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cut-in",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cut-in",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Profile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/profile",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Group profile",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/group_profile",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Split crop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/split_crop",
+      "category_path": "Subject matter/Framing the body",
+      "wiki_exists": true
+    },
+    {
+      "name": "Style parody",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/style_parody",
+      "category_path": "Styles/Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "List of Style Parodies",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/list_of_style_parodies",
+      "category_path": "Styles/Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "Unfinished",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/unfinished",
+      "category_path": "Styles/Other",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blending",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blending",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bloom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bloom",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bokeh",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bokeh",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Caustics",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caustics",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chiaroscuro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chiaroscuro",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chromatic aberration",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chromatic_aberration",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heavy chromatic aberration",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heavy_chromatic_aberration",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Diffraction spikes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diffraction_spikes",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Depth of field",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/depth_of_field",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Distortion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/distortion",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dithering",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dithering",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Double exposure",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double_exposure",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Drop shadow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drop_shadow",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Emphasis lines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/emphasis_lines",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Film grain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/film_grain",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Foreshortening",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/foreshortening",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Glitch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glitch",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gradient",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Halftone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/halftone",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ben-day dots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ben-day_dots",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hatching (texture)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hatching_%28texture%29",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Linear hatching",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/linear_hatching",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crosshatching",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crosshatching",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Woven hatching",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/woven_hatching",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "High contrast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_contrast",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hue shifting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hue_shifting",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "intentional JPEG artifacts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/intentional_jpeg_artifacts",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lens flare",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lens_flare",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heavy lens flare",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heavy_lens_flare",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Backlighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backlighting",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Overlighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/overlighting",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sidelighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sidelighting",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Underlighting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underlighting",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Motion blur",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/motion_blur",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Motion lines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/motion_lines",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Multiple monochrome",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_monochrome",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Optical illusion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/optical_illusion",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anaglyph",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anaglyph",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "EXIF thumbnail surprise",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/exif_thumbnail_surprise",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Open in Internet Explorer",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/open_in_internet_explorer",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Open in Winamp",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/open_in_winamp",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stereogram",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stereogram",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Overexposure",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/overexposure",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pointillism",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pointillism",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scanlines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scanlines",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Screentones",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/screentones",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ben-day dots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ben-day_dots",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Silhouette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/silhouette",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Speed lines",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/speed_lines",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stippling (texture)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stippling_%28texture%29",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Subsurface scattering",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/subsurface_scattering",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Thumbnail surprise",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/thumbnail_surprise",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "EXIF thumbnail surprise",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/exif_thumbnail_surprise",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Vignetting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vignetting",
+      "category_path": "Techniques",
+      "wiki_exists": true
+    },
+    {
+      "name": "Asa no ha (pattern)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asa_no_ha_%28pattern%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Egasumi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/egasumi",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Genjiguruma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/genjiguruma",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Goshoguruma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/goshoguruma",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Igeta (pattern)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/igeta_%28pattern%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kagome (pattern)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kagome_%28pattern%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kanoko (pattern)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kanoko_%28pattern%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Karakusa (pattern)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/karakusa_%28pattern%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kikumon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kikumon",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kikkoumon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kikkoumon",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kojitsunagi (pattern)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kojitsunagi_%28pattern%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Matsu symbol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/matsu_symbol",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sakuramon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sakuramon",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sayagata",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sayagata",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Seigaiha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seigaiha",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shima (pattern)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shima_%28pattern%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shippou (pattern)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shippou_%28pattern%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Uchiwa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uchiwa_%28medium%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Uroko (pattern)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uroko_%28pattern%29",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tatewaku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tatewaku",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yagasuri",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yagasuri",
+      "category_path": "Traditional Japanese Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Animal print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_print",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cow print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cow_print",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Leopard print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leopard_print",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shark print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shark_print",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tiger print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiger_print",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Zebra print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zebra_print",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Argyle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/argyle",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Checkered",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cross print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_print",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Double Happiness",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double_happiness",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fleur-de-lis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fleur-de-lis",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Floral print",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floral_print",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flower of Life",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_of_life_%28pattern%29",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gingham",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gingham",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Houndstooth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/houndstooth",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Meandros",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/meandros",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Paisley",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/paisley",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plaid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Polka dot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Striped",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Xiangyun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/xiangyun",
+      "category_path": "Other Patterns",
+      "wiki_exists": true
+    },
+    {
+      "name": "Adversarial noise",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/adversarial_noise",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Aliasing",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/aliasing",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "GIF artifacts",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/gif_artifacts",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "JPEG artifacts",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/jpeg_artifacts",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scan artifacts",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/scan_artifacts",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bleed through",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/bleed_through",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crease",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/crease",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "VHS artifacts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vhs_artifacts",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Artistic error",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/artistic_error",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bad reflection",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bad_reflection",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Extra digits",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/extra_digits",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Typo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/typo",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bad aspect ratio",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/bad_aspect_ratio",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blurry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blurry",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Censored",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/censored",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Uncensored",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uncensored",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Decensored",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/decensored",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Derivative work",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/derivative_work",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Photo-referenced",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/photo-referenced",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Reference photo",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/reference_photo",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Reference work",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/reference_work",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Screenshot redraw",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/screenshot_redraw",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Duplicate",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/duplicate",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pixel-perfect duplicate",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/pixel-perfect_duplicate",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Image macro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/image_macro_%28meme%29",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lossless-lossy",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/lossless-lossy",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lossy-lossless",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/lossy-lossless",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "MD5 mismatch",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/md5_mismatch",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Missing thumbnail",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/missing_thumbnail",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Moire",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/moire",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anatomical nonsense",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anatomical_nonsense",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bad anatomy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bad_anatomy",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bad feet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bad_feet",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bad hands",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bad_hands",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bad proportions",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bad_proportions",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Quality",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quality",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ranguage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ranguage",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Resized",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/resized",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Downscaled",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/downscaled",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Image sample",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/image_sample",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Upscaled",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/upscaled",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Waifu2x",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/waifu2x",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Reversed",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/reversed",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rotated",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/rotated",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Solid color thumbnail",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/solid_color_thumbnail",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Third-party edit",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/third-party_edit",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Detexted",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/detexted",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hard-translated",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/hard-translated",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nude filter",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/nude_filter",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Third-party extraction",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/third-party_extraction",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Unmoving pattern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unmoving_pattern",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Watermark",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/watermark",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Third-party watermark",
+      "tag_type": 5,
+      "wiki_url": "/wiki_pages/third-party_watermark",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Web address",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/web_address",
+      "category_path": "Flaws",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bromide",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bromide",
+      "category_path": "See also",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 330,
+  "total_categories": 13,
+  "html_file": "tag_group_image_composition.html"
+}

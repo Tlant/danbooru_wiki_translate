@@ -1,0 +1,710 @@
+{
+  "group_name": "legwear",
+  "display_name": "Tag group:legwear",
+  "source_url": "/wiki_pages/tag_group%3Alegwear",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alegwear",
+  "categories": [
+    {
+      "h4": "Main tags / Legwear by height",
+      "h5": null,
+      "path": "Main tags / Legwear by height",
+      "tag_count": 8
+    },
+    {
+      "h4": "Additional Detail tags",
+      "h5": null,
+      "path": "Additional Detail tags",
+      "tag_count": 88
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/socks",
+      "category_path": "Main tags / Legwear by height",
+      "wiki_exists": true
+    },
+    {
+      "name": "kneehighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kneehighs",
+      "category_path": "Main tags / Legwear by height",
+      "wiki_exists": true
+    },
+    {
+      "name": "over-kneehighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/over-kneehighs",
+      "category_path": "Main tags / Legwear by height",
+      "wiki_exists": true
+    },
+    {
+      "name": "thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thighhighs",
+      "category_path": "Main tags / Legwear by height",
+      "wiki_exists": true
+    },
+    {
+      "name": "hiphighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hiphighs",
+      "category_path": "Main tags / Legwear by height",
+      "wiki_exists": true
+    },
+    {
+      "name": "pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pantyhose",
+      "category_path": "Main tags / Legwear by height",
+      "wiki_exists": true
+    },
+    {
+      "name": "leggings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leggings",
+      "category_path": "Main tags / Legwear by height",
+      "wiki_exists": true
+    },
+    {
+      "name": "detached leggings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/detached_leggings",
+      "category_path": "Main tags / Legwear by height",
+      "wiki_exists": true
+    },
+    {
+      "name": "gradient legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolored leggings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_leggings",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolored leg warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_leg_warmers",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolored pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_pantyhose",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolored socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_socks",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolored thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_thighhighs",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "two-tone legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "american flag legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/american_flag_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "camouflage legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camouflage_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "checkered legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "diagonal-striped legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diagonal-striped_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "gingham legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gingham_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "polka dot leggings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_leggings",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "polka dot pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_pantyhose",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "polka dot socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_socks",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "polka dot thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_thighhighs",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "rainbow legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rainbow_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal ear legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_ear_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "bat legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bat_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "bear band legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bear_band_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "rabbit ear legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_ear_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "cat ear legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_ear_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "horn band legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/horn_band_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "aran legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aran_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "armored legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armored_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "bow legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "cross-laced legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross-laced_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "fishnet leggings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fishnet_leggings",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "fishnet pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fishnet_pantyhose",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "fishnet socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fishnet_socks",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "fishnet thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fishnet_thighhighs",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "fluffy legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fluffy_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "knit leg warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knit_leg_warmers",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "knit socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knit_socks",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "knit thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knit_thighhighs",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "knit pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knit_pantyhose",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "lace pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace_pantyhose",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace_socks",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace_thighhighs",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace-up legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-up_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace-trimmed leggings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_leggings",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace-trimmed leg warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_leg_warmers",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace-trimmed pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_pantyhose",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace-trimmed socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_socks",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "lace-trimmed thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_thighhighs",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "latex legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/latex_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "legwear bell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/legwear_bell",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "o-ring legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/o-ring_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "ribbed leg warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbed_leg_warmers",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "ribbed pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbed_pantyhose",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "ribbed socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbed_socks",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "ribbed thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbed_thighhighs",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "seamed legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seamed_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "back-seamed legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/back-seamed_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "front-seamed legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/front-seamed_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "side-seamed legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side-seamed_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "see-through legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "shiny legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shiny_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "side-tie legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side-tie_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "spiked legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiked_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "studded legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/studded_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "toeless legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toeless_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "bridal legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bridal_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "stirrup legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stirrup_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "zipper legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zipper_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "fur-trimmed legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur-trimmed_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "ribbon-trimmed legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbon-trimmed_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "adjusting legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "pulling off legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pulling_off_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "putting on legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/putting_on_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "removing pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/removing_pantyhose",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "removing sock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/removing_sock",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "removing thighhigh",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/removing_thighhigh",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "alternate legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alternate_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "uneven legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uneven_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "dirty legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dirty_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "in legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/in_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "layered legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/layered_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "unworn legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "pantyhose under shorts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pantyhose_under_shorts",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "mismatched legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mismatched_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "missing legwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/missing_legwear",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "torn leggings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_leggings",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "torn leg warmers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_leg_warmers",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "torn pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_pantyhose",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "torn socks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_socks",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "torn thighhighs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_thighhighs",
+      "category_path": "Additional Detail tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "thighband pantyhose",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thighband_pantyhose",
+      "category_path": "See also",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 97,
+  "total_categories": 3,
+  "html_file": "tag_group_legwear.html"
+}

@@ -1,0 +1,404 @@
+{
+  "group_name": "fine_art_parody",
+  "display_name": "Tag group:fine art parody",
+  "source_url": "/wiki_pages/tag_group%3Afine_art_parody",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afine_art_parody",
+  "categories": [
+    {
+      "h4": "Works",
+      "h5": null,
+      "path": "Works",
+      "tag_count": 55
+    }
+  ],
+  "tags": [
+    {
+      "name": "The Fallen Angel",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_fallen_angel_%28painting%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Salome with the Head of Saint John the Baptist",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/salome_with_the_head_of_saint_john_the_baptist",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Noli me Tangere",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/noli_me_tangere",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Self-Portrait with Death Playing the Fiddle",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/self-portrait_with_death_playing_the_fiddle",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "David with the Head of Goliath",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/david_with_the_head_of_goliath",
+      "category_path": "Works",
+      "wiki_exists": false
+    },
+    {
+      "name": "Woman with a Parasol",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/woman_with_a_parasol",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Olympia",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/olympia_%28manet%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Fifer",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_fifer",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Scream",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_scream",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Liberty Leading the People",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/liberty_leading_the_people",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "La Maja Desnuda",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/la_maja_desnuda",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "La Maja Vestida",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/la_maja_vestida",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Saturn Devouring His Son",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/saturn_devouring_his_son",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Witches' Sabbath",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/witches%27_sabbath_%28francisco_goya%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Kiss",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_kiss",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kanagawa Okinami Ura",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/kanagawa_okinami_ura",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gaifu Kaisei",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/gaifu_kaisei",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Napoleon Crossing the Alps",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/napoleon_crossing_the_alps",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Arrow Shirt Collar Ad",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/arrow_shirt_collar_ad_%281916%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Couple Descending Staircase",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/couple_descending_staircase_%28leyendecker%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Man and Woman Dancing",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/man_and_woman_dancing_%28leyendecker%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Men Reading",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/men_reading_%28leyendecker%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soldier at Home",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/soldier_at_home_%28leyendecker%29",
+      "category_path": "Works",
+      "wiki_exists": false
+    },
+    {
+      "name": "Romeo and Juliet",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/romeo_and_juliet_%28leyendecker%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Donchester",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_donchester_%28leyendecker%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Swing",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_swing",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Girl with a Pearl Earring",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/girl_with_a_pearl_earring",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Milkmaid",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_milkmaid",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ophelia",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/ophelia_%28painting%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Portrait of Madame X",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/portrait_of_madame_x",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Le Songe de Jacob",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/le_songe_de_jacob",
+      "category_path": "Works",
+      "wiki_exists": false
+    },
+    {
+      "name": "Lady with an Ermine",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/lady_with_an_ermine",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mona lisa",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mona_lisa",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Last Supper",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_last_supper",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pieta",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pieta",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Creation of Adam",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_creation_of_adam",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Triple Self-portrait",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/triple_self-portrait_%28norman_rockwell%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Freedom of Speech",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/freedom_of_speech",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jeune Fille Devant Un Miroir",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/jeune_fille_devant_un_miroir_%28picasso%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Springtime",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/springtime_%28pierre_auguste_cot%29",
+      "category_path": "Works",
+      "wiki_exists": false
+    },
+    {
+      "name": "Memories from Hampton",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/memories_from_hampton_%28olbinski%29",
+      "category_path": "Works",
+      "wiki_exists": false
+    },
+    {
+      "name": "La Trahison Des Images",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/la_trahison_des_images",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Pilgrim",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_pilgrim_%28magritte%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Son of Man",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_son_of_man_%28magritte%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "L'amour de Pierrot",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/l%27amour_de_pierrot",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Persistence of Memory",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_persistence_of_memory",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Birth of Venus",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_birth_of_venus",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Almond Blossoms",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/almond_blossoms_%28van_gogh%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cafe Terrace At Night",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/cafe_terrace_at_night",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Painter on the Road to Tarascon",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/painter_on_the_road_to_tarascon_%28van_gogh%29",
+      "category_path": "Works",
+      "wiki_exists": false
+    },
+    {
+      "name": "Self-Portrait",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/van_gogh_self-portrait",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Self-Portrait With Bandaged Ear",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/self-portrait_with_bandaged_ear",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Starry Night",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/starry_night_%28van_gogh%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sunflowers",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sunflowers_%28van_gogh%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Bedroom",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_bedroom_%28van_gogh%29",
+      "category_path": "Works",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 55,
+  "total_categories": 1,
+  "html_file": "tag_group_fine_art_parody.html"
+}

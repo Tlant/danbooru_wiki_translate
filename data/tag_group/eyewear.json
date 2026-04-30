@@ -1,0 +1,694 @@
+{
+  "group_name": "eyewear",
+  "display_name": "Tag group:eyewear",
+  "source_url": "/wiki_pages/tag_group%3Aeyewear",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyewear",
+  "categories": [
+    {
+      "h4": "Main",
+      "h5": null,
+      "path": "Main",
+      "tag_count": 4
+    },
+    {
+      "h4": "Eyewear",
+      "h5": null,
+      "path": "Eyewear",
+      "tag_count": 65
+    },
+    {
+      "h4": "Glasses",
+      "h5": null,
+      "path": "Glasses",
+      "tag_count": 18
+    },
+    {
+      "h4": "Sunglasses",
+      "h5": null,
+      "path": "Sunglasses",
+      "tag_count": 5
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glasses",
+      "category_path": "Main",
+      "wiki_exists": true
+    },
+    {
+      "name": "goggles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/goggles",
+      "category_path": "Main",
+      "wiki_exists": true
+    },
+    {
+      "name": "monocle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monocle",
+      "category_path": "Main",
+      "wiki_exists": true
+    },
+    {
+      "name": "sunglasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sunglasses",
+      "category_path": "Main",
+      "wiki_exists": true
+    },
+    {
+      "name": "aqua-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "black-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "blue-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "brown-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "green-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "grey-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "orange-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pink-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "purple-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "red-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "white-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "two-tone eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "yellow-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "aqua-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "blue-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "brown-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "gradient-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "green-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "grey-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolor-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolor-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "rainbow-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rainbow-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "orange-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "pink-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "purple-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "red-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "yellow-tinted eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow-tinted_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "animal-themed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal-themed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cat eye-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cat_eye-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "food-themed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food-themed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart-shaped eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart-shaped_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "rectangular eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rectangular_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "rimless eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rimless_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "round eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/round_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "semi-circular eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/semi-circular_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "semi-rimless eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/semi-rimless_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "over-rim eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/over-rim_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "under-rim eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/under-rim_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "teardrop-framed glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/teardrop-framed_glasses",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "triangular eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triangular_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "tortoiseshell-framed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tortoiseshell-framed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "alternate eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alternate_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "adjusting eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "bespectacled",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bespectacled",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "broken eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/broken_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cleaning eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cleaning_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "crooked eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crooked_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "cum on eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cum_on_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyewear on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyewear_on_head",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyewear on headwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyewear_on_headwear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyewear strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyewear_strap",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyewear switch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyewear_switch",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyewear view",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyewear_view",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "fogged glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fogged_glasses",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hand on eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "looking over eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/looking_over_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "no eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "removing eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/removing_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "unworn eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyewear hang",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyewear_hang",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyewear in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyewear_in_mouth",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "holding removed eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_removed_eyewear",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "looking for glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/looking_for_glasses",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "eyewear strap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyewear_strap",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "glasses case",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glasses_case",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "nose pads",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nose_pads",
+      "category_path": "Eyewear",
+      "wiki_exists": true
+    },
+    {
+      "name": "3D glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/3d_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "aviator glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aviator_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "coke-bottle glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coke-bottle_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "diving mask",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diving_mask",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "novelty glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/novelty_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart-shaped eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart-shaped_eyewear",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "star-shaped eyewear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star-shaped_eyewear",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "teardrop-framed glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/teardrop-framed_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "aviator goggles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aviator_goggles",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "groucho glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/groucho_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "lorgnette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lorgnette",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "opaque glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/opaque_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "opera glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/opera_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "pince-nez",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pince-nez",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "safety glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/safety_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "scouter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scouter",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "ski goggles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ski_goggles",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "X-ray glasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/x-ray_glasses",
+      "category_path": "Glasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "aviator sunglasses",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aviator_sunglasses",
+      "category_path": "Sunglasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kamina shades",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kamina_shades",
+      "category_path": "Sunglasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "shutter shades",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shutter_shades",
+      "category_path": "Sunglasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "Simon shades",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/simon_shades",
+      "category_path": "Sunglasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "deal with it (meme)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/deal_with_it_%28meme%29",
+      "category_path": "Sunglasses",
+      "wiki_exists": true
+    },
+    {
+      "name": "contact lens",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/contact_lens",
+      "category_path": "See also",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 93,
+  "total_categories": 5,
+  "html_file": "tag_group_eyewear.html"
+}

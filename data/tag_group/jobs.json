@@ -1,0 +1,530 @@
+{
+  "group_name": "jobs",
+  "display_name": "Tag group:jobs",
+  "source_url": "/wiki_pages/tag_group%3Ajobs",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ajobs",
+  "categories": [
+    {
+      "h4": "Jobs",
+      "h5": null,
+      "path": "Jobs",
+      "tag_count": 73
+    }
+  ],
+  "tags": [
+    {
+      "name": "actor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/actor",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "actress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/actress",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "alchemist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alchemist",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "artist painter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/artist_painter",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "astronaut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/astronaut",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "bartender",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bartender",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "bodyguard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bodyguard",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "burglar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/burglar",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "butler",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butler",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "cashier",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cashier",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "chauffeur",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chauffeur",
+      "category_path": "Jobs",
+      "wiki_exists": false
+    },
+    {
+      "name": "chef",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chef",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "chemist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chemist",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "conductor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/conductor",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "construction worker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/construction_worker",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "croupier",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/croupier",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "cyclist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cyclist",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "dentist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dentist",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "dj",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dj",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "doctor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doctor",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "dominatrix",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dominatrix",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "engineer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/engineer",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "farmer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/farmer",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "firefighter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/firefighter",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "flight attendant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flight_attendant",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "florist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/florist",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "geisha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/geisha",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "guard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guard",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "hacker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hacker",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "hikikomori",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hikikomori",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "idol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/idol",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "janitor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/janitor",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "judge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/judge",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "librarian",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/librarian",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "lifeguard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lifeguard",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "lumberjack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lumberjack",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "maid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maid",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "mechanic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mechanic",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "merchant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/merchant",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "miko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miko",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "miner",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miner",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "monk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monk",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "ninja",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ninja",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "nun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nun",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "nurse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nurse",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "school nurse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/school_nurse",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "office lady",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/office_lady",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "pilot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pilot",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "police",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/police",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "politician",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/politician",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "priest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/priest",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "prisoner",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prisoner",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "prostitution",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/prostitution",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "sailor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "salaryman",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/salaryman",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "samurai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/samurai",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "scientist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scientist",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "shepherd",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shepherd",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "slave",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slave",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "soldier",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soldier",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "standard-bearer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/standard_bearer",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "spy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spy",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "stripper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stripper",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "teacher",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/teacher",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "terrorist",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/terrorist",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "trucker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trucker",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "train attendant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/train_attendant",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "train conductor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/train_conductor",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "waiter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waiter",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "waitress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waitress",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "warrior",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/warrior",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "wizard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wizard",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    },
+    {
+      "name": "witch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/witch",
+      "category_path": "Jobs",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 73,
+  "total_categories": 1,
+  "html_file": "tag_group_jobs.html"
+}

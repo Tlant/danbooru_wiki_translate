@@ -1,0 +1,2387 @@
+{
+  "group_name": "neck_and_neckwear",
+  "display_name": "Tag group:neck and neckwear",
+  "source_url": "/wiki_pages/tag_group%3Aneck_and_neckwear",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aneck_and_neckwear",
+  "categories": [
+    {
+      "h4": "Anatomy of the neck",
+      "h5": null,
+      "path": "Anatomy of the neck",
+      "tag_count": 4
+    },
+    {
+      "h4": "Actions / Posture",
+      "h5": null,
+      "path": "Actions / Posture",
+      "tag_count": 9
+    },
+    {
+      "h4": "Detached Neckwear",
+      "h5": null,
+      "path": "Detached Neckwear",
+      "tag_count": 78
+    },
+    {
+      "h4": "Collared clothes",
+      "h5": null,
+      "path": "Collared clothes",
+      "tag_count": 27
+    },
+    {
+      "h4": "Neckwear actions",
+      "h5": null,
+      "path": "Neckwear actions",
+      "tag_count": 33
+    },
+    {
+      "h4": "Neckwear types",
+      "h5": null,
+      "path": "Neckwear types",
+      "tag_count": 183
+    }
+  ],
+  "tags": [
+    {
+      "name": "Collarbone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collarbone",
+      "category_path": "Anatomy of the neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nape",
+      "category_path": "Anatomy of the neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck",
+      "category_path": "Anatomy of the neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "Long neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_neck",
+      "category_path": "Anatomy of the neck",
+      "wiki_exists": true
+    },
+    {
+      "name": "Arm around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arm_around_neck",
+      "category_path": "Actions / Posture",
+      "wiki_exists": true
+    },
+    {
+      "name": "Arms around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arms_around_neck",
+      "category_path": "Actions / Posture",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hand on another's neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_another%27s_neck",
+      "category_path": "Actions / Posture",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hands on another's neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hands_on_another%27s_neck",
+      "category_path": "Actions / Posture",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strangling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strangling",
+      "category_path": "Actions / Posture",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hand on own neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hand_on_own_neck",
+      "category_path": "Actions / Posture",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hands on own neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hands_on_own_neck",
+      "category_path": "Actions / Posture",
+      "wiki_exists": true
+    },
+    {
+      "name": "Biting neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/biting_neck",
+      "category_path": "Actions / Posture",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kissing neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kissing_neck",
+      "category_path": "Actions / Posture",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chokers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choker",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collars",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choker",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Animal collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Belt collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/belt_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Frilled collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fur collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fur-trimmed collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur-trimmed_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heart collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lace-trimmed collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Metal collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/metal_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "O-ring choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/o-ring_choker",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "O-ring collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/o-ring_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Padlocked collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/padlocked_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pendant choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pendant_choker",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spiked collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiked_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Studded collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/studded_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ribbon choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbon_choker",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bandana around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandana_around_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neck warmer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_warmer",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neck ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ring",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neck ruff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ruff",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scarf",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pet cone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pet_cone",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Contrast collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/contrast_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Open collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Detached collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/detached_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rounded collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rounded_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Round collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/round_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turtleneck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turtleneck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crew neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crew_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "V-neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/v-neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scoop neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scoop_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Square neckline",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/square_neckline",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Low neckline",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/low_neckline",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plunging neckline",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plunging_neckline",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mandarin collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mandarin_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "High collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mystical high collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mystical_high_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Medici collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/medici_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Popped collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/popped_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wing collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wing_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wingtip collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wingtip_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bib collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bib_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Guimpe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guimpe",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Puritan collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/puritan_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Peter pan collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peter_pan_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sailor collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "sailor shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor_shirt",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "serafuku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/serafuku",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neck bell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_bell",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "jingle bell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jingle_bell",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neck ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ribbon",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neck tassel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_tassel",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necklace",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ascot",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bolo tie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bolo_tie",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bowtie",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cross tie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_tie",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neckerchief",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necktie",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Feather boa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feather_boa",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stole",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stole",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Usekh collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/usekh_collar",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Capelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/capelet",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cloak",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cloak",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "hood down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hood_down",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shrug (clothing)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shrug_%28clothing%29",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Animal around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/animal_around_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bandana around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandana_around_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eyewear around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eyewear_around_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Goggles around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/goggles_around_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gorget",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gorget",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Headphones around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/headphones_around_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lanyard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lanyard",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mask around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mask_around_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Towel around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/towel_around_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Whistle around neck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whistle_around_neck",
+      "category_path": "Detached Neckwear",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared blouse",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_blouse",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared cape",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_cape",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared capelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_capelet",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared coat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_coat",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared crop top",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_crop_top",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_dress",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared leotard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_leotard",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_shirt",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared shrug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_shrug",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collared vest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_vest",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Halterneck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/halterneck",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Halter dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/halter_dress",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Halter leotard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/halter_leotard",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Halter shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/halter_shirt",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Criss-cross halter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/criss-cross_halter",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sailor collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor_collar",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sailor bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor_bikini",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sailor dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor_dress",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sailor shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor_shirt",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Serafuku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/serafuku",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turtleneck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turtleneck",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sleeveless turtleneck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_turtleneck",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turtleneck bodysuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turtleneck_bodysuit",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turtleneck dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turtleneck_dress",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turtleneck jacket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turtleneck_jacket",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turtleneck one-piece swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turtleneck_one-piece_swimsuit",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turtleneck shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turtleneck_shirt",
+      "category_path": "Collared clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Adjusting collar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_collar",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Adjusting neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_neckerchief",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Adjusting necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_necklace",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Adjusting neck ribbon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_neck_ribbon",
+      "category_path": "Neckwear actions",
+      "wiki_exists": false
+    },
+    {
+      "name": "Adjusting necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_necktie",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Adjusting scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/adjusting_scarf",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Necktie between breasts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necktie_between_breasts",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neckwear grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neckwear_grab",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collar grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar_grab",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neckerchief grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neckerchief_grab",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neck ribbon grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neck_ribbon_grab",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Necktie grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necktie_grab",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scarf grab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scarf_grab",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Unworn choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_choker",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Unworn neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_neckerchief",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Unworn necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_necklace",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Unworn necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_necktie",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Unworn scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unworn_scarf",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "No neckwear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_neckwear",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "No choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_choker",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "No necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_necklace",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "No necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_necktie",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "No scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/no_scarf",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Necktie on head",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necktie_on_head",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bandana over mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bandana_over_mouth",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Clothes gag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clothes_gag",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scarf over mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scarf_over_mouth",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shared scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shared_scarf",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Collar tug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collar_tug",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Loose bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loose_bowtie",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Loose necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loose_necktie",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Undone ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/undone_ascot",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Undone neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/undone_neckerchief",
+      "category_path": "Neckwear actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ascots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Checkered ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gingham ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gingham_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lace-trimmed ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plaid ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Striped ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Torn ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gradient ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Multicolored ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Two-tone ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Aqua ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blue ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Brown ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grey ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pink ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "White ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yellow ascot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_ascot",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bowties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Traditional bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/traditional_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Huge bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/huge_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Argyle bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/argyle_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Checkered bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plaid bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Polka dot bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Striped bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gradient bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Multicolored bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Two-tone bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Aqua bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blue bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Brown bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grey bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pink bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "White bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yellow bowtie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_bowtie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chokers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anchor choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anchor_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bead choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bead_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bell choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bell_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bow choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crescent choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crescent_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cross choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flower choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Frilled choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fur choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fur-trimmed choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur-trimmed_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gold choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gold_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heart choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Key choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/key_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lace choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lace-trimmed choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "O-ring choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/o-ring_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heart ring choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_ring_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pendant choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pendant_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rabbit choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ribbon choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbon_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Silver choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/silver_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Skull choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skull_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spiked choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiked_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Star choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Striped choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Studded choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/studded_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Argyle choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/argyle_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plaid choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Print choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Aqua choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blue choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Brown choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grey choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pink choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "White choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yellow choker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_choker",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neckerchiefs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Checkered neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Striped neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Diagonal-striped neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diagonal-striped_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Two-tone neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gradient neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Multicolored",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Aqua neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blue neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Brown neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grey neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pink neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "White neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yellow neckerchief",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_neckerchief",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Necklaces",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anchor necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anchor_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bead necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bead_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bow necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": false
+    },
+    {
+      "name": "Carrot necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carrot_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chain necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chain_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crescent necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crescent_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cross necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cross_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dice necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dice_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Feather necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feather_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Festoon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/festoon_%28necklace%29",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flower necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lei",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gold necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gold_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heart necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Key necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/key_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lariat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lariat_%28necklace%29",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Leaf necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/leaf_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": false
+    },
+    {
+      "name": "Four-leaf clover necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/four-leaf_clover_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": false
+    },
+    {
+      "name": "Lightning bolt necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lightning_bolt_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Magatama necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/magatama_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pearl necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pearl_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pendant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pendant",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Amulet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/amulet",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Friendship charm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/friendship_charm",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Locket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/locket",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Magatama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/magatama",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pentacle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pentacle",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plastron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plastron_%28necklace%29",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ring necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ring_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Riviere",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/riviere_%28necklace%29",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shoulder necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shoulder_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shell necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shell_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Silver necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/silver_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Skull necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skull_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Snake necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snake_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": false
+    },
+    {
+      "name": "Star necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Station necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/station_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sun necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sun_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": false
+    },
+    {
+      "name": "Tassel necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tassel_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": false
+    },
+    {
+      "name": "Tooth necklace",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tooth_necklace",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Neckties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Aqua necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blue necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Brown necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grey necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pink necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "White necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yellow necktie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_necktie",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scarves",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fringe trim",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fringe_trim",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fur scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fur-trimmed scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur-trimmed_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Floating scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/floating_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sentient scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sentient_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "See-through scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Argyle scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/argyle_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Camouflage scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/camouflage_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Polka dot scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Striped scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Vertical-striped scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vertical-striped_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Torn scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gradient scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gradient_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Multicolored scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Two-tone scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Aqua scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blue scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Brown scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grey scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pink scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "White scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yellow scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_scarf",
+      "category_path": "Neckwear types",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 334,
+  "total_categories": 6,
+  "html_file": "tag_group_neck_and_neckwear.html"
+}

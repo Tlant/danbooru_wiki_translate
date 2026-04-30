@@ -1,0 +1,7573 @@
+{
+  "group_name": "food_tags",
+  "display_name": "Tag group:food tags",
+  "source_url": "/wiki_pages/tag_group%3Afood_tags",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afood_tags",
+  "categories": [
+    {
+      "h4": "About",
+      "h5": null,
+      "path": "About",
+      "tag_count": 229
+    },
+    {
+      "h4": "Breads, grains, and starches",
+      "h5": null,
+      "path": "Breads, grains, and starches",
+      "tag_count": 53
+    },
+    {
+      "h4": "Dairy",
+      "h5": null,
+      "path": "Dairy",
+      "tag_count": 262
+    },
+    {
+      "h4": "Other Snacks",
+      "h5": null,
+      "path": "Other Snacks",
+      "tag_count": 14
+    },
+    {
+      "h4": "Condiments / Garnishes / Spices",
+      "h5": null,
+      "path": "Condiments / Garnishes / Spices",
+      "tag_count": 36
+    },
+    {
+      "h4": "Meal Items / Misc. Tags",
+      "h5": null,
+      "path": "Meal Items / Misc. Tags",
+      "tag_count": 157
+    },
+    {
+      "h4": "Drink / Condiment Containers",
+      "h5": null,
+      "path": "Drink / Condiment Containers",
+      "tag_count": 45
+    },
+    {
+      "h4": "Professions and Establishments",
+      "h5": null,
+      "path": "Professions and Establishments",
+      "tag_count": 39
+    },
+    {
+      "h4": "Actions, Activities, Misc.",
+      "h5": null,
+      "path": "Actions, Activities, Misc.",
+      "tag_count": 42
+    },
+    {
+      "h4": "Utensils and Utilities",
+      "h5": null,
+      "path": "Utensils and Utilities",
+      "tag_count": 92
+    },
+    {
+      "h4": "Food-Related Companies, Brands, &amp; Mascots",
+      "h5": null,
+      "path": "Food-Related Companies, Brands, &amp; Mascots",
+      "tag_count": 75
+    },
+    {
+      "h4": "Sexual Content",
+      "h5": null,
+      "path": "Sexual Content",
+      "tag_count": 14
+    },
+    {
+      "h4": "Food-related Pools",
+      "h5": null,
+      "path": "Food-related Pools",
+      "tag_count": 0
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 10
+    }
+  ],
+  "tags": [
+    {
+      "name": "food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "bad food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bad_food",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Akebia fruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/akebia_fruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apple",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Apple core",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apple_core",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Apple peel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apple_peel",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Apple rabbit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apple_rabbit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bitten apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bitten_apple",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Candy apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/candy_apple",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Golden apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/golden_apple",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_apple",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yellow apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_apple",
+      "category_path": "About",
+      "wiki_exists": false
+    },
+    {
+      "name": "Apricot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apricot_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Avocado",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/avocado",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Banana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/banana",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Banana boat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/banana_boat",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Banana peel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/banana_peel",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Banana popsicle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/banana_popsicle",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Banana slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/banana_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate banana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_banana",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gel banana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gel_banana",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "On banana",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/on_banana",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Berry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/berry",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blackberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blackberry_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blueberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blueberry",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mulberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mulberry",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pineberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pineberry_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Raspberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raspberry",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate strawberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_strawberry",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "White strawberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_strawberry",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Breadfruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breadfruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cacao fruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cacao_fruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cherry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cherry",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chokecherry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chokecherry",
+      "category_path": "About",
+      "wiki_exists": false
+    },
+    {
+      "name": "Chinese lantern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chinese_lantern_%28plant%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Custard apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/custard_apple",
+      "category_path": "About",
+      "wiki_exists": false
+    },
+    {
+      "name": "Date",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/date_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dragon fruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dragon_fruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fig",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fig",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fruit bowl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit_bowl",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fruit as cup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit_as_cup",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gooseberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gooseberry",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grapefruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grapefruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grapes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grapes",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Currant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/currant",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grape stomping",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grape_stomping",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Raisin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raisin_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Guava",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guava_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jackfruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jackfruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Java apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/java_apple",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kiwi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kiwi_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kiwi slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kiwi_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lemon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lemon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lemon slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lemon_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lemonade",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lemonade",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lime",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lime_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lime slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lime_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Longan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/longan",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Loquat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loquat",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lychee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lychee",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mango",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mango",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mangosteen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mangosteen",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Melon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/melon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cantaloupe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cantaloupe",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yuubari King melon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yuubari_king_melon",
+      "category_path": "About",
+      "wiki_exists": false
+    },
+    {
+      "name": "Galia melon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/galia_melon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Honeydew",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honeydew_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Horned melon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/horned_melon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Watermelon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/watermelon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Olive",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/olive",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dekopon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dekopon_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mandarin orange",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mandarin_orange",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orangette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orangette",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange juice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_juice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Papaya",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/papaya",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Passion fruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/passion_fruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Peach",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peach",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Peach slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peach_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pear",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nashi pear",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nashi_pear",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Persimmon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/persimmon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pineapple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pineapple",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pineapple slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pineapple_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plum",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pomegranate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pomegranate",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rambutan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rambutan",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shanzha",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shanzha_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Snakefruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snakefruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Starfruit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/starfruit",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sudachi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sudachi_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tamarind",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tamarind",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Umeboshi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/umeboshi",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yuzu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yuzu_%28fruit%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Vegetable",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vegetable",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Asparagus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asparagus",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bacon-wrapped asparagus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bacon-wrapped_asparagus",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Beans",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beans",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green bean",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_bean",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red bean paste",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_bean_paste",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nattou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nattou",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bell pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bell_pepper",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bell pepper plant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bell_pepper_plant",
+      "category_path": "About",
+      "wiki_exists": false
+    },
+    {
+      "name": "Bell pepper slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bell_pepper_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green bell pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_bell_pepper",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_pepper",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_pepper",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yellow pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_pepper",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bitter melon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bitter_melon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Broccoli",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/broccoli",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cabbage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cabbage",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bok choy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bok_choy",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Carrot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carrot",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Carrot slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carrot_slice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Carrot sticks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carrot_sticks",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cauliflower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cauliflower",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chili pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chili_pepper",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Habanero pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/habanero_pepper",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jalapeno pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jalapeno_pepper",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coconut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coconut",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Corn",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corn",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cucumber",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cucumber",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pickle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pickle",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eggplant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eggplant",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Garlic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/garlic",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kimchi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kimchi",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lettuce",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lettuce",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lotus root",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lotus_root",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mint",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mint",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mushroom",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mushroom",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shiitake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shiitake",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nuts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nut_%28food%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Almond",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/almond",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cashew",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cashew",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chestnut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chestnut",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hazelnut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hazelnut",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Peanut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peanut",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pecan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pecan",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pistachio",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pistachio",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Walnut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/walnut",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Okra",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/okra",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Onion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/onion",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Onion rings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/onion_rings",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Parsley",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parsley",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Peas",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peas",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pea pod",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pea_pod",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Potato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/potato",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mashed potatoes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mashed_potatoes",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Radish",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/radish",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Daikon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/daikon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Seaweed",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/seaweed",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hijiki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hijiki_%28seaweed%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nori",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nori_%28seaweed%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spring onion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spring_onion",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chopped spring onion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chopped_spring_onion",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Squash",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/squash",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pumpkin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pumpkin",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jack-o'-lantern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jack-o%27-lantern",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sweet potato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweet_potato",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Roasted sweet potato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/roasted_sweet_potato",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tomato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tomato",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cherry tomato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cherry_tomato",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tomato plant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tomato_plant",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turnip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turnip",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Warabi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/warabi",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Meat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/meat",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bacon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bacon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Boned meat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boned_meat",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chicken",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chicken_%28food%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chicken leg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chicken_leg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chicken nuggets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chicken_nuggets",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fried chicken",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fried_chicken",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yakitori",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yakitori",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chicken Wing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chicken_wing",
+      "category_path": "About",
+      "wiki_exists": false
+    },
+    {
+      "name": "Crab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crab",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/egg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Broken egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/broken_egg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Egg yolk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/egg_yolk",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eggshell",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eggshell",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eggshell hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eggshell_hat",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fried egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fried_egg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Century egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/century_egg_%28food%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hardboiled egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hardboiled_egg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Softboiled egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/softboiled_egg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Omelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/omelet",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Omurice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/omurice",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tamagoyaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tamagoyaki",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oyakodon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oyakodon_%28food%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scrambled egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scrambled_egg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sliced egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sliced_egg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Raw egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raw_egg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Roe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/roe",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Caviar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caviar",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ikura",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ikura_%28food%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Karashi mentaiko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/karashi_mentaiko",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tamagokake gohan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tamagokake_gohan",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eel",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kabayaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kabayaki",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fish",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fish",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fish skeleton",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fish_skeleton",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sashimi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sashimi",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Katsuo no tataki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/katsuo_no_tataki",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gyuudon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gyuudon",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hamburger steak",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hamburger_steak",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kamaboko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kamaboko",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Katsu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/katsu_%28food%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Katsudon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/katsudon_%28food%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shish kebab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shish_kebab",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lobster",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lobster",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Meatball",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/meatball",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pork",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pork",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ham",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ham",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Raw meat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raw_meat",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tartare",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tartare_%28food%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sausage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sausage",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pepperoni",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pepperoni",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Doner kebab",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doner_kebab",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shrimp",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shrimp",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shrimp tempura",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shrimp_tempura",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sliced meat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sliced_meat",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Steak",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/steak",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tako-san wiener",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tako-san_wiener",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kani-san wiener",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kani-san_wiener",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turkey",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turkey_%28food%29",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Turkey leg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/turkey_leg",
+      "category_path": "About",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bread",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bread",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bagel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bagel",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Baguette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baguette",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Biscuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/biscuit_%28bread%29",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bread bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bread_bun",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bread crust",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bread_crust",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bread eating race",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bread_eating_race",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bread slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bread_slice",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Toast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toast",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "French toast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/french_toast",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pizza toast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pizza_toast",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Croissant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/croissant",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Japari bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/japari_bun",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Loaf of bread",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/loaf_of_bread",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cereal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cereal",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cracker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cracker",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Arare",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arare_%28food%29",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Senbei",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/senbei",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Empanada",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/empanada",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Noodles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/noodles",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Occhahoi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/occhahoi",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pasta",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pasta",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lasagne",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lasagne",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spaghetti",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spaghetti",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black spaghetti",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_spaghetti",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spaghetti and meatballs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spaghetti_and_meatballs",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ramen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ramen",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Instant ramen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/instant_ramen",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jirou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jirou_%28ramen%29",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soba",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soba",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Instant soba",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/instant_soba",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yakisoba",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yakisoba",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Italian (niigata)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/italian_%28niigata%29",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yakisobapan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yakisobapan",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soumen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soumen",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Udon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/udon",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Instant udon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/instant_udon",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kitsune udon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kitsune_udon",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rice",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Curry rice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/curry_rice",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fried rice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fried_rice",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jumeok-bap",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jumeok-bap",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Omurice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/omurice",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Onigiri",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/onigiri",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rice on face",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rice_on_face",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rice paddy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rice_paddy",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rice porridge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rice_porridge",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tamagokake gohan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tamagokake_gohan",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "nanakusa-no-sekku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nanakusa-no-sekku",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Risotto",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/risotto",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Scone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/scone",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shumai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shumai_%28food%29",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Steamed bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/steamed_bun",
+      "category_path": "Breads, grains, and starches",
+      "wiki_exists": true
+    },
+    {
+      "name": "Butter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butter",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cheese",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheese",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blue cheese",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_cheese",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cheesestick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheesestick",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cheese wheel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheese_wheel",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cream cheese",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cream_cheese",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Parmesan cheese",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parmesan_cheese",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sliced cheese",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sliced_cheese",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Smoked cheese",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smoked_cheese",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Swiss cheese",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swiss_cheese",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cream",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cream",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Whipped cream",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whipped_cream",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eggnog",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eggnog",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kefir",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kefir",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milk",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Baby bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baby_bottle",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Condensed milk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/condensed_milk",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate milk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_milk",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milk bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milk_bag",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milk bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milk_bottle",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milk carton",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milk_carton",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milk churn",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milk_churn",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milk mustache",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milk_mustache",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milkshake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milkshake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry milk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_milk",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yakult",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yakult",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yogurt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yogurt",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sweets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweets",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Snacks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snack",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Desserts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dessert",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anmitsu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anmitsu_%28dessert%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mitsumame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mitsumame",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Steamed bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/steamed_bun",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anman",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anman",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Longevity peach bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/longevity_peach_bun",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Momiji manjuu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/momiji_manjuu",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Usagi manjuu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/usagi_manjuu",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Batter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/batter",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bread",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bread",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anpan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anpan",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cinnamon roll",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cinnamon_roll",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hot cross bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hot_cross_bun",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Melon bread",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/melon_bread",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Noppo bread",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/noppo_bread",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pastry box",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pastry_box",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Brownie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brownie_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cosmic brownies",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cosmic_brownies",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Angel food cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/angel_food_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Baumkuchen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baumkuchen",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Birthday cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/birthday_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black forest cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_forest_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bundt cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bundt_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cake batter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cake_batter",
+      "category_path": "Dairy",
+      "wiki_exists": false
+    },
+    {
+      "name": "Cake pop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cake_pop",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Carrot cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/carrot_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Castella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/castella_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Charlotte cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/charlotte_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cheesecake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheesecake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rare cheesecake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rare_cheesecake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate framboise",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_framboise",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chiffon cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chiffon_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cherry blossom chiffon cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cherry_blossom_chiffon_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Christmas cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/christmas_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crepe cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crepe_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cupcake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cupcake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fondant au chocolat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fondant_au_chocolat",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fruitcake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruitcake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Funfetti cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/funfetti_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heart-shaped cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart-shaped_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice cream cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_cream_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jar cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jar_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lava cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lava_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Layer cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/layer_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lemon cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lemon_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Madeleine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/madeleine",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Marble cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marble_cake_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mille-feuille",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mille-feuille",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mont Blanc",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mont_blanc_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Opera cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/opera_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pancake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pancake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pancake stack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pancake_stack",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Souffle pancake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/souffle_pancake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pound cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pound_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rainbow cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rainbow_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red velvet cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_velvet_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shortcake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shortcake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sponge cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sponge_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stollen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stollen",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry shortcake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_shortcake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sweet potato cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweet_potato_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Swiss roll",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swiss_roll",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry Swiss roll",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_swiss_roll",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tiramisu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiramisu",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Upside-down cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/upside-down_cake",
+      "category_path": "Dairy",
+      "wiki_exists": false
+    },
+    {
+      "name": "Wedding cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wedding_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yule log",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yule_log_%28cake%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Candy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/candy",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Candy cane",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/candy_cane",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chitose ame",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chitose_ame",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cigarette candy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cigarette_candy",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Creme egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/creme_egg",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chewing gum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chewing_gum",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gumball",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gumball",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fruit sandwich",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit_sandwich",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jelly bean",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jelly_bean",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kitkat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kitkat",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Konpeitou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/konpeitou",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lollipop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lollipop",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chupa Chups",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chupa_chups",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shaped lollipop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shaped_lollipop",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Swirl lollipop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swirl_lollipop",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "M&amp;M's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/m%26m%27s",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Marble chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marble_chocolate",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nerunerunerune",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nerunerunerune",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pinata",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pinata",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tootsweets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tootsweets",
+      "category_path": "Dairy",
+      "wiki_exists": false
+    },
+    {
+      "name": "Candy apple",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/candy_apple",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cannoli",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cannoli",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Caramel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caramel",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chewing gum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chewing_gum",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Apollo chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apollo_chocolate",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate almond",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_almond",
+      "category_path": "Dairy",
+      "wiki_exists": false
+    },
+    {
+      "name": "Chocolate bar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_bar",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate chip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_chip",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate coin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_coin",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate curls",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_curls",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate egg",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_egg",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate fondue",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_fondue",
+      "category_path": "Dairy",
+      "wiki_exists": false
+    },
+    {
+      "name": "Chocolate fountain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_fountain",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate icing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_icing",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate marquise",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_marquise",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate rabbit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_rabbit",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate strawberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_strawberry",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate syrup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_syrup",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate truffle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_truffle",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dark chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dark_chocolate",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heart-shaped chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart-shaped_chocolate",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kinoko no yama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kinoko_no_yama",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Marble chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marble_chocolate",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Morinaga Chocoball",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/morinaga_chocoball",
+      "category_path": "Dairy",
+      "wiki_exists": false
+    },
+    {
+      "name": "Strawberry chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_chocolate",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Takenoko no sato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/takenoko_no_sato",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "White chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_chocolate",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate bread",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_bread",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Choco pie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choco_pie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Churro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/churro",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cookie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cookie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Checkerboard cookie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkerboard_cookie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate chip cookie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_chip_cookie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Country Ma'am",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/country_ma%27am",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gingerbread cookie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gingerbread_cookie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gingerbread house",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gingerbread_house",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gingerbread man",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gingerbread_man",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pocky",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pocky",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sandwich cookie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sandwich_cookie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oreo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oreo",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Thumbprint cookie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thumbprint_cookie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Toppo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toppo",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wafer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wafer",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wafer stick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wafer_stick",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cotton candy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cotton_candy",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cream",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cream",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bavarois",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bavarois",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Icing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/icing",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate icing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_icing",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mirror glaze",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mirror_glaze",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Whipped cream",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whipped_cream",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crepe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crepe",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Croquembouche",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/croquembouche",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dorayaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dorayaki",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dough",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dough",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Donut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/donut",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate donut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_donut",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "French cruller",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/french_cruller",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sakura french",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sakura_french",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Glazed donut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glazed_donut",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Honey cake donut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honey_cake_donut",
+      "category_path": "Dairy",
+      "wiki_exists": false
+    },
+    {
+      "name": "Jelly donut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jelly_donut_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Old-fashioned donut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/old-fashioned_donut",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Choco fashion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choco_fashion",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pon de Ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pon_de_ring",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pon de Chocolat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pon_de_chocolat",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pon de Strawberry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pon_de_strawberry",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fudge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fudge",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gelatin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gelatin",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice cream",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_cream",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Affogato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/affogato",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Banana split",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/banana_split",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Choco monaka jumbo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choco_monaka_jumbo",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coolish",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coolish",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dondurma",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dondurma_%28ice_cream%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gelato",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gelato",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice cream cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_cream_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice cream cone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_cream_cone",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Waffle cone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waffle_cone",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice cream float",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_cream_float",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice cream sandwich",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_cream_sandwich",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Parfait",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parfait",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry parfait",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_parfait",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Multiple scoops",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_scoops",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Too many scoops",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/too_many_scoops",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soft serve",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soft_serve",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sprinkles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sprinkles",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sundae",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sundae",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Imagawayaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/imagawayaki",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Marshmallow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marshmallow",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mooncake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mooncake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Muffin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/muffin",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Osmanthus cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/osmanthus_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pastry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pastry",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Canele",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/canele",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate cornet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_cornet",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cream cornet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cream_cornet",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cream puff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cream_puff",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eclair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eclair_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Macaron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/macaron",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Maritozzo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maritozzo",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cherry pie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cherry_pie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate pie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_pie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Apple pie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apple_pie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red bean pie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_bean_pie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Popsicle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/popsicle",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Popsicle stick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/popsicle_stick",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tupet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tupet",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Watermelon bar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/watermelon_bar",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pudding",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pudding",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Custard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/custard",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pudding a la mode",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pudding_a_la_mode",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Souffle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/souffle_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shaved ice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shaved_ice",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Slushie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/slushie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tanghulu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tanghulu",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tart_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate tart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_tart",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Egg tart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/egg_tart",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fruit tart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit_tart",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blueberry tart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blueberry_tart",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry tart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_tart",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pumpkin pie",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pumpkin_pie",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Waffle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waffle",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wagashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wagashi",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Castella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/castella_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mochi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mochi",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dango",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dango",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Daifuku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/daifuku",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ichigo daifuku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ichigo_daifuku",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kashiwa mochi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kashiwa_mochi_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Namagashi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/namagashi",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Raindrop cake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/raindrop_cake",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sakura mochi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sakura_mochi",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Songpyeon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/songpyeon",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Suama",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/suama_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Taiyaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/taiyaki",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Uirou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uirou_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Warabimochi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/warabimochi",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Youkan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/youkan_%28food%29",
+      "category_path": "Dairy",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cheese puffs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheese_puffs",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cheese curls",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheese_curls",
+      "category_path": "Other Snacks",
+      "wiki_exists": false
+    },
+    {
+      "name": "Chikuwa",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chikuwa",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chips_%28food%29",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bugles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bugles_%28food%29",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Doritos",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doritos",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Potato chips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/potato_chips",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pringles",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pringles",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "French fries",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/french_fries",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cheese fries",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cheese_fries",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Popcorn",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/popcorn",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pretzel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pretzel",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tohato caramel corn",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tohato_caramel_corn",
+      "category_path": "Other Snacks",
+      "wiki_exists": false
+    },
+    {
+      "name": "Umaibou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/umaibou",
+      "category_path": "Other Snacks",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anise",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anise_%28spice%29",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": false
+    },
+    {
+      "name": "Basil leaf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/basil_leaf",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chopped spring onion",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chopped_spring_onion",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cinnamon stick",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cinnamon_stick",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Clove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/clove",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": false
+    },
+    {
+      "name": "Furikake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/furikake_%28food%29",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ginger root",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ginger_root",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Honey",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honey",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jam",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jam",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Marmalade",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marmalade",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ketchup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ketchup",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mayonnaise",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mayonnaise",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mint",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mint",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mustard",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mustard",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Parsley",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parsley",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Peanut butter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peanut_butter",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pepper (spice)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pepper_%28spice%29",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pepper mill",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pepper_mill",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pepper shaker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pepper_shaker",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red bean paste",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_bean_paste",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rosemary",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rosemary_%28herb%29",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Salt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/salt",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Salt shaker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/salt_shaker",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sauce",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sauce",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bagna cauda",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bagna_cauda",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hot sauce",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hot_sauce",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soy sauce",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soy_sauce",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tomato sauce",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tomato_sauce",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sesame seeds",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sesame_seeds",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Granulated sugar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/granulated_sugar",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sugar cube",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sugar_cube",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Syrup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/syrup",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate syrup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_syrup",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry syrup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_syrup",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wasabi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wasabi",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Zha cai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zha_cai_%28food%29",
+      "category_path": "Condiments / Garnishes / Spices",
+      "wiki_exists": true
+    },
+    {
+      "name": "Canned food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/canned_food",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chinese food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chinese_food",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cooking oil",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cooking_oil",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crumbs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crumbs",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Curry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/curry",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Curry rice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/curry_rice",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dumpling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dumpling",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Croquette",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/croquette",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Har gow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/har_gow",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jiaozi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jiaozi",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shumai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shumai_%28food%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tangyuan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tangyuan",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wonton",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wonton",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Zongzi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zongzi",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "English breakfast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/english_breakfast",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fish and chips",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fish_and_chips",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flour",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flour",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fondue",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fondue",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "French fries",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/french_fries",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "French toast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/french_toast",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Burger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/burger",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Megamac",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/megamac",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tsukimi burger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tsukimi_burger",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hot dog",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hot_dog",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Corn dog",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/corn_dog",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Katsu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/katsu_%28food%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Katsudon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/katsudon_%28food%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Konnyaku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/konnyaku_%28food%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Meal",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/meal",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Breakfast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breakfast",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dim sum",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dim_sum",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dinner",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dinner",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Feast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feast",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lunch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lunch",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bento",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bento",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Okosama lunch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/okosama_lunch",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Osechi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/osechi",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Party",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/party",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Birthday party",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/birthday_party",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tea party",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tea_party",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Steamed bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/steamed_bun",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nabe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nabe",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oden",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oden",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sukiyaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sukiyaki",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Narutomaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/narutomaki",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ochazuke",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ochazuke_%28food%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Okonomiyaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/okonomiyaki",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Omelet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/omelet",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Omurice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/omurice",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tamagoyaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tamagoyaki",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oyakodon (food)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oyakodon_%28food%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pizza",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pizza",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Holding pizza",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_pizza",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pizza box",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pizza_box",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pizza delivery",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pizza_delivery",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pizza slice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pizza_slice",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pizza toast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pizza_toast",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Margherita pizza",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/margherita_pizza",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ribs (food)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribs_%28food%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Salad",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/salad",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Salt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/salt",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Salt shaker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/salt_shaker",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sandwich",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sandwich",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fruit sandwich",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit_sandwich",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shakshuka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shakshuka",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "Soup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soup",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Miso soup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/miso_soup",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Zouni soup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/zouni_soup",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sushi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sushi",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Conveyor belt sushi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/conveyor_belt_sushi",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gunkanmaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gunkanmaki",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Inarizushi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/inarizushi",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Makizushi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/makizushi",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nigirizushi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nigirizushi",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sushi geta",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sushi_geta",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Taco",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/taco",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Takoyaki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/takoyaki",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Takuan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/takuan",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tamagokake gohan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tamagokake_gohan",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tempura",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tempura",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shrimp tempura",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shrimp_tempura",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tofu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tofu",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Aburaage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aburaage",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hiyayakko",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hiyayakko_%28food%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mapo tofu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mapo_tofu",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stinky tofu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stinky_tofu",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tomato sauce",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tomato_sauce",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Twice cooked pork",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/twice_cooked_pork",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Unadon (food)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/unadon_%28food%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Drink",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drink",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Alcohol",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alcohol",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Beer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beer",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Non-alcoholic beer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/non-alcoholic_beer",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Guinness (beer)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/guinness_%28beer%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Champagne",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/champagne",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cocktail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cocktail",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blue Hawaii",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_hawaii",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Caesar (drink)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/caesar_%28drink%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cocktail umbrella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cocktail_umbrella",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Margarita",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/margarita",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Martini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/martini",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mojito",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mojito",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pina colada",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pina_colada",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "White Russian",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_russian_%28drink%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "Gluhwein",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gluhwein",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Liquor",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/liquor",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sake",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soju",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soju",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tequila",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tequila",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Vodka",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vodka",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Whiskey",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whiskey",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wine",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coffee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coffee",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cafe au lait",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cafe_au_lait",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Canned coffee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/canned_coffee",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cappuccino",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cappuccino",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coffee beans",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coffee_beans",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dandelion coffee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dandelion_coffee",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Georgia max coffee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/georgia_max_coffee",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Latte art",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/latte_art",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Starbucks",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/starbucks",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fruit punch (drink)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fruit_punch_%28drink%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "Juice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/juice",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Amazake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/amazake_%28drink%29",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lemonade",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lemonade",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orange juice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_juice",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Strawberry juice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strawberry_juice",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milk",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soda",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soda",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "7UP",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/7up",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Calpis",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/calpis",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coca-Cola",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/coca-cola",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dr Pepper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dr_pepper",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fanta",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fanta",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Melon soda",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/melon_soda",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mountain Dew",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mountain_dew",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pepsi",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pepsi",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pepsi ice cucumber",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pepsi_ice_cucumber",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ramune",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ramune",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Root beer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/root_beer",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soda can",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soda_can",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Barley tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barley_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bubble tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bubble_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chamomile tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chamomile_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Darjeeling tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/darjeeling_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Earl Grey tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/earl_grey_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Green tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Herbal tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/herbal_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Iced tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/iced_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milk tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milk_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rose hip tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rose_hip_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spear mint tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spear_mint_tea",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": false
+    },
+    {
+      "name": "Tropical drink",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tropical_drink",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blue Hawaii",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_hawaii",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Water",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/water",
+      "category_path": "Meal Items / Misc. Tags",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bottle",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ketchup bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ketchup_bottle",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mayonnaise bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mayonnaise_bottle",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mustard bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mustard_bottle",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soda bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soda_bottle",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soy sauce bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soy_sauce_bottle",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Can",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/can",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Condiment packet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/condiment_packet",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cup",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mug",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sakazuki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sakazuki",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yunomi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yunomi",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Drinking glass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drinking_glass",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Champagne coupe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/champagne_coupe",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Champagne flute",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/champagne_flute",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cocktail glass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cocktail_glass",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hurricane glass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hurricane_glass",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shot glass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shot_glass",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Snifter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snifter",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wine glass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wine_glass",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jue",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jue_%28vessel%29",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coffee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coffee",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Disposable coffee cup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/disposable_coffee_cup",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coffee mug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coffee_mug",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coffee pot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coffee_pot",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coffee press",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coffee_press",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gaiwan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gaiwan",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gourd",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gourd",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jar",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jug_%28bottle%29",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Juice box",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/juice_box",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Beer mug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beer_mug",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mamezara",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mamezara",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pepper shaker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pepper_shaker",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Salt shaker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/salt_shaker",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tea",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Canned tea",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/canned_tea",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Saucer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saucer",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Teacup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/teacup",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Teapot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/teapot",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Long spout teapot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_spout_teapot",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Side handle teapot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side_handle_teapot",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tea set",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tea_set",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tea strainer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tea_strainer",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Thermos",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/thermos",
+      "category_path": "Drink / Condiment Containers",
+      "wiki_exists": true
+    },
+    {
+      "name": "Apron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/apron",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Naked apron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_apron",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bakery",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bakery",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Butler",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butler",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chef",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chef",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chef hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chef_hat",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Toque blanche",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toque_blanche",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flat top chef hat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flat_top_chef_hat",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food stand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_stand",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice cream stand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_cream_stand",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yatai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yatai",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kitchen",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kitchen",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Maid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maid",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Restaurant",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/restaurant",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bar",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bar_%28place%29",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bartender",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bartender",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cafe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cafe",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Barista",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barista",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Maid cafe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/maid_cafe",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cafeteria",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cafeteria",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Conveyor belt sushi",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/conveyor_belt_sushi",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Diner",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diner",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fast food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fast_food",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Izakaya",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/izakaya",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food Truck",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_truck",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Menu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/menu",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Angel Mort",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/angel_mort",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Anna Miller",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/anna_miller",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bronze Parrot",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/bronze_parrot",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hooters",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/hooters",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Koubeya",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kobeya_uniform",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yoshinoya",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yoshinoya_%28restaurant%29",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tavern",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tavern",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yakiniku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yakiniku",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Market",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/market",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Supermarket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/supermarket",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Groceries",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/groceries",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Waiter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waiter",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Waitress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/waitress",
+      "category_path": "Professions and Establishments",
+      "wiki_exists": true
+    },
+    {
+      "name": "Breaking pasta",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/breaking_pasta",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cannibalism",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cannibalism",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cooking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cooking",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Baking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baking",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Barbecue",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/barbecue",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate making",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_making",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grilling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grilling",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Roasting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/roasting",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cupping glass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cupping_glass",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dishwashing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dishwashing",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Drinking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drinking",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Drunk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drunk",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jiao bei jiu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jiao_bei_jiu",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eating",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eating",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Eating during class",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/eating_during_class",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Feeding",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feeding",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Force-feeding",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/force-feeding",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Incoming food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/incoming_food",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Flipping food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flipping_food",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food fight",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_fight",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Foodgasm",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/foodgasm",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Full mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/full_mouth",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hanging food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hanging_food",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hungry",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hungry",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hunger hallucination",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hunger_hallucination",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "In food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/in_food",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Licking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/licking",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Picnic",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/picnic",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pouring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pouring",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Decantering",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/decantering",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shop",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shopping",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shopping",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shinkon santaku",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shinkon_santaku",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spill",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spill",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tasting",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tasting",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tea party",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tea_party",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tea ceremony",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tea_ceremony",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Toast in mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toast_in_mouth",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "The Last Supper",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/the_last_supper",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "fine art parody",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fine_art_parody",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Vore",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vore",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Whisking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whisking",
+      "category_path": "Actions, Activities, Misc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Baking sheet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/baking_sheet",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bamboo steamer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bamboo_steamer",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Basket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/basket",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Picnic basket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/picnic_basket",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shopping basket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shopping_basket",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shopping cart",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shopping_cart",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bottle",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Squeeze bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/squeeze_bottle",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bowl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bowl",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plate",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Saucer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/saucer",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sakazuki",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sakazuki",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cake pan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cake_pan",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chopsticks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chopsticks",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chopstick rest",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chopstick_rest",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cocktail flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cocktail_flower",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": false
+    },
+    {
+      "name": "Cocktail umbrella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cocktail_umbrella",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Coffee grinder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coffee_grinder",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cookie cutter",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cookie_cutter",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cutting board",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cutting_board",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dishes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dishes",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Drinking straw",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drinking_straw",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bendy straw",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bendy_straw",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Crazy straw",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crazy_straw",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heart straw",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_straw",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Egg carton",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/egg_carton",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food packaging",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_packaging",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food wrapper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_wrapper",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Fork",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fork",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spork",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spork",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Frying pan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frying_pan",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tamagoyaki pan",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tamagoyaki_pan",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gravy boat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gravy_boat",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Griddle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/griddle",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grill",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grill",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shichirin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shichirin",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Honey dipper",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honey_dipper",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hot plate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hot_plate",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice cream scoop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_cream_scoop_%28utensil%29",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kitchen scale",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kitchen_scale",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Knife",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/knife",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Butter knife",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/butter_knife",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cleaver",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cleaver",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kettle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/kettle",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ladle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ladle",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lunchbox",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lunchbox",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bento",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bento",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Makisu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/makisu",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Measuring cup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/measuring_cup",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mess kit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mess_kit",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Microwave",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/microwave",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Milking machine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/milking_machine",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mini flag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mini_flag",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mixer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mixer_%28cooking%29",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Napkin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/napkin",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oven",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oven",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Brick oven",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brick_oven",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oven mitts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oven_mitts",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pastry bag",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pastry_bag",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Peel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/peel_%28tool%29",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plate",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Holding plate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/holding_plate",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Plate stack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plate_stack",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pot",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Honeypot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/honeypot",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cauldron",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cauldron",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Recipe",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/recipe_%28object%29",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Refrigerator",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/refrigerator",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rice cooker",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rice_cooker",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rolling pin",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rolling_pin",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Serving dome",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/serving_dome",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sink",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sink",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sizzler plate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sizzler_plate",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Soda fountain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/soda_fountain",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spatula",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spatula",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Serving spatula",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/serving_spatula",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spoon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spoon",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shamoji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shamoji",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chinese spoon",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chinese_spoon",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stove",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stove",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sugar bowl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sugar_bowl",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Takeout container",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/takeout_container",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oyster pail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oyster_pail",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Teapot warmer",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/teapot_warmer",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": false
+    },
+    {
+      "name": "Toaster",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toaster",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tongs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tongs",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tray",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tray",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cake stand",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cake_stand",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tiered tray",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tiered_tray",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Utensil rack",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/utensil_rack",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Whisk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/whisk",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wok",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wok",
+      "category_path": "Utensils and Utilities",
+      "wiki_exists": true
+    },
+    {
+      "name": "7-Eleven",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/7-eleven",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "A&amp;W",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/a%26w",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Black Star Burger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_star_burger",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Blake's Lotaburger",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/blake%27s_lotaburger",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": false
+    },
+    {
+      "name": "Boukun Habanero",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/boukun_habanero",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Habanero-tan",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/habanero-tan",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Budweiser",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/budweiser",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Burger King",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/burger_king",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "The King",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/the_king_%28burger_king%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cadbury",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/cadbury",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Carl's Jr.",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/carl%27s_jr.",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Checkers and Rally's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/checkers_and_rally%27s",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": false
+    },
+    {
+      "name": "Coca-Cola",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/coca-cola",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Culver's",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/culver%27s",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Dairy Queen",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/dairy_queen",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Domino's Pizza",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/domino%27s_pizza",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Doritos",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/doritos",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Evian",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/evian",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Good Times Burgers &amp; Frozen Custard",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/good_times_burgers_%26_frozen_custard",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": false
+    },
+    {
+      "name": "Gyouza no Manshuu",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/gyouza_no_manshuu",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Gyu-Kaku",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/gyu-kaku",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Heinz",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/heinz",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hooters",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/hooters",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "In-N-Out Burger",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/in-n-out_burger",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jack in the Box",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/jack_in_the_box_%28restaurant%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jack Box",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/jack_box",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jollibee",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/jollibee",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Jollibee (mascot)",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/jollibee_%28mascot%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Kentucky Fried Chicken",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/kfc",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Colonel Sanders",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/colonel_sanders",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Krispy Kreme",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/krispy_kreme",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lay's",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lay%27s_%28potato_chips%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Little Caesars",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/little_caesars",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Little Caesar",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/little_caesar",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lipton",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lipton",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "McDonald's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mcdonald%27s",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Birdie the Early Bird",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/birdie_the_early_bird",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Grimace",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/grimace_%28mcdonald%27s%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hamburglar",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/hamburglar",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "McNugget Buddy",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/mcnugget_buddy",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ronald McDonald",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/ronald_mcdonald",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Meiji",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/meiji_%28brand%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mister Donut",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mister_donut",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pon de Lion",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/pon_de_lion",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Monster Energy",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/monster_energy",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Morinaga",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/morinaga_%28brand%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mos Burger",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mos_burger",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mountain Dew",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/mountain_dew",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nestle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nestle",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Papa John's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/papa_john%27s",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pepsi",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pepsi",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pizza Hut",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pizza_hut",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cheese-kun",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/cheese-kun",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pocari Sweat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pocari_sweat",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pringles",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/pringles",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Red Bull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_bull",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Smirnoff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/smirnoff_%28vodka%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Snickers",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snickers_%28brand%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sonic's Drive-In",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/sonic%27s_drive-in",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": false
+    },
+    {
+      "name": "Starbucks",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/starbucks",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Starbucks Siren",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/starbucks_siren",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Subway",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/subway_%28company%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Suntory",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/suntory",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "C.C. Lemon",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/c.c._lemon",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Orangina",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/orangina",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tabasco",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tabasco",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Taco Bell",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/taco_bell",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tecate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tecate",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Tim Hortons",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tim_hortons",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Toblerone",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/toblerone",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "UCC Coffee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ucc_coffee",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wendy's",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/wendy%27s",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wendy",
+      "tag_type": 4,
+      "wiki_url": "/wiki_pages/wendy_%28wendy%27s%29",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Whataburger",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/whataburger",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Yebisu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yebisu",
+      "category_path": "Food-Related Companies, Brands, &amp; Mascots",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cum on food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cum_on_food",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food on body",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_on_body",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bust cup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bust_cup",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate on body",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_on_body",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate on breasts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_on_breasts",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Naked chocolate",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/naked_chocolate",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cream on body",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cream_on_body",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food as clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_as_clothes",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Chocolate clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chocolate_clothes",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food between breasts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_between_breasts",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food on breasts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_on_breasts",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nyotaimori",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nyotaimori",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Nantaimori",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nantaimori",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wakamezake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wakamezake",
+      "category_path": "Sexual Content",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bad food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bad_food",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "Character-themed food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/character-themed_food",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "Creature as food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/creature_as_food",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food focus",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food_focus",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food-themed clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food-themed_clothes",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food-themed hair ornament",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/food-themed_hair_ornament",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "Food Girls",
+      "tag_type": 3,
+      "wiki_url": "/wiki_pages/food_girls",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "Oversized food",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oversized_food",
+      "category_path": "See also",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sexually suggestive",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sexually_suggestive",
+      "category_path": "See also",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 1068,
+  "total_categories": 14,
+  "html_file": "tag_group_food_tags.html"
+}

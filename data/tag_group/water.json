@@ -1,0 +1,444 @@
+{
+  "group_name": "water",
+  "display_name": "Tag group:water",
+  "source_url": "/wiki_pages/tag_group%3Awater",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Awater",
+  "categories": [
+    {
+      "h4": "Water",
+      "h5": null,
+      "path": "Water",
+      "tag_count": 2
+    },
+    {
+      "h4": "Wet",
+      "h5": null,
+      "path": "Wet",
+      "tag_count": 10
+    },
+    {
+      "h4": "Ice",
+      "h5": null,
+      "path": "Ice",
+      "tag_count": 3
+    },
+    {
+      "h4": "Steam",
+      "h5": null,
+      "path": "Steam",
+      "tag_count": 1
+    },
+    {
+      "h4": "Geography",
+      "h5": "Bodies of water",
+      "path": "Geography/Bodies of water",
+      "tag_count": 4
+    },
+    {
+      "h4": "Geography",
+      "h5": "Related landforms",
+      "path": "Geography/Related landforms",
+      "tag_count": 2
+    },
+    {
+      "h4": "Meteorology",
+      "h5": null,
+      "path": "Meteorology",
+      "tag_count": 2
+    },
+    {
+      "h4": "Clothes",
+      "h5": null,
+      "path": "Clothes",
+      "tag_count": 3
+    },
+    {
+      "h4": "Vehicles",
+      "h5": null,
+      "path": "Vehicles",
+      "tag_count": 6
+    },
+    {
+      "h4": "Misc / Actions, Objects, Containers, Etc.",
+      "h5": null,
+      "path": "Misc / Actions, Objects, Containers, Etc.",
+      "tag_count": 20
+    }
+  ],
+  "tags": [
+    {
+      "name": "Water",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/water",
+      "category_path": "Water",
+      "wiki_exists": true
+    },
+    {
+      "name": "Underwater",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/underwater",
+      "category_path": "Water",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet clothes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_clothes",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_dress",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_skirt",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_shirt",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet shirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_shirt",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet panties",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_panties",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_swimsuit",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet towel",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_towel",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wet hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_hair",
+      "category_path": "Wet",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice",
+      "category_path": "Ice",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice sculpture",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_sculpture",
+      "category_path": "Ice",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ice flower",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ice_flower",
+      "category_path": "Ice",
+      "wiki_exists": false
+    },
+    {
+      "name": "Steam",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/steam",
+      "category_path": "Steam",
+      "wiki_exists": true
+    },
+    {
+      "name": "Lake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lake",
+      "category_path": "Geography/Bodies of water",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ocean",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ocean",
+      "category_path": "Geography/Bodies of water",
+      "wiki_exists": true
+    },
+    {
+      "name": "River",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/river",
+      "category_path": "Geography/Bodies of water",
+      "wiki_exists": true
+    },
+    {
+      "name": "Stream",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/stream",
+      "category_path": "Geography/Bodies of water",
+      "wiki_exists": true
+    },
+    {
+      "name": "Beach",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beach",
+      "category_path": "Geography/Related landforms",
+      "wiki_exists": true
+    },
+    {
+      "name": "Island",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/island",
+      "category_path": "Geography/Related landforms",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rain",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rain",
+      "category_path": "Meteorology",
+      "wiki_exists": true
+    },
+    {
+      "name": "Snow",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/snow",
+      "category_path": "Meteorology",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bikini",
+      "category_path": "Clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Goggles",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/goggles",
+      "category_path": "Clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Swimsuit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swimsuit",
+      "category_path": "Clothes",
+      "wiki_exists": true
+    },
+    {
+      "name": "Boat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/boat",
+      "category_path": "Vehicles",
+      "wiki_exists": true
+    },
+    {
+      "name": "Rowboat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rowboat",
+      "category_path": "Vehicles",
+      "wiki_exists": true
+    },
+    {
+      "name": "Sailboat",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailboat",
+      "category_path": "Vehicles",
+      "wiki_exists": true
+    },
+    {
+      "name": "Ship",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ship",
+      "category_path": "Vehicles",
+      "wiki_exists": true
+    },
+    {
+      "name": "Battleship",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/battleship",
+      "category_path": "Vehicles",
+      "wiki_exists": true
+    },
+    {
+      "name": "Submarine",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/submarine",
+      "category_path": "Vehicles",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bath",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bath",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bathtub",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bathtub",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mixed-sex bathing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mixed-sex_bathing",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Drinking",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drinking",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Freediving",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/freediving",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Hydrokinesis",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hydrokinesis",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Pool",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pool",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Poolside",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/poolside",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Glass",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glass",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Bottle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bottle",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Cup",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cup",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Mug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mug",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Shower (place)",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shower_%28place%29",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Showering",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/showering",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Spilling",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spilling",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Splashing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/splashing",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Swimming",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swimming",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Umbrella",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/umbrella",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Wading",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wading",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    },
+    {
+      "name": "Washing",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/washing",
+      "category_path": "Misc / Actions, Objects, Containers, Etc.",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 53,
+  "total_categories": 10,
+  "html_file": "tag_group_water.html"
+}

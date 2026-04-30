@@ -1,0 +1,667 @@
+{
+  "group_name": "dress",
+  "display_name": "Tag group:dress",
+  "source_url": "/wiki_pages/tag_group%3Adress",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Adress",
+  "categories": [
+    {
+      "h4": "Main",
+      "h5": null,
+      "path": "Main",
+      "tag_count": 1
+    },
+    {
+      "h4": "Misc / Actions",
+      "h5": null,
+      "path": "Misc / Actions",
+      "tag_count": 10
+    },
+    {
+      "h4": "Appearance and models of dresses",
+      "h5": null,
+      "path": "Appearance and models of dresses",
+      "tag_count": 79
+    },
+    {
+      "h4": "See also",
+      "h5": null,
+      "path": "See also",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "Dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress",
+      "category_path": "Main",
+      "wiki_exists": true
+    },
+    {
+      "name": "dress flip",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_flip",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "grabbing another's dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grabbing_another%27s_dress",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "dress lift",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_lift",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "dress pull",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_pull",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "dress tug",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dress_tug",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "open dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/open_dress",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "skirt basket",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/skirt_basket",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "tied dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tied_dress",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "torn dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/torn_dress",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "wet dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wet_dress",
+      "category_path": "Misc / Actions",
+      "wiki_exists": true
+    },
+    {
+      "name": "aqua dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/aqua_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "black dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/black_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "blue dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blue_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "brown dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/brown_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "green dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/green_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "grey dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/grey_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "orange dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/orange_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "pink dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pink_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "purple dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/purple_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "red dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/red_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "white dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/white_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "yellow dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yellow_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "multicolored dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multicolored_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "two-tone dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-tone_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "two-sided dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two-sided_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "argyle dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/argyle_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "checkered dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/checkered_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "flag dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flag_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "plaid dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plaid_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "polka dot dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/polka_dot_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "print dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/print_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "striped dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/striped_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "vertical-striped dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/vertical-striped_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "pinstripe dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pinstripe_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "long dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "medium dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/medium_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "short dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "microdress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/microdress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "armored dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/armored_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "backless dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/backless_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "crinoline",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crinoline",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "collared dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/collared_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "frilled dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/frilled_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "fur-trimmed dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fur-trimmed_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "glitter dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/glitter_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "half-dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/half-dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": false
+    },
+    {
+      "name": "halter dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/halter_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "highleg dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/highleg_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "high-low skirt",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high-low_skirt",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "hobble dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hobble_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "impossible dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/impossible_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "lace-trimmed dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lace-trimmed_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "latex dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/latex_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "layered dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/layered_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "off-shoulder dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/off-shoulder_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "pleated dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pleated_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "plunging neckline",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/plunging_neckline",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "ribbed dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbed_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "ribbon-trimmed dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ribbon-trimmed_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "side slit",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side_slit",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "taut dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/taut_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "see-through dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/see-through_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "sleeveless dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sleeveless_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "strapless dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/strapless_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "cake dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cake_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "china dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/china_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "coat dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/coat_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "cocktail dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cocktail_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "denim dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/denim_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "dirndl",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dirndl",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "evening gown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/evening_gown",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "flowing dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flowing_dress_%28dq%29",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "funeral dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/funeral_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "gown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/gown",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "mermaid dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mermaid_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "negligee",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/negligee",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "nightgown",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nightgown",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "pencil dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pencil_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "pinafore dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pinafore_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "sailor dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sailor_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "santa dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/santa_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "sundress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sundress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "sweater dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sweater_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "tennis dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tennis_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "tent dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tent_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "trapeze dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/trapeze_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "tube dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tube_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "ao dai",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ao_dai",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    },
+    {
+      "name": "wedding dress",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wedding_dress",
+      "category_path": "Appearance and models of dresses",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 90,
+  "total_categories": 4,
+  "html_file": "tag_group_dress.html"
+}

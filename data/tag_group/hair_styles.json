@@ -1,0 +1,1312 @@
+{
+  "group_name": "hair_styles",
+  "display_name": "Tag group:hair styles",
+  "source_url": "/wiki_pages/tag_group%3Ahair_styles",
+  "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles",
+  "categories": [
+    {
+      "h4": "Length and volume",
+      "h5": null,
+      "path": "Length and volume",
+      "tag_count": 10
+    },
+    {
+      "h4": "Hairstyles",
+      "h5": null,
+      "path": "Hairstyles",
+      "tag_count": 173
+    },
+    {
+      "h4": "Related tag groups",
+      "h5": null,
+      "path": "Related tag groups",
+      "tag_count": 0
+    }
+  ],
+  "tags": [
+    {
+      "name": "very short hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/very_short_hair",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "short hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_hair",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "medium hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/medium_hair",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "long hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_hair",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "very long hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/very_long_hair",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "absurdly long hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/absurdly_long_hair",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "big hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/big_hair",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "bald",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bald",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "bald female",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bald_female",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "balding",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/balding",
+      "category_path": "Length and volume",
+      "wiki_exists": true
+    },
+    {
+      "name": "buzz cut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/buzz_cut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "crew cut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crew_cut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "pixie cut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pixie_cut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "bob cut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bob_cut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "inverted bob",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/inverted_bob",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "bob cut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bob_cut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "bowl cut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bowl_cut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "undercut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/undercut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "flattop",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flattop",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "short hair with long locks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_hair_with_long_locks",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "wolf cut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wolf_cut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hime cut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hime_cut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "jellyfish cut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/jellyfish_cut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "mullet",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mullet",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "braided bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/braided_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "front braid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/front_braid",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "side braid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side_braid",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "crown braid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crown_braid",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "half crown braid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/half_crown_braid",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "braided hair rings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/braided_hair_rings",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "single braid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_braid",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "multiple braids",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multiple_braids",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "twin braids",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/twin_braids",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "low twin braids",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/low_twin_braids",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "tri braids",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tri_braids",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "quad braids",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quad_braids",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "rope braid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rope_braid",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "cornrows",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cornrows",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "dreadlocks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/dreadlocks",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "braided dreadlocks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/braided_dreadlocks",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "box braids",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/box_braids",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "low-braided long hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/low-braided_long_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "half up braid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/half_up_braid",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "half up half down braid",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/half_up_half_down_braid",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "braided bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/braided_bun",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "bun with braided base",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bun_with_braided_base",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "bantu knots",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bantu_knots",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "single hair bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_hair_bun",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "double bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double_bun",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "cone hair bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/cone_hair_bun",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "donut hair bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/donut_hair_bun",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart hair bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_hair_bun",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "triple bun",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/triple_bun",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair rings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_rings",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "feixianji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/feixianji_%28hairstyle%29",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "katsuyamamage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/katsuyamamage",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "nihongami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nihongami",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "single hair ring",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_hair_ring",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "tri hair rings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tri_hair_rings",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "quad hair rings",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quad_hair_rings",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "half updo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/half_updo",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "one side up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/one_side_up",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "two side up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/two_side_up",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "low-tied long hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/low-tied_long_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "multi-tied hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/multi-tied_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "folded ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/folded_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "front ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/front_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "high ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "low ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/low_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "short ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "side ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/side_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "high side ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/high_side_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "low side ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/low_side_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "short side ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_side_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "split ponytail",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/split_ponytail",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "topknot",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/topknot",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "chonmage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chonmage",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "sangtu",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sangtu",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "chasenmage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/chasenmage",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "twintails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/twintails",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "low twintails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/low_twintails",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "short twintails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_twintails",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "uneven twintails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/uneven_twintails",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "tri tails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tri_tails",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "quad tails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quad_tails",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "quin tails",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quin_tails",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "bow-shaped hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow-shaped_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "bow_shimada",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bow_shimada",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "nihongami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nihongami",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "shuangyaji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shuangyaji",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "danyaji",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/danyaji",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "four leaf clover hairstyle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/four_leaf_clover_hairstyle",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "rabbit hairstyle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/rabbit_hairstyle",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "flower-shaped hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flower-shaped_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "fukumage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fukumage",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "nihongami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nihongami",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "karawamage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/karawamage",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "nihongami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nihongami",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "marumage",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/marumage",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "nihongami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nihongami",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "yuiwata",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/yuiwata",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "nihongami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nihongami",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "mizura",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mizura",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "nihongami",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/nihongami",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "star-shaped hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/star-shaped_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "afro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/afro",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "huge afro",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/huge_afro",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "beehive hairdo",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/beehive_hairdo",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "crested hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crested_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "liangbatou",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/liangbatou",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "pompadour",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pompadour",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "quiff",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quiff",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "shouten pegasus mix mori",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/shouten_pegasus_mix_mori",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "curly hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/curly_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "flipped hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/flipped_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "drill hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drill_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "twin drills",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/twin_drills",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "tri drills",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/tri_drills",
+      "category_path": "Hairstyles",
+      "wiki_exists": false
+    },
+    {
+      "name": "single drill",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_drill",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "quad drills",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/quad_drills",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair flaps",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_flaps",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "messy hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/messy_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "pointy hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/pointy_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "ringlets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ringlets",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "spiked hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/spiked_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "straight hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/straight_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "wavy hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wavy_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "fluffy hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fluffy_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "arched bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/arched_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "asymmetrical bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asymmetrical_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "bangs pinned back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/bangs_pinned_back",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "blunt bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blunt_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "center-flap bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/center-flap_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "crossed bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/crossed_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "wispy bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/wispy_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "choppy bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/choppy_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "diagonal bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/diagonal_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "fanged bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/fanged_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "short bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/short_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "long bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/long_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair between eyes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_between_eyes",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair over one eye",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_over_one_eye",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair over eyes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_over_eyes",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "parted bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parted_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "double-parted bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/double-parted_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "curtained hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/curtained_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "swept bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/swept_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "colored bangs",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/colored_bangs",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair intakes",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_intakes",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "single hair intake",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_hair_intake",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "sidelocks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sidelocks",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "asymmetrical sidelocks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asymmetrical_sidelocks",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "drill sidelocks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/drill_sidelocks",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "low-tied sidelocks",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/low-tied_sidelocks",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "sidelocks tied back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sidelocks_tied_back",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "single sidelock",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/single_sidelock",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "widow's peak",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/widow%27s_peak",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "ahoge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/ahoge",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart ahoge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_ahoge",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "huge ahoge",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/huge_ahoge",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "antenna hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/antenna_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "heart antenna hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/heart_antenna_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "comb over",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/comb_over",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair pulled back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_pulled_back",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair slicked back",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_slicked_back",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "parted hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/parted_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "mohawk",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/mohawk",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "oseledets",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/oseledets",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "lone nape hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/lone_nape_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair bikini",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_bikini",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "convenient hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/convenient_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair in own mouth",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_in_own_mouth",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair over breasts",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_over_breasts",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair over one breast",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_over_one_breast",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair over crotch",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_over_crotch",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair over shoulder",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_over_shoulder",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair scarf",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_scarf",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "alternate hairstyle",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/alternate_hairstyle",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair down",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_down",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "hair up",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/hair_up",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "asymmetrical hair",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/asymmetrical_hair",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "sidecut",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/sidecut",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    },
+    {
+      "name": "blunt ends",
+      "tag_type": 0,
+      "wiki_url": "/wiki_pages/blunt_ends",
+      "category_path": "Hairstyles",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 183,
+  "total_categories": 3,
+  "html_file": "tag_group_hair_styles.html"
+}
